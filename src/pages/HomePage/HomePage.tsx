@@ -91,7 +91,7 @@ export function HomePage() {
             <Grid item md={4} xs={12}>
               {renderCard({
                 name: "Fari RPGs",
-                description: "TTRPGs for everyone.",
+                description: "Fun TTRPGs for everyone.",
                 image: "https://gyazo.com/e2589ba581d6906ce730916d325875e8.png",
                 imageBackground: "#ebeef2",
                 link: "https://farigames.itch.io/",
