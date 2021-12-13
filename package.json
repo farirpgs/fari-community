@@ -1,0 +1,50 @@
+{
+  "name": "fari-community",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "^16.2.0"
+  },
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "validate": "npm run lint && npm run tsc",
+    "serve": "vite build && vite preview",
+    "lint": "eslint 'src/**' --cache",
+    "preview": "npm run deploy:preview",
+    "beta": "npm run build && npm run deploy:preview -- --alias beta",
+    "alpha": "npm run build && npm run deploy:preview -- --alias alpha",
+    "prod": "npm run build && npm run deploy:preview -- --prod",
+    "deploy:preview": "netlify deploy --site b106e8c1-1ca6-4da3-84d7-d06d7fe1ec68",
+    "deploy:prod": "netlify deploy --site b106e8c1-1ca6-4da3-84d7-d06d7fe1ec68 --prod",
+    "tsc": "tsc --project tsconfig.json --incremental --noEmit"
+  },
+  "dependencies": {
+    "@emotion/css": "^11.1.3",
+    "@mui/icons-material": "^5.0.0",
+    "@mui/material": "^5.0.0",
+    "netlify-cli": "^6.4.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-helmet-async": "^1.0.9",
+    "react-router-dom": "^5.2.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react-dom": "^17.0.9",
+    "@types/react-router-dom": "^5.1.8",
+    "@types/react-slick": "^0.23.4",
+    "@typescript-eslint/eslint-plugin": "^4.30.0",
+    "@typescript-eslint/parser": "^4.30.0",
+    "@vitejs/plugin-legacy": "^1.5.1",
+    "@vitejs/plugin-react": "^1.1.1",
+    "eslint": "^7.27.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-react": "^7.23.2",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "typescript": "^4.4.2",
+    "vite": "^2.5.0"
+  }
+}
