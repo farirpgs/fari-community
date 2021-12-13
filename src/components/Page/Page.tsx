@@ -15,10 +15,8 @@ export function Page(props: {
   const location = useLocation();
   const title = props.title
     ? `${props.title} - Fari Games`
-    : "Fari Games - Building RPGs Together";
-  const description =
-    props.description ||
-    "All the best TTRPG SRDs available right here on Fari Games.";
+    : "Fari | The Open TTRPG Community";
+  const description = props.description || "...";
   const image =
     props.image || "https://gyazo.com/a8c7b185f1d5ee45e915830b7c876efc.png";
   return (
@@ -43,7 +41,7 @@ export function Page(props: {
           },
           {
             property: "og:url",
-            content: `https://fari.games${location.pathname}`,
+            content: `https://fari.community${location.pathname}`,
           },
           {
             name: "twitter:card",

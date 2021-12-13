@@ -3,7 +3,6 @@ import Box from "@mui/material/Box";
 import Container from "@mui/material/Container";
 import Grid from "@mui/material/Grid";
 import Typography from "@mui/material/Typography";
-import { textAlign } from "@mui/system";
 import React from "react";
 import { Page } from "../../components/Page/Page";
 
@@ -18,19 +17,22 @@ const Sponsors: Array<{ image: string; name: string; link: string }> = [
 export function HomePage() {
   return (
     <>
-      <Page title={null} description={null} 
+      <Page
+        title={null}
+        description={null}
         container={{
           maxWidth: "lg",
         }}
-      box={{
-        mt:"2rem"
-      }}>
-          <Typography variant="h1" component="h1" gutterBottom align="center">
-            Fari Community
-          </Typography>
-          <Typography variant="h2" component="h2" gutterBottom align="center">
-            The Open TTRPG Community
-          </Typography>
+        box={{
+          mt: "2rem",
+        }}
+      >
+        <Typography variant="h1" component="h1" gutterBottom align="center">
+          Fari
+        </Typography>
+        <Typography variant="h2" component="h2" gutterBottom align="center">
+          The Open TTRPG Community
+        </Typography>
       </Page>
     </>
   );

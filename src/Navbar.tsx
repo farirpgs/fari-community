@@ -2,11 +2,8 @@ import { css } from "@emotion/css";
 import ComputerIcon from "@mui/icons-material/Computer";
 import DarkModeIcon from "@mui/icons-material/DarkMode";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
-import ForumIcon from "@mui/icons-material/Forum";
-import GitHubIcon from "@mui/icons-material/GitHub";
 import LightModeIcon from "@mui/icons-material/LightMode";
 import MenuIcon from "@mui/icons-material/Menu";
-import ThumbUpIcon from "@mui/icons-material/ThumbUp";
 import Box from "@mui/material/Box";
 import Button from "@mui/material/Button";
 import Collapse from "@mui/material/Collapse";
@@ -210,7 +207,7 @@ export function Navbar() {
               setMenuOpen(false);
             }}
             target="_blank"
-            to={{ pathname: "https://fari.Games" }}
+            to={{ pathname: "https://fari.games" }}
           >
             Fari Games
           </NavLink>
