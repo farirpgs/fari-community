@@ -54,9 +54,11 @@ export function HomePage() {
             </Grid>
           </Grid>
 
-          <Typography variant="h2" component="h2" gutterBottom align="center">
-            The Open TTRPG Community
-          </Typography>
+          <Box mt="1rem">
+            <Typography variant="h3" component="h2" gutterBottom align="center">
+              The Open TTRPG Community
+            </Typography>
+          </Box>
         </Box>
 
         <Box
@@ -64,12 +66,13 @@ export function HomePage() {
             marginTop: "4rem",
           }}
         >
-          <Grid container spacing={3}>
+          <Grid container spacing={3} justifyContent="center">
             <Grid item md={4} xs={12}>
               {renderCard({
                 name: "Fari App",
                 description: "The Free and Open-Source Virtual Tabletop.",
-                image: "https://fari.app/assets/images/fari-app-logo.png",
+                image: "https://gyazo.com/aab8da9319857cc063bd932141e6a924.png",
+                imageBackground: "#2c416e",
                 link: "https://fari.app",
                 cta: "Play for Free",
               })}
@@ -78,9 +81,21 @@ export function HomePage() {
               {renderCard({
                 name: "Fari Games",
                 description: "The Ultimate Collection of Open Licensed SRDs.",
-                image: "https://fari.app/assets/images/fari-app-logo.png",
+                image: "https://gyazo.com/d21713f0cfce917a0f18b46e84f16a33.png",
+                imageBackground: "#ebeef2",
                 link: "https://fari.games",
                 cta: "Read the SRDs",
+              })}
+            </Grid>
+
+            <Grid item md={4} xs={12}>
+              {renderCard({
+                name: "Fari RPGs",
+                description: "TTRPGs for everyone.",
+                image: "https://gyazo.com/e2589ba581d6906ce730916d325875e8.png",
+                imageBackground: "#ebeef2",
+                link: "https://farigames.itch.io/",
+                cta: "Read now",
               })}
             </Grid>
             <Grid item md={4} xs={12}>
@@ -88,7 +103,8 @@ export function HomePage() {
                 name: "Discord Server",
                 description:
                   "Come and talk with awesome people on Fari's Discord Server.",
-                image: "https://fari.app/assets/images/fari-app-logo.png",
+                image: "https://gyazo.com/2d70fdabbf5e70cd7783decfde2983bd.png",
+                imageBackground: "#5766f2",
                 link: "/discord",
                 cta: "Join the Discord",
               })}
@@ -103,6 +119,7 @@ export function HomePage() {
     name: string;
     description: string;
     image: string;
+    imageBackground: string;
     cta: string;
     link: string;
   }) {
@@ -117,9 +134,10 @@ export function HomePage() {
       >
         <CardMedia
           component="img"
-          height="140"
+          height="300"
           sx={{
-            display: "none",
+            objectFit: "contain",
+            backgroundColor: renderProps.imageBackground,
           }}
           image={renderProps.image}
           alt={renderProps.name}
@@ -137,14 +155,20 @@ export function HomePage() {
           </Typography>
         </CardContent>
         <CardActions>
-          <Button
-            size="small"
-            component="a"
-            href={renderProps.link}
-            color="secondary"
-          >
-            {renderProps.cta}
-          </Button>
+          <Grid container justifyContent="flex-end">
+            <Grid item>
+              <Button
+                size="large"
+                component="a"
+                href={renderProps.link}
+                target="_blank"
+                rel="noopener noreferrer"
+                color="secondary"
+              >
+                {renderProps.cta}
+              </Button>
+            </Grid>
+          </Grid>
         </CardActions>
       </Card>
     );
