@@ -63,8 +63,15 @@ function App() {
                 >
                   <Switch>
                     <Route exact path="/" component={HomePage} />
+                    <Route
+                      exact
+                      path={"/discord"}
+                      render={() => {
+                        window.location.href = "https://discord.gg/vMAJFjUraA";
+                        return null;
+                      }}
+                    />
 
-                 
                     <Route
                       path="*"
                       render={() => {
@@ -83,7 +90,6 @@ function App() {
     </>
   );
 }
-
 
 ReactDom.render(
   <AppProviders>
