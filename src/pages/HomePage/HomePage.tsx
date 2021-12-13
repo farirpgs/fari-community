@@ -74,7 +74,7 @@ export function HomePage() {
                 image: "https://gyazo.com/aab8da9319857cc063bd932141e6a924.png",
                 imageBackground: "#2c416e",
                 link: "https://fari.app",
-                cta: "Play for Free",
+                cta: "Play Online For Free",
               })}
             </Grid>
             <Grid item md={4} xs={12}>
@@ -95,7 +95,7 @@ export function HomePage() {
                 image: "https://gyazo.com/e2589ba581d6906ce730916d325875e8.png",
                 imageBackground: "#ebeef2",
                 link: "https://farigames.itch.io/",
-                cta: "Read now",
+                cta: "Check Out Our Games",
               })}
             </Grid>
             <Grid item md={4} xs={12}>
