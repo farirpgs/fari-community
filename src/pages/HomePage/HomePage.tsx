@@ -71,7 +71,7 @@ export function HomePage() {
               {renderCard({
                 name: "Fari App",
                 description: "The Free and Open-Source Virtual Tabletop.",
-                image: "https://gyazo.com/aab8da9319857cc063bd932141e6a924.png",
+                image: "https://gyazo.com/ec1b9424e25afd136e632f1a43c0f0c2.png",
                 imageBackground: "#2c416e",
                 link: "https://fari.app",
                 cta: "Play Online For Free",
@@ -81,7 +81,7 @@ export function HomePage() {
               {renderCard({
                 name: "Fari Games",
                 description: "The Ultimate Collection of Open Licensed SRDs.",
-                image: "https://gyazo.com/d21713f0cfce917a0f18b46e84f16a33.png",
+                image: "https://gyazo.com/7fe7b2e05e4de66482e18f45979de795.png",
                 imageBackground: "#ebeef2",
                 link: "https://fari.games",
                 cta: "Read the SRDs",
@@ -92,7 +92,7 @@ export function HomePage() {
               {renderCard({
                 name: "Fari RPGs",
                 description: "Fun TTRPGs for everyone.",
-                image: "https://gyazo.com/e2589ba581d6906ce730916d325875e8.png",
+                image: "https://gyazo.com/abc94cad346d82fdb0f775ce7e396703.png",
                 imageBackground: "#ebeef2",
                 link: "https://farigames.itch.io/",
                 cta: "Check Out Our Games",
@@ -103,7 +103,7 @@ export function HomePage() {
                 name: "Discord Server",
                 description:
                   "Come and talk with awesome people on Fari's Discord Server.",
-                image: "https://gyazo.com/2d70fdabbf5e70cd7783decfde2983bd.png",
+                image: "https://gyazo.com/00e26c4f46e487a1e434a94bf152f10f.png",
                 imageBackground: "#5766f2",
                 link: "/discord",
                 cta: "Join the Discord",
