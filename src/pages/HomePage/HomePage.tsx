@@ -80,8 +80,9 @@ export function HomePage() {
             <Grid item md={4} xs={12}>
               {renderCard({
                 name: "Fari Games",
-                description: "The Ultimate Collection of Open Licensed SRDs.",
-                image: "https://gyazo.com/7fe7b2e05e4de66482e18f45979de795.png",
+                description:
+                  "The Ultimate Collection of Open Content for TTRPGs.",
+                image: "https://gyazo.com/6027c87673b921bb45ad49c65b3fa9f7.png",
                 imageBackground: "#ebeef2",
                 link: "https://fari.games",
                 cta: "Read the SRDs",
