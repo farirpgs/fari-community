@@ -1,6 +1,6 @@
 # Fari Community
 
-Home of the https://fari-community website
+Home of the https://fari.community website
 
 # Getting Started
 
