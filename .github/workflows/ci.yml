@@ -49,17 +49,18 @@ jobs:
   deploy-preview:
     needs: [build]
     runs-on: ubuntu-latest
-    if: github.repository == 'fariapp/fari-community' && github.ref != 'refs/heads/main'
+    if: github.repository == 'fariapp/fari-games' && github.ref != 'refs/heads/main'
     environment:
       name: Preview
-      url: https://${{github.run_id}}--fari-community.netlify.app
+      url: https://${{github.run_id}}--fari-games.netlify.app
     steps:
       # Setup
       - uses: actions/checkout@v2
-      - name: Use Node.js 12.x
-        uses: actions/setup-node@v1
+      # Use Node
+      - name: Use Node
+        uses: actions/setup-node@v2
         with:
-          node-version: 12.x
+          node-version: "16"
       # Cache
       - uses: actions/cache@v2
         with:
@@ -82,17 +83,18 @@ jobs:
   deploy-production:
     needs: [build]
     runs-on: ubuntu-latest
-    if: github.repository == 'fariapp/fari-community' && github.ref == 'refs/heads/main'
+    if: github.repository == 'fariapp/fari-games' && github.ref == 'refs/heads/main'
     environment:
       name: Production
       url: https://fari.app
     steps:
       # Setup
       - uses: actions/checkout@v2
-      - name: Use Node.js 12.x
-        uses: actions/setup-node@v1
+      # Use Node
+      - name: Use Node
+        uses: actions/setup-node@v2
         with:
-          node-version: 12.x
+          node-version: "16"
       # Cache
       - name: Cache
         uses: actions/cache@v2
