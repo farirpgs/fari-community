@@ -103,41 +103,46 @@ export function Navbar() {
               </Link>
             </Grid>
 
-            {shouldRenderMobileMenu
-              ? renderMobileDrawer()
-              : renderMenuGridItems()}
-            {shouldRenderMobileMenu && (
-              <Grid item>
-                <IconButton
-                  color="inherit"
-                  sx={{ padding: "0" }}
-                  size="large"
-                  onClick={() => {
-                    setMenuOpen(true);
-                  }}
-                >
-                  <MenuIcon />
-                </IconButton>
-              </Grid>
-            )}
-          </Grid>
+            {renderMobileDrawer()}
+            {renderMenuGridItems()}
 
-          {!shouldRenderMobileMenu && (
-            <Grid item>
-              <Tooltip title="Use Theme from System Preferences">
-                <IconButton
-                  sx={{ color: "inherit" }}
-                  onClick={() => {
-                    settingsManager.actions.setThemeMode(undefined);
-                  }}
-                >
-                  <>
-                    <ComputerIcon />
-                  </>
-                </IconButton>
-              </Tooltip>
+            <Grid
+              item
+              sx={{
+                display: shouldRenderMobileMenu ? "block" : "none",
+              }}
+            >
+              <IconButton
+                color="inherit"
+                sx={{ padding: "0" }}
+                size="large"
+                onClick={() => {
+                  setMenuOpen(true);
+                }}
+              >
+                <MenuIcon />
+              </IconButton>
             </Grid>
-          )}
+          </Grid>
+          <Grid
+            item
+            sx={{
+              display: shouldRenderMobileMenu ? "block" : "none",
+            }}
+          >
+            <Tooltip title="Use Theme from System Preferences">
+              <IconButton
+                sx={{ color: "inherit" }}
+                onClick={() => {
+                  settingsManager.actions.setThemeMode(undefined);
+                }}
+              >
+                <>
+                  <ComputerIcon />
+                </>
+              </IconButton>
+            </Tooltip>
+          </Grid>
 
           <Grid item>
             <Tooltip
@@ -177,6 +182,9 @@ export function Navbar() {
       <Drawer
         anchor="bottom"
         open={menuOpen}
+        sx={{
+          display: shouldRenderMobileMenu ? "block" : "none",
+        }}
         PaperProps={{
           sx: {
             maxHeight: "80vh",
@@ -200,7 +208,12 @@ export function Navbar() {
   function renderMenuGridItems() {
     return (
       <>
-        <Grid item>
+        <Grid
+          item
+          sx={{
+            display: shouldRenderMobileMenu ? "none" : "flex",
+          }}
+        >
           <NavLink
             href={AppLinksFactory.makeProductLink({
               author: "fari-rpgs",
@@ -214,7 +227,12 @@ export function Navbar() {
             Charge
           </NavLink>
         </Grid>
-        <Grid item>
+        <Grid
+          item
+          sx={{
+            display: shouldRenderMobileMenu ? "none" : "flex",
+          }}
+        >
           <NavLink
             href={AppLinksFactory.makeProductLink({
               author: "fari-rpgs",
@@ -228,7 +246,12 @@ export function Navbar() {
             Dash
           </NavLink>
         </Grid>
-        <Grid item>
+        <Grid
+          item
+          sx={{
+            display: shouldRenderMobileMenu ? "none" : "flex",
+          }}
+        >
           <NavLink
             href={AppLinksFactory.makeProductLink({
               author: "fari-rpgs",
@@ -242,19 +265,13 @@ export function Navbar() {
             Breathless
           </NavLink>
         </Grid>
-        {/* <Grid item>
-          <NavLink
-            onClick={() => {
-              setMenuOpen(false);
-            }}
-            target="_blank"
-            href={{ pathname: "https://fari.app" }}
-          >
-            Fari App
-          </NavLink>
-        </Grid> */}
 
-        <Grid item>
+        <Grid
+          item
+          sx={{
+            display: shouldRenderMobileMenu ? "none" : "flex",
+          }}
+        >
           <NavLinkCategory
             label="Fari RPGs"
             subNav={[

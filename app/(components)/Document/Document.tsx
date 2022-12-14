@@ -117,21 +117,29 @@ export function Document(props: {
   return (
     <Box>
       <Grid container spacing={4}>
-        {!isMdDown && (
-          <Grid item xs={3}>
-            {renderSideBar()}
-          </Grid>
-        )}
+        <Grid
+          item
+          xs={3}
+          sx={{
+            display: isMdDown ? "none" : "block",
+          }}
+        >
+          {renderSideBar()}
+        </Grid>
         <Grid item sm={12} md={9} lg={6}>
           {renderContent()}
         </Grid>
-        {!isLgDown && (
-          <Grid item xs={3}>
-            {renderSearchBar()}
-            {renderLanguageBar()}
-            {renderToc()}
-          </Grid>
-        )}
+        <Grid
+          item
+          xs={3}
+          sx={{
+            display: isLgDown ? "none" : "block",
+          }}
+        >
+          {renderSearchBar()}
+          {renderLanguageBar()}
+          {renderToc()}
+        </Grid>
       </Grid>
       {renderMobileMenuBar()}
       <Drawer
@@ -171,14 +179,12 @@ export function Document(props: {
   );
 
   function renderMobileMenuBar() {
-    if (isMdUp) {
-      return null;
-    }
     return (
       <Box
         displayPrint="none"
         p=".5rem"
         sx={{
+          display: isMdUp ? "none" : "block",
           position: "fixed",
           bottom: "0",
           left: "0",

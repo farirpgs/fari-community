@@ -63,3 +63,15 @@ export default function Page(props: { params: { authorSlug: string } }) {
     </>
   );
 }
+
+export async function generateStaticParams() {
+  const authors = shopProducts.map((g) => g.author.slug);
+
+  return authors.map((authorSlug) => {
+    return {
+      params: {
+        authorSlug,
+      },
+    };
+  });
+}

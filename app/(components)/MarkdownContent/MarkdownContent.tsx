@@ -1,6 +1,5 @@
-import { css } from "@emotion/css";
+import { Box } from "@mui/material";
 import { useTheme } from "@mui/material/styles";
-import React from "react";
 
 export function MarkdownContent(props: {
   style: string | undefined;
@@ -19,8 +18,9 @@ export function MarkdownContent(props: {
           __html: props.style ?? "",
         }}
       />
-      <article
-        className={css({
+      <Box
+        component="article"
+        sx={{
           fontFamily: props.textFont,
           wordBreak: "break-word",
           "& blockquote": {
@@ -174,7 +174,7 @@ export function MarkdownContent(props: {
             textTransform:
               props.headingUppercase === "true" ? "uppercase" : "none",
           },
-        })}
+        }}
         dangerouslySetInnerHTML={{
           __html: props.html ?? "",
         }}

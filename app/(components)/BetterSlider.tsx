@@ -48,15 +48,13 @@ function SamplePrevArrow(props: CustomArrowProps) {
   const [hoverPrevious, setHoverPrevious] = useState(false);
   const disabled = className?.includes("slick-disabled");
 
-  if (disabled || isSmall) {
-    return null;
-  }
   return (
     <Box
       sx={{
+        display: disabled || isSmall ? "none" : "flex",
         transition: theme.transitions.create(["opacity", "background"]),
         position: "absolute",
-        display: "flex",
+
         justifyContent: "center",
         alignItems: "center",
         top: "0",
@@ -92,15 +90,12 @@ function SampleNextArrow(props: CustomArrowProps) {
   const [hoverNext, setHoverNext] = useState(false);
   const disabled = className?.includes("slick-disabled");
 
-  if (disabled || isSmall) {
-    return null;
-  }
   return (
     <Box
       sx={{
+        display: disabled || isSmall ? "none" : "flex",
         transition: theme.transitions.create(["opacity", "background"]),
         position: "absolute",
-        display: "flex",
         justifyContent: "center",
         alignItems: "center",
         top: "0",

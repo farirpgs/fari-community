@@ -8,9 +8,9 @@ import { useTheme } from "@mui/material/styles";
 import Typography from "@mui/material/Typography";
 import { ProductDetails } from "app/(components)/ProductDetails";
 import { shopProducts } from "data/shop/shopProducts";
-import { MoreByAuthor } from "../../../../app/(components)/MoreByAuthor";
-import { ShopCategory } from "../../../../app/(components)/ShopCategory";
-import { AppLinksFactory } from "../../../../app/(domains)/links/AppLinksFactory";
+import { MoreByAuthor } from "../../../(components)/MoreByAuthor";
+import { ShopCategory } from "../../../(components)/ShopCategory";
+import { AppLinksFactory } from "../../../(domains)/links/AppLinksFactory";
 
 export default function Page(props: {
   params: { authorSlug: string; productSlug: string };

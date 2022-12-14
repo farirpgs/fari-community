@@ -170,33 +170,39 @@ export function ProductDetails(props: {
             </ThemeProvider>
           </Box>
         </Grid>
-        {!isLgDown && (
-          <Grid item xs={12} lg={6}>
-            <Link
-              href={AppLinksFactory.makeProductBrowseLink(props.product)}
-              style={{
-                cursor: "pointer",
-                display: "flex",
-                margin: "0 auto",
-              }}
-            >
-              <picture>
-                <img
-                  alt={props.product.name}
-                  src={props.product.image}
-                  style={{
-                    width: "auto",
-                    maxWidth: "100%",
-                    height: "100%",
-                    maxHeight: "300px",
-                    margin: "0 auto",
-                    border: "4px solid #fff",
-                  }}
-                />
-              </picture>
-            </Link>
-          </Grid>
-        )}
+
+        <Grid
+          item
+          xs={12}
+          lg={6}
+          sx={{
+            display: isLgDown ? "none" : "block",
+          }}
+        >
+          <Link
+            href={AppLinksFactory.makeProductBrowseLink(props.product)}
+            style={{
+              cursor: "pointer",
+              display: "flex",
+              margin: "0 auto",
+            }}
+          >
+            <picture>
+              <img
+                alt={props.product.name}
+                src={props.product.image}
+                style={{
+                  width: "auto",
+                  maxWidth: "100%",
+                  height: "100%",
+                  maxHeight: "300px",
+                  margin: "0 auto",
+                  border: "4px solid #fff",
+                }}
+              />
+            </picture>
+          </Link>
+        </Grid>
       </Grid>
     </>
   );

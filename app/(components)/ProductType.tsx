@@ -1,4 +1,3 @@
-import { css } from "@emotion/css";
 import Chip, { ChipProps } from "@mui/material/Chip";
 import { useTheme } from "@mui/material/styles";
 import { IShopProductWithAuthor } from "data/shop/types/IShopProduct";
@@ -18,11 +17,11 @@ export function ProductType(props: {
       label={props.product.type}
       size={props.size}
       color="default"
-      className={css({
+      sx={{
         background: theme.palette.primary.main,
         color: theme.palette.getContrastText(theme.palette.primary.main),
         fontWeight: theme.typography.fontWeightBold,
-      })}
+      }}
     />
   );
 }

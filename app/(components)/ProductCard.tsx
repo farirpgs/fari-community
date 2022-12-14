@@ -1,6 +1,5 @@
 "use client";
 
-import { css } from "@emotion/css";
 import { Box } from "@mui/material";
 import Fade from "@mui/material/Fade";
 import Stack from "@mui/material/Stack";
@@ -58,10 +57,11 @@ export function ProductCard(props: { product: IShopProductWithAuthor }) {
         />
 
         <picture>
-          <img
+          <Box
+            component="img"
             src={props.product.image}
             alt={props.product.name}
-            className={css({
+            sx={{
               margin: "0 auto",
               display: "block",
               width: "90%",
@@ -70,46 +70,46 @@ export function ProductCard(props: { product: IShopProductWithAuthor }) {
               position: "relative",
               top: "50%",
               transform: "translateY(-50%)",
-            })}
+            }}
           />
         </picture>
         <Fade in={hover}>
-          <div
-            className={css({
+          <Box
+            sx={{
               position: "absolute",
               bottom: ".75rem",
               left: ".5rem",
-            })}
+            }}
           >
             <Stack direction="row" spacing={1}>
               <ProductType product={props.product} />
             </Stack>
-          </div>
+          </Box>
         </Fade>
         <Fade in={hover}>
-          <div
-            className={css({
+          <Box
+            sx={{
               position: "absolute",
               bottom: ".75rem",
               right: ".5rem",
-            })}
+            }}
           >
             <Stack direction="row" spacing={1}>
               <ProductLicense product={props.product} />
             </Stack>
-          </div>
+          </Box>
         </Fade>
       </Link>
       <div>
         <Link
           href={AppLinksFactory.makeProductBrowseLink(props.product)}
-          className={css({
+          style={{
             textDecoration: "none",
-            "&:hover": {
-              textDecoration: "underline",
-              textDecorationColor: theme.palette.text.primary,
-            },
-          })}
+            // "&:hover": {
+            //   textDecoration: "underline",
+            //   textDecorationColor: theme.palette.text.primary,
+            // },
+          }}
         >
           <Typography variant="h6" color="textPrimary">
             {props.product.name}
