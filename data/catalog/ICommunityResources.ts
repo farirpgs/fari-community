@@ -1,28 +1,28 @@
-export type IShop = {
-  authors: Array<IShopAuthor>;
+export type ICommunityResources = {
+  authors: Array<IAuthor>;
 };
 
-export type IShopAuthor = {
+export type IAuthor = {
   name: string;
   slug: string;
   links: {
     twitter?: string;
     website?: string;
   };
-  products: Array<IShopProduct>;
+  products: Array<IResource>;
 };
 
-export enum ProductTypeEnum {
+export enum ResourceTypeEnum {
   SRD = "SRD",
   Blog = "Blog",
   Resource = "Resource",
   Game = "Game",
 }
 
-export type IShopProduct = {
+export type IResource = {
   name: string;
   slug: string;
-  type: ProductTypeEnum;
+  type: ResourceTypeEnum;
   description: string;
   image: string;
   tags: Array<string>;
@@ -36,7 +36,7 @@ export type IShopProduct = {
   };
 };
 
-export type IShopProductWithAuthor = IShopProduct & {
+export type IResourceWithAuthor = IResource & {
   author: {
     name: string;
     slug: string;
@@ -48,6 +48,7 @@ export type IShopProductWithAuthor = IShopProduct & {
 };
 
 export enum License {
+  Reserved = "All Rights Reserved",
   CC_BY_3 = "CC BY 3.0",
   CC_BY_4 = "CC BY 4.0",
 }

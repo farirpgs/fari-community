@@ -1,7 +1,7 @@
 import {
-  IShopProductWithAuthor,
-  ProductTypeEnum,
-} from "../../../data/shop/types/IShopProduct";
+  IResourceWithAuthor,
+  ResourceTypeEnum,
+} from "../../../data/catalog/ICommunityResources";
 
 export const AppLinksFactory = {
   makeHomeLink() {
@@ -10,13 +10,13 @@ export const AppLinksFactory = {
   makeBrowseLink() {
     return "/browse";
   },
-  makeAuthorLink(product: IShopProductWithAuthor | undefined) {
+  makeAuthorLink(product: IResourceWithAuthor | undefined) {
     if (!product) {
       return "";
     }
     return `/browse/${product.author.slug}`;
   },
-  makeProductBrowseLink(product: IShopProductWithAuthor | undefined) {
+  makeProductBrowseLink(product: IResourceWithAuthor | undefined) {
     if (!product) {
       return "";
     }
@@ -24,7 +24,7 @@ export const AppLinksFactory = {
   },
   makeProductLink(props: {
     author: string;
-    type: ProductTypeEnum | undefined;
+    type: ResourceTypeEnum | undefined;
     game: string;
     language?: string;
   }) {

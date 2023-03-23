@@ -1,6 +1,5 @@
-import { Document } from "app/(components)/Document/Document";
 import { DocParser } from "app/(domains)/documents/DocParser";
-import fs from "fs/promises";
+import dynamic from "next/dynamic";
 import path from "path";
 
 export default async function Page(props: {
@@ -17,7 +16,8 @@ export default async function Page(props: {
     props.params.language === "en"
       ? `/${props.params.authorSlug}/${props.params.productSlug}.md`
       : `/${props.params.authorSlug}/${props.params.productSlug}_${props.params.language}.md`;
-  const fileContents = await fs.readFile(directory + filePath, "utf8");
+
+  const fileContents = await dynamic(directory + filePath);
 
   const doc = new DocParser({
     currentChapterId: props.params.chapterSlug,
@@ -27,11 +27,10 @@ export default async function Page(props: {
   return (
     <>
       <style dangerouslySetInnerHTML={{ __html: doc.style as string }} />
-
-      <Document
-        doc={doc}
-        language={props.params.language}
-        slug={props.params.productSlug}
+      <article
+        dangerouslySetInnerHTML={{
+          __html: doc.html,
+        }}
       />
     </>
   );

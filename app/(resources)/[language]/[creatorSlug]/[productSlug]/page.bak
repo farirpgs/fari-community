@@ -1,4 +1,5 @@
-import fs from "fs/promises";
+"use client";
+
 import path from "path";
 import { DocParser } from "../../../../../(domains)/documents/DocParser";
 
@@ -15,7 +16,7 @@ export default async function Page(props: {
     props.params.language === "en"
       ? `/${props.params.authorSlug}/${props.params.productSlug}.md`
       : `/${props.params.authorSlug}/${props.params.productSlug}_${props.params.language}.md`;
-  const fileContents = await fs.readFile(directory + filePath, "utf8");
+  const fileContents = await fs.readFile(directory + filePath);
 
   const doc = new DocParser({
     markdown: fileContents,
@@ -25,7 +26,7 @@ export default async function Page(props: {
     <>
       <style dangerouslySetInnerHTML={{ __html: doc.style as string }} />
       <div
-        className="fari-games-document"
+        className="fari-community-resource"
         // sx={{
         //   marginTop: "1rem",
         // }}
@@ -35,4 +36,10 @@ export default async function Page(props: {
       />
     </>
   );
+}
+
+export function getStatisProps() {
+  return {
+    props: {},
+  };
 }

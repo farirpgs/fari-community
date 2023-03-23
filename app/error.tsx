@@ -19,14 +19,14 @@ export default function Error({
 
   return (
     <div>
-      <p>{"Something went wrong!"}</p>
+      <p>Something went wrong!</p>
       <button
         onClick={() => {
           reset();
           router.refresh();
         }}
       >
-        {"Reload"}
+        Reload
       </button>
     </div>
   );
