@@ -183,7 +183,7 @@ export type ICreator = {
 };
 
 export type IProjectData = {
-  name: string;
+  name?: string;
   description?: string;
   links?: Record<string, string>;
   fonts?: Array<string>;
@@ -198,7 +198,7 @@ export type IProject = {
   image?: string;
   language: string;
   languages: Array<string>;
-  data: IProjectData | undefined;
+  data: IProjectData;
 };
 
 export type ILoaderFunction<T> = { default: () => T };
