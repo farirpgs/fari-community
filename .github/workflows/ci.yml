@@ -46,10 +46,10 @@ jobs:
   deploy-preview:
     needs: [build]
     runs-on: ubuntu-latest
-    if: github.repository == 'fariapp/fari-games' && github.ref != 'refs/heads/main'
+    if: github.repository == 'fariapp/fari-community' && github.ref != 'refs/heads/main'
     environment:
       name: Preview
-      url: https://${{github.run_id}}--fari-games.netlify.app
+      url: https://${{github.run_id}}--fari-community.netlify.app
     steps:
       # Setup
       - uses: actions/checkout@v2
@@ -80,10 +80,10 @@ jobs:
   deploy-production:
     needs: [build]
     runs-on: ubuntu-latest
-    if: github.repository == 'fariapp/fari-games' && github.ref == 'refs/heads/main'
+    if: github.repository == 'fariapp/fari-community' && github.ref == 'refs/heads/main'
     environment:
       name: Production
-      url: https://fari.app
+      url: https://fari.community
     steps:
       # Setup
       - uses: actions/checkout@v2
