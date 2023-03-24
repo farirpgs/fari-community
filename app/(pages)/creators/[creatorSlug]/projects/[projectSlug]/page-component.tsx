@@ -105,7 +105,7 @@ export function Project(props: {
             leftIcon={<EditIcon />}
             size="md"
             as="a"
-            href={`https://github.com/fariapp/fari-community/data/creators/${props.creator.creatorSlug}/${props.project.projectSlug}/index.md#:~:text=${props.doc.currentPage.title}`}
+            href={`https://github.com/fariapp/fari-community/tree/main/public/catalog/creators/${props.creator.creatorSlug}/${props.project.projectSlug}/index.md#:~:text=${props.doc.currentPage.title}`}
             target="_blank"
             rel="noopener noreferrer"
           >
