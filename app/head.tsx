@@ -10,7 +10,16 @@ export default function Head() {
       <link rel="preconnect" href="https://fonts.googleapis.com" />
       <link rel="preconnect" href="https://fonts.gstatic.com" />
       {/* favicon */}
-      <link rel="icon" href="/images/favicon.png" />
+      <link
+        href="/images/favicon-light.png"
+        rel="icon"
+        media="(prefers-color-scheme: light)"
+      />
+      <link
+        href="/images/favicon-dark.png"
+        rel="icon"
+        media="(prefers-color-scheme: dark)"
+      />
       <link
         {...{ precedence: "default" }}
         href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700&display=swap"

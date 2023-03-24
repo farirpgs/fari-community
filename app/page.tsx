@@ -16,8 +16,13 @@ export default function Page() {
     "linear(to-l, brand.100,brand.800)",
     "linear(to-l, brand.50,brand.10)"
   );
+
   return (
-    <Container maxWidth="container.xl" pt="8rem">
+    <Container
+      maxWidth="container.xl"
+      pt="8rem"
+      className="mouse-cursor-gradient-tracking"
+    >
       <Flex justifyContent="center" textAlign="center" mb="3rem">
         <Heading size="4xl" maxW="2xl" margin="0 auto">
           Free TTRPG Resources on{" "}

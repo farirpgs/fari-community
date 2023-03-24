@@ -1,15 +1,19 @@
 "use client";
 
-import { MoonIcon, SunIcon } from "@chakra-ui/icons";
+import { AddIcon, MoonIcon, SunIcon } from "@chakra-ui/icons";
 import { Link } from "@chakra-ui/next-js";
+import { BsDiscord } from "react-icons/bs";
+
 import {
   Box,
   Button,
   Container,
   Divider,
   Flex,
+  Icon,
   Menu,
   MenuButton,
+  MenuItem,
   MenuList,
   Stack,
   useColorMode,
@@ -35,19 +39,53 @@ export function Navbar() {
                   textDecoration: "none",
                 }}
               >
-                Resources
+                Fari Projects
               </MenuButton>
               <MenuList alignItems="center">
                 {/* <MenuDivider /> */}
-                {/* <MenuItem>Your Servers</MenuItem>
-                <MenuItem>Account Settings</MenuItem>
-                <MenuItem>Logout</MenuItem> */}
+                <MenuItem
+                  as={Link}
+                  href="/creators/fari-rpgs/projects/charge-rpg"
+                >
+                  Charge RPG
+                </MenuItem>
+                <MenuItem
+                  as={Link}
+                  href="/creators/fari-rpgs/projects/breathless"
+                >
+                  Breathless SRD
+                </MenuItem>
+                {/* <MenuItem as={Link} href="/creators/fari-rpgs/projects/firelights">
+                  Firelights
+                </MenuItem> */}
+                <MenuItem
+                  as={Link}
+                  href="/creators/fari-rpgs/projects/hopes-and-dreams-srd"
+                >
+                  Hopes & Dreams SRD
+                </MenuItem>
               </MenuList>
             </Menu>
           </Stack>
 
           <Flex alignItems="center">
             <Stack direction="row" spacing={4}>
+              <Button
+                leftIcon={<AddIcon />}
+                as={Link}
+                href="/creators/fari-rpgs/projects/fari-community/fari-community"
+              >
+                Add Your Own Content
+              </Button>
+              <Button
+                as={Link}
+                href="https://farirpgs.com/discord"
+                target="_blank"
+                rel="noopener noreferrer"
+                leftIcon={<Icon as={BsDiscord} />}
+              >
+                Join our Discord
+              </Button>
               <Button onClick={colorModeManager.toggleColorMode}>
                 {colorModeManager.colorMode === "light" ? (
                   <MoonIcon />

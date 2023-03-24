@@ -9,12 +9,13 @@ export class DocParser {
   #html: string;
   #content: string;
   #pages: Array<IPageElement>;
+  #currentPage: IPageElement;
+  #nextPage: IPageElement | undefined;
+  #previousPage: IPageElement | undefined;
   #toc: Array<ITocElement>;
   #sidebar: ISidebar;
   #searchIndexes: Array<ISearchIndex>;
-  #currentPageId: string;
-  #previousPageId: string | undefined;
-  #nextPageId: string | undefined;
+
   constructor(
     private options: {
       currentChapterId?: string;
@@ -31,16 +32,25 @@ export class DocParser {
     this.#sidebar = sidebar;
     this.#searchIndexes = searchIndexes;
 
-    this.#currentPageId = this.options.currentChapterId ?? this.#pages[0].id;
+    const currentPageId = this.options.currentChapterId ?? this.#pages[0].id;
     const currentPageIndex = this.#pages.findIndex(
-      (page) => page.id === this.#currentPageId
+      (page) => page.id === currentPageId
     );
-    const currentPage = this.#pages[currentPageIndex];
-    this.#previousPageId = this.#pages[currentPageIndex - 1]?.id;
-    this.#nextPageId = this.#pages[currentPageIndex + 1]?.id;
+    this.#currentPage = this.#pages[currentPageIndex];
+    this.#previousPage = this.#pages[currentPageIndex - 1];
+    this.#nextPage = this.#pages[currentPageIndex + 1];
 
-    this.#content = currentPage.content;
-    this.#html = this.#convertMarkdownToHtml(currentPage.content);
+    this.#content = this.#currentPage.content;
+    this.#html = this.#convertMarkdownToHtml(this.#currentPage.content);
+
+    // add `id` to all headings
+    this.#html = this.#html.replace(
+      /<h([1-6])>(.*?)<\/h[1-6]>/g,
+      (match, level, title) => {
+        const id = DocParser.makeSectionId(title);
+        return `<h${level} id="${id}">${title}</h${level}>`;
+      }
+    );
   }
 
   getDoc() {
@@ -53,9 +63,8 @@ export class DocParser {
       sidebar: this.#sidebar,
       numberOfChapters: this.#pages.length,
       numberOfWordsInPage: this.#content.split(" ").length,
-      currentPageId: this.#currentPageId,
-      previousPageId: this.#previousPageId,
-      nextPageId: this.#nextPageId,
+
+      currentPage: this.#currentPage,
       searchIndexes: this.#searchIndexes,
     };
   }
@@ -69,10 +78,7 @@ export class DocParser {
     };
     const markdownWithoutFrontMatter = this.#getMarkdownWithoutFrontmatter();
     const lines = markdownWithoutFrontMatter.split("\n");
-    let currentPage: {
-      id: string;
-      content: string;
-    } | null = null;
+    let currentPage: IPageElement | null = null;
 
     for (const line of lines) {
       // handle page
@@ -82,7 +88,9 @@ export class DocParser {
         }
         currentPage = {
           id: DocParser.makeSectionId(line),
+          title: line.split("|")[0]?.trim().split("#")[1]?.trim(),
           content: "",
+          toc: [],
         };
       } else {
         if (currentPage) {
@@ -94,7 +102,7 @@ export class DocParser {
       if (line.startsWith("## ") || line.startsWith("### ")) {
         const level = line.startsWith("## ") ? 2 : 3;
         const title = line.replace("## ", "").replace("### ", "");
-        toc.push({
+        currentPage?.toc.push({
           id: DocParser.makeSectionId(line),
           title,
           level,
@@ -126,7 +134,10 @@ export class DocParser {
     if (currentPage) {
       pages.push(currentPage);
     }
-    return { pages, toc, sidebar, searchIndexes: [] };
+    if (currentPage && currentPage.id === this.options.currentChapterId) {
+      this.#currentPage = currentPage;
+    }
+    return { pages, toc, sidebar, searchIndexes: [], currentPage };
   }
 
   private static makeSectionId(line: string): string {
@@ -192,7 +203,9 @@ export type ISidebar = {
 
 export type IPageElement = {
   id: string;
+  title: string;
   content: string;
+  toc: Array<ITocElement>;
 };
 export type ITocElement = {
   id: string;
