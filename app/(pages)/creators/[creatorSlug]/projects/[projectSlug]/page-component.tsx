@@ -287,7 +287,7 @@ export function Project(props: {
                           key={item.id}
                           as={Link}
                           fontWeight={isCurrentPage ? "bold" : "normal"}
-                          color={isCurrentPage ? "brand.400" : "inherit"}
+                          color={isCurrentPage ? "brand.500" : "inherit"}
                           href={`/creators/${props.creator.creatorSlug}/projects/${props.project.projectSlug}/${item.id}`}
                         >
                           {item.title.split("#").join("")}
