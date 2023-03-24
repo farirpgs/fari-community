@@ -78,9 +78,9 @@ export function Project(props: {
             px={2}
             position="sticky"
             overscrollBehavior="contain"
-            top="6.5rem"
+            top="2rem"
             width="280px"
-            height="calc(100vh - 8.125rem)"
+            height="calc(100vh - 2rem)"
             overflowY="auto"
             flexShrink={0}
             borderRight="1px solid"
@@ -117,7 +117,17 @@ export function Project(props: {
                   />
                 </Prose>
               </Box>
-              <Box width="20%" paddingLeft="1rem">
+              <Box
+                width="20%"
+                paddingLeft="1rem"
+                position="sticky"
+                overscrollBehavior="contain"
+                top="2rem"
+                bottom="0"
+                // height="calc(100vh - 20rem)"
+                overflowY="auto"
+                flexShrink={0}
+              >
                 {renderTableOfContents()}
               </Box>
             </HStack>
@@ -210,13 +220,15 @@ export function Project(props: {
               <Box
                 key={item.id}
                 textAlign="left"
-                as={Link}
-                href={`#${item.id}`}
                 width="100%"
                 fontSize="xs"
+                cursor="pointer"
                 paddingLeft={(item.level - 2) * 8 + "px"}
+                onClick={() => {
+                  location.hash = item.id;
+                }}
               >
-                {item.title}
+                {item.title.split("#").join("")}
               </Box>
             );
           })}
