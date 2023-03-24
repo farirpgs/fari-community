@@ -14,6 +14,7 @@ import {
   Flex,
   Heading,
   Hide,
+  Select,
   Stack,
   Text,
   VStack,
@@ -83,7 +84,7 @@ export function Project(props: {
       <Stack
         mb="4"
         direction="row"
-        spacing={0}
+        spacing={2}
         alignItems="center"
         justifyContent={[
           "flex-start",
@@ -92,30 +93,28 @@ export function Project(props: {
           "space-between",
         ]}
       >
-        <Box>
-          <Hide below="md">
-            <Breadcrumb mb="4">
-              <BreadcrumbItem>
-                <BreadcrumbLink as="span">
-                  <Link href={`/creators/${props.creator.creatorSlug}`}>
-                    {props.creator.data?.name}
-                  </Link>
-                </BreadcrumbLink>
-              </BreadcrumbItem>
+        <Hide below="md">
+          <Breadcrumb mb="4">
+            <BreadcrumbItem>
+              <BreadcrumbLink as="span">
+                <Link href={`/creators/${props.creator.creatorSlug}`}>
+                  {props.creator.data?.name}
+                </Link>
+              </BreadcrumbLink>
+            </BreadcrumbItem>
 
-              <BreadcrumbItem isCurrentPage>
-                <BreadcrumbLink
-                  _hover={{
-                    textDecoration: "none",
-                    cursor: "default",
-                  }}
-                >
-                  {props.project.data?.name}
-                </BreadcrumbLink>
-              </BreadcrumbItem>
-            </Breadcrumb>
-          </Hide>
-        </Box>
+            <BreadcrumbItem isCurrentPage>
+              <BreadcrumbLink
+                _hover={{
+                  textDecoration: "none",
+                  cursor: "default",
+                }}
+              >
+                {props.project.data?.name}
+              </BreadcrumbLink>
+            </BreadcrumbItem>
+          </Breadcrumb>
+        </Hide>
         <Box>
           <Button
             colorScheme="brand"
@@ -129,6 +128,7 @@ export function Project(props: {
             Edit this page
           </Button>
         </Box>
+        <Box>{renderLanguageSelector()}</Box>
       </Stack>
       <Divider mb="4" />
       <Box>
@@ -358,6 +358,57 @@ export function Project(props: {
           })}
         </VStack>
       </Box>
+    );
+  }
+  function renderLanguageSelector() {
+    const [projectSlugWithoutLanguage, language] =
+      props.project.projectSlug.split(".");
+    const languagesIsoToName: Record<string, string> = {
+      en: "English",
+      es: "Español",
+      fr: "Français",
+      de: "Deutsch",
+      it: "Italiano",
+      pt: "Português",
+      ru: "Русский",
+      zh: "中文",
+      "pt-br": "Português (Brasil)",
+    };
+
+    if (props.project.languages.length === 0) {
+      return null;
+    }
+
+    return (
+      <Select
+        defaultValue={props.project.language}
+        onChange={(e) => {
+          if (e.target.value) {
+            location.href = `/creators/${props.creator.creatorSlug}/projects/${projectSlugWithoutLanguage}.${e.target.value}`;
+          } else {
+            location.href = `/creators/${props.creator.creatorSlug}/projects/${projectSlugWithoutLanguage}`;
+          }
+        }}
+      >
+        <option
+          key=""
+          value=""
+          selected={"language" === props.project.language}
+        >
+          Original
+        </option>
+        {props.project.languages.map((language) => {
+          return (
+            <option
+              key={language}
+              value={language}
+              selected={language === props.project.language}
+            >
+              {languagesIsoToName[language]}
+            </option>
+          );
+        })}
+      </Select>
     );
   }
 }

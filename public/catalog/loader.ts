@@ -65,7 +65,10 @@ export const loader = {
     );
     return result;
   },
-  async getProjectData(creatorSlug: string, projectSlug: string) {
+  async getProjectData(
+    creatorSlug: string,
+    projectSlug: string
+  ): Promise<IProject> {
     const [slug, language] = projectSlug.split(".");
     const fs = await import("fs/promises");
     // load image
@@ -101,10 +104,10 @@ export const loader = {
     return {
       projectSlug: projectSlug,
       image: image,
+      language: language,
+      languages: otherLanguages,
       data: {
         name: name,
-        language: language,
-        otherLanguages: otherLanguages,
         ...data,
       },
     };
@@ -193,6 +196,8 @@ export type IProjectData = {
 export type IProject = {
   projectSlug: string;
   image?: string;
+  language: string;
+  languages: Array<string>;
   data: IProjectData | undefined;
 };
 
