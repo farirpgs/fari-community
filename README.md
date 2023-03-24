@@ -1,6 +1,6 @@
-# Fari Community
+# Fari Games
 
-Home of the https://fari-community website
+Home of the https://fari.games website
 
 # Getting Started
 

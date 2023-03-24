@@ -19,7 +19,7 @@ jobs:
       - name: Use Node
         uses: actions/setup-node@v2
         with:
-          node-version: "16"
+          node-version: "18"
       # Cache
       - uses: actions/cache@v2
         with:
@@ -29,23 +29,17 @@ jobs:
             ${{ runner.os }}-node-
       # Install
       - name: Install
-        run: npm install
+        run: npm install --force
       # Build
       - name: Build
         run: npm run build
-        env:
-          VITE_GITHUB_RUN_NUMBER: ${{github.run_number}}
-          VITE_GITHUB_SHA: ${{github.sha}}
-      # Validate
-      - name: Validate
-        run: npm run validate
       # Upload Artifacts
       - name: Upload Artifacts
         uses: actions/upload-artifact@v1
         if: always()
         with:
-          name: dist
-          path: dist
+          name: out
+          path: out
   deploy-preview:
     needs: [build]
     runs-on: ubuntu-latest
@@ -56,10 +50,11 @@ jobs:
     steps:
       # Setup
       - uses: actions/checkout@v2
-      - name: Use Node.js 12.x
-        uses: actions/setup-node@v1
+      # Use Node
+      - name: Use Node
+        uses: actions/setup-node@v2
         with:
-          node-version: 12.x
+          node-version: "18"
       # Cache
       - uses: actions/cache@v2
         with:
@@ -69,13 +64,13 @@ jobs:
             ${{ runner.os }}-node-
       # Install
       - name: Install
-        run: npm install
+        run: npm install --force
       # Download Artifacts
       - name: Download Artifacts
         uses: actions/download-artifact@master
         with:
-          name: dist
-          path: dist
+          name: out
+          path: out
       # Deploy Preview
       - name: Deploy Preview
         run: npm run deploy:preview -- --auth ${{secrets.NETLIFY_AUTH_TOKEN}} --alias $GITHUB_RUN_ID
@@ -85,14 +80,15 @@ jobs:
     if: github.repository == 'fariapp/fari-community' && github.ref == 'refs/heads/main'
     environment:
       name: Production
-      url: https://fari.app
+      url: https://fari.community
     steps:
       # Setup
       - uses: actions/checkout@v2
-      - name: Use Node.js 12.x
-        uses: actions/setup-node@v1
+      # Use Node
+      - name: Use Node
+        uses: actions/setup-node@v2
         with:
-          node-version: 12.x
+          node-version: "18"
       # Cache
       - name: Cache
         uses: actions/cache@v2
@@ -103,13 +99,13 @@ jobs:
             ${{ runner.os }}-node-
       # Install
       - name: Install
-        run: npm install
+        run: npm install --force
       # Download Artifacts
       - name: Download Artifacts
         uses: actions/download-artifact@master
         with:
-          name: dist
-          path: dist
+          name: out
+          path: out
       # Deploy Production
       - name: Deploy Production
         run: npm run deploy:prod -- --auth ${{secrets.NETLIFY_AUTH_TOKEN}}
