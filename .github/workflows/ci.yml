@@ -33,9 +33,6 @@ jobs:
       # Build
       - name: Build
         run: npm run build
-        env:
-          VITE_GITHUB_RUN_NUMBER: ${{github.run_number}}
-          VITE_GITHUB_SHA: ${{github.sha}}
       # Upload Artifacts
       - name: Upload Artifacts
         uses: actions/upload-artifact@v1
