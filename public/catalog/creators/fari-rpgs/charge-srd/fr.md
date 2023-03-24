@@ -1,11 +1,3 @@
----
-fonts: https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;700&display=swap
-headingFont: Oswald
-textFont: inherit
-highlightFont: Oswald
-languages: en,fr,es
----
-
 # Introductions | Charge DRS
 
 Le Document de Référence du Système Charge est une version condensée des règles de Charge RPG que vous pouvez utiliser pour créer vos propres jeux **Branchés sur Charge**.
@@ -26,7 +18,7 @@ Nous avons hâte de voir ce que vous bâtirez à partir de cela. Lancez-vous!
 | `Othelarian`              | othelarian#5063 |                                      | [Link](https://othelarian.itch.io/)   |
 | `Nugat`                   |                 |                                      |                                       |
 
- >#### Note du Concepteur
+> #### Note du Concepteur
 >
 > Un texte dans un encadré (comme celui-ci) vous êtes destiné, chère créatrice de jeu.
 >
@@ -49,10 +41,10 @@ Dans ce jeu, vous rassemblez vos amis pour raconter ensemble l'histoire interact
 
 Voici ce qu'il vous faut pour jouer:
 
-* entre deux et cinq participants: l'un d'entre eux sera le Meneur de Jeu
-* une fiche de personnage par joueuse
-* une poignée de dés à six faces (idéalement au moins six).
-* des post-it, fiches bristol ou feuilles de papier similaires
+- entre deux et cinq participants: l'un d'entre eux sera le Meneur de Jeu
+- une fiche de personnage par joueuse
+- une poignée de dés à six faces (idéalement au moins six).
+- des post-it, fiches bristol ou feuilles de papier similaires
 
 ## Avertissement de Contenu
 
@@ -100,9 +92,9 @@ Les personnages sont définis par des traits descriptifs appelés `détails`. Ch
 
 Quand vous créez un nouveau eprsonnage, écrivez sur votre fiche de personnage :
 
-* son `Concept`: un résumé en quelques mots de qui est le personnage.
-* son `Apparence`: à quoi ressemble le personnage, ce qu'il porte, etc.
-* ses `Liens`: 1 à 3 relations que le personnage possède avec certaines personnes ou organisations dans le monde.
+- son `Concept`: un résumé en quelques mots de qui est le personnage.
+- son `Apparence`: à quoi ressemble le personnage, ce qu'il porte, etc.
+- ses `Liens`: 1 à 3 relations que le personnage possède avec certaines personnes ou organisations dans le monde.
 
 > #### Notes du Concepteur : Hacker les Détails
 >
@@ -120,53 +112,53 @@ Quand un PJ a besoin de surmonter un obstacle et qu'il y a un risque, il utilise
 
 Lors de la création de personnage, assignez `7 points d'actions` parmi la liste suivante:
 
-* `Forcer`: vous utilisez votre force pour déplacer, dépasser ou détruire l'obstacle face à vous.
-* `Bouger`: vous changez rapidement de position ou vous vous éloignez du danger.
-* `Manoeuvrer`: vous employez une manipulation adroite ou une redirection subtile.
-* `Se faufiler`: vous vous déplacez discrètement et efficacement.
-* `Tirer`: vous traquez et tirez sur une cible.
-* `Bricoler`: vous comprenez, créez ou réparez des méchanismes ou organismes complexes.
-* `Etudier`: vous rassemblez, examiner et analysez une information.
-* `Remarquer`: vous observez la situation et anticipez ses conséquences.
-* `Sociabiliser`: vous rassurez et échangez avec des amis ou des contacts.
-* `Commander`: vous obtenez une obéissance rapide basée sur la compétence et le respect.
-* `Se Concentrer`: vous vous concentrez pour accomplire une tâche qui requiert une volonté inébranlable.
-* `Influencer`: vous manipulez en utilisant votre ruse, votre charme ou vos arguments.
+- `Forcer`: vous utilisez votre force pour déplacer, dépasser ou détruire l'obstacle face à vous.
+- `Bouger`: vous changez rapidement de position ou vous vous éloignez du danger.
+- `Manoeuvrer`: vous employez une manipulation adroite ou une redirection subtile.
+- `Se faufiler`: vous vous déplacez discrètement et efficacement.
+- `Tirer`: vous traquez et tirez sur une cible.
+- `Bricoler`: vous comprenez, créez ou réparez des méchanismes ou organismes complexes.
+- `Etudier`: vous rassemblez, examiner et analysez une information.
+- `Remarquer`: vous observez la situation et anticipez ses conséquences.
+- `Sociabiliser`: vous rassurez et échangez avec des amis ou des contacts.
+- `Commander`: vous obtenez une obéissance rapide basée sur la compétence et le respect.
+- `Se Concentrer`: vous vous concentrez pour accomplire une tâche qui requiert une volonté inébranlable.
+- `Influencer`: vous manipulez en utilisant votre ruse, votre charme ou vos arguments.
 
 Au début du jeu, une action ne peut pas avoir plus de `2 points d'action`.
 
->#### Note du Concepteur : Hacker les Actions
+> #### Note du Concepteur : Hacker les Actions
 >
->Les mots sont importants: vous devriez songer à changer la liste par défaut des actions afin de mieux coller à l'esthétique de votre jeu.
+> Les mots sont importants: vous devriez songer à changer la liste par défaut des actions afin de mieux coller à l'esthétique de votre jeu.
 >
->Tout d'abord, déterminer ce que feront majoritairement les personnages dans votre jeu. Vont-ils beaucoup se battre ou plutôt jouer des intrigues politiques? En fonction de ce que vous recherchez, adaptez la liste à vos intentions.
+> Tout d'abord, déterminer ce que feront majoritairement les personnages dans votre jeu. Vont-ils beaucoup se battre ou plutôt jouer des intrigues politiques? En fonction de ce que vous recherchez, adaptez la liste à vos intentions.
 >
->Si vous utilisez moins de 12 actions, n'hésitez pas à réduire le nombre intial de points d'action obtenus par les PJ. Un bon ratio est quelque chose comme `{nombre d'actions}/2 +1`.
+> Si vous utilisez moins de 12 actions, n'hésitez pas à réduire le nombre intial de points d'action obtenus par les PJ. Un bon ratio est quelque chose comme `{nombre d'actions}/2 +1`.
 >
->Voici quelques exemples génériques que vous pouvez utiliser tels quels ou comme inspiration:
+> Voici quelques exemples génériques que vous pouvez utiliser tels quels ou comme inspiration:
 >
 > ---
 >
 > Assignez `4 points d'actions` parmi:
 >
-> * `Forcer`: vous utilisez votre force pour déplacer, dépasser ou détruire l'obstacle face à vous.
-> * `Manoeuvrer`: vous employez une manipulation adroite ou une redirection subtile.
-> * `Bouger`: vous changez rapidement de position ou vous vous éloignez du danger.
-> * `Etudier`: vous rassemblez, examiner et analysez une information.
-> * `Parler`:vous rassurez, socialisez ou influencez avec gentillesses, ruse, charme ou arguments.
-> * `Se concentrer`:  vous vous concentrez pour accomplir une tâche qui requiert une volonté inébranlable.
+> - `Forcer`: vous utilisez votre force pour déplacer, dépasser ou détruire l'obstacle face à vous.
+> - `Manoeuvrer`: vous employez une manipulation adroite ou une redirection subtile.
+> - `Bouger`: vous changez rapidement de position ou vous vous éloignez du danger.
+> - `Etudier`: vous rassemblez, examiner et analysez une information.
+> - `Parler`:vous rassurez, socialisez ou influencez avec gentillesses, ruse, charme ou arguments.
+> - `Se concentrer`: vous vous concentrez pour accomplir une tâche qui requiert une volonté inébranlable.
 >
 > ---
->  
+>
 > Assignez `3 points d'actions` parmi:
 >
-> * `Force`/ `Agilité` / `Intelligence` / `Charme`
+> - `Force`/ `Agilité` / `Intelligence` / `Charme`
 >
 > ---
 >
 > Assignez `2 points d'actions` parmi:
 >
-> * `Puissance` / `Vitesse` / `Concentration`
+> - `Puissance` / `Vitesse` / `Concentration`
 >
 > ---
 >
@@ -180,22 +172,22 @@ Un `talent` peut octroyer un nouveau `point d'action` à investir dans les `acti
 
 Au début de la partie, les personnages commencent sans avoir de talent. Ils obtiendront ces capacités spéciales lorsqu'ils atteindront certains jalons de l'histoire.
 
->#### Note du Concepteur : Hacker les Talents
+> #### Note du Concepteur : Hacker les Talents
 >
 > La feuille de personnage par défaut de Charge a un `arbre de talent` possédant 13 `talents`. Ceci étant dit, il n'est pas nécessaire de faire de même dans votre jeu.
 >
 > Prenez en considération que Charge est générique par défault, nous voulions laisser plus de marge pour que le groupe fasse progresser leur personnage à son propre rythme. C'est la raison pour laquelle l'`arbre de talent` est aussi grand.
 >
-> Puisqu'une campagne dure en moyenne environ 6  séances, avoir un `arbre de talent` avec 4 ou même 6 `talents` devrait être plus suffisant.
+> Puisqu'une campagne dure en moyenne environ 6 séances, avoir un `arbre de talent` avec 4 ou même 6 `talents` devrait être plus suffisant.
 
->#### Note du Concepteur : Créer des livrets
+> #### Note du Concepteur : Créer des livrets
 >
->Les livrets sont des fiches de personnages pré-créées qui représentent souvent un archétype. Ils sont souvent partiellement complétés pour rendre la création de personnage plus fluide pour les joueuses.
+> Les livrets sont des fiches de personnages pré-créées qui représentent souvent un archétype. Ils sont souvent partiellement complétés pour rendre la création de personnage plus fluide pour les joueuses.
 >
->Limiter les choix est souvent une bonne façon de stimuler la créativité. Et c'est exactement ce qui arrive dans un jeu qui utiliser des livrets. Ils sont également un très bon moyen pour introduire le groupe au type de personnages sur lequel va se concentrer l'histoire.
->Pour créer un livret pour Charge, vous devez tout d'abord trouver un nom cool. Recherchez quelque chose d'accrocheur, facile à se souvenir et qui convient au thème du jeu. Une fois trouvé, écrivez-le: il s'agit du `concept` de ce livret.
+> Limiter les choix est souvent une bonne façon de stimuler la créativité. Et c'est exactement ce qui arrive dans un jeu qui utiliser des livrets. Ils sont également un très bon moyen pour introduire le groupe au type de personnages sur lequel va se concentrer l'histoire.
+> Pour créer un livret pour Charge, vous devez tout d'abord trouver un nom cool. Recherchez quelque chose d'accrocheur, facile à se souvenir et qui convient au thème du jeu. Une fois trouvé, écrivez-le: il s'agit du `concept` de ce livret.
 >
->Pour les autres détails du personnage, proposez plusieurs options parmi lesquels les joueuses pourront choisir. Par exemple, une liste des `liens` possibles ou les relations que les personnages peuvent avoir.
+> Pour les autres détails du personnage, proposez plusieurs options parmi lesquels les joueuses pourront choisir. Par exemple, une liste des `liens` possibles ou les relations que les personnages peuvent avoir.
 >
 > Pour les `actions`, assignez 3 `points d'action` qui reflètent les compétences de ce livret selon vous. Les 4 points restant seront choisis par la joueuse. Si vous avez choisi d'augmenter ou de diminuer le nombre de points par défaut, n'oubliez pas d'ajuster ces nombres en conséquence.
 >
@@ -203,12 +195,12 @@ Au début de la partie, les personnages commencent sans avoir de talent. Ils obt
 >
 > Une bonne façon de commencer est de réfléchir à ce qui fait de ce livret quelque chose de spécial. Réfléchissez aux pouvoirs, capacités ou matos cool qu'il pourrait utiliser.
 > Donnez à chaque `talent` un nom qui le décrit. Un talent peut faire beaucoup de choses, y compris (mais pas limité à):
-> 
-> * `+1d6 quand...`
-> * `+1 position quand...`
-> * `+1 effet quand...`
-> * `Utilisez  (action) au lieu de (action) quand...`
-> * `(Nouvelle liberté narrative) quand...`
+>
+> - `+1d6 quand...`
+> - `+1 position quand...`
+> - `+1 effet quand...`
+> - `Utilisez  (action) au lieu de (action) quand...`
+> - `(Nouvelle liberté narrative) quand...`
 
 # Mécaniques | Charge DRS
 
@@ -220,9 +212,9 @@ Voyez ces mécaniques comme des outils à utiliser en cas de besoin. Ils existen
 
 Le jeu utilise des dés à six faces. Vous en lancez plusieurs, ce qu'on appelle une main de dés, et vous regardez le **résultat le plus élevé**.
 
-* Si le dé le plus élevé est un `6`, c'est une `réussite complète`. Les choses vont bien. Si vous avez obtenu plusieurs `6`, c'est une `réussite critique` et vous obtenez un avantage supplémentaire.
-* Si le dé le plus élevé est un `4 ou 5`, c'est une `réussite partielle`. Vous effectuez ce que vous essayez de faire mais il y a une `conséquence`.
-* Si le dé le plus élévé est `1 à 3`, c'est un `mauvais résultat`. Les choses vont mal. Vous n'atteignez pas votre objectif et vous subissez une `conséquence`.
+- Si le dé le plus élevé est un `6`, c'est une `réussite complète`. Les choses vont bien. Si vous avez obtenu plusieurs `6`, c'est une `réussite critique` et vous obtenez un avantage supplémentaire.
+- Si le dé le plus élevé est un `4 ou 5`, c'est une `réussite partielle`. Vous effectuez ce que vous essayez de faire mais il y a une `conséquence`.
+- Si le dé le plus élévé est `1 à 3`, c'est un `mauvais résultat`. Les choses vont mal. Vous n'atteignez pas votre objectif et vous subissez une `conséquence`.
 
 _Si vous avez besoin de faire un jet mais que vous avez zéro (ou moins) de dés, lancez deux dés et prenez le résultat le plus faible. Vous ne pouvez pas obtenir de réussite critique quand vous n'avez aucun dé._
 
@@ -246,9 +238,9 @@ La joueuse indique son objectif et l'action qu'elle utilise.
 
 Le MJ établit la position de la situation en se basant sur ce que la fiction a décrit jusqu'alors.
 
-* Dans une position `contrôlée`, le risque est limité. Même si les choses se passent mal, il y a un échappatoire.
-* Dans une position `risquée`, la situation est dangereuse. Si vous échouez, il y aura des répercussions.
-* Dans une position `désespérée`, les probabilités sont contre vous. Agir contre elles peut se retourner méchamment contre vous.
+- Dans une position `contrôlée`, le risque est limité. Même si les choses se passent mal, il y a un échappatoire.
+- Dans une position `risquée`, la situation est dangereuse. Si vous échouez, il y aura des répercussions.
+- Dans une position `désespérée`, les probabilités sont contre vous. Agir contre elles peut se retourner méchamment contre vous.
 
 Par défault, un jet d'action est `risqué`. Vous ne feriez pas un jet s'il n'y avait pas un risque.
 
@@ -256,9 +248,9 @@ Par défault, un jet d'action est `risqué`. Vous ne feriez pas un jet s'il n'y 
 
 Le MJ établit le rang de l'effet de l'action.
 
-* Avec un `grand` effet, vous accomplissez plus que d'habitude.
-* Avec un effet `standard`, vous atteignez ce que vous espériez.
-* Avec un effet `limité`, vous atteignez un effet partiel ou faible.
+- Avec un `grand` effet, vous accomplissez plus que d'habitude.
+- Avec un effet `standard`, vous atteignez ce que vous espériez.
+- Avec un effet `limité`, vous atteignez un effet partiel ou faible.
 
 #### 4. La joueuse égalise les chances
 
@@ -269,17 +261,17 @@ Pour un dé bonus, vous pouvez obtenir l'assistance d'une camarade. Cela lui co�
 
 Pour un dé bonus supplémentaire, vous pouvez (au choix):
 
-* `Vous dépasser`: Utilisez `2 initiatives` pour obtenir `+1d6` ou un rang d'`effet` amélioré.
-* `Ajouter de la tension` à la scène pour obtenir `+1d6`.
+- `Vous dépasser`: Utilisez `2 initiatives` pour obtenir `+1d6` ou un rang d'`effet` amélioré.
+- `Ajouter de la tension` à la scène pour obtenir `+1d6`.
 
 #### 5. Lancer les dés
 
 Enfin, la joueuse lance les dés et le groupe évalue le résultat:
 
-* Sur `66` c'est une réussit critique. Vous atteignez votre objectif avec un `effet` accru.
-* Sur `6` c'est une réussite complète. Vous atteignez votre objectif.
-* Sur `4-5` c'est une réussite partielle. Vous atteignez votre objectif mais il y a une `conséquence`.
-* Sur `1-3` c'est un mauvais résultat. Les choses vont mal et il y a une `conséquence`.
+- Sur `66` c'est une réussit critique. Vous atteignez votre objectif avec un `effet` accru.
+- Sur `6` c'est une réussite complète. Vous atteignez votre objectif.
+- Sur `4-5` c'est une réussite partielle. Vous atteignez votre objectif mais il y a une `conséquence`.
+- Sur `1-3` c'est un mauvais résultat. Les choses vont mal et il y a une `conséquence`.
 
 Si le résultat du dé est plus élevé que 3, le PJ gagne une `initiative` sauf s'il s'est dépassé.
 
@@ -289,21 +281,21 @@ Quand une joueuse fait un jet d'action, ce jet a la possibilité de générer de
 
 Vous commencez chaque séance avec `2`, et générez davantage d'`initiative` en réussissant des jets d'action.
 
-* Sur `4-5`, vous gagnez `+1 initiative`.
-* Sur `6`, vous gagnez `+2 initiative`.
-* Sur `66`, vous gagnez `+3 initiative`.
+- Sur `4-5`, vous gagnez `+1 initiative`.
+- Sur `6`, vous gagnez `+2 initiative`.
+- Sur `66`, vous gagnez `+3 initiative`.
 
 Les PJ utilisent leur `initiative` pour booster leurs actions, aider un allié ou résister à une `conséquence`.
 
 **Quand de l'initiative est utilisée pour un jet, ce jet ne peut pas générer de l'initiative.**
 
->#### Note du Designer: Curseur de l'initiative
+> #### Note du Designer: Curseur de l'initiative
 >
 > Si vous souhaitez que votre jeu soit plus sombre ou plus épique, une façon simple de le faire est changer **quand l'initiative est obtenue** et **combien on en obtient**. Cela s'appelle changer le `curseur de l'initiative`.
 >
 > Changer ce curseur est un bon moyen de changer le ressenti d'un jeu. Puisque `se surpasser` et les `jets de détermination` pour résister aux conséquences reposent uniquement sur l'`initiative`, le `curseur de l'initiative` a un fort impact sur le jeu.
 >
-Si vous augmentez le `curseur d'initiative`, les PJ pourront booster leurs jets plus souvent et il leur sera plus facile de résister aux conséquences. Si vous le baissez, les PJ se reposeront davantage sur leurs `points d'action` pour effectuer leur jet d'action. Les conséquences frapperont également plus fort.
+> Si vous augmentez le `curseur d'initiative`, les PJ pourront booster leurs jets plus souvent et il leur sera plus facile de résister aux conséquences. Si vous le baissez, les PJ se reposeront davantage sur leurs `points d'action` pour effectuer leur jet d'action. Les conséquences frapperont également plus fort.
 >
 > Modifiez et testez jusqu'à ce que cela semble adapté à votre jeu. Une chose à garder à l'esprit est que, par défaut, l'`initiative` est obtenue en participant au jeu. Cela encourage les joueuses à prendre des risques. Votre jeu devrait faire de même pour garder le ressenti "Charge".
 
@@ -315,9 +307,9 @@ Si vous le voulez, vous pouvez ajouter un dé de bonus à votre jet d'action en 
 
 Quand vous vous `surpassez`, vous consommez `2 initiatives` **par surpassement** pour gagner un des bonus suivants.
 
-* Ajoutez `+1d6` à votre jet de dés.
-* Gagnez `+1 à l'évaluation des effets` à votre jet
-* Agissez même si vous avez été éliminé.
+- Ajoutez `+1d6` à votre jet de dés.
+- Gagnez `+1 à l'évaluation des effets` à votre jet
+- Agissez même si vous avez été éliminé.
 
 ### Ajouter de la tension
 
@@ -343,7 +335,7 @@ Vous pouvez lancer un `jet de détermination` pour essayer de réduire ou d'annu
 
 ### Préparer
 
-Lorsque vous effectuez une action de préparation vous lancez un  `jet d'action`  pour avoir un effet indirect sur un obstacle. Si votre action a le résultat escompté, tout membre de l'équipe qui poursuit votre manœuvre obtient un niveau `+1 d'effet` ou une  `position améliorée` pour son jet.
+Lorsque vous effectuez une action de préparation vous lancez un `jet d'action` pour avoir un effet indirect sur un obstacle. Si votre action a le résultat escompté, tout membre de l'équipe qui poursuit votre manœuvre obtient un niveau `+1 d'effet` ou une `position améliorée` pour son jet.
 
 Vous choisissez l'avantage en fonction de la nature de votre action de mise en place.
 
@@ -353,17 +345,17 @@ Si vous faites un jet d'action et que vous obtenez un `succès partiel (4-5)` ou
 
 Le MJ choisit l'une des options suivantes :
 
-* `Effet réduit` : réduit `l'effet` de l'action d'un niveau.
-* `Complication` : cochez un segment par `niveau de conséquences` sur une `horloge de danger` nouvelle ou existante.
-* `Position défavorable` : réduit la `position` du PJ d'un niveau pour ses prochains jets d'action.
-* `Occasion manquée` : ce que vous avez essayé n'a pas fonctionné, vous devez utiliser une autre `action`.
-* `condition aggravée` : prenez `1 stress` par `niveau de conséquence`.
+- `Effet réduit` : réduit `l'effet` de l'action d'un niveau.
+- `Complication` : cochez un segment par `niveau de conséquences` sur une `horloge de danger` nouvelle ou existante.
+- `Position défavorable` : réduit la `position` du PJ d'un niveau pour ses prochains jets d'action.
+- `Occasion manquée` : ce que vous avez essayé n'a pas fonctionné, vous devez utiliser une autre `action`.
+- `condition aggravée` : prenez `1 stress` par `niveau de conséquence`.
 
 Le `niveau de conséquence` est déterminé en regardant la position du jet.
 
-* Une position `contrôlée` a un niveau de conséquence de `1`.
-* Une position `risquée` a un niveau de conséquence de `2`.
-* Une position `désespérée` a un niveau de conséquence de `3`.
+- Une position `contrôlée` a un niveau de conséquence de `1`.
+- Une position `risquée` a un niveau de conséquence de `2`.
+- Une position `désespérée` a un niveau de conséquence de `3`.
 
 ## Jet de Détermination
 
@@ -375,10 +367,10 @@ Construisez une réserve de d6 en ajoutant `+1d6` pour chaque charge d'élan que
 
 Une fois que vous avez décidé du nombre de charges que vous souhaitez consommer, lancez et interprétez les résultats :
 
-* Sur un `1-3`, la `conséquence` se produit toujours.
-* Sur un `4-5`, la `conséquence` est réduite.
-* Sur un `6`, la  `conséquence` est évitée.
-* Sur un `66`, la `conséquence` est évitée et vous obtenez `+1 position` pour votre prochain lancer.
+- Sur un `1-3`, la `conséquence` se produit toujours.
+- Sur un `4-5`, la `conséquence` est réduite.
+- Sur un `6`, la `conséquence` est évitée.
+- Sur un `66`, la `conséquence` est évitée et vous obtenez `+1 position` pour votre prochain lancer.
 
 > #### Note du Concepteur : Hacker les Jets de Détermination
 >
@@ -400,15 +392,15 @@ Généralement, plus le problème est complexe, plus l'horloge doit avoir de seg
 
 Lorsqu'un PJ réussit un jet d'action, vous pouvez utiliser une `horloge de progression` et :
 
-* Cochez 1 segment pour un `effet limité`.
-* Cochez 2 segments pour un `effet standard`.
-* Cochez 3 segments pour un `grand effet`.
+- Cochez 1 segment pour un `effet limité`.
+- Cochez 2 segments pour un `effet standard`.
+- Cochez 3 segments pour un `grand effet`.
 
 Lorsqu'un PJ obtient une conséquence d'un jet d'action, vous pouvez utiliser une `horloge de danger` et :
 
-* Cochez 3 segments pour une`position désespérée`.
-* Cochez 2 segments pour une `position risquée`.
-* Cochez 1 segment pour une `position contrôlée`.
+- Cochez 3 segments pour une`position désespérée`.
+- Cochez 2 segments pour une `position risquée`.
+- Cochez 1 segment pour une `position contrôlée`.
 
 Lorsqu'une horloge est remplie, un élément narratif de l'histoire est maintenant résolu. Soit les PJ se sont rapprochés de leur objectif, soit le danger s'est concrétisé et complique la situation.
 
@@ -476,10 +468,10 @@ Lorsque l'issue d'une situation n'est pas certaine et que les joueuses ne sont p
 
 Pour faire un jet de fortune, Construisez une réserve de dés en ajoutant `+1d6` par niveau de probabilité qu'une chose se produise, lancer les dés et interpréter les résultats.
 
-* Sur un `66`, c'est un succès critique. Il y a d'excellentes conséquences et quelque chose d'exceptionnel se produit.
-* Sur un `6`, c'est un plein succès. Il y a d'excellentes coséquences.
-* Sur un `4-5`, c'est un succès partiel, Il y a des conséquences mitigées.
-* Sur un `1-3`, c'est un mauvais résultat. Il y a de mauvaises conséquences.
+- Sur un `66`, c'est un succès critique. Il y a d'excellentes conséquences et quelque chose d'exceptionnel se produit.
+- Sur un `6`, c'est un plein succès. Il y a d'excellentes coséquences.
+- Sur un `4-5`, c'est un succès partiel, Il y a des conséquences mitigées.
+- Sur un `1-3`, c'est un mauvais résultat. Il y a de mauvaises conséquences.
 
 ## Flashbacks
 
@@ -489,10 +481,10 @@ Lorsqu'une joueuse demande un `flashback`, le MJ regarde la fiction et fixe un c
 
 Ensuite, la joueuse raconte une courte scène de ce que son personnage a tenté d'accomplir dans le flashback. En fonction du récit et des actions du personnage, le MJ décide entre l'une des actions suivantes :
 
-* Le flashback se produit et les actions du personnage ont un impact sur le récit.
-* Le flashback se produit, mais un `jet d'action` est nécessaire pour déterminer si les actions du personnage ont réussi ou non.
-* Le résultat des actions du personnage est laissé au hasard et déterminé par un `jet de fortune`.
-  
+- Le flashback se produit et les actions du personnage ont un impact sur le récit.
+- Le flashback se produit, mais un `jet d'action` est nécessaire pour déterminer si les actions du personnage ont réussi ou non.
+- Le résultat des actions du personnage est laissé au hasard et déterminé par un `jet de fortune`.
+
 # Votre Univers | Charge DRS
 
 > #### Note du Concepteur : Votre Univers
@@ -533,9 +525,9 @@ Si le MJ pense que cela a du sens, il peut créer une `horloge de progression` p
 >
 > **Les forces rebelles** veulent **se débarrasser de l'usurpateur qui siège sur le trône en :**
 >
-> * _Trouver de la saleté sur le gouvernement pour dénoncer la corruption._
-> * _Convaincre le vrai roi de reprendre ce qui lui appartient._
-> * _Trouver de l'argent pour engager des mercenaires pour mener une éventuelle guerre._
+> - _Trouver de la saleté sur le gouvernement pour dénoncer la corruption._
+> - _Convaincre le vrai roi de reprendre ce qui lui appartient._
+> - _Trouver de l'argent pour engager des mercenaires pour mener une éventuelle guerre._
 >
 > Concevoir des forces de l'univers est un moyen efficace et simple de remplir le monde de factions intéressantes avec lesquelles les joueurs pourront interagir s'ils le souhaitent.
 
@@ -571,9 +563,9 @@ Pendant les sessions, les PJ partiront en mission pour accomplir des objectifs. 
 
 Au début d'une campagne, ou **chaque fois que les PJ reviennent à leur Q.G.**, le MJ pioche **3 `cartes d'accroches`** d'un jeu standard de cartes à jouer.
 
-* La première carte nous parle de quelque chose en rapport avec [Thème #1].
-* La deuxième carte nous parle de quelque chose en rapport avec [Thème #2].
-* Le troisième indique au MJ quelle sera la prochaine mission du PJ.
+- La première carte nous parle de quelque chose en rapport avec [Thème #1].
+- La deuxième carte nous parle de quelque chose en rapport avec [Thème #2].
+- Le troisième indique au MJ quelle sera la prochaine mission du PJ.
 
 Le MJ peut utiliser ces accroches pour créer des fils narratifs sur lequels les PJ pourront explorer et donner vie au monde.
 
@@ -581,9 +573,9 @@ Le MJ peut utiliser ces accroches pour créer des fils narratifs sur lequels les
 >
 > Modifiez les thèmes pour qu'ils correspondent au cadre de votre jeu.
 >
-> * Un jeu sur l'équipage d'un vaisseau spatial essayant de joindre les deux bouts pourrait avoir : **Le Vaisseau** / **L'Equipe** / **Le Prochain Travail**.
-> * Un jeu sur une équipe de voleurs pourrait avoir : **L'Equipe** / **Les Autres Factions** / **Le prochain Coup**.
-> * Un jeu sur des super-héros combattant le crime dans une métropole pourrait avoir : **La Ville** / **LEs Nouvelles** / **Le Prochain Crime**
+> - Un jeu sur l'équipage d'un vaisseau spatial essayant de joindre les deux bouts pourrait avoir : **Le Vaisseau** / **L'Equipe** / **Le Prochain Travail**.
+> - Un jeu sur une équipe de voleurs pourrait avoir : **L'Equipe** / **Les Autres Factions** / **Le prochain Coup**.
+> - Un jeu sur des super-héros combattant le crime dans une métropole pourrait avoir : **La Ville** / **LEs Nouvelles** / **Le Prochain Crime**
 
 <details open>
 	<summary>
@@ -652,10 +644,10 @@ S'il n'y a pas de carton rouge, lancez `2d6` et sélectionnez le nombre le plus 
 
 Le résultat de ce jet nous indique quelle sera la `position` initiale dans laquelle les PJ se trouveront au début de leur prochaine mission.
 
-* Sur un `1-3`, les PJ démarrent en position `désespérée`.
-* Sur un `4-5`, les PJ démarrent dans une position `risquée`.
-* Sur un `6`, les PJ démarrent en position `sous contrôle`.
-* Sur un `66`, les PJ commencent dans une position `sous contrôle`, et gagnent quelques avantages supplémentaires.
+- Sur un `1-3`, les PJ démarrent en position `désespérée`.
+- Sur un `4-5`, les PJ démarrent dans une position `risquée`.
+- Sur un `6`, les PJ démarrent en position `sous contrôle`.
+- Sur un `66`, les PJ commencent dans une position `sous contrôle`, et gagnent quelques avantages supplémentaires.
 
 Le MJ présente la mission aux PJ, et ils décident comment ils vont aborder la situation.
 

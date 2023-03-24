@@ -10,5 +10,14 @@ export default function getData(): IProjectData {
       driveThru:
         "https://www.drivethrurpg.com/product/219203/Fate-Adversary-Toolkit",
     },
+    css: `
+@font-face {
+  font-family: "fate";
+  src: url("/fonts/FateCore.ttf");
+}
+article fate {
+  font-family: fate;
+} 
+`,
   };
 }

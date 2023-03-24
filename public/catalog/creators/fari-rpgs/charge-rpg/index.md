@@ -1,17 +1,3 @@
----
-fonts: https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;700&display=swap
-headingFont: Oswald
-textFont: inherit
-highlightFont: Oswald
-headingUppercase: true
----
-
-<style>
-	article ul.people li { display: inline; white-space: pre; }
-	article ul.people li:after { content:  " •"; }
-	article ul.people li:last-child:after { content: ""; }
-</style>
-
 # Introductions | Power Your Storytelling
 
 ![Charge](https://gyazo.com/5b8633befdb6fe3f894bdabaedac4001.png)

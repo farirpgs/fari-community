@@ -1,9 +1,5 @@
----
-fonts: https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap
-headingFont: Architects Daughter
----
+# Welcome
 
-# Welcome 
 ## What is Harmony Drive?
 
 Harmony Drive is the Heroic Chord SRD. In other words, these are the rules of the game Heroic Chord, stripped down to their most basic elements! Consider this a “blank” game that you can rewrite in your own image to tell your own kinds of stories.
@@ -60,9 +56,9 @@ The Edge Success system is built so that players have the freedom to choose fail
 
 The dice mechanic in Harmony Drive is a pool of six-sided dice. When players want to take an uncertain action, they build a dice pool.
 
-- *One die for every point they have in the relevant stat (I call them Facets, but feel free to rename them)*
-- *One die for every character level if they have a relevant Skill*
-- *Two dice if they can mark off a relevant part of their Key.*
+- _One die for every point they have in the relevant stat (I call them Facets, but feel free to rename them)_
+- _One die for every character level if they have a relevant Skill_
+- _Two dice if they can mark off a relevant part of their Key._
 
 Any dice that come up a 5 or a 6 are counted as Successes. A challenging task can require 1-3 Successes to complete (outside combat).
 
@@ -82,35 +78,35 @@ Then, the player describes what the spell looks like, feels like, and any other 
 
 The good news is you won’t have to write any spells for this system. The players will be creating spells as they go, in a conversation with their GM. You will have to do three things:
 
-- *Choose Spell Pieces for characters or classes that are thematic and convey your game’s core ideas. Use different kinds of words, or words that can be interpreted in different ways. If your game is gritty and post-apocalyptic, maybe use words like “Barren” and “Choking”. If your game is calm and verdant, maybe use words like “Growing” and “Soft”.*
-- *Decide how your GM Spell Pieces work. In the base system, they are attached to the scene to encourage players to reach out and interact with the world. But in your game, GM Spell Pieces might be attached to an encounter, or to a deity ruling over a situation. Choose something that you want the players to mix with, reach out to.*
-- *Decide what happens when your players use too much magic. In Heroic Chord, this is called Scatter because is causes a dissociative state. To use an earlier example, though, perhaps the GM Spell Pieces come from deities. Maybe reaching out to that deity too much incurs a debt, or possession.*
+- _Choose Spell Pieces for characters or classes that are thematic and convey your game’s core ideas. Use different kinds of words, or words that can be interpreted in different ways. If your game is gritty and post-apocalyptic, maybe use words like “Barren” and “Choking”. If your game is calm and verdant, maybe use words like “Growing” and “Soft”._
+- _Decide how your GM Spell Pieces work. In the base system, they are attached to the scene to encourage players to reach out and interact with the world. But in your game, GM Spell Pieces might be attached to an encounter, or to a deity ruling over a situation. Choose something that you want the players to mix with, reach out to._
+- _Decide what happens when your players use too much magic. In Heroic Chord, this is called Scatter because is causes a dissociative state. To use an earlier example, though, perhaps the GM Spell Pieces come from deities. Maybe reaching out to that deity too much incurs a debt, or possession._
 
 The GM should cost spells based on how far they go to solve problems. Heroic Chord includes this list (which is based on Scatter going from 0 to 10)
 
-- *Add one success to the Advantage Pool in combat – Gain 1 Scatter*
-- *Advance a Goal in combat – Gain 1 Scatter per difficulty of the Goal (see Combat, PN)*
-- *Target gains / loses 1 die on a certain action – Gain 1 Scatter*
-- *A small boon – Gain 1 Scatter*
-- *A stepping stone to solving the problem – Gain 2-3 Scatter*
-- *A solution to a small problem, a large step toward a large problem – Gain 5-7 Scatter*
-- *Solve a large problem outright – Gain 7+ Scatter*
+- _Add one success to the Advantage Pool in combat – Gain 1 Scatter_
+- _Advance a Goal in combat – Gain 1 Scatter per difficulty of the Goal (see Combat, PN)_
+- _Target gains / loses 1 die on a certain action – Gain 1 Scatter_
+- _A small boon – Gain 1 Scatter_
+- _A stepping stone to solving the problem – Gain 2-3 Scatter_
+- _A solution to a small problem, a large step toward a large problem – Gain 5-7 Scatter_
+- _Solve a large problem outright – Gain 7+ Scatter_
 
 If other players would like to add to a spell, they can contribute their own words. If players choose to combine their magic like this, then all the involved players get a say in how the spell works and what it does, and the players get to split the Magic cost however they like, as long as everyone involved pays a portion of it.
 
 > #### To Do – The Basics
-> 
+>
 > What is the concept of your world?
-> 
+>
 > What will you call the Magic resource?
-> 
+>
 > What happens when Magic is all spent? How is it regained?
-> 
+>
 > Where do players get Spell Pieces from?
- 
+
 # Anatomy of a Character
 
- Here are the things that make up a character in Harmony Drive. Characters in your game may use all of these mechanics, or only some of them. I’ve tried to explain their functions as best I can to help you choose what works for your game.
+Here are the things that make up a character in Harmony Drive. Characters in your game may use all of these mechanics, or only some of them. I’ve tried to explain their functions as best I can to help you choose what works for your game.
 
 ## Facets
 
@@ -138,33 +134,33 @@ If you decide to rename or re-imagine the five Facets, please bear in mind that 
 
 The base game has 19 different skills in it. You may want to have more or fewer in your own game.
 
-- *Art*
-- *Athletics*
-- *Engineering*
-- *Fashion*
-- *Finances*
-- *Focus*
-- *Humanity*
-- *Language*
-- *Medicine*
-- *Navigation*
-- *Performance*
-- *Politics*
-- *Riding*
-- *Spirits*
-- *Survival*
-- *Tactics*
-- *Tinkering*
-- *Tracking*
-- *Weapons (Long-Range, Mid-Range, Melee)*
+- _Art_
+- _Athletics_
+- _Engineering_
+- _Fashion_
+- _Finances_
+- _Focus_
+- _Humanity_
+- _Language_
+- _Medicine_
+- _Navigation_
+- _Performance_
+- _Politics_
+- _Riding_
+- _Spirits_
+- _Survival_
+- _Tactics_
+- _Tinkering_
+- _Tracking_
+- _Weapons (Long-Range, Mid-Range, Melee)_
 
 Modify this list all you like! Try and come up with a list of things your characters will need to know how to do to get by in the world you’ve created.
 
 When writing up your Skills section, try and give examples of ways different approaches could change how the skill is used, and suggestions for Edge Success bargains. A skill entry should look something like these:
 
-***Spirits:** The knowledge of the world’s many spirits, demons, and monsters. Roll Understanding/Spirits to remember the name of a noble demon, or Daring/Spirits to command a ghost to leave a home. (Edge Success: The invocation you use to subdue a spirit attracts another one, the spirits in the area are all alerted to your presence, the spirit obeys your command but will not leave your side after)*
+**\*Spirits:** The knowledge of the world’s many spirits, demons, and monsters. Roll Understanding/Spirits to remember the name of a noble demon, or Daring/Spirits to command a ghost to leave a home. (Edge Success: The invocation you use to subdue a spirit attracts another one, the spirits in the area are all alerted to your presence, the spirit obeys your command but will not leave your side after)\*
 
-***Warp:** Experience with the warp tunnels that take ships from one end of the galaxy to the other, and the creatures that dwell there. Roll Daring/Warp to charge the ship headlong into a tunnel, or Subtlety/Warp to emerge without creating a Warp Flare. (Edge Success: A Warp Demon notices your ship, you come out further from your destination than you intended, a pursuing ship manages to take the same tunnel)*
+**\*Warp:** Experience with the warp tunnels that take ships from one end of the galaxy to the other, and the creatures that dwell there. Roll Daring/Warp to charge the ship headlong into a tunnel, or Subtlety/Warp to emerge without creating a Warp Flare. (Edge Success: A Warp Demon notices your ship, you come out further from your destination than you intended, a pursuing ship manages to take the same tunnel)\*
 
 A character starts with nine skills. They get five from their Class (more on that coming up) and four more of their own choosing. That means that a starting character has roughly half the game’s skills.
 
@@ -178,15 +174,15 @@ If you decide to include Specialties in the game, I would suggest making at leas
 
 A Specialty looks like one of these:
 
-***Emissary** – Against a Noble Demon or its Lesser Daemons, the difficulty for you to Redirect is reduced by 2.*
+**\*Emissary** – Against a Noble Demon or its Lesser Daemons, the difficulty for you to Redirect is reduced by 2.\*
 
-***Trick Shooter** – When rolling Ranged Weapons to add to the Advantage Pool, add an additional success.*
+**\*Trick Shooter** – When rolling Ranged Weapons to add to the Advantage Pool, add an additional success.\*
 
-***Stalker** – No matter what abilities an Encounter uses, you can always roll Subtlety. When rolling Subtlety to advance a Goal, add an additional die.*
+**\*Stalker** – No matter what abilities an Encounter uses, you can always roll Subtlety. When rolling Subtlety to advance a Goal, add an additional die.\*
 
-***Hunter Hunter** – Against a Vampire Hunter, the difficulty for you to Destroy is reduced by 2.*
+**\*Hunter Hunter** – Against a Vampire Hunter, the difficulty for you to Destroy is reduced by 2.\*
 
-***Cavalry** – When mounted on your dragon, the GM cannot offer “you are injured” as an Edge Success condition.*
+**\*Cavalry** – When mounted on your dragon, the GM cannot offer “you are injured” as an Edge Success condition.\*
 
 When writing Specialties, be careful to try and keep them at about the same power level. If one of the Specialties is numerically just better than the others, then it becomes the “correct” choice, and then your hard work on the other Specialties will be ignored!
 
@@ -202,18 +198,18 @@ As I mentioned before, a character in Heroic Chord has six Personal Spell Pieces
 
 Spell Pieces may look like these, though you can choose any words you like:
 
-- *Watching*
-- *Waiting*
-- *Cruel*
-- *Leaf*
-- *Blood*
-- *Fang*
-- *Piercing*
-- *Devastation*
-- *Meteor*
-- *Starlight*
-- *Connected*
-- *Passage*
+- _Watching_
+- _Waiting_
+- _Cruel_
+- _Leaf_
+- _Blood_
+- _Fang_
+- _Piercing_
+- _Devastation_
+- _Meteor_
+- _Starlight_
+- _Connected_
+- _Passage_
 
 ## Key
 
@@ -229,16 +225,16 @@ Does it have to be five? Well, no. I chose five because it’s an easy number fo
 
 A person’s key might look like one of these:
 
-- *Courage*
-- *Selflessness*
-- *Hunger*
-- *Attention*
-- *Violence*
-- *Gentleness*
-- *Equality*
-- *Love*
-- *Self-Sacrifice*
-- *Impulsiveness*
+- _Courage_
+- _Selflessness_
+- _Hunger_
+- _Attention_
+- _Violence_
+- _Gentleness_
+- _Equality_
+- _Love_
+- _Self-Sacrifice_
+- _Impulsiveness_
 
 ## Signature Spell
 
@@ -250,10 +246,10 @@ This is a mechanic meant to give players freedom to describe their character’s
 
 A Signature Spell can be anything, but it might look like this:
 
-- *Soaring Dragon*
-- *Endless Suffering*
-- *Brutal Fang*
-- *Healing Gaze*
+- _Soaring Dragon_
+- _Endless Suffering_
+- _Brutal Fang_
+- _Healing Gaze_
 
 ## Lesson
 
@@ -265,11 +261,11 @@ In other words, if you decide to change the advancement system, consider adding 
 
 A lesson might be something simple like
 
-*Look Before You Leap*
+_Look Before You Leap_
 
 Or it might be something more tailored like
 
-*The Emperor’s Will Is Not Always Absolute*
+_The Emperor’s Will Is Not Always Absolute_
 
 ## Health and Magic
 
@@ -285,30 +281,30 @@ In Heroic Chord, “Scatter” is a measure of how much the character has pushed
 
 Scatter is recovered by a good night’s rest. You might choose to have magic come back in a different way, but be careful not to make it so precious that players never cast spells!
 
-***Scatter** – When players cast spells, they blend with the environment, provoking a dissociative state. Recovered by resting.*
+**\*Scatter** – When players cast spells, they blend with the environment, provoking a dissociative state. Recovered by resting.\*
 
-***Debt** – When players cast spells, they call on a divinity, who will remember this, provoking a curse. Recovered by carrying out elaborate rituals.*
+**\*Debt** – When players cast spells, they call on a divinity, who will remember this, provoking a curse. Recovered by carrying out elaborate rituals.\*
 
-***Hunger** – When players cast spells, they burn up the blood they have consumed, provoking a weakened state. Recovered by feeding.*
+**\*Hunger** – When players cast spells, they burn up the blood they have consumed, provoking a weakened state. Recovered by feeding.\*
 
 > ### To Do – Anatomy of a Character
-> 
+>
 > Are you renaming any of the core stats?
-> 
+>
 > What kinds of Skills will your players need?
-> 
+>
 > Will you be using Combat Specialties?
-> 
+>
 > What kind of Combat Specialties will they need?
-> 
+>
 > Where do players get Personal Spell Pieces?
-> 
+>
 > Are you changing Key and Signature Spell at all?
-> 
+>
 > Are you changing Lesson? If so, how do players communicate what they want their story to be about?
-> 
+>
 > What are the Magic and Health resources in your game?
-> 
+>
 > How much Health and Magic do the players have to start?
 
 # Classes
@@ -323,21 +319,21 @@ Every game answers these questions in different ways. Try and find something spe
 
 A class in Harmony Drive has the following things attached:
 
-- *Lore, backstory, and information*
-- *12 Spell Pieces to choose from*
-- *Five Starting Skills*
-- *Three Abilities per level*
-- *An Assist Pool*
-  
+- _Lore, backstory, and information_
+- _12 Spell Pieces to choose from_
+- _Five Starting Skills_
+- _Three Abilities per level_
+- _An Assist Pool_
+
 Obviously, you can add things or change things for your own game, but this is what the base game looks like.
 
-***Wandering Magi** – Expert trackers blessed by the god Wandering Hector, who have carried out a pilgrimage in a sun-scorched desert.*
+**\*Wandering Magi** – Expert trackers blessed by the god Wandering Hector, who have carried out a pilgrimage in a sun-scorched desert.\*
 
-***Monastic** – Vampires who carry on and preserve the traditions of the medieval era, who live in isolation from mortals and live through art.*
+**\*Monastic** – Vampires who carry on and preserve the traditions of the medieval era, who live in isolation from mortals and live through art.\*
 
-***Warptouched Ace** – Pilots who have spent enough time in Warp Tunnels that their hearts are attuned to the spaces between space, and a Warp Demon sits on their shoulder.*
+**\*Warptouched Ace** – Pilots who have spent enough time in Warp Tunnels that their hearts are attuned to the spaces between space, and a Warp Demon sits on their shoulder.\*
 
-***Violet Scaleknight** – Riders of the Radiant Violet dragons, whose gentleness and beauty grants their riders a mysterious presence.*
+**\*Violet Scaleknight** – Riders of the Radiant Violet dragons, whose gentleness and beauty grants their riders a mysterious presence.\*
 
 ## Abilities
 
@@ -347,21 +343,21 @@ Every class has a list of three abilities per “level”, and as characters adv
 
 When writing abilities, here are some tips:
 
-- *Try writing abilities that appeal to different styles of play*
-- *Don’t make abilities depend on each other with prerequisites, but do make them play well together.*
-- *Use abilities to show players how you think a class should play*
-  
+- _Try writing abilities that appeal to different styles of play_
+- _Don’t make abilities depend on each other with prerequisites, but do make them play well together._
+- _Use abilities to show players how you think a class should play_
+
 Good abilities are hints that lead players down certain paths. If you imagine a certain class as a defender who looks out for teammates, then give that class abilities that help them do that!
 
-***Anchor Note:** When you cast a spell or Chord, if you do so while playing music, you gain one fewer Scatter. (Tidal Navigator, Season 1)*
+**\*Anchor Note:** When you cast a spell or Chord, if you do so while playing music, you gain one fewer Scatter. (Tidal Navigator, Season 1)\*
 
-***Supporter:** You can gain two Scatter in order to gain an additional action in a round, provided you use both your actions to increase the Advantage Pool. (Enduring Crusader, Season 2)*
+**\*Supporter:** You can gain two Scatter in order to gain an additional action in a round, provided you use both your actions to increase the Advantage Pool. (Enduring Crusader, Season 2)\*
 
-***Gallantry:** If there is a helpless person nearby, you gain an extra action in combat to protect them. This can be an NPC or incapacitated ally. (Windswept Cavalier, Season 4)*
+**\*Gallantry:** If there is a helpless person nearby, you gain an extra action in combat to protect them. This can be an NPC or incapacitated ally. (Windswept Cavalier, Season 4)\*
 
-***Rush of Life:** Your first spell after feeding costs half as much Blood (Stalker, Season 2)*
+**\*Rush of Life:** Your first spell after feeding costs half as much Blood (Stalker, Season 2)\*
 
-***Dragon Eye:** You can spend one Humanity to be able to perceive the world through your dragon’s senses, even if the two of you are very far apart. (Golden Scaleknight, Season 1)*
+**\*Dragon Eye:** You can spend one Humanity to be able to perceive the world through your dragon’s senses, even if the two of you are very far apart. (Golden Scaleknight, Season 1)\*
 
 Coming up with lists of abilities can be time-consuming. Try making them one level at a time, take your time, and don’t be afraid to re-use abilities that would fit multiple classes. You might want to write Abilities that grant additional Assist Pool Abilities, too. (Read on for more about Assist Pools)
 
@@ -375,11 +371,11 @@ Characters in your game might have a sentient weapon they can connect to, or a d
 
 Assist Pools have the following:
 
-- *A resource pool*
-- *Spell Pieces*
-- *Abilities*
-- *A Consequence*
-  
+- _A resource pool_
+- _Spell Pieces_
+- _Abilities_
+- _A Consequence_
+
 **Assist Pool: Cloud Elk**
 
 As a Cavalier, you are accompanied by a Cloud Elk, a flying friend who will carry you on their back in battle even though they are nervous and easily frightened. They may only like you, or they may get along with your friends, but either way, you're the only one they really trust.
@@ -434,11 +430,11 @@ The Abilities above are just examples. You should try and make some that are ine
 
 Here are some more examples:
 
-***Clarity:** (2 Scatter) You make a minor prediction about events yet to unfold, such as where a person will be found or what kind of creature will attack. (You may need to bargain with your GM for this.) Your prediction comes true. (Wandering Magus – The Watching Stars)*
+**\*Clarity:** (2 Scatter) You make a minor prediction about events yet to unfold, such as where a person will be found or what kind of creature will attack. (You may need to bargain with your GM for this.) Your prediction comes true. (Wandering Magus – The Watching Stars)\*
 
-***Call Specter:** (2 Scatter) A phantom appears to aid you. For the next three rounds of combat, there is a ghost present who will make attacks, using the same skills and facets as you do. The phantom is no one you recognize, a fallen warrior from the place's history, and they do not speak. (Enduring Crusader – The Fallen)*
+**\*Call Specter:** (2 Scatter) A phantom appears to aid you. For the next three rounds of combat, there is a ghost present who will make attacks, using the same skills and facets as you do. The phantom is no one you recognize, a fallen warrior from the place's history, and they do not speak. (Enduring Crusader – The Fallen)\*
 
-***Conjure Tunnel:** (3 Grounding) You immediately create a Warp Tunnel. Where it leads is up to the GM, but it will definitely deliver you from the situation you find yourself in. (Warptouched Ace – Warp Demon)*
+**\*Conjure Tunnel:** (3 Grounding) You immediately create a Warp Tunnel. Where it leads is up to the GM, but it will definitely deliver you from the situation you find yourself in. (Warptouched Ace – Warp Demon)\*
 
 ## Consequence
 
@@ -449,17 +445,17 @@ Think about what happens when your characters get too close to this special sour
 This is a great way to add flavor to your classes, and to encourage your players to make dramatic choices, so take your time to make these special and interesting.
 
 > #### To Do – Classes
-> 
+>
 > What are the different paths to power in your world?
-> 
+>
 > Are you using classes? If not, how will players get abilities?
-> 
+>
 > What kinds of abilities do players of every class have to choose from?
-> 
+>
 > If you’re not using the default advancement system, when do players choose abilities?
-> 
+>
 > What extra powers can the players call on?
-> 
+>
 > What are the powers they gain from this? What are the consequences?
 
 # Challenges
@@ -474,25 +470,25 @@ We call it an Encounter system, because it’s used for combat, but it’s also 
 
 Let’s start by taking a look at an Encounter:
 
-***Shipwreck** (2 turns per round)*
+**\*Shipwreck** (2 turns per round)\*
 
-*Destroy: 4 (Banish, purify, or destroy Shipwreck)*
+_Destroy: 4 (Banish, purify, or destroy Shipwreck)_
 
-*Redirect: 8 (Lure Shipwreck elsewhere)*
+_Redirect: 8 (Lure Shipwreck elsewhere)_
 
-*Outlast: 6 (Survive until dawn or escape)*
+_Outlast: 6 (Survive until dawn or escape)_
 
-*Shipwreck manifests as a blue-black cloud like ink swirling through water. Buried in the absolute darkness of its body is something solid that can be felt or struck, but never seen. Every so often something deep inside its formless body flashes with a warm orange light.*
+_Shipwreck manifests as a blue-black cloud like ink swirling through water. Buried in the absolute darkness of its body is something solid that can be felt or struck, but never seen. Every so often something deep inside its formless body flashes with a warm orange light._
 
-*Fog (2) – The Horror expands, spreading its inky cloud out around itself. No one can use Sensitivity rolls to see their surroundings.*
+_Fog (2) – The Horror expands, spreading its inky cloud out around itself. No one can use Sensitivity rolls to see their surroundings._
 
-*Slam (3) – The Horror creeps close to a party member, slamming its solid core into them for 2 damage and knocking them over, preventing Daring rolls for the next turn.*
+_Slam (3) – The Horror creeps close to a party member, slamming its solid core into them for 2 damage and knocking them over, preventing Daring rolls for the next turn._
 
-*Siren Song (2) – The Horror flashes that peculiar orange light from inside the cloud. Everyone who can see the light gains 2 Scatter.*
+_Siren Song (2) – The Horror flashes that peculiar orange light from inside the cloud. Everyone who can see the light gains 2 Scatter._
 
-*Breaking Wave (1) – The Horror manifests something solid within its form and rushes over a person, knocking them over and preventing Daring rolls for the next turn.*
+_Breaking Wave (1) – The Horror manifests something solid within its form and rushes over a person, knocking them over and preventing Daring rolls for the next turn._
 
-*Splinter (3) – The Horror crashes into a target, slamming the wreckage at its core into them for 3 damage.*
+_Splinter (3) – The Horror crashes into a target, slamming the wreckage at its core into them for 3 damage._
 
 Players may enter into Encounters when they find a monster, or when there is a natural disaster, or when they need to do a high-stakes negotiation with a powerful entity.
 
@@ -518,11 +514,11 @@ If they contribute using a skill roll, they add their total successes to the par
 
 When players Advance a Goal, they are taking a step toward ending the Encounter. In the base game, there are three different ways of doing this:
 
-1. ***Destroy.** To defeat the Encounter through brute force.*
+1. **\*Destroy.** To defeat the Encounter through brute force.\*
 
-2. ***Redirect.** To convince the Encounter to take a different course.*
+2. **\*Redirect.** To convince the Encounter to take a different course.\*
 
-3. ***Outlast.** To survive the Encounter and escape alive.*
+3. **\*Outlast.** To survive the Encounter and escape alive.\*
 
 As you can see in the example above, each of these will have a different difficulty and definition. An Encounter with a wild animal may be easy to Redirect if the party wants to frighten it away, but difficult to Outlast if it decides to pursue them. An Encounter with a forest fire may be difficult to Destroy if the players try to put it out by themselves, but easier to Outlast if the players can only get to safety.
 
@@ -552,9 +548,9 @@ Advancement in Harmony Drive is meant to resemble an RPG or a TV series, in that
 
 When a GM is ready to start telling a long-term story in Harmony Drive, first they choose a player to get the spotlight for a couple sessions. Then, they use that character’s Lesson as a guideline for these couple sessions. Once this arc is over, two things happen.
 
-- *The character in the spotlight gets to increase two of their Facets by 1 each.*
-- *Every character in the story gets to take an additional Skill.*
-- *Every character in the story gets a chance to change their Lesson or Key.*
+- _The character in the spotlight gets to increase two of their Facets by 1 each._
+- _Every character in the story gets to take an additional Skill._
+- _Every character in the story gets a chance to change their Lesson or Key._
 
 Then, the GM moves to tell a story about the next character, repeating this process until everyone in the party has had a chance to enjoy the spotlight and learn their Lesson. Once everyone has had their own arc, then the GM tells a finale arc to tie everything together, which ends the Season.
 
@@ -563,13 +559,13 @@ Once the Season ends, every character gets to choose a new ability from their cl
 Then, if everyone wants to continue telling stories with the same characters, everyone chooses a new Lesson and the process starts all over again.
 
 > #### To Do – Challenges
-> 
+>
 > What kinds of encounters will be in your game?
-> 
+>
 > Will you use Destroy, Redirect, Outlast, or something else?
-> 
+>
 > How will characters advance in your game?
-> 
+>
 > If you’re not using spotlight arcs, do you have a way to make sure the characters share the spotlight?
 
 # Glossary

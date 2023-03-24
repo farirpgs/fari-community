@@ -7,5 +7,11 @@ export default function getData(): IProjectData {
     links: {
       itch: "https://capacle.itch.io/push",
     },
+    headingFont: "Text Me One",
+    textFont: "Barlow Semi Condensed",
+    css: `
+    @import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed&family=Text+Me+One&display=swap');
+    `,
+    headingUppercase: true,
   };
 }

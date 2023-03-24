@@ -7,5 +7,10 @@ export default function getData(): IProjectData {
     links: {
       itchIo: "https://gilarpgs.itch.io/lumen",
     },
+    headingFont: "Lato",
+    textFont: "Lato",
+    css: `
+    @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+    `,
   };
 }

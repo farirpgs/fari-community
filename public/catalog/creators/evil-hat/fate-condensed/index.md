@@ -1,17 +1,3 @@
----
-languages: en,pt-br
----
-
-<style>
-@font-face {
-  font-family: "fate";
-  src: url("/fonts/FateCore.ttf");
-}
-article fate {
-  font-family: fate;
-} 
-</style>
-
 # Fate Condensed
 
 Fate Condensed is a compact, stand-alone version of the Fate Core System streamlined for clarity and ease of reference.
@@ -31,7 +17,6 @@ Fate Condensed gives you the flexibility and power to bring your vision to life!
 <iframe src="https://itch.io/embed/563496" height="167" width="100%" frameborder="0"><a href="https://evilhat.itch.io/fate-condensed">Fate Condensed by evilhat</a></iframe>
 
 <br/>
-
 
 > This is an adaption of the amazing work done by Randy Oest over the [Fate SRD website](https://fate-srd.com/).
 

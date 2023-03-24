@@ -1,13 +1,3 @@
-<style>
-@font-face {
-  font-family: "fate";
-  src: url("/fonts/FateCore.ttf");
-}
-article fate {
-  font-family: fate;
-} 
-</style>
-
 # Fate Adversary Toolkit
 
 **Calling all adversaries!**

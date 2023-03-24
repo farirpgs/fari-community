@@ -5,5 +5,10 @@ export default function getData(): IProjectData {
     name: "Fate Stunts",
     description:
       "A very detailed list of stunts to help you get started with Fate character creation quickly.",
+    css: `
+article h6{
+  margin:0;
+}
+`,
   };
 }

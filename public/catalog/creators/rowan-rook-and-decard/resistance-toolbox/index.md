@@ -1,10 +1,3 @@
----
-fonts: https://fonts.googleapis.com/css2?family=Special+Elite&display=swap,https://fonts.googleapis.com/css2?family=Urbanist:wght@300;400;500;700&display=swap
-headingFont: Special Elite
-textFont: Urbanist
-headingUppercase: true
----
-
 # The Resistance Toolbox
 
 The text of this product is licensed under Creative Commons (CC BY 4.0). https://creativecommons.org/licenses/by/4.0
@@ -89,11 +82,7 @@ Generally, play happens as a conversation between the players and the GM, with b
 
 To see if their action succeeds, the player rolls a D10 and consults the following table:
 
-> **1:** Critical Failure (take double stress) <br/>
-> **2-5:** Failure (take stress) <br/>
-> **6-7:** Success at a cost (take stress) <br/>
-> **8-9:** Success (take no stress) <br/>
-> **10:** Critical success (inflict +1 stress for each 10 you roll) <br/>
+> **1:** Critical Failure (take double stress) <br/> > **2-5:** Failure (take stress) <br/> > **6-7:** Success at a cost (take stress) <br/> > **8-9:** Success (take no stress) <br/> > **10:** Critical success (inflict +1 stress for each 10 you roll) <br/>
 
 If the character has a relevant skill, they roll another D10.
 
@@ -249,7 +238,7 @@ With all of these results, we’ve put the relevant Resistance in square bracket
 ### Spy Fallout
 
 > #### Minor
-> 
+>
 > **ADRENALINE.** [MEAT] Your instincts kick in and you do something stupid. If you’re trying to get away or de-escalate, you lash out at your opponents. If you’re trying to fight, you get panicked and retreat. This is only momentary, and fades after a moment - long enough for a single, immediate action.
 >
 > **ROUTINE CHECK.** [COVER] Your actions attract the attentions of the police; they don’t come in all guns blazing, but they’re suspicious and want to learn more about what’s going on.
@@ -257,7 +246,7 @@ With all of these results, we’ve put the relevant Resistance in square bracket
 > **LIE.** [COVER/LOYALTY] Trying to justify your actions, you tell a lie that will cause a problem this or next session.
 
 > #### Moderate
-> 
+>
 > **NO WITNESSES.** [COVER] You receive word from your handlers that the people involved in the deal can’t be allowed to survive. You’re tasked with eliminating them and hiding the bodies.
 >
 > **BROKEN ARM.** [MEAT] Your arm breaks under the strain, and splintered bone juts up through your skin. You can’t use the arm until it heals.
@@ -265,7 +254,7 @@ With all of these results, we’ve put the relevant Resistance in square bracket
 > **SERVICES RENDERED**. [CASH] You’re forced to sell your skills to a third party to pay your debtors, and the work is not pleasant. Work out with the GM what your character doesn’t _want_ to do but is prepared to in order to make ends meet.
 
 > #### Severe
-> 
+>
 > **TURNCOAT.** [LOYALTY] Tired of being messed around, your true allegiances come to light - you’re a double agent. Maybe you always have been. While you appear to be a loyal agent, in fact you’re serving the enemy, and putting your allies in danger.
 >
 > **BURNED.** [LOYALTY/COVER] Tired of your incompetence, or suspicious of your true motives, your agency gives you false information and sets you up to be captured and interrogated by your enemies.
@@ -293,7 +282,7 @@ With all of these results, we’ve put the relevant Resistance in square bracket
 ### Political Fallout
 
 > #### Minor
-> 
+>
 > **PROTEST.** [FACE] Upset at your actions, the people gather outside your places of power and protest at the injustice. Doing anything nearby will increase the difficulty of all tasks by 1 until the protest dissipates (either give it time, or break it up forcibly).
 >
 > **DIRT.** [BACKROOM] Whatever you did wrong, _someone_ knows about it, and they’ve got the capacity to damage your reputation with it. GM, you don’t have to decide who it is, but you should work it out before the end of the next session.
@@ -301,15 +290,15 @@ With all of these results, we’ve put the relevant Resistance in square bracket
 > **FAVOUR.** [BACKROOM] You’re forced to owe someone a favour; they’ll call on you to help them out next session.
 
 > #### Moderate
-> 
+>
 > **ENCAMPMENT.** [FACE] As PROTEST, but it will not dissipate without your direct action.
-> 
+>
 > **STRIKE A DEAL.** [FUNDS] Running out of credit, you cut a deal with a wealthy supporter to earn funding - someone you’d rather not work with. They’ll call on you at some point during this or the next session of play, and ask for a favour; they can do this once per session from now on.
 >
 > **WITHDRAWAL OF FUNDS.** [FACE/BACKROOM] A prominent supporter withdraws their funding after what you did upsets them. Until you find a replacement, when you take stress to FUNDS, roll twice and pick higher.
 
 > #### Severe
-> 
+>
 > **HIGH-PROFILE INVESTIGATION.** [FACE] You come under intense scrutiny from official agencies looking to root out corruption and/or illegal acts in your administration. Any stress suffered to BACKROOM is doubled during the investigation procedure; if it uncovers anything serious, you will be forced to retire or hounded out of office.
 >
 > **PUPPET.** [BACKROOM] You possess no real power - instead, you are controlled by people in your organisation who have leverage over you. You can go along with their commands, trying not to draw any unwanted attention, or take one last shot at claiming power and making an impact before they remove you from office.
@@ -345,18 +334,18 @@ If you possess a skill or domain and gain it a second time, you gain a knack - p
 ### Sample Knacks
 
 > **DECEIVE**
-> 
+>
 > Roll with mastery when you:
-> 
+>
 > - Create forged documents
 > - Use a disguise
 > - Impersonate a named individual
 > - Drop a casual lie into a conversation
 
 > **LOW SOCIETY**
-> 
+>
 > Roll with mastery when:
-> 
+>
 > - In the docks
 > - Interacting with workers
 > - Blending in as part of Low Society
@@ -507,7 +496,7 @@ If you take advantage of the positive aspect of the item, you roll with mastery 
 Weapons and armour have slightly more complex rules, detailed below. (However, if you don’t want to get too in-depth on combat, you can certainly use the above rules for weapons too instead of tags; that’s up to your group.)
 
 > #### Buying and selling
-> 
+>
 > One option, when building a world, is to come up with a currency system and price list for every imaginable item in the world and have players keep track of their spending. However: there is a much easier way, and here it is.
 >
 > To buy items, the GM decides on the cost involved: D3 for minor purchases, D6 for moderate, and D8 for really expensive or exotic materials. Some items just _can’t_ be purchased without expending a lot of effort to find a seller and do whatever it is they want (that’s worth more than money) to acquire it. Then the player makes a roll using whatever skills and domains are appropriate; on a success, they get what they want without incurring stress, and on a failure, they’d mark stress to a resistance like GOLD or RESOURCES or CREDIT RATING.
@@ -782,7 +771,7 @@ We don’t have a preferred method - it depends on the game and the story the sy
 ## Example Abilities
 
 > ### Wwi Trenches
-> 
+>
 > **WEAPONS MAINTENANCE.** [Low] The first time you or a nearby ally triggers the Dangerous or Unreliable tag on one of their weapons in a situation, ignore it.
 >
 > **TOUGH AS OLD BOOTS.** [Low] +2 GRIT. The first time you take GRIT fallout in a session, ignore it and carry on.
@@ -800,7 +789,7 @@ We don’t have a preferred method - it depends on the game and the story the sy
 > **OVER THE TOP.** [High] Once per session, activate this ability. Any nearby allies do not need to roll for fallout as a result marked to GRIT or SANITY for the remainder of the situation; once the situation ends, roll as normal.
 
 > ### Ghost Hunters
-> 
+>
 > **MAKE MANIFEST.** [Minor] Mark D6 stress to SOUL or FUNDING to perform this rite. Any ethereal creature nearby to you is forced to become present in the physical realm, and as such can be interacted with through normal means.
 >
 > **MEMENTO MORI.** [Minor] Gain the Scry skill. Whenever an undead creature is near you, you are subject to visions and allegorical images that show how it died. Mark 1 stress to MIND to share these visions with others as a ghostly projection.
@@ -816,11 +805,11 @@ We don’t have a preferred method - it depends on the game and the story the sy
 > **GODLY.** [Major] Gain the Church domain and +1 SOUL. You are a pious and devout Christian. Once per situation, when a ghost would act directly against you (possession, attack, theft etc) you can declare that it acts against someone less religious instead. Commiting sinful acts, at the GM’s discretion, can inflict stress on your MIND and SOUL.
 
 > ### Sci-Fi Knights
-> 
+>
 > #### Aegis Ability Tree
-> 
+>
 > An aegis is an armoured hazardous environment suit, designed to protect the user from all kinds of threats - kinetic, radioactive, phantasmic, spiritual or gravitational. As the user bonds with the strange technologies in their suit, it will learn to protect them better. The aegis counts as an Armour 2 piece of equipment.
-> 
+>
 > #### Tier 1: Medical Support
 >
 > +1 CORPUS. While wearing the aegis you are immune to disease, and the internal air reserves and recycling units can provide you with several days’ worth of oxygen before you’ll need to refill them.

@@ -1,13 +1,6 @@
----
-fonts: https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap
-headingFont: Bebas Neue
-textFont: inherit
-headingUppercase: true
----
-
 # The Fight Card System
 
-**The Fight Card System** is  a design guide/system reference document for making games or supplents based in **Transgender Deathmatch Legend**. Fight Card Games are tabletop roleplaying fighting games where one character fights their way across a map. Combat is resolved in a trick taking game. One player, the **Protagonist**, controls the lead character while the other plays every other character, narrates details of the world, and plays any opponent in combat. They are called the **Facilitator**.
+**The Fight Card System** is a design guide/system reference document for making games or supplents based in **Transgender Deathmatch Legend**. Fight Card Games are tabletop roleplaying fighting games where one character fights their way across a map. Combat is resolved in a trick taking game. One player, the **Protagonist**, controls the lead character while the other plays every other character, narrates details of the world, and plays any opponent in combat. They are called the **Facilitator**.
 
 # Fight Mechanic
 

@@ -8,5 +8,11 @@ export default function getData(): IProjectData {
     links: {
       itchIo: "https://aryl-ether.itch.io/guided-by-the-sun",
     },
+    headingFont: "Grenze Gotisch",
+    textFont: "Libre Baskerville",
+    css: `
+    @import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@300;400;500;700&family=Libre+Baskerville:wght@400;700&display=swap');
+    
+    `,
   };
 }

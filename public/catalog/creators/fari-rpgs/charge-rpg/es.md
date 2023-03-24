@@ -1,12 +1,3 @@
----
-fonts: https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;700&display=swap
-headingFont: Oswald
-textFont: inherit
-highlightFont: Oswald
-headingUppercase: true
-languages: en,fr,es
----
-
 # Introducción | Charge SRD
 
 El Charge SRD es una versión condensada de las reglas de Charge RPG que puede usar para desarrollar su propio juego **Powered by Charge**.
@@ -33,10 +24,10 @@ Nos morimos de ganas por saber qué desarrollará usted con esto. ¡Disfrútelo!
 > </div>
 
 > #### Nota acerca del traductor al español
-> 
-> | Name                      | Discord               | Twitter                                                 | Itch                                  |
-> | ------------------------- | --------------------- | ------------------------------------------------------- | ------------------------------------- |
-> | `Mario A. Tejada Loría`   | laesquinadelrol#1953  | [@laesquinadelrol](https://twitter.com/laesquinadelrol) |                                       |
+>
+> | Name                    | Discord              | Twitter                                                 | Itch |
+> | ----------------------- | -------------------- | ------------------------------------------------------- | ---- |
+> | `Mario A. Tejada Loría` | laesquinadelrol#1953 | [@laesquinadelrol](https://twitter.com/laesquinadelrol) |      |
 
 # El Juego | Charge SRD
 
@@ -65,15 +56,15 @@ Este juego incluye referencias y expresiones acerca de los siguientes temas: [..
 
 Una persona en el grupo necesita jugar como el `Director del Juego` o `DJ`. El DJ es responsable del mundo y los personajes que habitan allí (esos que no son jugados directamente por el resto de personas en la mesa). Llamamos a estos personajes `personajes no jugadores` o `PNJ`.
 
-El resto de personas en la mesa son `Jugadores`. Estas personas crean un personaje que experimenta historias convincentes dentro del mundo de ficción. Llamamos a estos `personaje jugador` o `PJ` 
+El resto de personas en la mesa son `Jugadores`. Estas personas crean un personaje que experimenta historias convincentes dentro del mundo de ficción. Llamamos a estos `personaje jugador` o `PJ`
 
-Aunque el DJ suele ser el encargado principal  de gestionar que el mundo cambie de alguna manera con el tiempo, todas las personas en la mesa están a cargo de la historia.
+Aunque el DJ suele ser el encargado principal de gestionar que el mundo cambie de alguna manera con el tiempo, todas las personas en la mesa están a cargo de la historia.
 
 Todas las personas en la mesa contribuyen para hacer que la historia que se cuenta sea buena y cautivadora.
 
 ## Estructura del Juego
 
-Para jugar este juego te reúnes con otras personas, ya sea en la vida real o en línea para crear colaborativamente entre todas una historia fascinante. 
+Para jugar este juego te reúnes con otras personas, ya sea en la vida real o en línea para crear colaborativamente entre todas una historia fascinante.
 
 Cada `sesión` es por sí misma una experiencia única y está compuesta de múltiples `escenas` relacionadas entre ellas, como en una película. Cada escena se desarrolla en un diálogo de ida y vuelta entre el DJ y los PJ. El DJ describe cómo es la escena, los jugadores le cuentan al DJ qué hacen sus personajes y, finalmente, el DJ hace que el mundo reaccione a las acciones de estos dependiendo del resultado de la tirada de dados.
 
@@ -83,7 +74,7 @@ Se tiran los dados porque se busca tener la sensación de estar al filo de la bu
 
 Si en algún punto durante la creación de la partida o cuando se desarrolla una escena, algo no cuadra para alguien en la mesa, la partida tiene que ser detenida y las cosas se tienen que poner sobre la mesa y discutirse de tal manera que **todos estén en el mismo canal**.
 
-Una manera mediante la cual el DJ puede ayudar a que la mesa sea más segura para todas las personas es usando las herramientas de seguridad como la [**Tarjeta X**](https://docs.google.com/document/d/1SB0jsx34bWHZWbnNIVVuMjhDkrdFGo1_hSC2BWPlI3A/edit)  de John Stavropoulos, o la [**Caja de herramientas para el cambio de guión**](https://briebeau.itch.io/script-change) de Beau.
+Una manera mediante la cual el DJ puede ayudar a que la mesa sea más segura para todas las personas es usando las herramientas de seguridad como la [**Tarjeta X**](https://docs.google.com/document/d/1SB0jsx34bWHZWbnNIVVuMjhDkrdFGo1_hSC2BWPlI3A/edit) de John Stavropoulos, o la [**Caja de herramientas para el cambio de guión**](https://briebeau.itch.io/script-change) de Beau.
 
 Esto es muy importante y no tiene que tomarse a la ligera por ningún motivo. Todas las personas en la mesa tienen que sentirse seguras y cómodas.
 
@@ -106,7 +97,7 @@ Cuando cree un personaje nuevo, escriba en su hoja de personaje lo siguiente:
 > Una manera fácil de personalizar Charge es cambiando los `detalles` predeterminados de los personajes.
 > Hacerlo es una manera simple pero efectiva para reforzar qué es importante narrativamente en tu ambientación.
 >
->¿Son los PJ parte de una casta de nobles? ¿O están imbuidos mágicamente con cierto tipo de poderes?
+> ¿Son los PJ parte de una casta de nobles? ¿O están imbuidos mágicamente con cierto tipo de poderes?
 > Define los `detalles` alrededor de esos conceptos que apoyan aspectos importantes de la partida.
 >
 > Un personaje puede tener entre `2 y 5 detalles`.
@@ -211,7 +202,7 @@ Al inicio de la partida, los personajes inician con cero talentos. Obtienen esto
 
 # Mecánicas | Charge SRD
 
-En este juego, el DJ y los jugadores cuentan una historia y luego miran las reglas para ver si es necesario resolver algo usando la mecánica del juego.  No miras las reglas primero, miras la ficción primero.
+En este juego, el DJ y los jugadores cuentan una historia y luego miran las reglas para ver si es necesario resolver algo usando la mecánica del juego. No miras las reglas primero, miras la ficción primero.
 
 Mira estas mecánicas como una caja de herramientas para usar cuando las necesites. Éstas, existen para resolver situaciones donde no se conoce la respuesta directa a una pregunta.
 
@@ -223,7 +214,7 @@ El juego usa dados de seis caras. Lanzará varios de ellos en una sola tirada, a
 - Si el resultado del dado con más valor en la tirada es un `4 o 5`, eso es un `éxito parcial`. Haces lo que estabas tratando de hacer, pero hay una `consecuencia`.
 - Si el resultado del dado con más valor en la tirada es `1 y 3`, es un `mal resultado`. las cosas van mal. No consigues tu objetivo y sufres una `consecuencia`.
 
-_Si alguna vez necesita hacer una tirada pero no tiene ningún dado (o tiene un valor negativo) en su reserva de dados, tire dos dados y tome el resultado más bajo.  No puede sacar un crítico cuando se encuentra en la situación anterior._
+_Si alguna vez necesita hacer una tirada pero no tiene ningún dado (o tiene un valor negativo) en su reserva de dados, tire dos dados y tome el resultado más bajo. No puede sacar un crítico cuando se encuentra en la situación anterior._
 
 La mayor parte de la mecánica del juego gira en torno a esta mecánica básica.
 
@@ -309,7 +300,7 @@ Los PJ aprovecha su `impulso` para mejorar en sus acciones, ayudar a un aliado o
 
 ## Mejorar las Tiradas de Acción
 
-Si quieres, puedes añadir dados adicionales a tu acción usando  **uno** de los siguientes métodos.
+Si quieres, puedes añadir dados adicionales a tu acción usando **uno** de los siguientes métodos.
 
 ### Esforzándote
 
@@ -321,7 +312,7 @@ Cuando estás `esforzándote`, aprovechas `2 de impulso` **por esfuerzo** para o
 
 ### Añadir Tensión
 
-Cuando `añades tensión` a una tirada de acción, pregunta al DJ  _"¿Cómo podría añadir más tensión aquí?"_. Entonces, el DJ ofrece una `consecuencia`, como marcar segmentos en un reloj de peligro, infligir estrés a tu personaje, o añadir más drama a la narrativa.
+Cuando `añades tensión` a una tirada de acción, pregunta al DJ _"¿Cómo podría añadir más tensión aquí?"_. Entonces, el DJ ofrece una `consecuencia`, como marcar segmentos en un reloj de peligro, infligir estrés a tu personaje, o añadir más drama a la narrativa.
 
 Si aceptas la `consecuencia`, añades `+1d6` a tu reserva de dados actual.
 
@@ -334,7 +325,7 @@ Los PJ pueden ayudarse los unos a los otros de diferentes maneras para asegurar,
 ### Ayudar
 
 Cuando `ayuda` a un PJ, aprovechas
- `1 de impulso`, para que pueda añadir `+1d6` a su tirada. Al hacer esto, también se expone a un peligro.
+`1 de impulso`, para que pueda añadir `+1d6` a su tirada. Al hacer esto, también se expone a un peligro.
 
 ### Proteger
 
@@ -376,7 +367,7 @@ Construye una reserva de dados d6 agregando `+1d6` por cada carga de impulso que
 
 Una vez que decida cuántas cargas quiere aprovechar, tira los dados e interpreta los resultados:
 
--  Con un resultado en la tirada entre `1 y 3`, la `consecuencia` aún ocurre.
+- Con un resultado en la tirada entre `1 y 3`, la `consecuencia` aún ocurre.
 - Con un resultado en la tirada de `4 o 5`, la `consecuencia` se reduce.
 - Con un resultado en la tirada de `6`, la `consecuencia` se evita.
 - Con un resultado en la tirada de `doble 6`, la `consecuencia` se evita, y obtiene +1 de posición para su siguiente tirada.
@@ -399,7 +390,7 @@ Los relojes son círculos divididos en 4, 6 o 8 segmentos utilizados para medir 
 
 Generalmente, mientras más complejo es el problema, más segmentos tendrá el reloj.
 
- Cuando el PJ tenga éxito en una tirada de acción, puedes usar un `reloj de progreso` y:
+Cuando el PJ tenga éxito en una tirada de acción, puedes usar un `reloj de progreso` y:
 
 - Marcar 1 segmento por un `efecto limitado`.
 - Marca 2 segmentos por un `efecto estándar`.
@@ -421,11 +412,11 @@ A medida que se llena el reloj de estrés, también debe actualizar la `condici�
 
 La condición del personaje impone restricciones narrativas en cuanto a lo que el personaje puede o no puede hacer.
 
-Cuando los 4 segmentos de un `reloj de estrés` se llenan, el PJ se elimina de la escena y se borra su reloj de estrés.  Debido a que fue eliminado, las siguientes escenas deben manejar cómo sucederá la recuperación del personaje en la ficción.
+Cuando los 4 segmentos de un `reloj de estrés` se llenan, el PJ se elimina de la escena y se borra su reloj de estrés. Debido a que fue eliminado, las siguientes escenas deben manejar cómo sucederá la recuperación del personaje en la ficción.
 
 > #### Nota del Diseñador: Hackeando la Salud
 >
-> La salud en Charge es un recurso que se consume. Se representa con `reloj` que se llena cuando recibes estrés, y está relacionado con un detalle que cuando el reloj esté lleno por completo se convertirá en una nueva condición para el PJ. 
+> La salud en Charge es un recurso que se consume. Se representa con `reloj` que se llena cuando recibes estrés, y está relacionado con un detalle que cuando el reloj esté lleno por completo se convertirá en una nueva condición para el PJ.
 >
 > Si quieres, puedes tener otro tipo de recursos consumibles. Cosas como reputación, dinero, o incluso corrupción pueden ser representados usando un mecanismo similar.
 >
@@ -451,7 +442,7 @@ A medida que tu personaje mejora, también necesita actualizar su `condición` p
 
 A medida que la historia avanza con el tiempo, también lo hacen los personajes jugadores.
 
-Al final de cada sesión, los jugadores pueden actualizar los `detalles` de sus personajes para representar cómo han avanzado en el transcurso de la sesión. 
+Al final de cada sesión, los jugadores pueden actualizar los `detalles` de sus personajes para representar cómo han avanzado en el transcurso de la sesión.
 
 Cuando un gran evento concluye en la historia, el DJ puede decidir recompensar al grupo con un `hito`. Los jugadores pueden utilizar esos hitos para mejorar en sus respectivos `árboles de talento` para hacer a sus personajes más fuertes y versátiles.
 
@@ -526,7 +517,7 @@ Si el DJ siente que tiene sentido, puede crear un `reloj de progreso` para repre
 >
 > Por cada fuerza que cree, defina cuál es su `objetivo`. Su objetivo es definir el impacto que la fuerza tendrá en el mundo. Un objetivo no es necesariamente bueno o malo, es simplemente lo que la fuerza quiere lograr. También puede ser considerado "bueno" por la propia Fuerza, pero otros pueden tener una opinión diferente sobre el tema.
 >
-> Por último, defina entre  2 y 3 `métodos` que la fuerza utilizará para interactuar con el mundo con la esperanza de lograr su objetivo.
+> Por último, defina entre 2 y 3 `métodos` que la fuerza utilizará para interactuar con el mundo con la esperanza de lograr su objetivo.
 >
 > Aquí hay un ejemplo de cómo podría verse una fuerza del mundo:
 >
@@ -546,17 +537,17 @@ Aquí hay un par de consejos y recomendaciones que debes leer antes de comenzar 
 
 ## Para el DJ
 
-- **Ser un fan de los jugadores.** No estás allí para atraparlos o verlos perder.  Usted está allí para ayudar a facilitar una historia interesante.  ¡Esté al filo de su butaca cuando estos sean desafiados y anímelos cuando tengan éxito!
-- **No planee, juegue.** No necesitas pasar horas planeando todos los detalles de cada sesión.  Ningún plan sobrevive a un encuentro con los jugadores, así que ahórrate algo de tiempo y juega para descubrir qué sucede en su lugar.
-- **En caso de duda, haga preguntas.** Los jugadores tienen toneladas de ideas maravillosas si solo las escuchas.  Está bien no saber de todo.  Haz preguntas a tus jugadores y llena el mundo con sus respuestas.
-- **Esto es un juego, no una simulación.** Todo el mundo está aquí para divertirse, así que trata de mantenerte alejado del hiperrealismo.  Si se ve genial y parece que podría ser posible, deja que los jugadores lo intenten.  Los dados te guiarán hacia el resto de la historia.
+- **Ser un fan de los jugadores.** No estás allí para atraparlos o verlos perder. Usted está allí para ayudar a facilitar una historia interesante. ¡Esté al filo de su butaca cuando estos sean desafiados y anímelos cuando tengan éxito!
+- **No planee, juegue.** No necesitas pasar horas planeando todos los detalles de cada sesión. Ningún plan sobrevive a un encuentro con los jugadores, así que ahórrate algo de tiempo y juega para descubrir qué sucede en su lugar.
+- **En caso de duda, haga preguntas.** Los jugadores tienen toneladas de ideas maravillosas si solo las escuchas. Está bien no saber de todo. Haz preguntas a tus jugadores y llena el mundo con sus respuestas.
+- **Esto es un juego, no una simulación.** Todo el mundo está aquí para divertirse, así que trata de mantenerte alejado del hiperrealismo. Si se ve genial y parece que podría ser posible, deja que los jugadores lo intenten. Los dados te guiarán hacia el resto de la historia.
 
 ## Para los Jugadores
 
-- **Que cada uno tenga su momento.** Todos disfrutan cuando su personaje hace algo genial y el centro de atención está sobre ellos.  Entonces, por esa razón, ¡trate de asegurarse de que todos en la mesa tengan una buena cantidad de tiempo para captar la atención!
-- **Eres un creador, no un simple espectador.** El DJ ayudará a guiar la historia, pero tú formas parte del proceso de creación tanto como el DJ.  Adopte este control narrativo y llene el mundo con sus ideas.
-- **Toma riesgos.** Esto no es como la vida real, puedes jugar peligrosamente.  Lo único que saldrá de ti al hacerlo es una historia fantástica.  No tengas miedo de involucrarte con la ficción.
-- **Levántate.** Cuando tu personaje realiza acciones, pueden fallar o pueden surgir consecuencias.  Pero está bien, el fracaso y las consecuencias hacen que la historia sea más interesante.  Cuando al principio no tenga éxito, vuelva a levantarse y vuelva a intentarlo utilizando un nuevo enfoque.
+- **Que cada uno tenga su momento.** Todos disfrutan cuando su personaje hace algo genial y el centro de atención está sobre ellos. Entonces, por esa razón, ¡trate de asegurarse de que todos en la mesa tengan una buena cantidad de tiempo para captar la atención!
+- **Eres un creador, no un simple espectador.** El DJ ayudará a guiar la historia, pero tú formas parte del proceso de creación tanto como el DJ. Adopte este control narrativo y llene el mundo con sus ideas.
+- **Toma riesgos.** Esto no es como la vida real, puedes jugar peligrosamente. Lo único que saldrá de ti al hacerlo es una historia fantástica. No tengas miedo de involucrarte con la ficción.
+- **Levántate.** Cuando tu personaje realiza acciones, pueden fallar o pueden surgir consecuencias. Pero está bien, el fracaso y las consecuencias hacen que la historia sea más interesante. Cuando al principio no tenga éxito, vuelva a levantarse y vuelva a intentarlo utilizando un nuevo enfoque.
 
 # Extras | Extras
 
@@ -643,7 +634,7 @@ El DJ puede usar esos ganchos para crear hilos narrativos para que los PJ explor
 - **Rey**: [sugerencia] 
 </details>
 
-Una vez que se toman las 3 cartas, el DJ usa las sugerencias de las dos primeras para explicar lo que pasó mientras los PJs estaban fuera.  Los PJs pueden dedicar tiempo a explorar esos hilos como mejor les parezca.
+Una vez que se toman las 3 cartas, el DJ usa las sugerencias de las dos primeras para explicar lo que pasó mientras los PJs estaban fuera. Los PJs pueden dedicar tiempo a explorar esos hilos como mejor les parezca.
 
 Cuando los PJ están listos para su próxima misión, el DJ hace una `tirada de misión`.
 
@@ -651,7 +642,7 @@ Para ello, el DJ mira las 3 cartas que ha tomado, y junta una reserva de dados t
 
 Si no saco alguna carta roja, tira `2d6`, y elige el resultado más bajo entre los dos dados.
 
-El resultado de esta tirada nos dice cuál va a ser la `posición ` inicial en la que se encontrarán los personajes al inicio de la siguiente misión. 
+El resultado de esta tirada nos dice cuál va a ser la `posición ` inicial en la que se encontrarán los personajes al inicio de la siguiente misión.
 
 - Con resultado en la tirada entre `1 y 3`, los PJ comienzan en una posición `desesperada`.
 - Con resultado en la tirada de `4 o 5`, los PJ inician en una posición `arriesgada`.
@@ -672,7 +663,7 @@ Un `accesorio` es un `detalle` del personaje que puede elegir perder temporalmen
 
 Sin embargo, esto sólo se puede hacer cuando tiene sentido narrativo, y ese `accesorio` particular no se puede usar hasta que se tome el tiempo para repararlo o volver a adquirirlo.
 
-Para readquirir o reparar un `accesorio`, el PJ necesita iniciar un 'reloj de progreso del proyecto` y marcarlo en su hoja de personaje.  El reloj comienza en 4 segmentos, pero puede tener más segmentos si el accesorio es complicado de reparar, si está muy dañado o si es difícil de recuperar.
+Para readquirir o reparar un `accesorio`, el PJ necesita iniciar un 'reloj de progreso del proyecto` y marcarlo en su hoja de personaje. El reloj comienza en 4 segmentos, pero puede tener más segmentos si el accesorio es complicado de reparar, si está muy dañado o si es difícil de recuperar.
 
 Para progresar en el proyecto, un personaje solo puede tirar para reparar un `accesorio` "roto" cuando tienen la cantidad adecuada de tiempo libre.
 
@@ -704,4 +695,3 @@ Si quieres, también puedes incluir las siguientes imágenes en tu juego para de
 # Créditos
 
 Este trabajo está basado en Blades in the Dark (encuentralo en: [http://www.bladesinthedark.com/](https://www.bladesinthedark.com/)), producto de One Seven Design, desarrollado y escrito por John Harper, y con licencia para nuestro uso bajo la licencia Creative Commons Attribution 3.0 Unported ([http://creativecommons.org/licenses/by/3.0/](https://creativecommons.org/licenses/by/3.0/)).
-

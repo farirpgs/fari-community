@@ -1,9 +1,3 @@
----
-fonts: https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;700&display=swap,https://fonts.googleapis.com/css2?family=Quattrocento:wght@400;700&display=swap
-headingFont: Oswald
-textFont: Quattrocento
----
-
 # Second Guess System
 
 > Second Guess System by William Lentz is licensed under CC BY 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/

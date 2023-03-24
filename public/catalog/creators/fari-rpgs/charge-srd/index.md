@@ -1,12 +1,3 @@
----
-fonts: https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;700&display=swap
-headingFont: Oswald
-textFont: inherit
-highlightFont: Oswald
-headingUppercase: true
-languages: en,fr,es
----
-
 # Introductions | Charge SRD
 
 The Charge SRD is a condensed version of the rules of Charge RPG that you can use to make your own **Powered by Charge** games.

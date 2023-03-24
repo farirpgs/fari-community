@@ -9,5 +9,11 @@ export default function getData(): IProjectData {
     links: {
       itchIo: "https://ratwavegamehouse.itch.io/the-fight-card-system",
     },
+    headingFont: "Bebas Neue",
+    headingUppercase: true,
+
+    css: `
+    @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+    `,
   };
 }

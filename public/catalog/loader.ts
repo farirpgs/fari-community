@@ -183,12 +183,17 @@ export type IProjectData = {
   name: string;
   description?: string;
   links?: Record<string, string>;
+  fonts?: Array<string>;
+  headingFont?: string;
+  textFont?: string;
+  headingUppercase?: boolean;
+  css?: string;
 };
 
 export type IProject = {
   projectSlug: string;
   image?: string;
-  data: ICreatorData | undefined;
+  data: IProjectData | undefined;
 };
 
 export type ILoaderFunction<T> = { default: () => T };

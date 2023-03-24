@@ -1,11 +1,3 @@
----
-fonts: https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;700&display=swap,https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;700&display=swap
-headingFont: Raleway
-highlightFont: Raleway
-textFont: Source Sans Pro
-headingUppercase: true
----
-
 # Trophy System Reference Document
 
 The Trophy System Reference Document (SRD) contains the core mechanics of Trophy. The contents of the SRD are available for use under the Creative Commons Attribution 4.0 (CC-BY) License: https://creativecommons.org/licenses/by/4.0/
@@ -13,7 +5,6 @@ The Trophy System Reference Document (SRD) contains the core mechanics of Trophy
 To give proper credit, add the following after your own copyright, and in the same size as your copyright:
 
 This work is based on Trophy (trophyrpg.com), product of Jesse Ross and Hedgemaze Press, and licensed for our use under the Creative Commons Attribution 4.0 License (https://creativecommons.org/licenses/by/4.0/). Trophy is adapted from Cthulhu Dark with permission of Graham Walmsley. Trophy is also based on Blades in the Dark (found at http://www.bladesinthedark.com/), product of One Seven Design, developed and authored by John Harper, and licensed for our use under the Creative Commons Attribution 3.0 Unported license (http://creativecommons.org/licenses/by/3.0/).
-
 
 # Risk Roll
 
@@ -27,32 +18,29 @@ Add a dark-colored die if you are willing to risk your character's mind or body 
 
 Roll the dice. If your highest die is a:
 
-
-- `1-3:`  Your character fails, and things get worse. The GM describes how. The GM may also allow your character to succeed, but things will get worse in some other way. 
-- `4-5:`  Your character succeeds, but there's some kind of complication. The GM describes the complication, then you describe how your character succeeds.               
-- `6:`  Your character succeeds. Describe how.                                                                                                                          
+- `1-3:` Your character fails, and things get worse. The GM describes how. The GM may also allow your character to succeed, but things will get worse in some other way.
+- `4-5:` Your character succeeds, but there's some kind of complication. The GM describes the complication, then you describe how your character succeeds.
+- `6:` Your character succeeds. Describe how.
 
 If your highest die is a dark die (or if a dark and light die tied for highest), and the dark die is higher than your current Ruin, add 1 to your Ruin. When you do, work with the GM to describe how the forest warps your mind and body.
 
 If you are unhappy with your roll and any dark die in the roll isn't the highest die, you may add a dark die to your dice pool and re-roll them all. You may keep adding a dark die and re-rolling until you're satisfied with your result or until a dark die is the highest die in your roll.
 
-
 # Devil's Bargains
 
 The GM or any other player can offer you a bonus light die if you accept a Devil's Bargain. Common Devil's Bargains include:
 
- - Your character causes collateral damage or unintended harm.
- - Your character gets lost or separated from their companions.
- - Your character sacrifices an important item.
- - Your character betrays a companion.
- - Your character attracts unwanted attention.
+- Your character causes collateral damage or unintended harm.
+- Your character gets lost or separated from their companions.
+- Your character sacrifices an important item.
+- Your character betrays a companion.
+- Your character attracts unwanted attention.
 
 The Devil's Bargain occurs regardless of the outcome of the roll. You make the deal, pay the price, and get the bonus die.
 
 The Devil's Bargain is always a free choice. If you don't like one, just reject it (or suggest how to alter it so you might consider taking it). You can always just risk your character's mind or body and take a dark die instead.
 
 Anyone may veto or suggest alterations to a proposed Devil's Bargain, especially if it would also impact their character.
-
 
 # Help Roll
 
@@ -61,7 +49,6 @@ If a player's dice pool includes one dark die, you may offer help to improve the
 You may only suffer a maximum of 1 Ruin when helping on a roll. This is particularly relevant when a player re-rolls a Risk Roll. The helping player doesn't re-roll their light die. However, you still increase your Ruin by 1 if any re-rolled dice show the same number as your light die (provided you haven't increased Ruin by 1 already).
 
 More than one player may offer to help, in which case each player rolls their own light die. The helped player can incorporate all of the light dice into their own Risk Roll.
-
 
 # Hunt Roll
 
@@ -82,7 +69,6 @@ Spend 1 token to find something valuable.
 
 Spend 3 tokens to achieve your goal.
 
-
 # Combat Roll
 
 When you attempt to defeat a monster of the forest, you may combine efforts with your companions.
@@ -99,7 +85,6 @@ If any of the dark dice equals your Weak Point, your character's Ruin increases 
 
 If the two highest dark dice are less than the monster's Endurance and you wish to continue the attack, add one more dark die and re-roll all the dark dice. You may keep adding a dark die and re-rolling until the total of the two highest dark dice is equal to or higher than the Endurance, or until you give up the fight. Retreating from an incomplete fight may trigger Risk Rolls or other consequences.
 
-
 # Ruin Roll
 
 Your Ruin shows how much physical and mental harm your character has suffered. It starts at 1.
@@ -107,7 +92,6 @@ Your Ruin shows how much physical and mental harm your character has suffered. I
 When your character witnesses or undergoes something disturbing, make a Ruin Roll by rolling one dark die. If you've made a Risk Roll which includes a dark die, and that die is equal to or higher than your highest light die in that roll, your dark die is automatically considered a Ruin Roll.
 
 If you rolled higher than your current Ruin, increase your Ruin by 1 and work with the GM to describe how the forest warps your mind and body.
-
 
 # Reduction Roll
 
@@ -119,10 +103,8 @@ If you rolled less than your current Ruin, your betrayal goes unnoticed and you 
 
 You may continue reducing your Ruin in this way when your Ruin drops below 5, until you have 1 Ruin.
 
-
 # Losing Your Character
 
 When your Ruin reaches 6, your character is lost. This is an important moment: Everyone focuses on your character's last flashes of lucidity before they run away or turn against their companions.
 
 The GM may allow you to take on a co-GM role, helping describe the terrors of the worldâ€”especially any terrors that directly connect to your now-lost character.
-

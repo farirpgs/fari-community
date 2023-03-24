@@ -67,10 +67,12 @@ export function Project(props: {
   return (
     <Container maxWidth="container.xl" pt="32">
       <style
+        className="fari-doc-style"
         dangerouslySetInnerHTML={{
-          __html: props.doc.style,
+          __html: props.project.data?.css ?? "",
         }}
       />
+
       <Stack
         mb="4"
         direction="row"
@@ -156,7 +158,24 @@ export function Project(props: {
           >
             <Stack spacing={4}>
               <Prose>
-                <Box>
+                <Box
+                  sx={{
+                    "& *": {
+                      fontFamily: props.project.data?.textFont
+                        ? `${props.project.data?.textFont} !important`
+                        : undefined,
+                    },
+                    "& h1,h2,h3,h4,h5,h6": {
+                      fontFamily: props.project.data?.headingFont
+                        ? `${props.project.data?.headingFont} !important`
+                        : undefined,
+
+                      textTransform: props.project.data?.headingUppercase
+                        ? "uppercase"
+                        : "none",
+                    },
+                  }}
+                >
                   <h1>
                     {
                       props.doc.pages.find(

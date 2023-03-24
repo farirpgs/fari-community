@@ -1,11 +1,3 @@
----
-fonts: https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;700&display=swap
-headingFont: Oswald
-textFont: inherit
-highlightFont: Oswald
-headingUppercase: true
----
-
 # Introductions
 
 Dash is a condensed version of Charge that fits on a half fold brochure. With this new and streamlined format, it has never been easier to get started with Charge!

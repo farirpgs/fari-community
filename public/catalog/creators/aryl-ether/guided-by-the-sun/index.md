@@ -1,9 +1,3 @@
----
-fonts: https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@300;400;500;700&display=swap,https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@300;400;500;700&family=Libre+Baskerville:wght@400;700&display=swap
-headingFont: Grenze Gotisch
-textFont: Libre Baskerville
----
-
 # Guided by the Sun
 
 ## Introduction

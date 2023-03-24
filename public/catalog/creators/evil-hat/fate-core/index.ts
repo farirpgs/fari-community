@@ -9,5 +9,14 @@ export default function getData(): IProjectData {
       itchIo: "https://evilhat.itch.io/fate-core",
       driveThru: "https://www.drivethrurpg.com/product/114903/Fate-Core-System",
     },
+    css: `
+@font-face {
+  font-family: "fate";
+  src: url("/fonts/FateCore.ttf");
+}
+article fate {
+  font-family: fate;
+} 
+`,
   };
 }

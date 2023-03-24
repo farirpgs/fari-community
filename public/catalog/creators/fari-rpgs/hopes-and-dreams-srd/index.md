@@ -1,29 +1,3 @@
----
-headingFont: Poppins
-textFont: Poppins
----
-
-<style>
-article h2{
-    text-transform: uppercase !important;
-    background: #000;
-    color: #fff;
-    padding: .5rem 1rem;
-    margin-bottom: 0 !important;
-}
-article h2 .anchor{
-    color: #fff !important;
-}
-article h3 {
-    font-style: italic;
-    font-weight: 900;
-}
-article blockquote p {
-    font-style: italic !important;
-    font-weight: bold !important;
-}
-</style>
-
 # Hopes & Dreams SRD
 
 ![](https://gyazo.com/c2c009c2ccdbb0d853275d573ec41ce6.png)

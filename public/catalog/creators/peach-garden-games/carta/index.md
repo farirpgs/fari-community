@@ -1,8 +1,3 @@
----
-fonts: https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap
-headingFont: Architects Daughter
----
-
 # Welcome to Carta!
 
 Carta SRD is built for making games about exploration. The idea is that players lay cards out in a grid , and then turn them over one at a time, exploring prompts and mechanics as they do. The game is a sort of boardgame / storygame hybrid, where players explore journaling prompts by physically moving their marker from card to card and looking up the results. It can have a definite goal, making it more boardgame-like, or it can be more nebulous and story-focused.
@@ -219,7 +214,7 @@ It might help to divide your work by assigning themes to the four suits. You mig
 > - J of Hearts: Poetry, thoughtfulness
 > - Q of Hearts: Kindness, gentleness
 > - K of Hearts: Mastery of emotion, of love.
-  
+
 > - A of Clubs: Something new and exciting
 > - 2 of Clubs: Balance, opposition
 > - 3 of Clubs: Opportunity, acknowledgment
@@ -233,7 +228,7 @@ It might help to divide your work by assigning themes to the four suits. You mig
 > - J of Clubs: Fury, temper
 > - Q of Clubs: Passion, inspiration
 > - K of Clubs: Mastery of courage, of action
-  
+
 > - A of Diamonds: Something new that will grow
 > - 2 of Diamonds: Harmony, coexisting
 > - 3 of Diamonds: Good work, expertise, artisanship

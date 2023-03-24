@@ -10,5 +10,14 @@ export default function getData(): IProjectData {
       driveThru:
         "https://www.drivethrurpg.com/product/114902/Fate-Accelerated-Edition-o-A-Fate-Core-Build",
     },
+    css: `
+@font-face {
+  font-family: "fate";
+  src: url("/fonts/FateCore.ttf");
+}
+article fate {
+  font-family: fate;
+} 
+`,
   };
 }

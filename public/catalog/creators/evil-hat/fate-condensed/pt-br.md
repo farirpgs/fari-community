@@ -1,17 +1,3 @@
----
-languages: en,pt-br
----
-
-<style>
-@font-face {
-  font-family: "fate";
-  src: url("/fonts/FateCore.ttf");
-}
-article fate {
-  font-family: fate;
-} 
-</style>
-
 # Fate Condensed
 
 Fate Condensed © 2020 Evil Hat Productions, LLC.

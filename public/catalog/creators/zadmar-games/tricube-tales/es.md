@@ -1,9 +1,3 @@
----
-fonts: https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;700&display=swap
-headingFont: Crimson Text
-languages: en,es
----
-
 # Autoría
 
 Redacción y maquetación original

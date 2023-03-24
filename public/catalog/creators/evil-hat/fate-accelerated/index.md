@@ -1,13 +1,3 @@
-<style>
-  @font-face {
-  font-family: "fate";
-  src: url("/fonts/FateCore.ttf");
-}
-  article fate {
-    font-family: fate;
-  } 
-</style>
-
 # Fate Accelerated
 
 Let’s face it: most roleplaying games aren’t grab-and-go. Giant books and prep work out the ying-yang can be fun if you’ve got the time, but what if you don’t? What if you’re looking for a last minute game? What if you’re new to the RPG world and want a no hassle way to try one out? What if you’re introducing your kids to RPGs and want something easily accessible for them that won’t bore you to tears? We’ve got a solution: **Fate Accelerated Edition**.

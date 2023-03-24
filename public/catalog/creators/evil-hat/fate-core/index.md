@@ -1,13 +1,3 @@
-<style>
-  @font-face {
-  font-family: "fate";
-  src: url("/fonts/FateCore.ttf");
-}
-fate {
-  font-family: fate;
-} 
-</style>
-
 # Fate Core
 
 Grab your plasma rifles, spell components, and jetpacks! Name your game; **Fate Core** is the foundation that can make it happen. **Fate Core** is a flexible system that can support whatever worlds you dream up.

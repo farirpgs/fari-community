@@ -10,5 +10,9 @@ export default function getData(): IProjectData {
         "https://itch.io/c/1589928/tricube-tales-one-page-rpgs-micro-settings",
       driveThru: "https://www.drivethrurpg.com/product/294202/Tricube-Tales",
     },
+    headingFont: "Crimson Text",
+    css: `
+    @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;700&display=swap');
+    `,
   };
 }

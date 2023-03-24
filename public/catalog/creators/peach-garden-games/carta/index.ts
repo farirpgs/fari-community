@@ -7,5 +7,9 @@ export default function getData(): IProjectData {
     links: {
       itchIo: "https://peachgardengames.itch.io/carta-srd",
     },
+    headingFont: "Architects Daughter",
+    css: `
+    @import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+    `,
   };
 }

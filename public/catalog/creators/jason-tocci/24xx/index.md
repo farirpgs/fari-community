@@ -1,25 +1,6 @@
----
-fonts: https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap,https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@300;400;500;700&display=swap
-headingFont: Barlow Condensed
-textFont: Roboto
-highlightFont: Barlow Condensed
-headingUppercase: true
----
-
-<style>
-article .rolling-table-2 {
-  columns: 2;
-  column-gap: .5rem;
-}
-article .rolling-table-5 {
-  columns: 5;
-  column-gap: .5rem;
-}
-</style>
+# Rules
 
 Text by Jason Tocci under a Creative Commons Attribution 4.0 license (CC BY 4.0)
-
-# Rules
 
 ## Play
 

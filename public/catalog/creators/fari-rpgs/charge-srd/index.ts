@@ -8,5 +8,10 @@ export default function getData(): IProjectData {
     links: {
       itchIo: "https://fari-rpgs.itch.io/charge-srd",
     },
+    headingFont: "Oswald",
+    headingUppercase: true,
+    css: `
+    @import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+    `,
   };
 }

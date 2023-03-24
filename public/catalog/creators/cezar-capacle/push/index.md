@@ -1,11 +1,3 @@
----
-fonts: https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed&family=Text+Me+One&display=swap
-headingFont: Text Me One
-textFont: Barlow Semi Condensed
-highlightFont: Text Me One
-headingUppercase: true
----
-
 # Overview
 
 ## The 5-minute version
