@@ -18,9 +18,9 @@ Add a dark-colored die if you are willing to risk your character's mind or body 
 
 Roll the dice. If your highest die is a:
 
-- `1-3:` Your character fails, and things get worse. The GM describes how. The GM may also allow your character to succeed, but things will get worse in some other way.
-- `4-5:` Your character succeeds, but there's some kind of complication. The GM describes the complication, then you describe how your character succeeds.
-- `6:` Your character succeeds. Describe how.
+- **1-3:** Your character fails, and things get worse. The GM describes how. The GM may also allow your character to succeed, but things will get worse in some other way.
+- **4-5:** Your character succeeds, but there's some kind of complication. The GM describes the complication, then you describe how your character succeeds.
+- **6:** Your character succeeds. Describe how.
 
 If your highest die is a dark die (or if a dark and light die tied for highest), and the dark die is higher than your current Ruin, add 1 to your Ruin. When you do, work with the GM to describe how the forest warps your mind and body.
 
@@ -60,10 +60,10 @@ Take another light die if you have a Skill or piece of equipment that would make
 
 Roll the dice. If your highest die is a:
 
-- `1:` You lose all your tokens, and encounter something terrible.
-- `2-3:` You encounter something terrible.
-- `4-5:` Take 1 token, but you encounter something terrible.
-- `6:` Take 1 token.
+- **1:** You lose all your tokens, and encounter something terrible.
+- **2-3:** You encounter something terrible.
+- **4-5:** Take 1 token, but you encounter something terrible.
+- **6:** Take 1 token.
 
 Spend 1 token to find something valuable.
 

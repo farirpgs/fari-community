@@ -15,9 +15,9 @@ On peut l'utiliser comme un aide-mémoire pour Charge, mais c'est aussi un tremp
 
 ## Traduction par
 
-| Name         | Discord        | Twitter                                      | Itch                              |
-| :----------- | :------------- | :------------------------------------------- | :-------------------------------- |
-| `Bruno Bord` | brunobord#8075 | [@brunobord](https://twitter.com/brunobord/) | [Link](https://brunobord.itch.io) |
+| Name           | Discord        | Twitter                                      | Itch                              |
+| :------------- | :------------- | :------------------------------------------- | :-------------------------------- |
+| **Bruno Bord** | brunobord#8075 | [@brunobord](https://twitter.com/brunobord/) | [Link](https://brunobord.itch.io) |
 
 # Le jeu
 

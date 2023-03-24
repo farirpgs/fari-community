@@ -43,23 +43,30 @@ export function Project(props: {
 
       const anchor = document.createElement("a");
       anchor.setAttribute("href", `#${heading.id}`);
-      anchor.style.position = "absolute";
-      anchor.style.left = "-2rem";
       anchor.style.opacity = "0";
       anchor.style.transition = "opacity 0.1s ease-in-out";
       anchor.innerHTML = "#";
+      const spacer = document.createElement("span");
+      spacer.innerHTML = "&nbsp;&nbsp;";
 
       const existingAnchor = heading.querySelector("a");
       if (existingAnchor) {
         existingAnchor.remove();
       }
+      const existingSpacer = heading.querySelector("span");
+      if (existingSpacer) {
+        existingSpacer.remove();
+      }
+
+      heading.style.display = "inline-block";
       heading.addEventListener("mouseover", () => {
-        anchor.style.opacity = "1";
+        anchor.style.opacity = ".5";
       });
       heading.addEventListener("mouseout", () => {
         anchor.style.opacity = "0";
       });
 
+      heading.appendChild(spacer);
       heading.appendChild(anchor);
     });
   }, []);

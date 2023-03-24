@@ -433,21 +433,21 @@ As your character gets better, you also need to update your _condition_ to repre
 
 As the story progresses over time, so do the player characters.
 
-At the end of every session, players can update their character's `details` to represent how they've grown over the course of the session.
+At the end of every session, players can update their character's **details** to represent how they've grown over the course of the session.
 
-When a big event is concluded in the story, the GM can decide to award the group a `milestone`. Players invest those milestones in their respective `talent tree` to make their characters stronger and more versatile.
+When a big event is concluded in the story, the GM can decide to award the group a **milestone**. Players invest those milestones in their respective **talent tree** to make their characters stronger and more versatile.
 
-A `talent` either gives a new `action dot` to invest in a character's `actions`, or a new `situational talent` which gives a temporary boost to their character in specific circumstances.
+A **talent** either gives a new **action dot** to invest in a character's **actions**, or a new **situational talent** which gives a temporary boost to their character in specific circumstances.
 
-When a player gets a `situational talent`, they need to decide on a specific situation that activates the talent. The player chooses what they think works best for their character and note their decisions by filling in the blanks on their character sheet. For inspiration look at what has already been established in the world, and pick something that makes your character shine.
+When a player gets a **situational talent**, they need to decide on a specific situation that activates the talent. The player chooses what they think works best for their character and note their decisions by filling in the blanks on their character sheet. For inspiration look at what has already been established in the world, and pick something that makes your character shine.
 
 > #### Designer Note: Hacking Progression
 >
-> The longer it takes for a `milestone` to happen, the longer it will take for characters to become stronger.
+> The longer it takes for a **milestone** to happen, the longer it will take for characters to become stronger.
 >
 > This is important to keep in mind depending on what kind of progression curve you want to have.
 >
-> Do you want to have a short campaign where characters will grow stronger pretty quickly, or are you looking for a year-spanning one where the characters will mostly evolve by changing their character `details` and where milestones will be more scarce?
+> Do you want to have a short campaign where characters will grow stronger pretty quickly, or are you looking for a year-spanning one where the characters will mostly evolve by changing their character **details** and where milestones will be more scarce?
 >
 > You could go as low as giving the player character only 2-3 Talents during an entire campaign, or reward them more often.
 >
@@ -552,7 +552,7 @@ Here are a couple of tips and tricks you should read before you start playing th
 
 During sessions, the PCs will go on missions to accomplish objectives. They will then come back to their H.Q. to debrief, rest and recover.
 
-At the start of the game, or **every time the PCs come back to their H.Q.**, the GM draws **3 `hook cards`** of a standard deck of playing cards.
+At the start of the game, or **every time the PCs come back to their H.Q.**, the GM draws **3 **hook cards\*\*\*\* of a standard deck of playing cards.
 
 - The first card tells us about something related to [Theme #1].
 - The second card tells us about something related to [Theme #2].
@@ -627,18 +627,18 @@ The GM can use those hooks to create narrative threads for the PCs to explore an
 
 Once the 3 cards are drawn, the GM uses the prompts on the first two to explain what happened while the PCs were away. The PCs can then spend time exploring those threads as they see fit.
 
-When the PCs are ready for their next mission, the GM makes a `mission roll`.
+When the PCs are ready for their next mission, the GM makes a **mission roll**.
 
-To do so, the GM looks at the 3 cards they've drawn, and builds a dice pool of `1d6` for each red card (<span style="color:red">♥ ♦</span>).
+To do so, the GM looks at the 3 cards they've drawn, and builds a dice pool of **1d6** for each red card (<span style="color:red">♥ ♦</span>).
 
-If there's no red card, roll `2d6`, and select the lowest number.
+If there's no red card, roll **2d6**, and select the lowest number.
 
-The result of this roll tells us what is going to be the initial `risk` the PCs will find themselves in when starting their next mission.
+The result of this roll tells us what is going to be the initial **risk** the PCs will find themselves in when starting their next mission.
 
-- On a `1-3`, the PCs start in a `high risk` position.
-- On a `4-5`, the PCs start in a `moderate risk` position.
-- On a `6`, the PCs start in a `low risk` position.
-- On a `66`, the PCs start in a `low risk` position, and gain some additional benefit.
+- On a **1-3**, the PCs start in a **high risk** position.
+- On a **4-5**, the PCs start in a **moderate risk** position.
+- On a **6**, the PCs start in a **low risk** position.
+- On a **66**, the PCs start in a **low risk** position, and gain some additional benefit.
 
 The GM introduces the mission to the PCs, and they decide how they will approach the situation.
 
@@ -648,17 +648,17 @@ Once the mission is over, the PCs go back to their H.Q., and the loop starts ane
 
 # Attachment Extra | Extras
 
-Characters are defined using `details` to represent who they are, what they are like and who they are linked to. By default, `details` don't have any mechanical uses in the game apart from providing narrative liberties.
+Characters are defined using **details** to represent who they are, what they are like and who they are linked to. By default, **details** don't have any mechanical uses in the game apart from providing narrative liberties.
 
-An `attachment` is a character `detail` that you can choose to temporarily lose to resist an incoming `consequence`. If you want to resist a `consequence`, but don’t want to make a `determination roll`, you can decide to break one of your `attachments`. Doing so cancels the consequence outright.
+An **attachment** is a character **detail** that you can choose to temporarily lose to resist an incoming **consequence**. If you want to resist a **consequence**, but don’t want to make a **determination roll**, you can decide to break one of your **attachments**. Doing so cancels the consequence outright.
 
-However, this can only be done when it makes sense narratively, and that particular `attachment` cannot be used until time is taken to repair or reacquire it.
+However, this can only be done when it makes sense narratively, and that particular **attachment** cannot be used until time is taken to repair or reacquire it.
 
-To reacquire or repair an `attachment`, the PC needs to start a `project progress clock` and track it on their character sheet. The clock starts at 4 segments, but may have more segments if the attachment is complicated to repair, if it was heavily damaged, or if it is difficult to reacquire.
+To reacquire or repair an **attachment**, the PC needs to start a **project progress clock** and track it on their character sheet. The clock starts at 4 segments, but may have more segments if the attachment is complicated to repair, if it was heavily damaged, or if it is difficult to reacquire.
 
-To make progress on the project, a character may only roll to repair a "broken" `attachment` when they have the appropriate amount of downtime.
+To make progress on the project, a character may only roll to repair a "broken" **attachment** when they have the appropriate amount of downtime.
 
-Once the project is completed, the character is permitted to use the `attachment` in the fiction, and is allowed to block a new `consequence` by breaking it once again.
+Once the project is completed, the character is permitted to use the **attachment** in the fiction, and is allowed to block a new **consequence** by breaking it once again.
 
 # Licencing
 

@@ -36,11 +36,11 @@ When a character is acting and there is risk to that action, they roll dice. The
 
 > On a:
 >
-> ♢ `1-2`: The action fails and there is a consequence
+> ♢ **1-2**: The action fails and there is a consequence
 >
-> ♢ `3-4`: The action succeeds, but there is a complication
+> ♢ **3-4**: The action succeeds, but there is a complication
 >
-> ♢ `5-6`: The action succeeds with no problems
+> ♢ **5-6**: The action succeeds with no problems
 
 That’s it, that’s how 90% of the game works. Let me show you an example.
 

@@ -14,7 +14,7 @@ _**Ice Breaker.**_ The beak is the most durable part of a draguin. While primari
 >
 > ### Aspects
 >
-> `Ferocious` • `Can swim AND fly` • `Excitable` • `Cold weather conditioning`
+> **Ferocious** • **Can swim AND fly** • **Excitable** • **Cold weather conditioning**
 >
 > ### Skills
 >
@@ -71,7 +71,7 @@ _**Lucrative.**_ While most people avoid a run in with a night spine when they c
 >
 > ### Aspects
 >
-> `Large spiny herbivore` • `Immobile / immovable`
+> **Large spiny herbivore** • **Immobile / immovable**
 >
 > ### Skills
 >
@@ -116,7 +116,7 @@ _**Unknown Origin.**_ No one knows for sure where the first seeds for these sold
 >
 > ### Aspects
 >
-> `Flammable` • `Primitive thought`
+> **Flammable** • **Primitive thought**
 >
 > ### Skills
 >
@@ -136,7 +136,7 @@ _**Unknown Origin.**_ No one knows for sure where the first seeds for these sold
 >
 > ### Aspects
 >
-> `Flammable` • `Primitive thought`
+> **Flammable** • **Primitive thought**
 >
 > ### Skills
 >
@@ -162,7 +162,7 @@ _**Unknown Origin.**_ No one knows for sure where the first seeds for these sold
 >
 > ### Aspects
 >
-> `Flammable` • `Primitive thought`
+> **Flammable** • **Primitive thought**
 >
 > ### Skills
 >
@@ -204,7 +204,7 @@ _**Unsavory Pets.**_ Gnarlocks keep with them large, menacing pets called scar h
 >
 > ### Aspects
 >
-> `Bandaged and blistered` • `Glutton for pain`
+> **Bandaged and blistered** • **Glutton for pain**
 >
 > ### Skills
 >
@@ -234,7 +234,7 @@ _**Unsavory Pets.**_ Gnarlocks keep with them large, menacing pets called scar h
 >
 > ### Aspects
 >
-> `Steaming hide` • `Hot to the touch`
+> **Steaming hide** • **Hot to the touch**
 >
 > ### Skills
 >
@@ -277,7 +277,7 @@ _**Elusive and Resourceful.**_ When confronted by someone trying to stop them, s
 >
 > ### Aspects
 >
-> `Bringer of bad luck` • `Hard to pin down` • `Shiny-thing connoisseur`
+> **Bringer of bad luck** • **Hard to pin down** • **Shiny-thing connoisseur**
 >
 > ### Skills
 >
@@ -324,7 +324,7 @@ _**Delicious Delicacy.**_ Animals in the wild are not the only predators of boul
 >
 > ### Aspects
 >
-> `Armored carapace` • `Alert` • `Ungainly`
+> **Armored carapace** • **Alert** • **Ungainly**
 >
 > ### Skills
 >
@@ -372,7 +372,7 @@ _**Enforcement in Force.**_ Aside from monitoring, the other job of government a
 >
 > ### Aspects
 >
-> `Obscurity drives`
+> **Obscurity drives**
 >
 > ### Skills
 >
@@ -401,7 +401,7 @@ _**Enforcement in Force.**_ Aside from monitoring, the other job of government a
 >
 > ### Aspects
 >
-> `Networking implants`
+> **Networking implants**
 >
 > ### Skills
 >
@@ -436,7 +436,7 @@ _**Nyoc.**_ The nyoc is a breed of scavenging jumping-spider that feeds on the c
 >
 > ### Aspects
 >
-> `Quick and tiny herbivore` • `Jungle camouflage`
+> **Quick and tiny herbivore** • **Jungle camouflage**
 >
 > ### Skills
 >
@@ -459,7 +459,7 @@ _**Nyoc.**_ The nyoc is a breed of scavenging jumping-spider that feeds on the c
 >
 > ### Aspects
 >
-> `Iridescent underwings` • `Impressive mimicking` • `Territorial in solitude`
+> **Iridescent underwings** • **Impressive mimicking** • **Territorial in solitude**
 >
 > ### Skills
 >
@@ -482,7 +482,7 @@ _**Nyoc.**_ The nyoc is a breed of scavenging jumping-spider that feeds on the c
 >
 > ### Aspects
 >
-> `Hard to catch` • `Sought after`
+> **Hard to catch** • **Sought after**
 >
 > ### Skills
 >
@@ -505,7 +505,7 @@ _**Nyoc.**_ The nyoc is a breed of scavenging jumping-spider that feeds on the c
 >
 > ### Aspects
 >
-> `Terrifying jumping arachnid` • `Fear venom` • `Carrion eater` • `The stuff of nightmares`
+> **Terrifying jumping arachnid** • **Fear venom** • **Carrion eater** • **The stuff of nightmares**
 >
 > ### Skills
 >
@@ -539,7 +539,7 @@ _**Volcanic Cave Dwellers.**_ Rhino-lizards live in deep cave systems that provi
 >
 > ### Aspects
 >
-> `Muscular reptile` • `Sharp-horned skull` • `Heat-resistant hide` • `Heavy handed`
+> **Muscular reptile** • **Sharp-horned skull** • **Heat-resistant hide** • **Heavy handed**
 >
 > ### Skills
 >
@@ -585,7 +585,7 @@ _**Zombies with cybernetic implants.**_ Shambling bodies limp their way around t
 >
 > ### Aspects
 >
-> `Persistent` • `Shambling` • `Bumbling` • `Babbling`
+> **Persistent** • **Shambling** • **Bumbling** • **Babbling**
 >
 > ### Skills
 >
@@ -603,7 +603,7 @@ _**Zombies with cybernetic implants.**_ Shambling bodies limp their way around t
 >
 > ### Aspects
 >
-> `Persistent` • `Motivated`
+> **Persistent** • **Motivated**
 >
 > ### Skills
 >
@@ -626,7 +626,7 @@ _**Zombies with cybernetic implants.**_ Shambling bodies limp their way around t
 >
 > ### Aspects
 >
-> `Persistent` • `Malfunctioning networking implants`
+> **Persistent** • **Malfunctioning networking implants**
 >
 > ### Skills
 >
@@ -649,7 +649,7 @@ _**Zombies with cybernetic implants.**_ Shambling bodies limp their way around t
 >
 > ### Aspects
 >
-> `Well-equipped` • `Stuffy suit`
+> **Well-equipped** • **Stuffy suit**
 >
 > ### Skills
 >
@@ -680,7 +680,7 @@ _**Mate for life.**_ Heptapodes for the most part live in solitude. However, thi
 >
 > ### Aspects
 >
-> `Efficient tree climber` • `Seven tentacles` • `Ambush carnivore`
+> **Efficient tree climber** • **Seven tentacles** • **Ambush carnivore**
 >
 > ### Skills
 >
@@ -719,7 +719,7 @@ _**Mysterious Origin.**_ An absolute history around how and why the sythan came 
 >
 > ### Aspects
 >
-> `Mind reader` • `One large eye` • `Creepy crawly`
+> **Mind reader** • **One large eye** • **Creepy crawly**
 >
 > ### Skills
 >
@@ -765,7 +765,7 @@ _**Magical Instability.**_ Years passed and the occasional forest-goer stumbled 
 >
 > ### Aspects
 >
-> `Thick metal plating` • `Cold to the touch` • `Unmoving`
+> **Thick metal plating** • **Cold to the touch** • **Unmoving**
 >
 > ### Skills
 >
@@ -797,7 +797,7 @@ _**Magical Instability.**_ Years passed and the occasional forest-goer stumbled 
 >
 > ### Aspects
 >
-> `Ordinary appearance` • `Kill directive`
+> **Ordinary appearance** • **Kill directive**
 >
 > ### Skills
 >
@@ -836,7 +836,7 @@ _**For Dastardly Purposes.**_ A necromancer does not go through the trouble of c
 >
 > ### Aspects
 >
-> `Terrifying bone piecemeal` • `Necromantic magic` • `Dominate or be dominated`
+> **Terrifying bone piecemeal** • **Necromantic magic** • **Dominate or be dominated**
 >
 > ### Skills
 >
@@ -873,7 +873,7 @@ _**For Dastardly Purposes.**_ A necromancer does not go through the trouble of c
 >
 > ### Aspects
 >
-> `Bone piecemeal` • `Necromantic magic`
+> **Bone piecemeal** • **Necromantic magic**
 >
 > ### Skills
 >
@@ -911,7 +911,7 @@ _**Part Spider.**_ In addition to more legs and eyes, spider-jackals have the ar
 >
 > ### Aspects
 >
-> `Six-legged dog-like creature` • `Four eyes` • `Web-walker` • `Silent hunter`
+> **Six-legged dog-like creature** • **Four eyes** • **Web-walker** • **Silent hunter**
 >
 > ### Skills
 >
@@ -949,7 +949,7 @@ _**Phylacteries.**_ As part of the arcane ritual for becoming a lich, the necrom
 >
 > ### Aspects
 >
-> `Being of Unadulterated Evil` • `Bones of Steel` • `Timeless`
+> **Being of Unadulterated Evil** • **Bones of Steel** • **Timeless**
 >
 > ### Skills
 >
@@ -993,7 +993,7 @@ _**Phylacteries.**_ As part of the arcane ritual for becoming a lich, the necrom
 >
 > ### Aspects
 >
-> `Rotting flesh and dancing bones` • `Fragile fury`
+> **Rotting flesh and dancing bones** • **Fragile fury**
 >
 > ### Skills
 >
@@ -1023,7 +1023,7 @@ _**Unnatural Phenomenon.**_ One peculiar trait about the skullug is their choice
 >
 > ### Aspects
 >
-> `Veiny purple slug` • `Toxic to the touch` • `Skull for a shell`
+> **Veiny purple slug** • **Toxic to the touch** • **Skull for a shell**
 >
 > ### Skills
 >
@@ -1060,7 +1060,7 @@ Orcs. “We have all heard the stories have we not? Big brutes, bigger weapons. 
 >
 > ### Aspects
 >
-> `Nasty little schemer` • `Power in numbers` • `Goblinoid`
+> **Nasty little schemer** • **Power in numbers** • **Goblinoid**
 >
 > ### Skills
 >
@@ -1089,7 +1089,7 @@ Orcs. “We have all heard the stories have we not? Big brutes, bigger weapons. 
 >
 > ### Aspects
 >
-> `Tribalistic brute` • `Quick to anger` • `Goblinoid`
+> **Tribalistic brute** • **Quick to anger** • **Goblinoid**
 >
 > ### Skills
 >
@@ -1123,7 +1123,7 @@ _**Effective Function.**_ By far the most common use for magically animated obje
 >
 > ### Aspects
 >
-> `Enchanted set of full plate` • `Visually indistinguishable` • `Flying`
+> **Enchanted set of full plate** • **Visually indistinguishable** • **Flying**
 >
 > ### Skills
 >
@@ -1149,7 +1149,7 @@ _**Effective Function.**_ By far the most common use for magically animated obje
 >
 > ### Aspects
 >
-> `Enchanted longsword` • `Visually indistinguishable` • `Flying`
+> **Enchanted longsword** • **Visually indistinguishable** • **Flying**
 >
 > ### Skills
 >
@@ -1175,7 +1175,7 @@ _**Effective Function.**_ By far the most common use for magically animated obje
 >
 > ### Aspects
 >
-> `Enchanted mural` • `Moving pictures` • `Rudimentary intelligence`
+> **Enchanted mural** • **Moving pictures** • **Rudimentary intelligence**
 >
 > ### Skills
 >
@@ -1207,7 +1207,7 @@ _**Bugbears.**_ “My brother and I were hunting in the woods. We’d been track
 >
 > ### Aspects
 >
-> `Devilish soldier` • `Imposing strategist` • `Goblinoid`
+> **Devilish soldier** • **Imposing strategist** • **Goblinoid**
 >
 > ### Skills
 >
@@ -1233,7 +1233,7 @@ _**Bugbears.**_ “My brother and I were hunting in the woods. We’d been track
 >
 > ### Aspects
 >
-> `Large and fur-covered` • `Impressively stealthy` • `Goblinoid`
+> **Large and fur-covered** • **Impressively stealthy** • **Goblinoid**
 >
 > ### Skills
 >
@@ -1269,7 +1269,7 @@ _**Salt Aversion.**_ A less intentional property of the assimilator is their ave
 >
 > ### Aspects
 >
-> `Alien invasion expert` • `Long grey limbs` • `Shapechanger`
+> **Alien invasion expert** • **Long grey limbs** • **Shapechanger**
 >
 > ### Skills
 >
@@ -1305,7 +1305,7 @@ _**Strange Beings.**_ Changelings always appear on the surface to be the child t
 >
 > ### Aspects
 >
-> `Disguised fairy child` • `In need of a purpose` • `Off-putting`
+> **Disguised fairy child** • **In need of a purpose** • **Off-putting**
 >
 > ### Skills
 >
@@ -1341,7 +1341,7 @@ _**A hopeless goal.**_ Contact with ghosts has unconditionally revealed one thin
 >
 > ### Aspects
 >
-> `Ethereal spirit` • `Unfinished business` • `Trapped in the material realm`
+> **Ethereal spirit** • **Unfinished business** • **Trapped in the material realm**
 >
 > ### Skills
 >
@@ -1380,7 +1380,7 @@ _**Social parasite.**_ While the exact origin of the cuddlebug is a mystery, it 
 >
 > ### Aspects
 >
-> `Dangerously cute little guy` • `Difficult to disagree with` • `Wordless communication`
+> **Dangerously cute little guy** • **Difficult to disagree with** • **Wordless communication**
 >
 > ### Skills
 >
@@ -1422,7 +1422,7 @@ _**Living trees.**_ Ents themselves descend from the trees they protect. They ar
 >
 > ### Aspects
 >
-> `Huge living tree` • `Extremely old` • `Stubborn and passive` • `Flammable`
+> **Huge living tree** • **Extremely old** • **Stubborn and passive** • **Flammable**
 >
 > ### Skills
 >
@@ -1471,7 +1471,7 @@ _**Unwavering.**_ Undead thralls excel at carrying out the will of their master.
 >
 > ### Aspects
 >
-> `Servant in undeath` • `No free will` • `Unnatural strength`
+> **Servant in undeath** • **No free will** • **Unnatural strength**
 >
 > ### Skills
 >
@@ -1512,7 +1512,7 @@ _**Greedy colonies.**_ Ratlings live in large packs in caves and burrows. Within
 >
 > ### Aspects
 >
-> `Clever rat-like humanoid` • `Anything for the colony`
+> **Clever rat-like humanoid** • **Anything for the colony**
 >
 > ### Skills
 >
@@ -1548,7 +1548,7 @@ _**Vyaga Tunnelers.**_ Vyaga tunnelers are a species of small mammals that burro
 >
 > ### Aspects
 >
-> `Small gliding rodent` • `Territorial`
+> **Small gliding rodent** • **Territorial**
 >
 > ### Skills
 >
@@ -1575,7 +1575,7 @@ _**Vyaga Tunnelers.**_ Vyaga tunnelers are a species of small mammals that burro
 >
 > ### Aspects
 >
-> `Small tunneling mammal` • `Easily frightened`
+> **Small tunneling mammal** • **Easily frightened**
 >
 > ### Skills
 >
@@ -1608,7 +1608,7 @@ _**A life of discipline.**_ Monks are masters of discipline. They train their mi
 >
 > ### Aspects
 >
-> `Disciplined hand-to-hand fighter` • `Patient` • `Dedicated`
+> **Disciplined hand-to-hand fighter** • **Patient** • **Dedicated**
 >
 > ### Skills
 >
@@ -1652,7 +1652,7 @@ _**Artifacts of Snow Enchantment.**_ Before the second great war of the North Po
 >
 > ### Aspects
 >
-> `Living livid snowman` • `Made of snow` • `Product of magic`
+> **Living livid snowman** • **Made of snow** • **Product of magic**
 >
 > ### Skills
 >
@@ -1699,7 +1699,7 @@ If at any time you are dissatisfied with the performance of your new companion d
 >
 > ### Aspects
 >
-> `Robotic battle assistant` • `Diagnostic suite`
+> **Robotic battle assistant** • **Diagnostic suite**
 >
 > ### Skills
 >
@@ -1736,7 +1736,7 @@ It was too late before we realized what was happening. We were exhausted. One mo
 >
 > ### Aspects
 >
-> `Feral upright hyena` • `Flesh eater` • `No regard for life`
+> **Feral upright hyena** • **Flesh eater** • **No regard for life**
 >
 > ### Skills
 >
@@ -1771,7 +1771,7 @@ Very marvelous creatures. Dangerous, beautiful. A shining example of an extraord
 >
 > ### Aspects
 >
-> `Large panther-like predator` • `Displacement field` • `Whip-like tentacles`
+> **Large panther-like predator** • **Displacement field** • **Whip-like tentacles**
 >
 > ### Skills
 >
@@ -1806,7 +1806,7 @@ On the edge of society, where nature is left to do it’s work, large colonies o
 >
 > ### Aspects
 >
-> `Large swarm of wasps` • `Flying in unison` • `Cannot be reasoned with`
+> **Large swarm of wasps** • **Flying in unison** • **Cannot be reasoned with**
 >
 > ### Skills
 >
@@ -1829,7 +1829,7 @@ On the edge of society, where nature is left to do it’s work, large colonies o
 >
 > ### Aspects
 >
-> `Large swarm of beetles` • `Moving in unison` • `Cannot be reasoned with`
+> **Large swarm of beetles** • **Moving in unison** • **Cannot be reasoned with**
 >
 > ### Skills
 >
@@ -1852,7 +1852,7 @@ On the edge of society, where nature is left to do it’s work, large colonies o
 >
 > ### Aspects
 >
-> `Large swarm of spiders` • `Moving in unison` • `Cannot be reasoned with`
+> **Large swarm of spiders** • **Moving in unison** • **Cannot be reasoned with**
 >
 > ### Skills
 >
@@ -1880,7 +1880,7 @@ On the edge of society, where nature is left to do it’s work, large colonies o
 >
 > ### Aspects
 >
-> `Large swarm of centipedes` • `Moving in unison` • `Cannot be reasoned with` • `Poisonous bite`
+> **Large swarm of centipedes** • **Moving in unison** • **Cannot be reasoned with** • **Poisonous bite**
 >
 > ### Skills
 >
@@ -1913,7 +1913,7 @@ While the origin is debated, there are properties of elementals that we know by 
 >
 > ### Aspects
 >
-> `Being of pure fire` • `Unforgiving`
+> **Being of pure fire** • **Unforgiving**
 >
 > ### Skills
 >
@@ -1941,7 +1941,7 @@ While the origin is debated, there are properties of elementals that we know by 
 >
 > ### Aspects
 >
-> `Being of pure water` • `Immune to fire` • `Unyielding`
+> **Being of pure water** • **Immune to fire** • **Unyielding**
 >
 > ### Skills
 >
@@ -1971,7 +1971,7 @@ While the origin is debated, there are properties of elementals that we know by 
 >
 > ### Aspects
 >
-> `Being of pure earth` • `Feels no pain` • `Merciless`
+> **Being of pure earth** • **Feels no pain** • **Merciless**
 >
 > ### Skills
 >
@@ -1999,7 +1999,7 @@ While the origin is debated, there are properties of elementals that we know by 
 >
 > ### Aspects
 >
-> `Being of pure air` • `Flying` • `Implacable`
+> **Being of pure air** • **Flying** • **Implacable**
 >
 > ### Skills
 >
@@ -2031,7 +2031,7 @@ Oozes, also known as slimes, are large, gelatinous piles of goo that have a prim
 >
 > ### Aspects
 >
-> `Creeping gelatinous substance` • `Basic intelligence` • `Aggressive solvent` • `Sticky` • `Flammable`
+> **Creeping gelatinous substance** • **Basic intelligence** • **Aggressive solvent** • **Sticky** • **Flammable**
 >
 > ### Skills
 >
@@ -2069,7 +2069,7 @@ The beast started cracking skulls. And I don’t just mean the men in my company
 >
 > ### Aspects
 >
-> `Massive green-skinned beast` • `Child-eater` • `Unintelligent`
+> **Massive green-skinned beast** • **Child-eater** • **Unintelligent**
 >
 > ### Skills
 >
@@ -2109,7 +2109,7 @@ It is often said that the world holds more than meets the eye. But sometimes, it
 >
 > ### Aspects
 >
-> `Barmaid of the Sneezing Weasel` • `Assassin for hire` • `Quite charming`
+> **Barmaid of the Sneezing Weasel** • **Assassin for hire** • **Quite charming**
 >
 > ### Skills
 >
@@ -2137,7 +2137,7 @@ It is often said that the world holds more than meets the eye. But sometimes, it
 >
 > ### Aspects
 >
-> `Bouncer of the Sneezing Weasel` • `Expert thief` • `Burly`
+> **Bouncer of the Sneezing Weasel** • **Expert thief** • **Burly**
 >
 > ### Skills
 >
@@ -2165,7 +2165,7 @@ It is often said that the world holds more than meets the eye. But sometimes, it
 >
 > ### Aspects
 >
-> `Barkeep of the Sneezing Weasel` • `Illicit goods fence` • `No nonsense`
+> **Barkeep of the Sneezing Weasel** • **Illicit goods fence** • **No nonsense**
 >
 > ### Skills
 >
@@ -2197,7 +2197,7 @@ _“Where mortal men dare not treaShe sits and spins her snaring threaWith minds
 >
 > ### Aspects
 >
-> `Unthinkable winged monstrosity` • `These wings are made for flying` • `Venom-filled stinger` • `Web-glands` • `I must protect my eggs at all cost`
+> **Unthinkable winged monstrosity** • **These wings are made for flying** • **Venom-filled stinger** • **Web-glands** • **I must protect my eggs at all cost**
 >
 > ### Skills
 >
@@ -2234,7 +2234,7 @@ _“Where mortal men dare not treaShe sits and spins her snaring threaWith minds
 >
 > ### Aspects
 >
-> `Insane minion of Ightlyech` • `Undying loyalty`
+> **Insane minion of Ightlyech** • **Undying loyalty**
 >
 > ### Skills
 >
@@ -2252,7 +2252,7 @@ _“Where mortal men dare not treaShe sits and spins her snaring threaWith minds
 >
 > ### Aspects
 >
-> `Revolting abomination of Ightlyech` • `Sick transformation` • `Overcome with insanity`
+> **Revolting abomination of Ightlyech** • **Sick transformation** • **Overcome with insanity**
 >
 > ### Skills
 >
@@ -2280,7 +2280,7 @@ He has been my most difficult bounty. And my biggest heartache.” - Maxinne “
 >
 > ### Aspects
 >
-> `International spy` • `Penchant for romance` • `Free agent for hire` • `Never breaks a promise` • `Longs for something more`
+> **International spy** • **Penchant for romance** • **Free agent for hire** • **Never breaks a promise** • **Longs for something more**
 >
 > ### Skills
 >
@@ -2331,7 +2331,7 @@ He has been my most difficult bounty. And my biggest heartache.” - Maxinne “
 >
 > ### Aspects
 >
-> `Massive forest elk` • `Heavy inertia` • `Larger than life` • `Passive until provoked`
+> **Massive forest elk** • **Heavy inertia** • **Larger than life** • **Passive until provoked**
 >
 > ### Skills
 >
@@ -2380,7 +2380,7 @@ Werewolves, when in their wolf form, display an incredible regenerative quality.
 >
 > ### Aspects
 >
-> `Muscular anthropomorphic wolf` • `Vulnerable to silver` • `Quick regeneration`
+> **Muscular anthropomorphic wolf** • **Vulnerable to silver** • **Quick regeneration**
 >
 > ### Skills
 >
@@ -2414,7 +2414,7 @@ That’s where I come in. Now, if you’re all out of questions; you’re under 
 >
 > ### Aspects
 >
-> `Mutated victim of an unnamed substance` • `A minor case of very bad cancer` • `The government’s dirty little secret` • `Penchant for destruction`
+> **Mutated victim of an unnamed substance** • **A minor case of very bad cancer** • **The government’s dirty little secret** • **Penchant for destruction**
 >
 > ### Skills
 >
@@ -2447,7 +2447,7 @@ With the slow fade of undead labor, so too did knowledge of the rituals used. So
 >
 > ### Aspects
 >
-> `Undead skeleton` • `Iron-dipped bones` • `Dragging a warhammer` • `Slow and heavy`
+> **Undead skeleton** • **Iron-dipped bones** • **Dragging a warhammer** • **Slow and heavy**
 >
 > ### Skills
 >
@@ -2470,7 +2470,7 @@ With the slow fade of undead labor, so too did knowledge of the rituals used. So
 >
 > ### Aspects
 >
-> `Undead skeleton` • `Silver-dipped bones` • `Wielding a rapier` • `Light and brittle`
+> **Undead skeleton** • **Silver-dipped bones** • **Wielding a rapier** • **Light and brittle**
 >
 > ### Skills
 >
@@ -2493,7 +2493,7 @@ With the slow fade of undead labor, so too did knowledge of the rituals used. So
 >
 > ### Aspects
 >
-> `Undead skeleton` • `Gold-dipped bones` • `Heavy and brittle` • `Radiating heat`
+> **Undead skeleton** • **Gold-dipped bones** • **Heavy and brittle** • **Radiating heat**
 >
 > ### Skills
 >
@@ -2525,7 +2525,7 @@ Like regular snakes, their giant cousins tote dangerous venom that they deliver 
 >
 > ### Aspects
 >
-> `Massive slithering reptile` • `One track mind` • `Unhinging jaw` • `Valuable scales`
+> **Massive slithering reptile** • **One track mind** • **Unhinging jaw** • **Valuable scales**
 >
 > ### Skills
 >
@@ -2569,7 +2569,7 @@ Silver dragons enjoy learning about the traditions of the mortal races and parta
 >
 > ### Aspects
 >
-> `Massive winged silver reptile` • `Distrusting of others` • `Good-natured and intelligent` • `Infatuated with mortal traditions`
+> **Massive winged silver reptile** • **Distrusting of others** • **Good-natured and intelligent** • **Infatuated with mortal traditions**
 >
 > ### Skills
 >
@@ -2615,7 +2615,7 @@ _Troop-scale combat: The following characters are ‘troop scale.’ That means 
 >
 > ### Aspects
 >
-> `Company of 200 foot soldiers` • `Vulnerable to cavalry charges` • `Wielding swords and spears` • `Equipped with kite shields`
+> **Company of 200 foot soldiers** • **Vulnerable to cavalry charges** • **Wielding swords and spears** • **Equipped with kite shields**
 >
 > ### Skills
 >
@@ -2643,7 +2643,7 @@ _Troop-scale combat: The following characters are ‘troop scale.’ That means 
 >
 > ### Aspects
 >
-> `Company of 100 long bowmen` • `Vulnerable to close quarters combat` • `Wielding longbows`
+> **Company of 100 long bowmen** • **Vulnerable to close quarters combat** • **Wielding longbows**
 >
 > ### Skills
 >
@@ -2671,7 +2671,7 @@ _Troop-scale combat: The following characters are ‘troop scale.’ That means 
 >
 > ### Aspects
 >
-> `Company of 30 horsemen` • `Vulnerable to arrow fire` • `Mounted on horseback` • `Wielding lances and axes` • `Equipped with kite shields`
+> **Company of 30 horsemen** • **Vulnerable to arrow fire** • **Mounted on horseback** • **Wielding lances and axes** • **Equipped with kite shields**
 >
 > ### Skills
 >
@@ -2705,7 +2705,7 @@ _Troop-scale combat: The following characters are ‘troop scale.’ That means 
 >
 > ### Aspects
 >
-> `Company of 20 drummers` • `Vulnerable to attack` • `Carrying large mounted drums` • `Lightly armed`
+> **Company of 20 drummers** • **Vulnerable to attack** • **Carrying large mounted drums** • **Lightly armed**
 >
 > ### Skills
 >
@@ -2733,7 +2733,7 @@ _Troop-scale combat: The following characters are ‘troop scale.’ That means 
 >
 > ### Aspects
 >
-> `Company of 100 foot soldiers` • `Vulnerable to cavalry charges` • `Lightly armed and armored` • `Mobile` • `Equipped for forest travel`
+> **Company of 100 foot soldiers** • **Vulnerable to cavalry charges** • **Lightly armed and armored** • **Mobile** • **Equipped for forest travel**
 >
 > ### Skills
 >
@@ -2762,7 +2762,7 @@ _Troop-scale combat: The following characters are ‘troop scale.’ That means 
 >
 > ### Aspects
 >
-> `Company of 100 spearmen` • `Low mobility` • `Wielding long pikes` • `Anti-charge infantry`
+> **Company of 100 spearmen** • **Low mobility** • **Wielding long pikes** • **Anti-charge infantry**
 >
 > ### Skills
 >
@@ -2797,7 +2797,7 @@ Some military troops have recognized the potency of having domesticated gryphons
 >
 > ### Aspects
 >
-> `Large lion-eagle hybrid` • `Territorial hunter` • `Courageous` • `Can fly`
+> **Large lion-eagle hybrid** • **Territorial hunter** • **Courageous** • **Can fly**
 >
 > ### Skills
 >
@@ -2828,7 +2828,7 @@ Some military troops have recognized the potency of having domesticated gryphons
 >
 > ### Aspects
 >
-> `Gryphon jockey and trainer` • `Fearless enough to try it` • `Saddle suited for flight`
+> **Gryphon jockey and trainer** • **Fearless enough to try it** • **Saddle suited for flight**
 >
 > ### Skills
 >
@@ -2863,7 +2863,7 @@ _Troop-scale combat: The following characters are ‘troop scale.’ That means 
 >
 > ### Aspects
 >
-> `Three trebuchets with 15 attending soldiers` • `Vulnerable to attack` • `Lightly armed and armored attendants` • `Flammable frame`
+> **Three trebuchets with 15 attending soldiers** • **Vulnerable to attack** • **Lightly armed and armored attendants** • **Flammable frame**
 >
 > ### Skills
 >
@@ -2891,7 +2891,7 @@ _Troop-scale combat: The following characters are ‘troop scale.’ That means 
 >
 > ### Aspects
 >
-> `Three tall wheelable towers with 50 attending soldiers` • `Flammable frame` • `Lightly armed and armored attendants`
+> **Three tall wheelable towers with 50 attending soldiers** • **Flammable frame** • **Lightly armed and armored attendants**
 >
 > ### Skills
 >
@@ -2919,7 +2919,7 @@ _Troop-scale combat: The following characters are ‘troop scale.’ That means 
 >
 > ### Aspects
 >
-> `Three large battering rams carted by 6 trained ogres` • `Flammable frame` • `Brutish ogres`
+> **Three large battering rams carted by 6 trained ogres** • **Flammable frame** • **Brutish ogres**
 >
 > ### Skills
 >
@@ -2953,7 +2953,7 @@ These ships typically have crews from 2 two 6 members, and can take a wide varie
 >
 > ### Aspects
 >
-> `Four-crewmember cargo hauler` • `Broad target` • `Equipped with distress beacon`
+> **Four-crewmember cargo hauler** • **Broad target** • **Equipped with distress beacon**
 >
 > ### Skills
 >
@@ -2985,7 +2985,7 @@ These ships typically have crews from 2 two 6 members, and can take a wide varie
 >
 > ### Aspects
 >
-> `Three-crewmember mining vessel` • `Bare essential systems` • `Front-mounted drill`
+> **Three-crewmember mining vessel** • **Bare essential systems** • **Front-mounted drill**
 >
 > ### Skills
 >
@@ -3016,7 +3016,7 @@ These ships typically have crews from 2 two 6 members, and can take a wide varie
 >
 > ### Aspects
 >
-> `Five-crewmember unscrupulous fightercraft` • `Fuel-hog` • `Heat-seeking missiles`
+> **Five-crewmember unscrupulous fightercraft** • **Fuel-hog** • **Heat-seeking missiles**
 >
 > ### Skills
 >
@@ -3050,7 +3050,7 @@ _Troop-scale combat: The following characters are ‘troop scale.’ That means 
 >
 > ### Aspects
 >
-> `Company of 60 warmages` • `Vulnerable to cavalry charges` • `Robed and lightly armored`
+> **Company of 60 warmages** • **Vulnerable to cavalry charges** • **Robed and lightly armored**
 >
 > ### Skills
 >
@@ -3078,7 +3078,7 @@ _Troop-scale combat: The following characters are ‘troop scale.’ That means 
 >
 > ### Aspects
 >
-> `300 walking corpses and 20 necromancers` • `Vulnerable to anti-magic` • `Feel no fear`
+> **300 walking corpses and 20 necromancers** • **Vulnerable to anti-magic** • **Feel no fear**
 >
 > ### Skills
 >
@@ -3108,7 +3108,7 @@ _Troop-scale combat: The following characters are ‘troop scale.’ That means 
 >
 > ### Aspects
 >
-> `Company of 20 drummers` • `Vulnerable to attack` • `Carrying large enchanted drums` • `Unarmed`
+> **Company of 20 drummers** • **Vulnerable to attack** • **Carrying large enchanted drums** • **Unarmed**
 >
 > ### Skills
 >
@@ -3139,7 +3139,7 @@ When asked what it means for a space vessel to be “medium-sized” you’re li
 >
 > ### Aspects
 >
-> `Eight-crewmember military artillery ship` • `Skeleton crew`
+> **Eight-crewmember military artillery ship** • **Skeleton crew**
 >
 > ### Skills
 >
@@ -3168,7 +3168,7 @@ When asked what it means for a space vessel to be “medium-sized” you’re li
 >
 > ### Aspects
 >
-> `Fifteen-crewmember luxury passenger ship` • `Not built for combat` • `Room for thirty passengers`
+> **Fifteen-crewmember luxury passenger ship** • **Not built for combat** • **Room for thirty passengers**
 >
 > ### Skills
 >
@@ -3196,7 +3196,7 @@ When asked what it means for a space vessel to be “medium-sized” you’re li
 >
 > ### Aspects
 >
-> `Ten-crewmember mobile datacenter` • `Valuable target` • `Information makes the galaxy go round`
+> **Ten-crewmember mobile datacenter** • **Valuable target** • **Information makes the galaxy go round**
 >
 > ### Skills
 >
@@ -3231,7 +3231,7 @@ _Note: These stat blocks are compatible with the Troop Scale character sheets I�
 >
 > ### Aspects
 >
-> `Warship crewed by about 200 sailors` • `Propelled manually by rowing` • `No reliance on favorable winds`
+> **Warship crewed by about 200 sailors** • **Propelled manually by rowing** • **No reliance on favorable winds**
 >
 > ### Skills
 >
@@ -3259,7 +3259,7 @@ _Note: These stat blocks are compatible with the Troop Scale character sheets I�
 >
 > ### Aspects
 >
-> `Pirating ship crewed by about 12 sailors` • `Small crew small capacity` • `Designed for speed`
+> **Pirating ship crewed by about 12 sailors** • **Small crew small capacity** • **Designed for speed**
 >
 > ### Skills
 >
@@ -3287,7 +3287,7 @@ _Note: These stat blocks are compatible with the Troop Scale character sheets I�
 >
 > ### Aspects
 >
-> `Trading ship crewed by about 60 sailors` • `Reliant on favorable winds` • `Built for deep-ocean travel` • `Large cargo holds`
+> **Trading ship crewed by about 60 sailors** • **Reliant on favorable winds** • **Built for deep-ocean travel** • **Large cargo holds**
 >
 > ### Skills
 >
@@ -3321,7 +3321,7 @@ Orcs, however, take a different approach when encountering dire wolves. Where ot
 >
 > ### Aspects
 >
-> `Oversized wolf` • `Untamable beast - “tamed”` • `Bloodthirsty`
+> **Oversized wolf** • **Untamable beast - “tamed”** • **Bloodthirsty**
 >
 > ### Skills
 >
@@ -3352,7 +3352,7 @@ Orcs, however, take a different approach when encountering dire wolves. Where ot
 >
 > ### Aspects
 >
-> `Orcish wolf-tamer` • `Chained to the beast` • `Wielding a spear and javelins` • `Unreasonable courage`
+> **Orcish wolf-tamer** • **Chained to the beast** • **Wielding a spear and javelins** • **Unreasonable courage**
 >
 > ### Skills
 >
@@ -3386,7 +3386,7 @@ Imps are tragically lonely by nature, and will gravitate toward anyone who is wi
 >
 > ### Aspects
 >
-> `Small devilish creature` • `Eternally lonely` • `Childish prankster`
+> **Small devilish creature** • **Eternally lonely** • **Childish prankster**
 >
 > ### Skills
 >
@@ -3426,7 +3426,7 @@ In order to make ends meet, some troupes will sell their unique skill sets to wh
 >
 > ### Aspects
 >
-> `Roving performance artist` • `Dangerous for the sake of it` • `The troupe is my family`
+> **Roving performance artist** • **Dangerous for the sake of it** • **The troupe is my family**
 >
 > ### Skills
 >
@@ -3468,7 +3468,7 @@ The second category of vampires is known as the “afflicted.” They view vampi
 >
 > ### Aspects
 >
-> `Ageless blood drinker` • `Unconventional social restrictions` • `Vulnerable in sunlight` • `Cannot die from old age` • `Incredible strength and prowess` • `No reflection`
+> **Ageless blood drinker** • **Unconventional social restrictions** • **Vulnerable in sunlight** • **Cannot die from old age** • **Incredible strength and prowess** • **No reflection**
 >
 > ### Skills
 >
@@ -3513,7 +3513,7 @@ They tend to be quite successful. Many attribute this to the leader of the clan,
 >
 > ### Aspects
 >
-> `Hobgoblin leader of the Bonesharp Clan` • `Prideful` • `Armor of Various Melted Metals` • `Imposing Strategist` • `Goblinoid`
+> **Hobgoblin leader of the Bonesharp Clan** • **Prideful** • **Armor of Various Melted Metals** • **Imposing Strategist** • **Goblinoid**
 >
 > ### Skills
 >
@@ -3565,7 +3565,7 @@ These fiends stand around seven feet tall, with red skin and legs that look like
 >
 > ### Aspects
 >
-> `Deceptive deal-maker` • `Unabashedly evil` • `Wielder of fiendish magic`
+> **Deceptive deal-maker** • **Unabashedly evil** • **Wielder of fiendish magic**
 >
 > ### Skills
 >
@@ -3614,7 +3614,7 @@ _Note: I’ve created most of the below stats and skills on the fly for this pos
 >
 > ### Aspects
 >
-> `Criminal trading company` • `Reputation for cruelty` • `Dealing in illicit goods` • `Conspicuous frontmen` • `Trade fleet`
+> **Criminal trading company** • **Reputation for cruelty** • **Dealing in illicit goods** • **Conspicuous frontmen** • **Trade fleet**
 >
 > ### Skills
 >
@@ -3660,7 +3660,7 @@ Microscopic food sources support the tiniest of creatures, and the spacious reac
 >
 > ### Aspects
 >
-> `Gargantuan underwater predator` • `One track mind` • `Averaging 50ft long` • `Red-hot glowing glands`
+> **Gargantuan underwater predator** • **One track mind** • **Averaging 50ft long** • **Red-hot glowing glands**
 >
 > ### Skills
 >
@@ -3698,7 +3698,7 @@ Microscopic food sources support the tiniest of creatures, and the spacious reac
 >
 > ### Aspects
 >
-> `Large blue squid` • `Relatively harmless` • `Averaging 6ft long` • `Feeding glands`
+> **Large blue squid** • **Relatively harmless** • **Averaging 6ft long** • **Feeding glands**
 >
 > ### Skills
 >
@@ -3734,7 +3734,7 @@ These types of bards indulge in the same kinds of activities, but they tend to d
 >
 > ### Aspects
 >
-> `Traveling entertainer` • `Chronicler of great deeds` • `Master of oral tradition`
+> **Traveling entertainer** • **Chronicler of great deeds** • **Master of oral tradition**
 >
 > ### Skills
 >
@@ -3758,7 +3758,7 @@ These types of bards indulge in the same kinds of activities, but they tend to d
 >
 > ### Aspects
 >
-> `Practitioner of performative magic` • `Enchanting aura` • `Invaluable ally`
+> **Practitioner of performative magic** • **Enchanting aura** • **Invaluable ally**
 >
 > ### Skills
 >
@@ -3788,7 +3788,7 @@ As the stories go, hydras are multi-headed, serpent-like amphibians. Notably, th
 >
 > ### Aspects
 >
-> `Multi-headed serpentine beast of legend` • `Vulnerable to fire` • `Primarily aquatic amphibian` • `Highly regenerative`
+> **Multi-headed serpentine beast of legend** • **Vulnerable to fire** • **Primarily aquatic amphibian** • **Highly regenerative**
 >
 > ### Skills
 >
@@ -3839,7 +3839,7 @@ The reason for their sickening name is due to their habit of stealing the visage
 >
 > ### Aspects
 >
-> `Malevolent centipede-like aberration` • `Binding behaviors` • `Stealer of Faces` • `Burrower`
+> **Malevolent centipede-like aberration** • **Binding behaviors** • **Stealer of Faces** • **Burrower**
 >
 > ### Skills
 >
@@ -3887,7 +3887,7 @@ Secondly, the slip-spider weaves webs to capture its prey. Unlike your average s
 >
 > ### Aspects
 >
-> `Anachro-arachnid` • `Acts on instinct` • `Spindly legs` • `Limited time-travel`
+> **Anachro-arachnid** • **Acts on instinct** • **Spindly legs** • **Limited time-travel**
 >
 > ### Skills
 >
@@ -3931,7 +3931,7 @@ Sirens are said to have the upper body of a woman and the lower body of a fish, 
 >
 > ### Aspects
 >
-> `Sea-dwelling enchantress` • `Mermaid-esque physique` • `Irresistible song` • `Vile motives`
+> **Sea-dwelling enchantress** • **Mermaid-esque physique** • **Irresistible song** • **Vile motives**
 >
 > ### Skills
 >
@@ -3970,7 +3970,7 @@ These creatures resemble an ungodly rendition of a squid or octopus, with tentac
 >
 > ### Aspects
 >
-> `Gargantuan terror of the depths` • `Unfathomable strength` • `Creature of legend` • `Unrelenting`
+> **Gargantuan terror of the depths** • **Unfathomable strength** • **Creature of legend** • **Unrelenting**
 >
 > ### Skills
 >
@@ -4012,7 +4012,7 @@ These creatures resemble an ungodly rendition of a squid or octopus, with tentac
 >
 > ### Aspects
 >
-> `Massive flailing appendage` • `From the depths below`
+> **Massive flailing appendage** • **From the depths below**
 >
 > ### Skills
 >
@@ -4050,7 +4050,7 @@ In the center of the room, resting on Kyle’s bed as if it were a pedestal, sit
 >
 > ### Aspects
 >
-> `Psionically Potent Dwarf Hamster` • `Just A Wee Thing` • `Telepathic Communicator`
+> **Psionically Potent Dwarf Hamster** • **Just A Wee Thing** • **Telepathic Communicator**
 >
 > ### Skills
 >
@@ -4092,7 +4092,7 @@ For a communal species, kobold physiology is surprisingly varied. While most kob
 >
 > ### Aspects
 >
-> `Servile Reptilian Humanoid` • `Flightless` • `Lower Caste` • `Heat Resistant`
+> **Servile Reptilian Humanoid** • **Flightless** • **Lower Caste** • **Heat Resistant**
 >
 > ### Skills
 >
@@ -4118,7 +4118,7 @@ For a communal species, kobold physiology is surprisingly varied. While most kob
 >
 > ### Aspects
 >
-> `Servile Reptilian Humanoid` • `Power of Flight` • `Upper Caste` • `Heat Resistant`
+> **Servile Reptilian Humanoid** • **Power of Flight** • **Upper Caste** • **Heat Resistant**
 >
 > ### Skills
 >
@@ -4151,7 +4151,7 @@ My mate already had his hands swimmin’ in a pile a’ random loot in one chest
 >
 > ### Aspects
 >
-> `Shape-Changing Predator` • `Primal Unintelligence` • `Indistinguishable While Disguised` • `Adhesive While Disguised`
+> **Shape-Changing Predator** • **Primal Unintelligence** • **Indistinguishable While Disguised** • **Adhesive While Disguised**
 >
 > ### Skills
 >
@@ -4186,7 +4186,7 @@ Jigjaw fish have been known to seek out a variety of different prey, ranging fro
 >
 > ### Aspects
 >
-> `Massive Salt-Water Fish` • `Taste For Exotic Prey` • `Brightly Glowing In-Mouth Appendage` • `Carnivorous Hunter`
+> **Massive Salt-Water Fish** • **Taste For Exotic Prey** • **Brightly Glowing In-Mouth Appendage** • **Carnivorous Hunter**
 >
 > ### Skills
 >
@@ -4230,7 +4230,7 @@ It is unclear if radio worms are intelligent or have any goals other than surviv
 >
 > ### Aspects
 >
-> `Audiopathic Anomaly` • `Survival First` • `Mysterious Origins Unknowable Goals`
+> **Audiopathic Anomaly** • **Survival First** • **Mysterious Origins Unknowable Goals**
 >
 > ### Skills
 >
@@ -4272,7 +4272,7 @@ The Brooch of Figmentia is an obscure artifact due it it’s elusive nature. The
 >
 > ### Aspects
 >
-> `Engraved Silver Brooch` • `Depicts A Non-Existent Royal Crest`
+> **Engraved Silver Brooch** • **Depicts A Non-Existent Royal Crest**
 >
 > ### Skills
 >
@@ -4296,7 +4296,7 @@ The Brooch of Figmentia is an obscure artifact due it it’s elusive nature. The
 >
 > ### Aspects
 >
-> `Brigand From a Fictional Place` • `A Figment Of Your Imagination` • `So We Meet Again`
+> **Brigand From a Fictional Place** • **A Figment Of Your Imagination** • **So We Meet Again**
 >
 > ### Skills
 >
@@ -4326,7 +4326,7 @@ Foxlotls prefer to use stealth and surprise when taking down a target. They woul
 >
 > ### Aspects
 >
-> `Amphibious Forest-Dwelling Critter` • `Reflexes Over Ferocity` • `Highly Regenerative` • `Small Pack Hunter`
+> **Amphibious Forest-Dwelling Critter** • **Reflexes Over Ferocity** • **Highly Regenerative** • **Small Pack Hunter**
 >
 > ### Skills
 >
@@ -4366,7 +4366,7 @@ Just beyond the capabilities of our mortal senses, a battle rages on. All around
 >
 > ### Aspects
 >
-> `Angelic Foot Soldier` • `Locked In An Eternal Battle With Evil` • `Righteous By Nature` • `Beyond Mortal Senses`
+> **Angelic Foot Soldier** • **Locked In An Eternal Battle With Evil** • **Righteous By Nature** • **Beyond Mortal Senses**
 >
 > ### Skills - +3 Blade Of Justice (Fight) - +2 Armor Of Righteousness (Physique)
 >
@@ -4404,7 +4404,7 @@ Lullaby bards have been hired for a variety of reasons, from helping insomniacs 
 >
 > ### Aspects
 >
-> `Magical Harpist` • `Soothing If Not Dry At Times` • `Bringer of Sleep`
+> **Magical Harpist** • **Soothing If Not Dry At Times** • **Bringer of Sleep**
 >
 > ### Skills
 >
@@ -4442,7 +4442,7 @@ The public became aware of the problem once large quantities of the toy gathered
 >
 > ### Aspects
 >
-> `Self-Replicating Nanobot Cluster` • `Must Optimize Fun` • `Experimental Children's Toy Gone Wrong` • `Algorithmic Protocols`
+> **Self-Replicating Nanobot Cluster** • **Must Optimize Fun** • **Experimental Children's Toy Gone Wrong** • **Algorithmic Protocols**
 >
 > ### Skills
 >
@@ -4479,7 +4479,7 @@ Riddleraxxers are no exception. These beings wander the fae wilds rambling confu
 >
 > ### Aspects
 >
-> `Wandering Unseelie Fae` • `Thinly Comprehensible` • `The Three’s Curse`
+> **Wandering Unseelie Fae** • **Thinly Comprehensible** • **The Three’s Curse**
 >
 > ### Skills
 >
@@ -4517,7 +4517,7 @@ Riddleraxxers are no exception. These beings wander the fae wilds rambling confu
 >
 > ### Aspects
 >
-> `Mindless Insectoid Attack Drone` • `Highly Explosive` • `Born To Die`
+> **Mindless Insectoid Attack Drone** • **Highly Explosive** • **Born To Die**
 >
 > ### Skills
 >
@@ -4552,7 +4552,7 @@ The objectives of the Syndicate, and the reasons why they vow to stay silent, ar
 >
 > ### Aspects
 >
-> `Member Of The Syndicate Of Silence` • `Tongue Removed` • `Communicates Through Arcane Visions`
+> **Member Of The Syndicate Of Silence** • **Tongue Removed** • **Communicates Through Arcane Visions**
 >
 > ### Skills
 >

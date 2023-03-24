@@ -208,17 +208,17 @@ If you still don't know where to start, here's a tip:
 
 By René-Pier Deshaies-Gélinas
 
-The big thing we need to understand when using Fudge/Fate Dice is that the chances of getting a `+4/-4` versus getting a `0` are drastically very different.
+The big thing we need to understand when using Fudge/Fate Dice is that the chances of getting a **+4/-4** versus getting a **0** are drastically very different.
 
 Outlining the results in a graph where the **vertical axis represents the chances of getting a result** and where the **horizontal axis lists all the possible results**, you would get something that looks like this:
 
 ![](https://gyazo.com/f3bd2203e745c34598e85809a542e0c8.png)
 
-So you technically have a 1.23% (1/81) chance of getting a `-4/+4` but a 23.46% chance of getting a `0`.
+So you technically have a 1.23% (1/81) chance of getting a **-4/+4** but a 23.46% chance of getting a **0**.
 
-Where it gets crazy is when you start thinking _about the chances of getting a `0` or higher?_.
+Where it gets crazy is when you start thinking _about the chances of getting a **0** or higher?_.
 
-Because the probabilities are going to stack, you get 61.73% chances to get a `0` or higher.
+Because the probabilities are going to stack, you get 61.73% chances to get a **0** or higher.
 
 If you were playing with a D20, the graph would look something like this:
 
@@ -228,9 +228,9 @@ That flat line means that basically, you have equal chances of getting each resu
 
 ## Closing Thoughts
 
-Since Fudge/Fate Dice statistics have this bell curve quality to them, the end result will have a big tendency to stay in the `-1 ==> 1` range. This makes even getting something like a `+2` exciting.
+Since Fudge/Fate Dice statistics have this bell curve quality to them, the end result will have a big tendency to stay in the **-1 ==> 1** range. This makes even getting something like a **+2** exciting.
 
-Getting a `+4` on the other hand is truly cause for celebration.
+Getting a **+4** on the other hand is truly cause for celebration.
 
 ## More Stats
 
@@ -322,7 +322,7 @@ In Fate, characters can do anything, but in terms of rules and meta, there are o
 
 Lets compare this quickly to the [Powered By The Apocalypse](http://apocalypse-world.com/pbta/) System where the players have a set of **Moves**. Those moves are basically actions that a character can do and each **Move** has a game mechanic attached to it.
 
-For example, in [Monster of the Week](https://www.evilhat.com/home/monster-of-the-week/) you have: `Kick Some Ass`, `Act Under Pressure`, `Help Out`, `Investigate a Mystery`, `Manipulate Someone`, `Protect Someone`, `Read a Bad Situation` and `Use Magic`.
+For example, in [Monster of the Week](https://www.evilhat.com/home/monster-of-the-week/) you have: **Kick Some Ass**, **Act Under Pressure**, **Help Out**, **Investigate a Mystery**, **Manipulate Someone**, **Protect Someone**, **Read a Bad Situation** and **Use Magic**.
 
 In PBTA games, **Moves** vehicle something that Fate Actions have a hard time doing: they clearly layout multiple examples of how the rules can be bent to match what a player wants to do.
 
@@ -348,17 +348,17 @@ Which is why I want to try to create a generic list of what I will refer to as *
 
 To create a **Moment**, you can follow the following recipe.
 
-| Quantity | Ingredients   |
-| -------- | ------------- |
-| 1 cup    | `Player Goal` |
-| 1 tbsp   | `Action`      |
-| 1 tsp    | `Skill`       |
+| Quantity | Ingredients     |
+| -------- | --------------- |
+| 1 cup    | **Player Goal** |
+| 1 tbsp   | **Action**      |
+| 1 tsp    | **Skill**       |
 
-For example, if a player wants to be on someone's tail in a space battle, you could create a moment called `Getting on Someone's Tail` that would look something like.
+For example, if a player wants to be on someone's tail in a space battle, you could create a moment called **Getting on Someone's Tail** that would look something like.
 
 > #### Getting on Someone's Tail
 >
-> Use `Create an Advantage` <fate>C</fate> and `Drive` to be on someone's tail and gain the upper hand in a space battle.
+> Use **Create an Advantage** <fate>C</fate> and **Drive** to be on someone's tail and gain the upper hand in a space battle.
 
 While there is more than one way to bake a pie, this recipe will get you started so that you can create your own list of **Moments** that is best for your setting.
 
@@ -368,7 +368,7 @@ Even if use **Moments** as a starting point for your Fate campaign, the GM and t
 
 Fiction First!
 
-As a GM, if one of your players is trying to do something that is not part of the your pre-made **Moments**, it is part of your job to **create a Moment on the spot** by matching a `Skill` with one of the 4 `Actions` and describing the possible outcomes.
+As a GM, if one of your players is trying to do something that is not part of the your pre-made **Moments**, it is part of your job to **create a Moment on the spot** by matching a **Skill** with one of the 4 **Actions** and describing the possible outcomes.
 
 ## Getting Started
 
@@ -380,25 +380,25 @@ Enjoy!
 
 > ### Harm Someone
 >
-> Use `Attack` <fate>A</fate> and `Fight / Shoot / Provoke` to deal damage to another character.
+> Use **Attack** <fate>A</fate> and **Fight / Shoot / Provoke** to deal damage to another character.
 >
 > [Attack | Fate Condensed](/srds/condensed/taking-action-rolling-the-dice/?goTo=attack)
 
 > ### Defend Yourself
 >
-> Use `Defend` <fate>D</fate> and `Athletics / Fight / Will` to protect yourself from immediate danger.
+> Use **Defend** <fate>D</fate> and **Athletics / Fight / Will** to protect yourself from immediate danger.
 >
 > [Defend | Fate Condensed](/srds/condensed/taking-action-rolling-the-dice/?goTo=defend)
 
 > ### Brace Yourself
 >
-> Skip your turn and gain a `+2` to all your `Defend` <fate>D</fate> rolls until the end of the turn
+> Skip your turn and gain a **+2** to all your **Defend** <fate>D</fate> rolls until the end of the turn
 >
 > [Full Defense | Fate Condensed](/srds/condensed/optional-rules?goTo=full-defense)
 
 > ### Protect Someone from Danger
 >
-> Use `Defend` <fate>D</fate> and `Athletics / Fight` to place yourself between immediate danger and someone in order to try to protect them.
+> Use **Defend** <fate>D</fate> and **Athletics / Fight** to place yourself between immediate danger and someone in order to try to protect them.
 >
 > When doing this you expose yourself to possibly suffering the effects of any failed rolls.
 >
@@ -408,13 +408,13 @@ Enjoy!
 
 > ### Stop Someone
 >
-> Use `Defend` <fate>D</fate> to oppose someone from trying to `Create an Advantage` against you.
+> Use **Defend** <fate>D</fate> to oppose someone from trying to **Create an Advantage** against you.
 >
 > [Defend | Fate Condensed](/srds/condensed/taking-action-rolling-the-dice/?goTo=defend)
 
 > ### Act Under Pressure
 >
-> Use `Overcome` <fate>O</fate> to see if you can succeed the challenge.
+> Use **Overcome** <fate>O</fate> to see if you can succeed the challenge.
 >
 > [Overcome | Fate Condensed](/srds/condensed/taking-action-rolling-the-dice/?goTo=overcome)
 
@@ -426,19 +426,19 @@ Enjoy!
 
 > ### Investigate a Situation
 >
-> Use `Create an Advantage` <fate>C</fate> and `Investigate` to try to find something to help move the story forward.
+> Use **Create an Advantage** <fate>C</fate> and **Investigate** to try to find something to help move the story forward.
 >
 > [Create an Advantage | Fate Condensed](/srds/condensed/taking-action-rolling-the-dice/?goTo=create-an-advantage)
 
 > ### Find Something Useful
 >
-> Use `Create an Advantage` <fate>C</fate> and `Notice` to try to find something you can use to your advantage.
+> Use **Create an Advantage** <fate>C</fate> and **Notice** to try to find something you can use to your advantage.
 >
 > [Create an Advantage | Fate Condensed](/srds/condensed/taking-action-rolling-the-dice/?goTo=create-an-advantage)
 
 > ### Manipulate Someone
 >
-> Use `Create an Advantage` <fate>C</fate> and `Deceive / Rapport` to convince someone to do what you tell them to do.
+> Use **Create an Advantage** <fate>C</fate> and **Deceive / Rapport** to convince someone to do what you tell them to do.
 >
 > [Create an Advantage | Fate Condensed](/srds/condensed/taking-action-rolling-the-dice/?goTo=create-an-advantage)
 

@@ -97,7 +97,7 @@ Here are some things that makes Charge special compared to other games you might
 >
 > Characters are easy to define, and still unique in their own way. Charge gives you a good framework to create characters for settings you want.
 >
-> Charge does this by making characters shine using `character details` to define who they are and how they're linked to the world. They have `actions` to highlight what they are good at, and `talents` to make them evolve in interesting ways.
+> Charge does this by making characters shine using **character details** to define who they are and how they're linked to the world. They have **actions** to highlight what they are good at, and **talents** to make them evolve in interesting ways.
 
 > **It offers easy to tune dials and extras to have "grimmer" up to "bigger than life" adventures.**
 >
@@ -105,7 +105,7 @@ Here are some things that makes Charge special compared to other games you might
 >
 > From a post-apocalyptic survival adventure where each bullet counts, to a grand space opera where the heroes always prevail, the mechanics are easily tuneable to reflect the kind of story you want to tell.
 >
-> Either adjust the main difficulty setting of the game, or use one of the many `extras` provided to play the way you want to.
+> Either adjust the main difficulty setting of the game, or use one of the many **extras** provided to play the way you want to.
 
 > **It is both a utility belt, and a toolbox.**
 >
@@ -146,9 +146,9 @@ Charge is a generic table-top role-playing game. That means that you and your fr
 
 ## Game Master & Players
 
-One person in the group needs to act as the `Game Master`, or `GM`. The GM is responsible for the world and the characters that live in it (those that aren't directly played by the rest of the table). We call those characters "non-player characters", or *NPC*s.
+One person in the group needs to act as the **Game Master**, or **GM**. The GM is responsible for the world and the characters that live in it (those that aren't directly played by the rest of the table). We call those characters "non-player characters", or *NPC*s.
 
-The rest of the group are `Players`. The players create a character that experiences compelling stories inside this world. We call those player characters, or *PC*s.
+The rest of the group are **Players**. The players create a character that experiences compelling stories inside this world. We call those player characters, or *PC*s.
 
 While the GM is usually the main person responsible for the way the world changes over time, everyone at the table is in charge of the story.
 
@@ -162,9 +162,9 @@ Everything inside Charge is collaborative.
 
 You choose a setting together, you create your characters together, and you make that world evolve together.
 
-Each session is made of `scenes`, like in a movie. Each scene plays out as a bunch of back-and-forth between the GM and the players. The GM describes what the scene is like, the players tell the GM what they do, and the GM makes the world react to those actions depending on the outcomes of certain dice rolls.
+Each session is made of **scenes**, like in a movie. Each scene plays out as a bunch of back-and-forth between the GM and the players. The GM describes what the scene is like, the players tell the GM what they do, and the GM makes the world react to those actions depending on the outcomes of certain dice rolls.
 
-Each time you and your friends meet to play Charge is a `session` which can last between 1 and 4 hours, or even more. The amount of time each session takes depends on a lot of factors.
+Each time you and your friends meet to play Charge is a **session** which can last between 1 and 4 hours, or even more. The amount of time each session takes depends on a lot of factors.
 
 Each group can play very differently. Some might take their time while others might rush into things head-on, but it also depends on everyone's availability.
 
@@ -194,23 +194,23 @@ Then, patiently wait until the next session. And while you are waiting, remember
 
 [![Image by KELLEPICS from pixabay.com](https://gyazo.com/6c402c4fb66bc6ac29d20b7bee048d9a.png)](https://pixabay.com/photos/landscape-fantastic-surreal-mood-6543972/)
 
-As a player, you create a `character`.
+As a player, you create a **character**.
 
-Your character is defined by certain traits, and tied to certain elements of the world they live in. They will affect the world around them with their `actions`. If their actions are not completely successful they will lead to `consequences` which might inflict `stress` or worsen their `condition`.
+Your character is defined by certain traits, and tied to certain elements of the world they live in. They will affect the world around them with their **actions**. If their actions are not completely successful they will lead to **consequences** which might inflict **stress** or worsen their **condition**.
 
-The `details` of your characters are a good way to make your characters unique in the fiction, but Charge uses `talents` to give characters mechanical benefits when doing an `action roll`.
+The **details** of your characters are a good way to make your characters unique in the fiction, but Charge uses **talents** to give characters mechanical benefits when doing an **action roll**.
 
 You can find each of those terms in the character sheet, but let's go over what all of them mean and how we use them during a session.
 
 ## Details
 
-Characters are defined by descriptive traits called `details`. Each character usually has between 2-5 of them to highlight who they are, and what is important about them. Those details aren’t just information to give the character color, but should be the aspects of the character that we pay attention to in the story. They are also used as a guide to know the different narrative liberties that a character has in the fiction.
+Characters are defined by descriptive traits called **details**. Each character usually has between 2-5 of them to highlight who they are, and what is important about them. Those details aren’t just information to give the character color, but should be the aspects of the character that we pay attention to in the story. They are also used as a guide to know the different narrative liberties that a character has in the fiction.
 
 ![](https://gyazo.com/e4ac2539a73b8650b7aee2ca20661371.png)
 
 ### Concept
 
-The `concept` of your character is like the elevator-pitch version of who they are.
+The **concept** of your character is like the elevator-pitch version of who they are.
 
 On your character sheet, write a small sentence that quickly sums them up.
 
@@ -223,7 +223,7 @@ A good concept could include things like:
 
 ### Appearance
 
-Next is your character's `appearance`.
+Next is your character's **appearance**.
 
 Use this section to describe what your character looks like. You can talk about their shape, size, what they wear, etc.
 
@@ -233,7 +233,7 @@ This will help everyone at the table when they need to picture your character as
 
 Since your character is one of the story's protagonists, they need to be linked to the different forces in the world. They weren't born yesterday (or were they?), so they have probably made friends or foes with different people or organizations.
 
-To establish those links, we define `ties`.
+To establish those links, we define **ties**.
 
 A tie links your character to another player's character, an organization, or other [world forces](making-a-compelling-campaign).
 
@@ -245,7 +245,7 @@ This will also help establish a bit of a general backstory for your character, w
 >
 > You don't need to entirely flesh out your character before you start playing.
 >
-> Simply choosing your `concept` is more than enough to get going.
+> Simply choosing your **concept** is more than enough to get going.
 >
 > After the first session or two, you will have a better idea of who your character is, so finding those details later is totally fine.
 >
@@ -266,7 +266,7 @@ When creating a character, you need to **distribute 7 action dots** among those 
 
 Those dots represent how good your character is at doing things. As the game progresses, you will gain additional dots that make your character more flexible. See [**Mechanics&nbsp;»&nbsp;Progression**](mechanics#progression).
 
-The 12 actions are grouped into 3 categories called `Attributes`. There is `Physique`, `Insight` and `Resolve`.
+The 12 actions are grouped into 3 categories called **Attributes**. There is **Physique**, **Insight** and **Resolve**.
 For now let's look at the 12 different types of actions.
 
 ### The 12 Actions
@@ -275,57 +275,57 @@ For now let's look at the 12 different types of actions.
 
 #### Physique
 
-When you `Muscle`, you use your force to move, overcome or wreck the obstacle in front of you.
+When you **Muscle**, you use your force to move, overcome or wreck the obstacle in front of you.
 
-> You might lift, punch, grapple, hack and slash. You might wrestle with a wild animal. You might blast a door open. You could try to fight in a formal duel (but `Finesse` might be better).
+> You might lift, punch, grapple, hack and slash. You might wrestle with a wild animal. You might blast a door open. You could try to fight in a formal duel (but **Finesse** might be better).
 
-When you `Finesse`, you employ dexterous manipulation or subtle misdirection.
+When you **Finesse**, you employ dexterous manipulation or subtle misdirection.
 
-> You might steal something from someone's pocket. You might hack a security system. You might helm the controls of a ship. You could try to pick a lock (but `Tinker` might be better).
+> You might steal something from someone's pocket. You might hack a security system. You might helm the controls of a ship. You could try to pick a lock (but **Tinker** might be better).
 
-When you `Move`, you quickly shift to a new position or get out of danger.
+When you **Move**, you quickly shift to a new position or get out of danger.
 
-> You might climb, swim, run, or jump. You might outpace the guards. You might jump above a spiked pit. You could try to lose someone on your tail (but `Sneak` might be better).
+> You might climb, swim, run, or jump. You might outpace the guards. You might jump above a spiked pit. You could try to lose someone on your tail (but **Sneak** might be better).
 
-When you `Sneak`, you traverse skillfully and quietly.
+When you **Sneak**, you traverse skillfully and quietly.
 
-> You might sneak past a guard or hide in the shadows. You could try to back-stab a solder in the middle of a battle (but `Muscle` might be better).
+> You might sneak past a guard or hide in the shadows. You could try to back-stab a solder in the middle of a battle (but **Muscle** might be better).
 
 #### Insight
 
-When you `Shoot`, you carefully track and shoot at a target.
+When you **Shoot**, you carefully track and shoot at a target.
 
-> You might snipe an enemy long-distance. You might throw a fireball to light the battlefield on fire. You might aim the ship's laser guns. You could try to skill-fully throw a dart in a bar game (but `Finesse` might be better).
+> You might snipe an enemy long-distance. You might throw a fireball to light the battlefield on fire. You might aim the ship's laser guns. You could try to skill-fully throw a dart in a bar game (but **Finesse** might be better).
 
-When you `Tinker`, you understand, create, or repair complex mechanisms or organisms.
+When you **Tinker**, you understand, create, or repair complex mechanisms or organisms.
 
-> You might create a new gadget or alter an existing item. You might mend a broken bone. You could try to use your technical expertise to control a vehicle (but `Finesse` might be better).
+> You might create a new gadget or alter an existing item. You might mend a broken bone. You could try to use your technical expertise to control a vehicle (but **Finesse** might be better).
 
-When you `Study`, you scrutinize details and interpret evidence.
+When you **Study**, you scrutinize details and interpret evidence.
 
-> You might gather information from documents, newspapers, and books. You might closely analyze a person to detect lies or true feelings. You could try to examine events to understand a pressing situation (but `Notice` might be better).
+> You might gather information from documents, newspapers, and books. You might closely analyze a person to detect lies or true feelings. You could try to examine events to understand a pressing situation (but **Notice** might be better).
 
-When you `Notice`, you observe the situation and anticipate outcomes.
+When you **Notice**, you observe the situation and anticipate outcomes.
 
-> You might pick up important details in the moment. You might anticipate danger before it happens. You could try to figure out what is making someone sick (but `Study` might be better).
+> You might pick up important details in the moment. You might anticipate danger before it happens. You could try to figure out what is making someone sick (but **Study** might be better).
 
 #### Resolve
 
-When you `Bond`, you reassure and socialize with friends and contacts.
+When you **Bond**, you reassure and socialize with friends and contacts.
 
-> You might gain access to resources, information, people, or places. You might make a good impression or win someone over with your charm, style, or empathy. You could try to manipulate your friends with social pressure (but `Sway` might be better).
+> You might gain access to resources, information, people, or places. You might make a good impression or win someone over with your charm, style, or empathy. You could try to manipulate your friends with social pressure (but **Sway** might be better).
 
-When you `Command`, you compel swift obedience with skills and respect.
+When you **Command**, you compel swift obedience with skills and respect.
 
-> You might intimidate or threaten to get what you want. You might ask a small militia to get their things together. You might order your undead minions to sacrifice themselves for you. You could also ask your familiar to look for something in a room (but `Bond` might be better).
+> You might intimidate or threaten to get what you want. You might ask a small militia to get their things together. You might order your undead minions to sacrifice themselves for you. You could also ask your familiar to look for something in a room (but **Bond** might be better).
 
-When you `Focus`, you concentrate to accomplish a task that requires great strength of mind.
+When you **Focus**, you concentrate to accomplish a task that requires great strength of mind.
 
-> You might meditate to enter the spirit world. You might concentrate to win a game of chess. You might enter a trance to finish up an important ritual. You could try to pay closer attention to your surroundings beyond what is visible (but `Notice` might be better).
+> You might meditate to enter the spirit world. You might concentrate to win a game of chess. You might enter a trance to finish up an important ritual. You could try to pay closer attention to your surroundings beyond what is visible (but **Notice** might be better).
 
-When you `Sway`, you influence with guile, charm, or argument.
+When you **Sway**, you influence with guile, charm, or argument.
 
-> You might lie convincingly. You might persuade someone to do what you want. You might argue a compelling case that leaves no clear rebuttal. You could try to trick people into affection or obedience (but `Bond` or `Command` might be better).
+> You might lie convincingly. You might persuade someone to do what you want. You might argue a compelling case that leaves no clear rebuttal. You could try to trick people into affection or obedience (but **Bond** or **Command** might be better).
 
 ### Which Action to Pick for a Roll
 
@@ -333,11 +333,11 @@ Some actions may overlap with others. This is by design. As your campaign progre
 
 Make this game your own.
 
-As a player, you get to choose which action you roll by simply saying what your character does. Choosing one approach versus another might influence the `risk` or `effect` of your action. The GM should tell you those details before you roll.
+As a player, you get to choose which action you roll by simply saying what your character does. Choosing one approach versus another might influence the **risk** or **effect** of your action. The GM should tell you those details before you roll.
 
 ## Momentum
 
-A character's `momentum` is a measure that represents the impact of your character on the world. The more you interact with the world, and the people that live in it, the more your character gains `charges of momentum`.
+A character's **momentum** is a measure that represents the impact of your character on the world. The more you interact with the world, and the people that live in it, the more your character gains **charges of momentum**.
 
 You start with 2 momentum at the beginning of each session and consume it to boost your action rolls or assist your teammates.
 
@@ -345,13 +345,13 @@ You start with 2 momentum at the beginning of each session and consume it to boo
 
 ## Stress & Condition
 
-When your character faces dangerous challenges and fails their `action roll`, something bad happens.
+When your character faces dangerous challenges and fails their **action roll**, something bad happens.
 
-Maybe the situation is more complicated or even perilous. The alternative to this is that you get hurt. The GM is the one who decides if the `consequence` of the roll is harm or something else.
+Maybe the situation is more complicated or even perilous. The alternative to this is that you get hurt. The GM is the one who decides if the **consequence** of the roll is harm or something else.
 
-When you get hurt, you take a certain amount of `stress`, and each stress ticks a segment on your character's `stress clock`.
+When you get hurt, you take a certain amount of **stress**, and each stress ticks a segment on your character's **stress clock**.
 
-Each time your character takes stress, you need to update your character's `condition` and write down a short `detail` describing the state your character is in.
+Each time your character takes stress, you need to update your character's **condition** and write down a short **detail** describing the state your character is in.
 
 ![Condition](https://gyazo.com/468a4a981adfbc795ef328b3b95e798a.png)
 
@@ -375,15 +375,15 @@ Here are a couple examples of conditions:
 
 ## Talents
 
-`Talents` are a way to make the characters progress over the course of a campaign.
+**Talents** are a way to make the characters progress over the course of a campaign.
 
-Over time, characters gain new `talent dots` which make their talent tree advance.
+Over time, characters gain new **talent dots** which make their talent tree advance.
 
 ![](https://gyazo.com/6cab207e891b02249a7f96c66694010a.png)
 
-Every dot in the talent tree gives you either a new `action dot`, or a `situational bonus`.
+Every dot in the talent tree gives you either a new **action dot**, or a **situational bonus**.
 
-A situational bonus often represents a boost in `effect`, an increased `dice pool` or a reduction of the `risk`, but it only triggers in a certain situation.
+A situational bonus often represents a boost in **effect**, an increased **dice pool** or a reduction of the **risk**, but it only triggers in a certain situation.
 
 You don't need to worry about talents right now, especially if you just started your campaign.
 
@@ -391,7 +391,7 @@ When your campaign reaches a significant turning point, you can read [**Mechanic
 
 ## Projects and Complications
 
-The `Projects and Complications` section of the character sheet is something the GM and players use to track long-term projects or ever-evolving dangers that span multiple sessions.
+The **Projects and Complications** section of the character sheet is something the GM and players use to track long-term projects or ever-evolving dangers that span multiple sessions.
 
 ![](https://gyazo.com/cc0d601c9fc82fbfe8a433ac3fdc303d.png)
 
@@ -405,12 +405,12 @@ Now we will go over all the mechanics used in the game that exist to resolve unk
 
 > #### The Character Sheet
 >
-> - Character `details` to highlight who they are. (Concept, Appearance, and Ties)
+> - Character **details** to highlight who they are. (Concept, Appearance, and Ties)
 > - 7 Action dots distributed across the 12 actions to explain what they are good at.
 > - Momentum charges to boost your actions and help your teammates.
-> - A `stress clock` and `condition` to represent the state physical and mental state of a character.
-> - A `talent line` to make the character feel more powerful.
-> - `Projects and complications` clocks to track session-spanning efforts or dangers.
+> - A **stress clock** and **condition** to represent the state physical and mental state of a character.
+> - A **talent line** to make the character feel more powerful.
+> - **Projects and complications** clocks to track session-spanning efforts or dangers.
 
 # Fiction First | Mechanics
 
@@ -434,9 +434,9 @@ Those mechanics mostly rely on figuring out what the risks are, and what is happ
 
 The game uses six-sided dice. You roll several at once, which we call a dice pool, and read the **single highest result**.
 
-- If the highest die is a `6`, it's a `full success`. Things go well. If you roll more than one `6`, it's a `critical success` and you gain some additional advantage.
-- If the highest die is a `4 or 5`, that's a `partial success`. You do what you were trying to do, but there is a consequence.
-- If the highest die is `1-3`, it's a `bad outcome`. Things go poorly. You don't achieve your goal, and suffer a consequence.
+- If the highest die is a **6**, it's a **full success**. Things go well. If you roll more than one **6**, it's a **critical success** and you gain some additional advantage.
+- If the highest die is a **4 or 5**, that's a **partial success**. You do what you were trying to do, but there is a consequence.
+- If the highest die is **1-3**, it's a **bad outcome**. Things go poorly. You don't achieve your goal, and suffer a consequence.
 
 > **_If you ever need to roll but you have zero (or negative) dice, roll two dice and take the single lowest result. You can’t roll a critical when you have zero dice._**
 
@@ -452,13 +452,13 @@ You want to accomplish a goal, but something or someone is in your way. A person
 
 That's a challenge that needs to be overcome.
 
-To see how it turns out, we make an `action roll` by going through the following steps:
+To see how it turns out, we make an **action roll** by going through the following steps:
 
 ## 1. Player Sets Their Goal
 
 The first step in knowing whether or not your character overcomes the challenge is to know what they are doing and what is their goal.
 
-Once the goal of your character has been established, the player decides which one of the **12 actions** they are going to use. Are they `Bonding` with a local merchant, or `Swaying` them into thinking that their prices are too high?
+Once the goal of your character has been established, the player decides which one of the **12 actions** they are going to use. Are they **Bonding** with a local merchant, or **Swaying** them into thinking that their prices are too high?
 
 The action rating is used to define the initial dice pool of the roll.
 
@@ -468,59 +468,59 @@ The action rating is used to define the initial dice pool of the roll.
 >
 > The action roll tells us the results, and the consequences of an action at the same time.
 >
-> On a `6`, the PC wins and gets what they wanted. On a `4 or 5`, both the PC and the NPC have an effect on the result. On a > `1-3`, the NPC wins and the outcome results in a consequence for the PC.
+> On a **6**, the PC wins and gets what they wanted. On a **4 or 5**, both the PC and the NPC have an effect on the result. On a > **1-3**, the NPC wins and the outcome results in a consequence for the PC.
 
 ## 2. GM Sets the Risk
 
-The GM sets the `risk` of the action based on what has been established in the narrative.
+The GM sets the **risk** of the action based on what has been established in the narrative.
 
-The risk is either, `low`, `moderate` or `high`.
+The risk is either, **low**, **moderate** or **high**.
 
-- When the risk is `low`, things are under control. Even if things go wrong, there is a way out.
-- When the risk is `moderate`, the situation is dangerous. If you fail, there will be repercussions.
-- When the risk is `high`, the odds are against you. Attempting to go against them might backfire heavily.
+- When the risk is **low**, things are under control. Even if things go wrong, there is a way out.
+- When the risk is **moderate**, the situation is dangerous. If you fail, there will be repercussions.
+- When the risk is **high**, the odds are against you. Attempting to go against them might backfire heavily.
 
-By default, an action roll has a `moderate` risk. You wouldn’t be rolling if there was no risk involved.
+By default, an action roll has a **moderate** risk. You wouldn’t be rolling if there was no risk involved.
 
 The GM uses the narrative context to determine which risk to pick.
 
-The action being used is another thing that might affect the `risk` of a roll — you are trying to convince a merchant who's in a bad mood, using `Sway` might be pretty `high risk`. `Bond` on the other hand could put you in a more `low risk` position, considering the situation.
+The action being used is another thing that might affect the **risk** of a roll — you are trying to convince a merchant who's in a bad mood, using **Sway** might be pretty **high risk**. **Bond** on the other hand could put you in a more **low risk** position, considering the situation.
 
 The risk helps determine what failure looks like.
 
 ## 3. GM Sets the Effect Rating
 
-The risk isn't the only thing that helps resolve the end result of a roll. Even in a `high risk` situation, succeeding on a roll might still have a great `effect` on the narrative.
+The risk isn't the only thing that helps resolve the end result of a roll. Even in a **high risk** situation, succeeding on a roll might still have a great **effect** on the narrative.
 
-In Charge, there are 3 possible effect ratings: `great`, `standard`, and `limited`. In most common scenarios, if you are rolling to overcome something, you are probably looking at generating a `standard` effect. The GM is responsible for telling you this information.
+In Charge, there are 3 possible effect ratings: **great**, **standard**, and **limited**. In most common scenarios, if you are rolling to overcome something, you are probably looking at generating a **standard** effect. The GM is responsible for telling you this information.
 
-If a heavy door is blocking your way, you could use `Finesse` to pick the lock. This might generate a `standard effect`, since it will take some time to do, but the roll would be `low risk`. You could also try to use `Tinker` and wreck the door open with an explosive. This may create a `great effect`, but might be a `high risk` situation as it could create a lot of unwanted attention.
+If a heavy door is blocking your way, you could use **Finesse** to pick the lock. This might generate a **standard effect**, since it will take some time to do, but the roll would be **low risk**. You could also try to use **Tinker** and wreck the door open with an explosive. This may create a **great effect**, but might be a **high risk** situation as it could create a lot of unwanted attention.
 
 The effect rating helps determine what success looks like.
 
 > #### The Fourth Effect Rating
 >
-> We said there were only 3 effect ratings, and that was actually a little bit of a lie since there's a fourth one called the `no-effect`.
+> We said there were only 3 effect ratings, and that was actually a little bit of a lie since there's a fourth one called the **no-effect**.
 >
 > The GM can use this when a task is so difficult that whatever the PC attempts, there is no chance of success.
 >
-> Obviously, doing nothing is boring. That's why you can boost that `no-effect` to a `limited effect` if you Push Yourself using charges of momentum. More on that in [Even the Odds](#even-the-odds).
+> Obviously, doing nothing is boring. That's why you can boost that **no-effect** to a **limited effect** if you Push Yourself using charges of momentum. More on that in [Even the Odds](#even-the-odds).
 
 > #### The Impact of Effect & Risk
 >
-> The `effect` and `risk` help us understand what happens in the narrative, but they also have a mechanical impact on the game.
+> The **effect** and **risk** help us understand what happens in the narrative, but they also have a mechanical impact on the game.
 >
 > To know what impact they have, numerical ratings are attached to them.
 >
-> | Risk       | Effect     | Rating |
-> | ---------- | ---------- | ------ |
-> | `High`     | `Great`    | 3      |
-> | `Moderate` | `Standard` | 2      |
-> | `Low`      | `Limited`  | 1      |
+> | Risk         | Effect       | Rating |
+> | ------------ | ------------ | ------ |
+> | **High**     | **Great**    | 3      |
+> | **Moderate** | **Standard** | 2      |
+> | **Low**      | **Limited**  | 1      |
 >
-> When a roll succeeds, you use the `effect rating` to see how many segments you tick on progress clocks, how much information the character gets out of an investigation, etc.
+> When a roll succeeds, you use the **effect rating** to see how many segments you tick on progress clocks, how much information the character gets out of an investigation, etc.
 >
-> When a roll creates a consequence, you use the `risk rating` to see how many segments you tick on danger clocks, how much stress a character gets when they are harmed, etc.
+> When a roll creates a consequence, you use the **risk rating** to see how many segments you tick on danger clocks, how much stress a character gets when they are harmed, etc.
 >
 > While the GM usually sets the initial ratings, the entire table should participate in the discussion to make sure all aspects of the fiction are taken into consideration before an action roll is made.
 >
@@ -534,29 +534,29 @@ The player can decide if they want to even the odds by adding bonus dice to thei
 
 You can normally get two bonus dice for your action roll.
 
-For one bonus die, you can get assistance from a teammate. They consume `1 momentum`, say how they help you, and give you an extra `1d6`.
+For one bonus die, you can get assistance from a teammate. They consume **1 momentum**, say how they help you, and give you an extra **1d6**.
 
 For another bonus die, you can use **one** of the following methods
 
 ### Push Yourself
 
-When you `push yourself`, you consume `2 momentum` **per push** to gain one of the following bonuses.
+When you **push yourself**, you consume **2 momentum** **per push** to gain one of the following bonuses.
 
-- Add an extra `1d6` to your dice pool.
-- Increase the `effect` of your roll.
+- Add an extra **1d6** to your dice pool.
+- Increase the **effect** of your roll.
 - Take action even if you were taken out.
 
 ### Add Tension
 
-When you `add tension` to an action roll, you can ask the GM _"What would adding tension look like here?"_. The GM then offers a `consequence`, like ticking segments on a danger clock, inflicting stress on your character, or adding more drama to the narrative.
+When you **add tension** to an action roll, you can ask the GM _"What would adding tension look like here?"_. The GM then offers a **consequence**, like ticking segments on a danger clock, inflicting stress on your character, or adding more drama to the narrative.
 
-If you accept the `consequence`, add an extra `1d6` to your current dice pool.
+If you accept the **consequence**, add an extra **1d6** to your current dice pool.
 
 There could be scenarios where adding tension isn't an option. In that case, the GM can simply communicate that to the player so that they look into other ways to even the odds.
 
 ## Assist
 
-When you `assist` a PC, you consume `1 momentum`, to give an extra `1d6` to their roll. When doing this, you also expose yourself to possible danger.
+When you **assist** a PC, you consume **1 momentum**, to give an extra **1d6** to their roll. When doing this, you also expose yourself to possible danger.
 
 You can also even the odds by using **either** of the following methods.
 
@@ -570,23 +570,23 @@ So now, let's go over all of this again to recap what happens when you make an a
 
 > #### Action Roll
 >
-> 1. Pick an Action and find out how many dice you need to roll (the `action rating`)
-> 1. Determine the `risk` (`1 low` ► `2 moderate` ► `3 high`)
-> 1. Determine the `effect rating` (`3 great` ► `2 standard` ► `1 limited`)
-> 1. Add `1d6` if: you `push yourself` (`2 momentum`) -or- if you `add tension` to the scene.
-> 1. Add `1d6` if you have `assistance` (they consume `1 momentum`)
+> 1. Pick an Action and find out how many dice you need to roll (the **action rating**)
+> 1. Determine the **risk** (**1 low** ► **2 moderate** ► **3 high**)
+> 1. Determine the **effect rating** (**3 great** ► **2 standard** ► **1 limited**)
+> 1. Add **1d6** if: you **push yourself** (**2 momentum**) -or- if you **add tension** to the scene.
+> 1. Add **1d6** if you have **assistance** (they consume **1 momentum**)
 > 1. Roll and wish for the best!
 >
 > ---
 >
-> - On a `66 critical success`, you greatly overcome the obstacle
-> - On a `6 full success`, you overcome the obstacle.
-> - On a `4-5 partial success`, you overcome the obstacle, but there's a `consequence`.
-> - On a `1-3 bad outcome`, you fail at overcoming the obstacle, and there's a `consequence`.
+> - On a **66 critical success**, you greatly overcome the obstacle
+> - On a **6 full success**, you overcome the obstacle.
+> - On a **4-5 partial success**, you overcome the obstacle, but there's a **consequence**.
+> - On a **1-3 bad outcome**, you fail at overcoming the obstacle, and there's a **consequence**.
 
 > #### Example
 >
-> _Xavier's character wants to take out a guard without him noticing anything. He decides to use **Sneak**. The GM looks at the situation and assesses that it is of **moderate risk** since the guard might not be alone, but the outcome would be of **great effect** because the guard isn't on high alert. Xavier doesn't want to leave everything up to chance, and decides to even the odds. He declares that his character will **push themselves** to get an additional `1d6` by diving in the water to get closer before taking the guard out. Xavier rolls his dice pool and... gets a `5`, partial success! The GM then says that Xavier's character takes out the guard, but ticks 2 segments on an "Alert Clock" because of the noise Xavier's character made pulling the guard in the water._
+> _Xavier's character wants to take out a guard without him noticing anything. He decides to use **Sneak**. The GM looks at the situation and assesses that it is of **moderate risk** since the guard might not be alone, but the outcome would be of **great effect** because the guard isn't on high alert. Xavier doesn't want to leave everything up to chance, and decides to even the odds. He declares that his character will **push themselves** to get an additional **1d6** by diving in the water to get closer before taking the guard out. Xavier rolls his dice pool and... gets a **5**, partial success! The GM then says that Xavier's character takes out the guard, but ticks 2 segments on an "Alert Clock" because of the noise Xavier's character made pulling the guard in the water._
 
 # Consequences| Mechanics
 
@@ -594,23 +594,23 @@ So now, let's go over all of this again to recap what happens when you make an a
 
 **_Sometimes things work out. Other times..._**
 
-If you make an action roll and you get a `partial success (4-5)` or a `bad outcome (1-3)`, you suffer a `consequence`.
+If you make an action roll and you get a **partial success (4-5)** or a **bad outcome (1-3)**, you suffer a **consequence**.
 
 Consequences are a tool the GM can use to spice up the story. The GM uses the fiction, style, and tone established by the group to determine the type of consequence.
 
 ## Consequence Rating
 
-When a consequence is inflicted on a player's character, the `risk` of the action roll tells us how bad that consequence is.
+When a consequence is inflicted on a player's character, the **risk** of the action roll tells us how bad that consequence is.
 
-So a consequence that comes from a `high risk` action roll is _usually_ worse than a consequence from a `low risk` one.
+So a consequence that comes from a **high risk** action roll is _usually_ worse than a consequence from a **low risk** one.
 
-We call this the `consequence rating`. Some types of consequences use this rating directly to tie the consequence with some of the game's mechanics.
+We call this the **consequence rating**. Some types of consequences use this rating directly to tie the consequence with some of the game's mechanics.
 
-| Risk            | Consequence Rating |
-| --------------- | ------------------ |
-| `High Risk`     | 3                  |
-| `Moderate Risk` | 2                  |
-| `Low Risk`      | 1                  |
+| Risk              | Consequence Rating |
+| ----------------- | ------------------ |
+| **High Risk**     | 3                  |
+| **Moderate Risk** | 2                  |
+| **Low Risk**      | 1                  |
 
 ## Types of Consequences
 
@@ -630,7 +630,7 @@ This consequence represents impaired performance. The PC's action isn't as effec
 
 This consequence represents trouble, mounting danger, or a new threat.
 
-> **Tick one segment per `consequence rating` on a new or existing `danger clock`.**
+> **Tick one segment per **consequence rating** on a new or existing **danger clock**.**
 >
 > ---
 >
@@ -640,7 +640,7 @@ This consequence represents trouble, mounting danger, or a new threat.
 
 This represents shifting circumstance. What you tried didn't work, and now there's a new situation that prevents you from trying again. You need to find another approach.
 
-> **Your latest attempt didn't work. If you want to try again, you need to use a different `action`.**
+> **Your latest attempt didn't work. If you want to try again, you need to use a different **action**.**
 >
 > ---
 >
@@ -654,7 +654,7 @@ Perhaps you make the leap across to the next rooftop, only to end up dangling by
 
 This is a good consequence to choose to show escalating action. A situation might go from **controlled**, to **risky**, to **desperate** as the action plays out and the PC gets deeper and deeper into trouble.
 
-> **Increases the `risk` by one level for future rolls related to that action.**
+> **Increases the **risk** by one level for future rolls related to that action.**
 >
 > ---
 >
@@ -664,13 +664,13 @@ This is a good consequence to choose to show escalating action. A situation migh
 
 This consequence represent injuries or trauma inflicted on a character.
 
-When your condition worsens, you take a certain amount of `stress` that you track on your character's `stress clock`. You also need to update your `condition ` to represent the new state your character is in.
+When your condition worsens, you take a certain amount of **stress** that you track on your character's **stress clock**. You also need to update your **condition ** to represent the new state your character is in.
 
 Your character's new condition will affect their narrative permissions, and how they can interact with the world.
 
 When your stress clock is filled, you can clear all the segments, and your character is taken out for the scene.
 
-> **Take `1 Stress` per `consequence rating` on your character's `condition`**
+> **Take **1 Stress** per **consequence rating** on your character's **condition\*\*\*\*
 >
 > ---
 >
@@ -680,7 +680,7 @@ When your stress clock is filled, you can clear all the segments, and your chara
 
 **Don't inflict a complication that negates a successful roll**.
 
-If a PC tries to corner an enemy and gets a `4-5`, don't say that the enemy escapes. The player's roll succeeded, so the enemy is cornered... maybe the PC has to wrestle them on the ground, and during the scuffle the enemy grabs their gun.
+If a PC tries to corner an enemy and gets a **4-5**, don't say that the enemy escapes. The player's roll succeeded, so the enemy is cornered... maybe the PC has to wrestle them on the ground, and during the scuffle the enemy grabs their gun.
 
 <br/>
 
@@ -704,13 +704,13 @@ Even with safety mechanics in place, accidents happen. That is why you should al
 
 > #### Consequences
 >
-> If the result of an action roll is between `1-5`, the GM inflicts **one** consequence:
+> If the result of an action roll is between **1-5**, the GM inflicts **one** consequence:
 >
-> - **Reduced Effect** : reduce the `effect` of the action by one level.
-> - **Complication**: tick one segment per `consequence rating` on a new or existing `danger clock`.
-> - **Worse position**: increase the `risk` of future related action rolls by one level.
-> - **Lost Opportunity** : what you tried didn't work, you need to use another `action`.
-> - **Worse Condition**: take `1 stress` per `consequence rating`.
+> - **Reduced Effect** : reduce the **effect** of the action by one level.
+> - **Complication**: tick one segment per **consequence rating** on a new or existing **danger clock**.
+> - **Worse position**: increase the **risk** of future related action rolls by one level.
+> - **Lost Opportunity** : what you tried didn't work, you need to use another **action**.
+> - **Worse Condition**: take **1 stress** per **consequence rating**.
 
 # Determination Roll | Mechanics
 
@@ -718,18 +718,18 @@ Even with safety mechanics in place, accidents happen. That is why you should al
 
 **_Not on my watch! (you are filled with determination)_**
 
-If a character suffers a `consequence` that you, as a player, don't like, you can try to resist it.
+If a character suffers a **consequence** that you, as a player, don't like, you can try to resist it.
 
-You do so by calling for a `determination roll` to see how well you resist the consequence.
+You do so by calling for a **determination roll** to see how well you resist the consequence.
 
-You make that roll by burning momentum. Build a pool of d6s by adding `1d6` per charge of momentum.
+You make that roll by burning momentum. Build a pool of d6s by adding **1d6** per charge of momentum.
 
 Once you've decided how many charges you want to consume, roll and interpret the results:
 
-- On a `1-3`, the `consequence` still happens.
-- On a `4-5`, the `consequence` is reduced.
-- On a `6`, the `consequence` is avoided.
-- On a `66`, the `consequence` is avoided, and the `risk` of your next roll is lowered.
+- On a **1-3**, the **consequence** still happens.
+- On a **4-5**, the **consequence** is reduced.
+- On a **6**, the **consequence** is avoided.
+- On a **66**, the **consequence** is avoided, and the **risk** of your next roll is lowered.
 
 If you want, you can also resist a consequence that isn't targeting you directly . If you want to do so, see [**Team Work&nbsp;»&nbsp;Protect**](team-work#protect).
 
@@ -737,21 +737,21 @@ If you want, you can also resist a consequence that isn't targeting you directly
 
 > #### Determination Roll
 >
-> - Roll a pool of d6s by adding `1d6` for each charge of momentum you are willing to consume for the roll.
->   - On a `1-3`, the `consequence` still happens.
->   - On a `4-5`, the `consequence` is reduced.
->   - On a `6`, the `consequence` is avoided.
->   - On a `66`, the `consequence` is avoided, and the `risk` of your next roll is lowered.
+> - Roll a pool of d6s by adding **1d6** for each charge of momentum you are willing to consume for the roll.
+>   - On a **1-3**, the **consequence** still happens.
+>   - On a **4-5**, the **consequence** is reduced.
+>   - On a **6**, the **consequence** is avoided.
+>   - On a **66**, the **consequence** is avoided, and the **risk** of your next roll is lowered.
 
 # Flashbacks | Mechanics
 
-The rules don't distinguish between actions performed in the present moment and those performed in the past. When a scene is ongoing, you can invoke a `flashback` to roll for an action in the past that impacts your current situation. Maybe you went to a bar last night and befriended a couple of guards to make them drunk so that they call sick the next day. You then do a `flashback` scene, and make a `Bond` roll to see how that went.
+The rules don't distinguish between actions performed in the present moment and those performed in the past. When a scene is ongoing, you can invoke a **flashback** to roll for an action in the past that impacts your current situation. Maybe you went to a bar last night and befriended a couple of guards to make them drunk so that they call sick the next day. You then do a **flashback** scene, and make a **Bond** roll to see how that went.
 
-The GM sets a cost in `momentum` for you to activate the flashback.
+The GM sets a cost in **momentum** for you to activate the flashback.
 
-- `0 momentum`: An ordinary action for which you had easy opportunity.
-- `1 momentum`: A complex action or unlikely opportunity.
-- `2 (or more) momentum`: An elaborate action that involved special opportunities or contingencies.
+- **0 momentum**: An ordinary action for which you had easy opportunity.
+- **1 momentum**: A complex action or unlikely opportunity.
+- **2 (or more) momentum**: An elaborate action that involved special opportunities or contingencies.
 
 After the momentum is consumed, a flashback action is handled just like any other action. Sometimes it will entail an action roll, because there's some danger or trouble involved.
 
@@ -765,7 +765,7 @@ A flashback isn't time travel. It can't "undo" something that just occurred in t
 
 While you can't undo what has already happened, you can twist and adapt things that were left unsaid.
 
-For instance, if a maître d' is making a scene to stop you from entering at a very high end restaurant, that's perhaps because you `Swayed` them into doing this the night before in exchange for money to make a diversion for the rest of the group.
+For instance, if a maître d' is making a scene to stop you from entering at a very high end restaurant, that's perhaps because you **Swayed** them into doing this the night before in exchange for money to make a diversion for the rest of the group.
 
 ## Recap
 
@@ -773,7 +773,7 @@ For instance, if a maître d' is making a scene to stop you from entering at a v
 >
 > Use this to handle the unpredictable.
 >
-> - GM sets a cost in `momentum` (0-2) for you to do a `flashback` scene.
+> - GM sets a cost in **momentum** (0-2) for you to do a **flashback** scene.
 > - Depending on the fiction, either
 >   - the player gets what they want.
 >   - the GM makes a fortune roll to see what happens.
@@ -781,7 +781,7 @@ For instance, if a maître d' is making a scene to stop you from entering at a v
 
 # Momentum | Mechanics
 
-We've talked about the fact that characters have a `momentum` track, which starts with `2` charges at the beginning of every session.
+We've talked about the fact that characters have a **momentum** track, which starts with **2** charges at the beginning of every session.
 
 We've also seen that momentum can be consumed to **boost** action rolls, **assist** allies, and do **flashback** scenes.
 
@@ -791,17 +791,17 @@ Basically, you can either gain momentum as a **result of an action roll**, or by
 
 ## Momentum from an Action
 
-Everytime you make an action roll, you have a chance of gaining new charges of `momentum`.
+Everytime you make an action roll, you have a chance of gaining new charges of **momentum**.
 
-The reason why each character starts with only `2 momentum` at the beginning of a session is because we want players who are running low to engage with the game mechanics instead of sitting back because they are out of resources.
+The reason why each character starts with only **2 momentum** at the beginning of a session is because we want players who are running low to engage with the game mechanics instead of sitting back because they are out of resources.
 
 **The main way you get momentum back is by participating in the game.**
 
 **By default**, you gain momentum as a result of a successful action roll.
 
-- If you rolled a `4-5`, you gain `1 momentum`.
-- If you rolled a `6`, you gain `2 momentum`.
-- If you rolled a `66`, you gain `3 momentum`.
+- If you rolled a **4-5**, you gain **1 momentum**.
+- If you rolled a **6**, you gain **2 momentum**.
+- If you rolled a **66**, you gain **3 momentum**.
 
 **Also, when momentum is spent for a roll, that roll cannot in turn generate momentum.**
 
@@ -809,7 +809,7 @@ While this is the default dial, we encourage you and your group to change this a
 
 ### Momentum Dial
 
-Changing **when** and **how much** momentum is gained is called a `momentum dial`. Your group could decide to use the default setting for this dial, as it is a good starting point, but they could also change it more to their liking.
+Changing **when** and **how much** momentum is gained is called a **momentum dial**. Your group could decide to use the default setting for this dial, as it is a good starting point, but they could also change it more to their liking.
 
 If for example you want to emphasize the fact that life is hard and resources are scarce, then consider making momentum harder to gain. If on the other hand, you want to tell the story of characters who are _over-the-top_, but still find a way to finish every adventure with their hat still sitting on their head, then consider making momentum easier to gain.
 
@@ -817,8 +817,8 @@ If for example you want to emphasize the fact that life is hard and resources ar
 
 > #### Momentum
 >
-> - Every time you make an `action roll`, you have a chance to gain `momentum`.
-> - You start every session with `2 momentum`.
+> - Every time you make an **action roll**, you have a chance to gain **momentum**.
+> - You start every session with **2 momentum**.
 >
 > ---
 >
@@ -828,9 +828,9 @@ If for example you want to emphasize the fact that life is hard and resources ar
 >
 > #### Default Momentum Dial
 >
-> - Gain `1 momentum` for a `4-5`.
-> - Gain `2 momentum` for a `6`.
-> - Gain `3 momentum` for a `66`.
+> - Gain **1 momentum** for a **4-5**.
+> - Gain **2 momentum** for a **6**.
+> - Gain **3 momentum** for a **66**.
 
 # Recovery | Mechanics
 
@@ -840,9 +840,9 @@ If for example you want to emphasize the fact that life is hard and resources ar
 
 As the game plays out, the PCs will get more stressed out and their condition will worsen.
 
-When a PC accumulates `stress`, their actions are limited because of the narrative restrictions their `condition` creates.
+When a PC accumulates **stress**, their actions are limited because of the narrative restrictions their **condition** creates.
 
-Not every action will go well, and failing an action has consequences, which in turn will affect the characters for some time. The `stress clock` is used to track exactly this.
+Not every action will go well, and failing an action has consequences, which in turn will affect the characters for some time. The **stress clock** is used to track exactly this.
 
 Things will eventually go back to normal, and the PCs will recover. But for the recovery to happen, it needs to happen in the **fiction first**.
 
@@ -856,9 +856,9 @@ That being said, **downtime** doesn't mean that all the PCs have to sit down by 
 
 In Charge, the structure of a session isn't enforced, so the PCs can do what ever they want, whenever they want. This is why there will be moments when it just doesn't make sense for the PC to recover at that time.
 
-So the only way to recover from `stress` is in-fiction. You can either rest, lay low or seek medical attention. When doing so, the GM will look at the fiction and tell you how much `stress` (1-4) you clear on your `stress clock`.
+So the only way to recover from **stress** is in-fiction. You can either rest, lay low or seek medical attention. When doing so, the GM will look at the fiction and tell you how much **stress** (1-4) you clear on your **stress clock**.
 
-As your character gets better, you also need to update your `condition` to represent your character's current state.
+As your character gets better, you also need to update your **condition** to represent your character's current state.
 
 We aren't using dice to support this mechanic because we don't believe luck should _generally_ factor in the healing process. Of course, there are moments where it could. If you want, you can use the [Fortune Roll](fortune-roll) mechanic to resolve this type of situation.
 
@@ -868,7 +868,7 @@ We aren't using dice to support this mechanic because we don't believe luck shou
 >
 > Use this to heal and recuperate.
 >
-> - When resting, laying low or seeking medical attention, clear between 1-4 segments from your `stress clock` and update your `condition`.
+> - When resting, laying low or seeking medical attention, clear between 1-4 segments from your **stress clock** and update your **condition**.
 
 # Fortune Roll| Mechanics
 
@@ -876,23 +876,23 @@ We aren't using dice to support this mechanic because we don't believe luck shou
 
 **_The future is in constant flux._**
 
-The fortune roll is a tool that the GM can use to disclaim decision making in a situation the PCs aren’t directly involved in. It can also be used by the players when no other roll applies to the situation at hand. The result of the roll helps guide the outcome as to where the story goes next, but doesn't feature `momentum` nor `consequences`.
+The fortune roll is a tool that the GM can use to disclaim decision making in a situation the PCs aren’t directly involved in. It can also be used by the players when no other roll applies to the situation at hand. The result of the roll helps guide the outcome as to where the story goes next, but doesn't feature **momentum** nor **consequences**.
 
 > **_You are looking in the wreckage of a ship; is anybody left alive? You find a pistol on the ground; are there still bullets in it? Two factions are at war; who will win the final battle?_**
 
-To make a fortune roll, build a dice pool by using a specific action or by adding `1d6` per likeliness level of a thing happening.
+To make a fortune roll, build a dice pool by using a specific action or by adding **1d6** per likeliness level of a thing happening.
 
-- If there's a 50% chance of success, roll `1d6`. If it's more than that, add more dice to the pool.
-- If it's really unlikely, roll `2d6` and pick the lowest result.
+- If there's a 50% chance of success, roll **1d6**. If it's more than that, add more dice to the pool.
+- If it's really unlikely, roll **2d6** and pick the lowest result.
 
 If two forces are opposing one another, roll two opposing pools and take the best result of each to interpret who "won" and by how much.
 
 Once the pool(s) are ready, throw the dice and interpret the results.
 
-- On a `66`, it’s a critical success. There are great results, and something exceptional happens.
-- On a `6`, it’s a full success. There are great results.
-- On a `4-5`, it’s a partial success. There are mixed results.
-- On a `1-3`, it’s a bad outcome. There are bad results.
+- On a **66**, it’s a critical success. There are great results, and something exceptional happens.
+- On a **6**, it’s a full success. There are great results.
+- On a **4-5**, it’s a partial success. There are mixed results.
+- On a **1-3**, it’s a bad outcome. There are bad results.
 
 > **_There's someone left alive on the ship, and they are still breathing. There are bullets in the gun, but the gun itself is broken and can't be used._**
 
@@ -902,15 +902,15 @@ Don't overthink this as this rule should not get in the way of the game. This me
 
 > #### Fortune Roll
 >
-> - Build a dice pool by using a specific action or by adding `1d6` per likeliness level of a thing happening, roll, and interpret the results.
-> - If it's really unlikely, roll `2d6` and take the lowest result.
+> - Build a dice pool by using a specific action or by adding **1d6** per likeliness level of a thing happening, roll, and interpret the results.
+> - If it's really unlikely, roll **2d6** and take the lowest result.
 >
 > ---
 >
-> - On a `66`, it’s a critical success. There are great results, and something exceptional happens.
-> - On a `6`, it’s a full success. There are great results.
-> - On a `4-5`, it’s a partial success. There are mixed results.
-> - On a `1-3`, it’s a bad outcome. There are bad results.
+> - On a **66**, it’s a critical success. There are great results, and something exceptional happens.
+> - On a **6**, it’s a full success. There are great results.
+> - On a **4-5**, it’s a partial success. There are mixed results.
+> - On a **1-3**, it’s a bad outcome. There are bad results.
 
 # Team Work | Mechanics
 
@@ -922,9 +922,9 @@ There are multiple ways player characters can help each other in Charge. They co
 
 ## Assist
 
-When you `assist`, you help another player who's making an action roll. Describe what your character does to help. When doing this, you also expose yourself to possible danger.
+When you **assist**, you help another player who's making an action roll. Describe what your character does to help. When doing this, you also expose yourself to possible danger.
 
-> **Consume `1 momentum`, and give them an additional `1d6` for their roll.**
+> **Consume **1 momentum**, and give them an additional **1d6** for their roll.**
 >
 > ---
 >
@@ -934,9 +934,9 @@ When you `assist`, you help another player who's making an action roll. Describe
 
 You step in to confront a consequence that one of your teammates would otherwise face. Describe how you intervene.
 
-You can make a `determination roll` to try to reduce or cancel the consequence.
+You can make a **determination roll** to try to reduce or cancel the consequence.
 
-> **You suffer the consequence instead of them. You may call for a `determination roll` to reduce or cancel the consequence.**
+> **You suffer the consequence instead of them. You may call for a **determination roll** to reduce or cancel the consequence.**
 >
 > ---
 >
@@ -944,7 +944,7 @@ You can make a `determination roll` to try to reduce or cancel the consequence.
 
 ## Set up
 
-When you perform a setup action, you make an `action roll` to have an indirect effect on an obstacle. If your action has its intended result, any member of the team who follows through on your maneuver either gets an `improved effect` or a `reduced risk` for their roll.
+When you perform a setup action, you make an **action roll** to have an indirect effect on an obstacle. If your action has its intended result, any member of the team who follows through on your maneuver either gets an **improved effect** or a **reduced risk** for their roll.
 
 You choose the benefit, based on the nature of your setup action.
 
@@ -954,13 +954,13 @@ You choose the benefit, based on the nature of your setup action.
 >
 > _First I'll distract them. Then you gotta make a run for it. OK?_
 
-This is a good way to contribute to an operation when you don't have a good rating in the action at hand. A clever setup action lets you help the team indirectly - either in the moment or via a `flashback`. Multiple follow-up actions may take advantage of your setup as long as it makes sense in the fiction.
+This is a good way to contribute to an operation when you don't have a good rating in the action at hand. A clever setup action lets you help the team indirectly - either in the moment or via a **flashback**. Multiple follow-up actions may take advantage of your setup as long as it makes sense in the fiction.
 
 ### From Zero to Limited
 
 Since a setup action can increase the effect of follow-up actions, it's also useful when the team is facing very tough opposition.
 
-Even if the PCs are reduced to `zero effect` due to disadvantages in a situation, the setup action provides a bonus that allows for `limited effect`.
+Even if the PCs are reduced to **zero effect** due to disadvantages in a situation, the setup action provides a bonus that allows for **limited effect**.
 
 This gives them a fighting chance.
 
@@ -968,7 +968,7 @@ This gives them a fighting chance.
 
 [![Image by KELLEPICS from pixabay.com](https://gyazo.com/635caaef063a8652b3ce86a0ad3eeb7a.png)](https://pixabay.com/photos/fantasy-clock-time-light-magic-3517206/)
 
-A `clock` is a circle **divided into 4, 6, or 8 segments**. Draw a clock when you need to track an ongoing effort against an obstacle that cannot be resolved with a simple action roll.
+A **clock** is a circle **divided into 4, 6, or 8 segments**. Draw a clock when you need to track an ongoing effort against an obstacle that cannot be resolved with a simple action roll.
 
 Sneaking into a restricted area? Make a clock to track the alert level of the patrolling guards. When the PCs suffer consequences from partial successes or missed rolls, fill in segments on the clock until the alarm is raised.
 
@@ -986,11 +986,11 @@ Here are a couple examples of how clocks could be used to represent some situati
 >
 > These represent the ongoing effort of someone to achieve their goal.
 >
-> When a PC succeeds an action roll, you can use a `progress clock` and:
+> When a PC succeeds an action roll, you can use a **progress clock** and:
 >
-> - Tick 1 segment for a `limited effect`.
-> - Tick 2 segments for a `standard effect`.
-> - Tick 3 segments for a `great effect`.
+> - Tick 1 segment for a **limited effect**.
+> - Tick 2 segments for a **standard effect**.
+> - Tick 3 segments for a **great effect**.
 >
 > ---
 >
@@ -1000,11 +1000,11 @@ Here are a couple examples of how clocks could be used to represent some situati
 >
 > These represent the imminent danger about to face the player.
 >
-> When a PC gets a consequence from an action roll, you can use `danger clock` and:
+> When a PC gets a consequence from an action roll, you can use **danger clock** and:
 >
-> - Tick 3 segments for a `high risk` action.
-> - Tick 2 segments for a `moderate risk` action.
-> - Tick 1 segment for a `low risk` action.
+> - Tick 3 segments for a **high risk** action.
+> - Tick 2 segments for a **moderate risk** action.
+> - Tick 1 segment for a **low risk** action.
 >
 > ---
 >
@@ -1012,7 +1012,7 @@ Here are a couple examples of how clocks could be used to represent some situati
 
 > ### Opposing Clocks
 >
-> These represent the progress of two opposing parties to get to their goal. The `effect` and `risk` ratings can both be used to tick one or the other clock.
+> These represent the progress of two opposing parties to get to their goal. The **effect** and **risk** ratings can both be used to tick one or the other clock.
 >
 > ---
 >
@@ -1031,17 +1031,17 @@ Here are a couple examples of how clocks could be used to represent some situati
 >
 > ---
 >
-> When a PC succeeds an action roll, you can use a `progress clock` and:
+> When a PC succeeds an action roll, you can use a **progress clock** and:
 >
-> - Tick 1 segment for a `limited effect`.
-> - Tick 2 segments for a `standard effect`.
-> - Tick 3 segments for a `great effect`.
+> - Tick 1 segment for a **limited effect**.
+> - Tick 2 segments for a **standard effect**.
+> - Tick 3 segments for a **great effect**.
 >
-> When a PC gets a consequence from an action roll, you can use `danger clock` and:
+> When a PC gets a consequence from an action roll, you can use **danger clock** and:
 >
-> - Tick 3 segments for a `high risk` action.
-> - Tick 2 segments for a `moderate risk` action.
-> - Tick 1 segment for a `low risk` action.
+> - Tick 3 segments for a **high risk** action.
+> - Tick 2 segments for a **moderate risk** action.
+> - Tick 1 segment for a **low risk** action.
 
 # Progression | Mechanics
 
@@ -1053,23 +1053,23 @@ Even at the start of the story, characters in Charge are talented and proactive.
 
 After all, they are the protagonists of our story. If they fail at a task, it's _probably_ more because of unplanned circumstances than because of their lack of skills.
 
-As time advances, the characters evolve and become more versatile, but this will only happen at certain `milestones`.
+As time advances, the characters evolve and become more versatile, but this will only happen at certain **milestones**.
 
 ### Sessions
 
-**At the end of each `session`**, each player can look at their character sheet and **update their character's `details`**.
+**At the end of each **session\***\*, each player can look at their character sheet and **update their character's **details\*\***.
 
-You can use this opportunity to update their `ties`, `appearance` or even their `concept` if something important happened in the last session.
+You can use this opportunity to update their **ties**, **appearance** or even their **concept** if something important happened in the last session.
 
 This is optional, but you can view this as an opportunity to update who your character is after each session and how they evolve over time.
 
 ### Milestone
 
-A `milestone` happens **at the end of a big event** in the story. This will _usually_ happen every 3-5 sessions. Players invest those milestones in their respective `talent tree` to make their characters stronger and more versatile.
+A **milestone** happens **at the end of a big event** in the story. This will _usually_ happen every 3-5 sessions. Players invest those milestones in their respective **talent tree** to make their characters stronger and more versatile.
 
-A `talent` either gives a new `action dot` to invest in a character's `actions`, or a new `situational talent` which gives a temporary boost to their character in specific circumstances.
+A **talent** either gives a new **action dot** to invest in a character's **actions**, or a new **situational talent** which gives a temporary boost to their character in specific circumstances.
 
-When a player gets a `situational talent`, they need to decide on a specific situation that activates the talent. The player chooses what they think works best for their character and note their decisions by filling in the blanks on their character sheet. For inspiration look at what has already been established in the world, and pick something that makes your character shine.
+When a player gets a **situational talent**, they need to decide on a specific situation that activates the talent. The player chooses what they think works best for their character and note their decisions by filling in the blanks on their character sheet. For inspiration look at what has already been established in the world, and pick something that makes your character shine.
 
 The GM will probably feel when it's time for a milestone, but as a player you can always remind the GM "_Hey, this looked like an important event in the story, would this be a milestone?_".
 
@@ -1093,7 +1093,7 @@ Gaining a new talent will feel like a breath of fresh air. It won't make your ch
 >
 > Some groups already have a pretty good idea of who their character is and what they are good at.
 >
-> If that is the case with your group, it might be a good idea to offer them a starting talent in the form of `+1 Effect when ______`
+> If that is the case with your group, it might be a good idea to offer them a starting talent in the form of **+1 Effect when **\_\_\*\*\*\*
 >
 > This will give them an edge in certain situation, without breaking the balance of the game.
 >
@@ -1103,7 +1103,7 @@ Gaining a new talent will feel like a breath of fresh air. It won't make your ch
 
 Certain talents are situational. That is, they are only activated when you are in a **certain context** and using a **specific action**.
 
-For example, when you get a `1 Effect when ____`, you will need to finish the end of that sentence by choosing one of the **12 Actions** and a certain **Situation** that will activate the talent.
+For example, when you get a **1 Effect when \_\_\_\_**, you will need to finish the end of that sentence by choosing one of the **12 Actions** and a certain **Situation** that will activate the talent.
 
 Just look at what as already been established in the world, or your character's details, for inspiration.
 
@@ -1113,7 +1113,7 @@ The fact that writing up situational talents takes a bit of work is the reason w
 
 We want character creation to be as streamlined as possible. Take the time to understand and discover who your character is first.
 
-Later in the campaign, when a milestone occurs, then you can think of new ways to make them truly unique using `talents`.
+Later in the campaign, when a milestone occurs, then you can think of new ways to make them truly unique using **talents**.
 
 > _Yann's character is a monster hunter. Consequently, he's pretty good at **Studying** and **Muscle** in general. Yann also just got a new **talent dot** and would like to excel at tracking monsters specifically. Because monsters aren't encountered that frequently in the game, he asks the GM if his talent could be "**Reduced Risk when I'm Shooting monsters**". The GM agrees. Now, Yann's character should be feared by most creatures roaming the lands._
 >
@@ -1121,7 +1121,7 @@ Later in the campaign, when a milestone occurs, then you can think of new ways t
 
 # Projects and Complications | Mechanics
 
-The Charge character sheet has a `Projects & Complications` section which contains a set of empty `clocks`.
+The Charge character sheet has a **Projects & Complications** section which contains a set of empty **clocks**.
 
 Those clocks represent long-term projects or ever-evolving danger that the character will work on or experience across multiple sessions.
 
@@ -1129,9 +1129,9 @@ Those clocks represent long-term projects or ever-evolving danger that the chara
 
 Perhaps your character is piling up money to be able to afford something good for their family, or perhaps they are trying to figure out a way to reverse the damaged caused by a dangerous new disease that's plaguing the city.
 
-In any case, once per session, if the narrative allows it, a character can make an action roll to work on those long-term agendas. The player works with the GM to describe what action they are taking to advance their agenda and figure out the `effect` and `risk` of the roll.
+In any case, once per session, if the narrative allows it, a character can make an action roll to work on those long-term agendas. The player works with the GM to describe what action they are taking to advance their agenda and figure out the **effect** and **risk** of the roll.
 
-These projects are tracked using `progress clocks` on the character sheet. The `effect` rating of the roll determines how much the project progresses when the character is working on it.
+These projects are tracked using **progress clocks** on the character sheet. The **effect** rating of the roll determines how much the project progresses when the character is working on it.
 
 Upon the completion of a project, the PC gets what they were working for. The resolution of said project creates a new narrative thread explained by the GM. This thread is something the group can decide to pursue or not.
 
@@ -1139,7 +1139,7 @@ Upon the completion of a project, the PC gets what they were working for. The re
 
 Perhaps the police department is starting to realize there are missing pieces in the evidence locker, or perhaps you are starting to attract more and more heat on you and your crew after your last couple jobs.
 
-When a `complication` occurs as a result of a `consequence` of an action roll, the GM can tell the player to start or tick a `danger clock` on their character sheet.
+When a **complication** occurs as a result of a **consequence** of an action roll, the GM can tell the player to start or tick a **danger clock** on their character sheet.
 
 Those complications aren't bound to the scene. Instead, they are tied to the character or the group as a whole.
 
@@ -1162,75 +1162,75 @@ This chapter will go over the most important bits of the book in a quick recap s
 >
 > Define who your character is.
 >
-> - `Concept`: The elevator pitch of your character.
-> - `Appearance`: What your character looks like.
-> - `Ties`: Connection with the other player's character or forces within the world.
+> - **Concept**: The elevator pitch of your character.
+> - **Appearance**: What your character looks like.
+> - **Ties**: Connection with the other player's character or forces within the world.
 >
 > ### Actions
 >
-> Distribute `7 action dots` among the `12 actions` to define how good your character is at doing things.
+> Distribute **7 action dots** among the **12 actions** to define how good your character is at doing things.
 >
-> At character creation, a single `action` cannot have more than `2 action dots`.
+> At character creation, a single **action** cannot have more than **2 action dots**.
 >
 > #### Physique
 >
-> - When you `Muscle`, you use your force to move, overcome or wreck the obstacle in front of you.
-> - When you `Finesse`, you employ dexterous manipulation or subtle misdirection.
-> - When you `Move`, you quickly shift to a new position or get out of danger.
-> - When you `Sneak`, you traverse skillfully and quietly.
+> - When you **Muscle**, you use your force to move, overcome or wreck the obstacle in front of you.
+> - When you **Finesse**, you employ dexterous manipulation or subtle misdirection.
+> - When you **Move**, you quickly shift to a new position or get out of danger.
+> - When you **Sneak**, you traverse skillfully and quietly.
 >
 > #### Insight
 >
-> - When you `Shoot`, you carefully track and shoot at a target.
-> - When you `Tinker`, you understand, create, or repair complex mechanisms or organisms.
-> - When you `Study`, you scrutinize details and interpret evidence.
-> - When you `Notice`, you observe the situation and anticipate outcomes.
+> - When you **Shoot**, you carefully track and shoot at a target.
+> - When you **Tinker**, you understand, create, or repair complex mechanisms or organisms.
+> - When you **Study**, you scrutinize details and interpret evidence.
+> - When you **Notice**, you observe the situation and anticipate outcomes.
 >
 > #### Resolve
 >
-> - When you `Bond`, you reassure and socialize with friends and contacts.
-> - When you `Command`, you compel swift obedience with skills, respect or intimidation.
-> - When you `Focus`, you concentrate to accomplish a task that requires great strength of mind.
-> - When you `Sway`, you influence with guile, charm, or argument.
+> - When you **Bond**, you reassure and socialize with friends and contacts.
+> - When you **Command**, you compel swift obedience with skills, respect or intimidation.
+> - When you **Focus**, you concentrate to accomplish a task that requires great strength of mind.
+> - When you **Sway**, you influence with guile, charm, or argument.
 >
 > ### Momentum
 >
-> - Every time you make an `action roll`, you have a chance to gain `momentum`.
-> - You start every session with `2 momentum`.
+> - Every time you make an **action roll**, you have a chance to gain **momentum**.
+> - You start every session with **2 momentum**.
 >
 > **When momentum is spent for a roll, that roll cannot in turn generate momentum.**
 >
 > #### Default Momentum Dial
 >
-> - Gain `1 momentum` for a `4-5`.
-> - Gain `2 momentum` for a `6`.
-> - Gain `3 momentum` for a `66`.
+> - Gain **1 momentum** for a **4-5**.
+> - Gain **2 momentum** for a **6**.
+> - Gain **3 momentum** for a **66**.
 >
 > #### Using Momentum
 >
-> | Cost           | Result                                              |
-> | -------------- | --------------------------------------------------- |
-> | `2 momentum`   | `Push yourself` and add `+1d6` to your action roll. |
-> | `1 momentum`   | `Assist` an ally, add `+1d6` to their action roll.  |
-> | `0-2 momentum` | Do a `flashback` scene.                             |
+> | Cost             | Result                                                  |
+> | ---------------- | ------------------------------------------------------- |
+> | **2 momentum**   | **Push yourself** and add **+1d6** to your action roll. |
+> | **1 momentum**   | **Assist** an ally, add **+1d6** to their action roll.  |
+> | **0-2 momentum** | Do a **flashback** scene.                               |
 
 > ### Stress
 >
-> On a failed action roll, GM can inflict `stress` on a PC.
+> On a failed action roll, GM can inflict **stress** on a PC.
 >
-> The number of stress inflicted depends on the action's `risk`:
+> The number of stress inflicted depends on the action's **risk**:
 >
-> - `Low Risk`: `1 stress`
-> - `Moderate Risk`: `2 stress`
-> - `High Risk`: `3 stress`
+> - **Low Risk**: **1 stress**
+> - **Moderate Risk**: **2 stress**
+> - **High Risk**: **3 stress**
 >
-> Each stress ticks a segment on a PC's stress clock. When you mark stress, you also need to add/update your `condition`.
+> Each stress ticks a segment on a PC's stress clock. When you mark stress, you also need to add/update your **condition**.
 >
 > When the clock is filled, your character is taken out for the scene and your stress clock is cleared.
 
 > ### Projects and Complications
 >
-> Use these `clocks` when a player has a long-term project or when the GM inflicts a complication as a `consequence`.
+> Use these **clocks** when a player has a long-term project or when the GM inflicts a complication as a **consequence**.
 
 ## Doing Things
 
@@ -1238,39 +1238,39 @@ This chapter will go over the most important bits of the book in a quick recap s
 >
 > Use this when someone, or something, is in your way.
 >
-> 1. Pick an `action` and find how many dice you need to roll.
-> 1. Determine the `risk` (`1 low` ► `2 moderate` ► `3 high`)
-> 1. Determine the `effect rating` (`3 great` ► `2 standard` ► `1 limited`)
+> 1. Pick an **action** and find how many dice you need to roll.
+> 1. Determine the **risk** (**1 low** ► **2 moderate** ► **3 high**)
+> 1. Determine the **effect rating** (**3 great** ► **2 standard** ► **1 limited**)
 > 1. Choose one:
->    - Add `+1d6` if you `push yourself` (`2 momentum`)
->    - Add `+1d6` if you `add tension` to the action.
-> 1. Add `+1d6` if you have `assistance` (they consume `1 momentum`)
+>    - Add **+1d6** if you **push yourself** (**2 momentum**)
+>    - Add **+1d6** if you **add tension** to the action.
+> 1. Add **+1d6** if you have **assistance** (they consume **1 momentum**)
 > 1. Roll and wish for the best!
 >
-> _If you don't have any action dots and can't `push yourself`, `add tension`, or `request assistance`, roll `2d6` and take the lowest result._
+> _If you don't have any action dots and can't **push yourself**, **add tension**, or **request assistance**, roll **2d6** and take the lowest result._
 >
-> | Result | Name               | Explanation                                                       |
-> | ------ | ------------------ | ----------------------------------------------------------------- |
-> | `66`   | `Critical Success` | You greatly overcome the obstacle.                                |
-> | `6`    | `Full Success`     | You overcome the obstacle.                                        |
-> | `4-5`  | `Partial Success`  | You overcome the obstacle, but there's a `consequence`.           |
-> | `1-3`  | `Bad outcome`      | You fail at overcoming the obstacle, and there's a `consequence`. |
+> | Result  | Name                 | Explanation                                                         |
+> | ------- | -------------------- | ------------------------------------------------------------------- |
+> | **66**  | **Critical Success** | You greatly overcome the obstacle.                                  |
+> | **6**   | **Full Success**     | You overcome the obstacle.                                          |
+> | **4-5** | **Partial Success**  | You overcome the obstacle, but there's a **consequence**.           |
+> | **1-3** | **Bad outcome**      | You fail at overcoming the obstacle, and there's a **consequence**. |
 >
 > ### Determination Roll
 >
-> Use this to resist a consequence, or incoming `stress`.
+> Use this to resist a consequence, or incoming **stress**.
 >
-> - Build a pool of d6s by adding `1d6` for each charge of momentum you are willing to consume for the roll.
->   - On a `1-3`, The `consequence` still happens.
->   - On a `4-5`, The `consequence` is reduced.
->   - On a `6`, The `consequence` is avoided.
->   - On a `66`, the `consequence` is avoided, and the `risk` of your next roll is lowered.
+> - Build a pool of d6s by adding **1d6** for each charge of momentum you are willing to consume for the roll.
+>   - On a **1-3**, The **consequence** still happens.
+>   - On a **4-5**, The **consequence** is reduced.
+>   - On a **6**, The **consequence** is avoided.
+>   - On a **66**, the **consequence** is avoided, and the **risk** of your next roll is lowered.
 >
 > ### Recovery
 >
 > Use this to heal and recuperate.
 >
-> - When resting, laying low or seeking medical attention, clear between 1-4 segments from your `stress clock` and update your `condition`.
+> - When resting, laying low or seeking medical attention, clear between 1-4 segments from your **stress clock** and update your **condition**.
 
 ## Team Work
 
@@ -1278,7 +1278,7 @@ This chapter will go over the most important bits of the book in a quick recap s
 >
 > Use this to help a fellow PC accomplish their action.
 >
-> - Consume `1 momentum` and add `1d6` to their roll.
+> - Consume **1 momentum** and add **1d6** to their roll.
 > - This also exposes the helper to any potential consequences resulting from the roll.
 >
 > ### Protect
@@ -1291,24 +1291,24 @@ This chapter will go over the most important bits of the book in a quick recap s
 >
 > Use this to improve your chances at overcoming an obstacle.
 >
-> - Roll to improve the `effect` rating or reduce the `risk` of subsequent action rolls made by your team.
+> - Roll to improve the **effect** rating or reduce the **risk** of subsequent action rolls made by your team.
 
 ## Misc
 
 > ### Consequences
 >
-> Use this when there's a `bad outcome` on a PC's Action Roll.
+> Use this when there's a **bad outcome** on a PC's Action Roll.
 >
 > Select one of the following:
 >
-> - The `effect` of the roll is reduced.
-> - A narrative `complication` occurs (you can track this on the character sheet).
+> - The **effect** of the roll is reduced.
+> - A narrative **complication** occurs (you can track this on the character sheet).
 > - The opportunity is lost and the PC must try a new approach.
-> - The `risk` increases.
-> - The PC takes `stress`:
->   - `1 stress` for a `low risk` action
->   - `2 stress` for a `moderate risk` action
->   - `3 stress` for a `high risk` action
+> - The **risk** increases.
+> - The PC takes **stress**:
+>   - **1 stress** for a **low risk** action
+>   - **2 stress** for a **moderate risk** action
+>   - **3 stress** for a **high risk** action
 >
 > ### Progression
 >
@@ -1317,39 +1317,39 @@ This chapter will go over the most important bits of the book in a quick recap s
 > #### Session
 >
 > - Happens every session.
-> - At the end of every session, you can update the `details of your character.
+> - At the end of every session, you can update the \*\*details of your character.
 >
 > #### Milestone
 >
 > - Happens every 3-5 sessions, usually after a big event.
-> - Gain `+1 Talent Dot`
+> - Gain **+1 Talent Dot**
 >
 > ### Talents
 >
 > Talents make your character stronger and more versatile over time.
 >
-> - Get `+1 talent dot` every `milestone`.
+> - Get **+1 talent dot** every **milestone**.
 >
 > #### Talent Types
 >
 > A Talent gives either:
 >
-> - `+1 action dot` to spend on an Action.
-> - A new `situational talent`. A bonus that applies for an `action` in a certain `situation` (fill in the blank: \_\_\_\_).
+> - **+1 action dot** to spend on an Action.
+> - A new **situational talent**. A bonus that applies for an **action** in a certain **situation** (fill in the blank: \_\_\_\_).
 >
 > ### Fortune Roll
 
 > #### Fortune Roll
 >
-> - Build a dice pool by using a specific action or by adding `+1d6` per likeliness level of a thing happening, roll, and interpret the results.
-> - If it's really unlikely, roll `2d6` and take the lowest result.
+> - Build a dice pool by using a specific action or by adding **+1d6** per likeliness level of a thing happening, roll, and interpret the results.
+> - If it's really unlikely, roll **2d6** and take the lowest result.
 >
-> | Result | Name               | Explanation                                       |
-> | ------ | ------------------ | ------------------------------------------------- |
-> | `66`   | `Critical Success` | Great results, and something exceptional happens. |
-> | `6`    | `Full Success`     | Great results.                                    |
-> | `4-5`  | `Partial Success`  | Mixed results.                                    |
-> | `1-3`  | `Bad outcome`      | Bad results.                                      |
+> | Result  | Name                 | Explanation                                       |
+> | ------- | -------------------- | ------------------------------------------------- |
+> | **66**  | **Critical Success** | Great results, and something exceptional happens. |
+> | **6**   | **Full Success**     | Great results.                                    |
+> | **4-5** | **Partial Success**  | Mixed results.                                    |
+> | **1-3** | **Bad outcome**      | Bad results.                                      |
 >
 > ### Clocks
 >
@@ -1362,17 +1362,17 @@ This chapter will go over the most important bits of the book in a quick recap s
 >
 > ---
 >
-> When a PC succeeds on an action roll, you can tick segments of a `progress Clock`:
+> When a PC succeeds on an action roll, you can tick segments of a **progress Clock**:
 >
-> - Tick 1 segment for a `limited effect`.
-> - Tick 2 segment for a `standard effect`.
-> - Tick 3 segment for a `great effect`.
+> - Tick 1 segment for a **limited effect**.
+> - Tick 2 segment for a **standard effect**.
+> - Tick 3 segment for a **great effect**.
 >
-> When a PC suffers a consequence from an action roll, you can tick segments of a `danger Clock`:
+> When a PC suffers a consequence from an action roll, you can tick segments of a **danger Clock**:
 >
-> - Tick 3 segment for a `high risk`.
-> - Tick 2 segment for a `moderate risk`.
-> - Tick 1 segment for a `low risk`.
+> - Tick 3 segment for a **high risk**.
+> - Tick 2 segment for a **moderate risk**.
+> - Tick 1 segment for a **low risk**.
 
 # What are Extras | Extras
 
@@ -1400,7 +1400,8 @@ Extras are additional mechanics that you can add in your games to mimic certain 
 >
 > We can't wait to see what you will be creating!
 >
-> ```
+> \*\*
+>
 > # {Name of the Extra} | Extras
 >
 > {short description}
@@ -1428,7 +1429,7 @@ Extras are additional mechanics that you can add in your games to mimic certain 
 > >
 > > {Abbreviated version of the extra to be used as a quick reference}
 >
-> ```
+> \*\*
 
 # Asset Extra | Extras
 
@@ -1438,18 +1439,18 @@ A Charge RPG Extra to make item discovery interesting
 
 ---
 
-Assets are an extra that you can use as an alternative to `pushing yourself` or `adding tension` to a scene to get a bonus die when making an action roll.
+Assets are an extra that you can use as an alternative to **pushing yourself** or **adding tension** to a scene to get a bonus die when making an action roll.
 
 ## Loot Assets Rule
 
 The Loot Asset is an additional mechanic that gives you the chance to find good loot that will have a mechanical impact on the game when you scavenge a place.
 
-After a conflict between multiple parties is resolved, or when the general tension in a scene is reduced, you can do a `fortune roll` of `1d6` to find loot or to search a location.
+After a conflict between multiple parties is resolved, or when the general tension in a scene is reduced, you can do a **fortune roll** of **1d6** to find loot or to search a location.
 
-- On a `6`, you create `1 asset`.
-- On a `66`, you create `2 assets`.
+- On a **6**, you create **1 asset**.
+- On a **66**, you create **2 assets**.
 
-Take note of this asset on your character sheet, and use it when the time is right to get an extra `1d6` or `increased effect` on an action roll.
+Take note of this asset on your character sheet, and use it when the time is right to get an extra **1d6** or **increased effect** on an action roll.
 
 > #### Loot Roll
 >
@@ -1463,9 +1464,9 @@ Take note of this asset on your character sheet, and use it when the time is rig
 
 It's always amazing when a player loses themselves in their character, or has an amazing idea that is just too brilliant to ignore.
 
-To make those moments shine even more, the GM can reward that player with an `asset`.
+To make those moments shine even more, the GM can reward that player with an **asset**.
 
-This is how the GM says: this was amazing, here's `1d6` or `increased effect` for a future roll.
+This is how the GM says: this was amazing, here's **1d6** or **increased effect** for a future roll.
 
 # Solo Extra | Extras
 
@@ -1481,9 +1482,9 @@ This extra is for these moments.
 
 ## The Last Standing Rule
 
-When you are alone, you are `the last standing`.
+When you are alone, you are **the last standing**.
 
-If this happens, `pushing yourself` will only cost `1 momentum per push`.
+If this happens, **pushing yourself** will only cost **1 momentum per push**.
 
 ### Why to use this?
 
@@ -1513,23 +1514,23 @@ The Attachment Extra is an extra that you can use to make certain aspects of you
 
 ## Attachment Extra Rule
 
-Characters are defined using `details` to represent who they are, what they are like and who they are linked to. By default, details don't have any mechanical uses in the game apart from providing narrative liberties.
+Characters are defined using **details** to represent who they are, what they are like and who they are linked to. By default, details don't have any mechanical uses in the game apart from providing narrative liberties.
 
-If you want some of those details to feel more important in your game, you can consider them as `attachments`.
+If you want some of those details to feel more important in your game, you can consider them as **attachments**.
 
-An `attachment` could be an important piece of equipment (a sword, a shield, a staff, a book, an armor), a relationship (an ally, a tie), or even a familiar.
+An **attachment** could be an important piece of equipment (a sword, a shield, a staff, a book, an armor), a relationship (an ally, a tie), or even a familiar.
 
-An `attachment` is a character `detail` that you can choose to temporarily lose to resist an incoming `consequence`.
+An **attachment** is a character **detail** that you can choose to temporarily lose to resist an incoming **consequence**.
 
-Doing this is called "breaking" the `attachment` and cancels the `consequence` outright. That means that the player does not have to make a `determination roll`.
+Doing this is called "breaking" the **attachment** and cancels the **consequence** outright. That means that the player does not have to make a **determination roll**.
 
-However, this can only be done when it makes sense narratively, and that particular `attachment` cannot be used until time is taken to repair or reacquire it.
+However, this can only be done when it makes sense narratively, and that particular **attachment** cannot be used until time is taken to repair or reacquire it.
 
-Since they can be used to cancel consequences entirely, characters only have between `1-2 attachments` each.
+Since they can be used to cancel consequences entirely, characters only have between **1-2 attachments** each.
 
 > #### Example
 >
-> _Jean-Loup's character is surrounded by a horde of monsters while inside his Mech. He just failed a `desperate` action rolls which will tick 3 segments of his character's stress clock._
+> _Jean-Loup's character is surrounded by a horde of monsters while inside his Mech. He just failed a **desperate** action rolls which will tick 3 segments of his character's stress clock._
 >
 > _To avoid this, Jean-Loup proposes to break his attachment **Mech's Core Reactor** to trigger an explosion, kill some monsters and give his character an opportunity to escape._
 >
@@ -1537,9 +1538,9 @@ Since they can be used to cancel consequences entirely, characters only have bet
 
 ## Recovering an Attachment
 
-Like character `details`, attachments provide narrative permissions to characters. When they are broken, those narrative permissions are lost.
+Like character **details**, attachments provide narrative permissions to characters. When they are broken, those narrative permissions are lost.
 
-To re-require or repair an attachment, the PC needs to start a `project progress clock` and track it on their character sheet.
+To re-require or repair an attachment, the PC needs to start a **project progress clock** and track it on their character sheet.
 
 The clocks starts at 4 segments, but may have more segments if the attachment is complicated to repair, if it was heavily damaged, or if it is difficult to reacquire.
 
@@ -1547,13 +1548,13 @@ To make progress on the project, a character may only roll to repair a "broken" 
 
 The amount of action rolls taken should be narratively related to the amount of downtime the character has. Pulling an all-nighter by a campfire may only be one roll, but if the character has a free week they may get three rolls or more.
 
-Depending on what is being repaired, the player may have to make different `action rolls`, or may have multiple progress clocks at once. Repairing an armor may just require a `Tinker` action roll and some time at the forge, but contacting a demon and convincing them to work with you again may require first to `Focus` on a ritual, then try to `Bond` with them. The amount of segments ticked is usually tied to the `effect` rating of the `action roll`.
+Depending on what is being repaired, the player may have to make different **action rolls**, or may have multiple progress clocks at once. Repairing an armor may just require a **Tinker** action roll and some time at the forge, but contacting a demon and convincing them to work with you again may require first to **Focus** on a ritual, then try to **Bond** with them. The amount of segments ticked is usually tied to the **effect** rating of the **action roll**.
 
 Once the project is completed, the character is permitted to use the attachment in the fiction, and is allowed to block a new consequence by breaking it once again.
 
 ## Attachment Condition
 
-Maybe you want an attachment that degrades over time, with use or by soaking up consequences. You can do so by introducing the `Condition` mechanic from the character sheet on your attachment.
+Maybe you want an attachment that degrades over time, with use or by soaking up consequences. You can do so by introducing the **Condition** mechanic from the character sheet on your attachment.
 
 Then, the more damage your attachment takes (or the more you use it), the more this clock fills, and the attachment's condition changes.
 
@@ -1565,14 +1566,14 @@ If using the aforementioned repairing mechanic, you can have the repair clock be
 
 - Parts of this Extra were originally part of a work by **Keita Creations** which you can find on his [itch.io page](https://keitacreates.itch.io/repairs-and-restorations). Reprinted with permission.
 - Thanks **Nugat** for the addition of Attachment Conditions
-- Thanks **Lynn Jones** for finding the name `attachment` which is way better than the previous name this extra had.
+- Thanks **Lynn Jones** for finding the name **attachment** which is way better than the previous name this extra had.
 
 > ## Recap
 >
-> - Each character has 1-2 `attachments`
-> - `Attachments` are like character details. They give narrative liberties to the PCs.
+> - Each character has 1-2 **attachments**
+> - **Attachments** are like character details. They give narrative liberties to the PCs.
 > - If a PC wants, they can choose to **break their attachment** to outright cancel an incoming consequence. Doing so renders the attachment unusable in the narrative.
-> - A PC can repair/require their attachment by creating a 4 segment `project progress clock` that they can work on in their downtime.
+> - A PC can repair/require their attachment by creating a 4 segment **project progress clock** that they can work on in their downtime.
 
 # World Extra | Extras
 
@@ -1590,7 +1591,7 @@ This extra also requires the GM to use a standard deck of playing cards.
 
 During sessions, the PCs will go on missions to accomplish objectives. They will then come back to their H.Q. to debrief, rest and recover.
 
-At the start of a campaign, or **every time the PCs come back to their H.Q.**, the GM draws **3 `hook cards`** of a standard deck of playing cards.
+At the start of a campaign, or **every time the PCs come back to their H.Q.**, the GM draws **3 **hook cards\*\*\*\* of a standard deck of playing cards.
 
 - The first card tells us about something related to [Theme #1].
 - The second card tells us about something related to [Theme #2].
@@ -1665,18 +1666,18 @@ The GM can use those hooks to create narrative threads for the PCs to explore an
 
 Once the 3 cards are drawn, the GM uses the prompts on the first two to explain what happened while the PCs were away. The PCs can then spend time exploring those threads as they see fit.
 
-When the PCs are ready for their next mission, the GM makes a `mission roll`.
+When the PCs are ready for their next mission, the GM makes a **mission roll**.
 
-To do so, the GM looks at the 3 cards they've drawn, and builds a dice pool of `1d6` for each red card (<span style="color:red">♥ ♦</span>).
+To do so, the GM looks at the 3 cards they've drawn, and builds a dice pool of **1d6** for each red card (<span style="color:red">♥ ♦</span>).
 
-If there's no red card, roll `2d6`, and select the lowest number.
+If there's no red card, roll **2d6**, and select the lowest number.
 
-The result of this roll tells us what is going to be the initial `risk` the PCs will find themselves in when starting their next mission.
+The result of this roll tells us what is going to be the initial **risk** the PCs will find themselves in when starting their next mission.
 
-- On a `1-3`, the PCs start in a `high risk` situation.
-- On a `4-5`, the PCs start in a `moderate risk` situation.
-- On a `6`, the PCs start in a `low risk` situation.
-- On a `66`, the PCs start in a `low risk` situation, and gain some additional benefit.
+- On a **1-3**, the PCs start in a **high risk** situation.
+- On a **4-5**, the PCs start in a **moderate risk** situation.
+- On a **6**, the PCs start in a **low risk** situation.
+- On a **66**, the PCs start in a **low risk** situation, and gain some additional benefit.
 
 The GM introduces the mission to the PCs, and they decide how they will approach the situation.
 
@@ -1690,13 +1691,13 @@ Once the mission is over, the PCs go back to their H.Q., and the loop starts ane
 >
 > _The GM then reads the 3 prompts associated with the cards_
 >
-> - _**The AI**: The AI of the ship just discovered sarcasm. (`Red Card`)_
-> - _**The Ship**: There are no more food-tubes in the kitchen. (`Black Card`)_
-> - _**The Next Score**: A bounty was just put on a group of crazy pirates near the asteroid belt. (`Red Card`)_
+> - _**The AI**: The AI of the ship just discovered sarcasm. (**Red Card**)_
+> - _**The Ship**: There are no more food-tubes in the kitchen. (**Black Card**)_
+> - _**The Next Score**: A bounty was just put on a group of crazy pirates near the asteroid belt. (**Red Card**)_
 >
 > _The GM then gradually reveals those narrative hooks to the players as they interact with their ship._
 >
-> _When the PCs are ready to start their next mission, the GM rolls `2d6` (one for each red card). They get a `4`, so the mission will start with a `moderate risk` situation._
+> _When the PCs are ready to start their next mission, the GM rolls **2d6** (one for each red card). They get a **4**, so the mission will start with a **moderate risk** situation._
 >
 > _The GM then thinks about a way to make the bounty on the pirates more complicated. They decide that when the PCs arrive, there will already be another crew of scoundrels there trying to catch the bounty as well._
 
@@ -1706,12 +1707,12 @@ Once the mission is over, the PCs go back to their H.Q., and the loop starts ane
 >
 > Each card gives a new story prompt to the GM to make the world feel more alive.
 >
-> To determine how the PC's next mission is going to start, roll `1d6` for each red card that was drawn. The result of this roll tells us what is going to be the initial `risk` level the PCs will find themselves in when starting their next mission.
+> To determine how the PC's next mission is going to start, roll **1d6** for each red card that was drawn. The result of this roll tells us what is going to be the initial **risk** level the PCs will find themselves in when starting their next mission.
 >
-> - On a `1-3`, the PCs start in a `high risk` situation.
-> - On a `4-5`, the PCs start in a `moderate risk` situation.
-> - On a `6`, the PCs start in a `low risk` situation.
-> - On a `66`, the PCs start in a `low risk` situation, and gain some additional benefit.
+> - On a **1-3**, the PCs start in a **high risk** situation.
+> - On a **4-5**, the PCs start in a **moderate risk** situation.
+> - On a **6**, the PCs start in a **low risk** situation.
+> - On a **66**, the PCs start in a **low risk** situation, and gain some additional benefit.
 
 # Quick Charge Extra | Extras
 
@@ -1727,24 +1728,24 @@ Use it for a quick one-shot, to introduce the Charge to new players, or simply b
 
 Some text was copied over from the rest of the game to make this Extra stand on its own, but here's a quick rundown of the modifications for the Charge veterans reading this:
 
-- There's only 2 character details: the `concept` and the `appearance`.
+- There's only 2 character details: the **concept** and the **appearance**.
 - The action list was reduced to 6 actions. Start with 4 action dots at character creation:
-  - `Muscle`: you your force to move, overcome or wreck the obstacle in front of you.
-  - `Finesse`: you employ dexterous manipulation or subtle misdirection.
-  - `Move`: you quickly shift to a new position or get out of danger.
-  - `Study`: you scrutinize details and interpret evidence.
-  - `Talk`: you reassure, socialize or influence with kindness, guile, charm or argument.
-  - `Focus`: you concentrate to accomplish a task that requires great strength of mind.
-- The `effect` rating is determined by the action roll's result:
-  - A `66` gives a `+3 effect`.
-  - A `6` gives a `+2 effect`.
-  - A `4-5` gives a `+1 effect`.
+  - **Muscle**: you your force to move, overcome or wreck the obstacle in front of you.
+  - **Finesse**: you employ dexterous manipulation or subtle misdirection.
+  - **Move**: you quickly shift to a new position or get out of danger.
+  - **Study**: you scrutinize details and interpret evidence.
+  - **Talk**: you reassure, socialize or influence with kindness, guile, charm or argument.
+  - **Focus**: you concentrate to accomplish a task that requires great strength of mind.
+- The **effect** rating is determined by the action roll's result:
+  - A **66** gives a **+3 effect**.
+  - A **6** gives a **+2 effect**.
+  - A **4-5** gives a **+1 effect**.
 - The consequence rating is determined by the action roll's result:
-  - A `1-3` creates a `+2 consequence`
-  - A `4-5` creates a `+1 consequence`
-- Progress clocks are filled using the `effect rating` of an action roll.
-- Danger clocks are filled using the `consequence rating` of an action roll.
-- The stress clock is also filled using the `consequence rating` of an action roll.
+  - A **1-3** creates a **+2 consequence**
+  - A **4-5** creates a **+1 consequence**
+- Progress clocks are filled using the **effect rating** of an action roll.
+- Danger clocks are filled using the **consequence rating** of an action roll.
+- The stress clock is also filled using the **consequence rating** of an action roll.
 
 ---
 
@@ -1752,43 +1753,43 @@ Some text was copied over from the rest of the game to make this Extra stand on 
 
 ### Character Creation
 
-Characters are defined by descriptive traits called `details`. These highlight who they are, and what is important about them. Those details aren’t just information to give the character color, but should be the aspects of the character that we pay attention to in the story. They are also used as a guide to know the different narrative liberties that a character has in the fiction.
+Characters are defined by descriptive traits called **details**. These highlight who they are, and what is important about them. Those details aren’t just information to give the character color, but should be the aspects of the character that we pay attention to in the story. They are also used as a guide to know the different narrative liberties that a character has in the fiction.
 
 When creating a new character, write down their:
 
-- `Concept`: an elevator-pitch version of who the character is.
-- `Appearance`: what the character looks like, what they wear, etc.
+- **Concept**: an elevator-pitch version of who the character is.
+- **Appearance**: what the character looks like, what they wear, etc.
 
 #### Actions
 
-When a PC needs to overcome an obstacle and there is a risk, they use one of their `actions`.
+When a PC needs to overcome an obstacle and there is a risk, they use one of their **actions**.
 
-At character creation, players assign `4 action dots` among the following action list:
+At character creation, players assign **4 action dots** among the following action list:
 
-Assign `4 action dots` in:
+Assign **4 action dots** in:
 
-- `Muscle`: you your force to move, overcome or wreck the obstacle in front of you.
-- `Finesse`: you employ dexterous manipulation or subtle misdirection.
-- `Move`: you quickly shift to a new position or get out of danger.
-- `Think`: you scrutinize details and interpret evidence.
-- `Talk`: you reassure, socialize or influence with kindness, guile, charm or argument.
-- `Focus`: you concentrate to accomplish a task that requires great strength of mind.
+- **Muscle**: you your force to move, overcome or wreck the obstacle in front of you.
+- **Finesse**: you employ dexterous manipulation or subtle misdirection.
+- **Move**: you quickly shift to a new position or get out of danger.
+- **Think**: you scrutinize details and interpret evidence.
+- **Talk**: you reassure, socialize or influence with kindness, guile, charm or argument.
+- **Focus**: you concentrate to accomplish a task that requires great strength of mind.
 
 #### Condition
 
-A character's condition is tracked using a clock divided in 4 segments called the `stress clock ⨁`.
+A character's condition is tracked using a clock divided in 4 segments called the **stress clock ⨁**.
 
 When they get hurt, that clock gets filled.
 
-When the 4 segments of the `stress clock` are filled, the PC is taken out for the scene, and their stress clock is cleared. Because they were taken out, the next scenes should handle how the character's recovery is going to happen in the fiction.
+When the 4 segments of the **stress clock** are filled, the PC is taken out for the scene, and their stress clock is cleared. Because they were taken out, the next scenes should handle how the character's recovery is going to happen in the fiction.
 
 ### Rolling Dice
 
 The game uses six-sided dice. You roll several at once, which we call a dice pool, and read the **single highest result**.
 
-- If the highest die is a `6`, it's a `full success`. Things go well. If you roll more than one `6`, it's a `critical success` and you gain some additional advantage.
-- If the highest die is a `4 or 5`, that's a `partial success`. You do what you were trying to do, but there is a consequence.
-- If the highest die is `1-3`, it's a `bad outcome`. Things go poorly. You don't achieve your goal, and suffer a consequence.
+- If the highest die is a **6**, it's a **full success**. Things go well. If you roll more than one **6**, it's a **critical success** and you gain some additional advantage.
+- If the highest die is a **4 or 5**, that's a **partial success**. You do what you were trying to do, but there is a consequence.
+- If the highest die is **1-3**, it's a **bad outcome**. Things go poorly. You don't achieve your goal, and suffer a consequence.
 
 _If you ever need to roll but you have zero (or negative) dice, roll two dice and take the single lowest result. You can’t roll a critical when you have zero dice._
 
@@ -1796,9 +1797,9 @@ Most of the game's mechanics revolve around this basic format.
 
 ### Action Rolls
 
-When there's a challenge that needs to be overcome, and there's a risk of failure, a player makes an `action roll`.
+When there's a challenge that needs to be overcome, and there's a risk of failure, a player makes an **action roll**.
 
-The number of dice to roll depends on the `action` the character is doing.
+The number of dice to roll depends on the **action** the character is doing.
 
 The action roll acts as double duty. Which means that it resolves what the PC is doing, as well as the NPC.
 
@@ -1806,7 +1807,7 @@ Here's what happens when a player makes an action roll:
 
 #### 1. Player Sets Their Goal
 
-The player states their goal and, which `action` they are using.
+The player states their goal and, which **action** they are using.
 
 #### 2. The GM explains the risk
 
@@ -1818,33 +1819,33 @@ The player decides if they want to even the odds.
 
 They can either
 
-- `Push themselves`: Consume `2 momentum` to get `+1d6` or an improved effect rating.
-- `Add tension` to the scene, to get `+1d6`.
+- **Push themselves**: Consume **2 momentum** to get **+1d6** or an improved effect rating.
+- **Add tension** to the scene, to get **+1d6**.
 
-They can also receive assistance from another PC for an additional `1d6`.
+They can also receive assistance from another PC for an additional **1d6**.
 
 #### 4. Roll the Dice
 
 Finally, the player rolls the dice, and the group judges the result.
 
-- On a `66` it's a critical success. You _greatly_ achieve your goal with a `+3 effect`
-- On a `6` it's a full success. You achieve your goal with a `+2 effect`
-- On a `4-5` it's a partial success. You achieve your goal with a `+1 effect`, but there's a `+1 consequence`.
-- On a `1-3` it's a bad outcome. Things go badly, and there's a `+1 consequence`.
+- On a **66** it's a critical success. You _greatly_ achieve your goal with a **+3 effect**
+- On a **6** it's a full success. You achieve your goal with a **+2 effect**
+- On a **4-5** it's a partial success. You achieve your goal with a **+1 effect**, but there's a **+1 consequence**.
+- On a **1-3** it's a bad outcome. Things go badly, and there's a **+1 consequence**.
 
-If the result of the dice is higher than `3`, the PC gains `momentum` from their action except if they pushed themselves.
+If the result of the dice is higher than **3**, the PC gains **momentum** from their action except if they pushed themselves.
 
 ### Momentum
 
-When a player makes an action roll, that roll has a chance generating `momentum`.
+When a player makes an action roll, that roll has a chance generating **momentum**.
 
-You start every session with `2`, and generate more `momentum` when making successful action rolls.
+You start every session with **2**, and generate more **momentum** when making successful action rolls.
 
-- On a `4-5`, you gain `+1 momentum`.
-- On a `6`, you gain `+2 momentum`.
-- On a `66`, you gain `+3 momentum`.
+- On a **4-5**, you gain **+1 momentum**.
+- On a **6**, you gain **+2 momentum**.
+- On a **66**, you gain **+3 momentum**.
 
-PCs consume their `momentum` to boost their actions, assist an ally or resist a `consequence`.
+PCs consume their **momentum** to boost their actions, assist an ally or resist a **consequence**.
 
 **When momentum is spent for a roll, that roll cannot in turn generate momentum.**
 
@@ -1854,17 +1855,17 @@ If you want, you can add bonus dice to your action roll by using **one** of the 
 
 #### Push Yourself
 
-When you `push yourself`, you consume `2 momentum` per push to gain one of the following bonuses.
+When you **push yourself**, you consume **2 momentum** per push to gain one of the following bonuses.
 
-- Add `+1d6` to your dice pool.
-- Gain `+1 effect rating` for your roll.
+- Add **+1d6** to your dice pool.
+- Gain **+1 effect rating** for your roll.
 - Take action even if you were taken out.
 
 #### Add Tension
 
-When you `add tension` to an action roll, you can ask the GM _"What would adding tension would look like here?"_. The GM then offers a `consequence`, like ticking segments on a danger clock, inflicting stress on your character, or adding more drama to the narrative.
+When you **add tension** to an action roll, you can ask the GM _"What would adding tension would look like here?"_. The GM then offers a **consequence**, like ticking segments on a danger clock, inflicting stress on your character, or adding more drama to the narrative.
 
-If you accept the `consequence`, add `+1d6` to your current dice pool.
+If you accept the **consequence**, add **+1d6** to your current dice pool.
 
 ### Team work
 
@@ -1872,34 +1873,34 @@ The PCs can help one another in different ways to assure that the teams overcome
 
 #### Assist
 
-When you `assist` a PC, you consume `1 momentum`, to give `+1d6` to their roll. When doing this, you also expose yourself to possible danger.
+When you **assist** a PC, you consume **1 momentum**, to give **+1d6** to their roll. When doing this, you also expose yourself to possible danger.
 
 #### Protect
 
 When you protect a PC, you step in to confront a consequence they would otherwise face. Describe how you intervene, and suffer the consequence for them.
 
-You can make a `determination roll` to try to reduce or cancel the consequence.
+You can make a **determination roll** to try to reduce or cancel the consequence.
 
 #### Set up
 
-When you perform a setup action, you make an `action roll` to have an indirect effect on an obstacle. If your action has its intended result, any member of the team who follows through on your maneuver gets `+1 effect` level for their roll.
+When you perform a setup action, you make an **action roll** to have an indirect effect on an obstacle. If your action has its intended result, any member of the team who follows through on your maneuver gets **+1 effect** level for their roll.
 
 You choose the benefit, based on the nature of your setup action.
 
 ### Determination Roll
 
-If a character suffers a `consequence` that you, as a player, don't like, you can try to resist it.
+If a character suffers a **consequence** that you, as a player, don't like, you can try to resist it.
 
-You do so by calling for a `determination roll` to see how well you resist the consequence.
+You do so by calling for a **determination roll** to see how well you resist the consequence.
 
-Build a pool of d6s by adding `+1d6` for each charge of momentum you are willing to consume for the roll.
+Build a pool of d6s by adding **+1d6** for each charge of momentum you are willing to consume for the roll.
 
 Once you've decided how many charges you want to consume, roll and interpret the results:
 
-- On a `1-3`, the `consequence` still happens.
-- On a `4-5`, the `consequence` is reduced.
-- On a `6`, the `consequence` is avoided.
-- On a `66`, the `consequence` is avoided, and you get some other benefit.
+- On a **1-3**, the **consequence** still happens.
+- On a **4-5**, the **consequence** is reduced.
+- On a **6**, the **consequence** is avoided.
+- On a **66**, the **consequence** is avoided, and you get some other benefit.
 
 ### Clocks
 
@@ -1907,8 +1908,8 @@ Clocks are circles divided in either 4, 6 or 8 segments.
 
 Use those to track a task's **progress** or escalating **danger** in scenes.
 
-- When a PC succeeds an action roll, you can tick 1 segment of a `progress clock` for each `effect` rating.
-- When a PC suffers a `consequence` from an action roll, you can tick 1 segment of a `danger clock` for each `consequence` rating.
+- When a PC succeeds an action roll, you can tick 1 segment of a **progress clock** for each **effect** rating.
+- When a PC suffers a **consequence** from an action roll, you can tick 1 segment of a **danger clock** for each **consequence** rating.
 
 When a clock is filled, a narrative element in the story is now resolved. Either the PCs got closer to their goal, or danger has come to fruition and makes the situation more complicated.
 
@@ -1916,13 +1917,13 @@ When a clock is filled, a narrative element in the story is now resolved. Either
 
 As time passes, PCs will get better, and their condition will improve.
 
-If the fiction allows it, once per session clear 1 segment off a PC's `stress clock`.
+If the fiction allows it, once per session clear 1 segment off a PC's **stress clock**.
 
 ### Fortune Rolls
 
-When the outcome of a situation isn't certain, and the players aren't involved, the GM makes a `fortune roll` to see what happens.
+When the outcome of a situation isn't certain, and the players aren't involved, the GM makes a **fortune roll** to see what happens.
 
-Add `+1d6` per likeliness level of that thing happening.
+Add **+1d6** per likeliness level of that thing happening.
 
 - On a **critical success**, great results, and something exceptional happens.
 - On a **full success**, great results.
@@ -1931,15 +1932,15 @@ Add `+1d6` per likeliness level of that thing happening.
 
 ### Flashbacks
 
-Players can call for a `flashback` scene if they want to declare that their character tried to prepare for a certain situation even though it hasn't been discussed at the table yet. That being said, a flashback scene isn’t like time travel and can't undo what was already established in the narrative.
+Players can call for a **flashback** scene if they want to declare that their character tried to prepare for a certain situation even though it hasn't been discussed at the table yet. That being said, a flashback scene isn’t like time travel and can't undo what was already established in the narrative.
 
-When a player calls for a `flashback`, the GM looks at the fiction and sets a cost in `momentum` (from 0 to 2) that the player needs to pay before moving forward.
+When a player calls for a **flashback**, the GM looks at the fiction and sets a cost in **momentum** (from 0 to 2) that the player needs to pay before moving forward.
 
 Afterwards, the player narrates a short scene of what their character attempted to accomplish in the flashback. Depending on the narrative and the character's actions, the GM decides between one of the following:
 
 - The flashback happens and the character's actions have a impact on the narrative.
-- The flashback happens, but a `action roll` is required to determine if the character's actions were successful or not.
-- The result of the character's actions are left to chance and determined by a `fortune roll`.
+- The flashback happens, but a **action roll** is required to determine if the character's actions were successful or not.
+- The result of the character's actions are left to chance and determined by a **fortune roll**.
 
 # Magic Extra | Extras
 
@@ -1955,21 +1956,21 @@ This extra is meant to emulate low-level magic, so it may not be the best to use
 
 First, you want to decide **which action to use**, though you are not restricted in how many you select in the same setting or for a single spell :
 
-Is magic made of drawn-out rituals that require you to spend a long time gathering some amount of magic power ? Then you need `Focus`
+Is magic made of drawn-out rituals that require you to spend a long time gathering some amount of magic power ? Then you need **Focus**
 
-Does magic require careful movements or even danses that you have to execute perfectly ? That would require some amount of `Finesse`
+Does magic require careful movements or even danses that you have to execute perfectly ? That would require some amount of **Finesse**
 
-Is magic made of alchemy and enchanting ? This sounds like `Tinkering`
+Is magic made of alchemy and enchanting ? This sounds like **Tinkering**
 
-Is magic something made out of a runic language that you have to decipher, arias you need to know by heart or complex drawings ? I hope you're a good `Study` (but `Focus` could work, especially if you have a book in hand!)
+Is magic something made out of a runic language that you have to decipher, arias you need to know by heart or complex drawings ? I hope you're a good **Study** (but **Focus** could work, especially if you have a book in hand!)
 
-Do you use Hypnosis or Kototama (japanese word magic)? It might be `Sway` or `Command`
+Do you use Hypnosis or Kototama (japanese word magic)? It might be **Sway** or **Command**
 
-Maybe you need to use your `Bond` with a specific god to call upon their particular powers.
+Maybe you need to use your **Bond** with a specific god to call upon their particular powers.
 
 Be creative with magic! Maybe one spell requires multiple actions, maybe one spell can be cast in multiple different ways.
 
-> _For her specific game about mages with books and incantations, Alice has decided that magic can be done in two ways : Either the character can `Focus` on reading from the book, or they could simply remember a prior `Study` if the character doesn't have their book on hand. But, for a ritual to summon a being from another world, she has decided that the spell require a clock to be filled. Half of it must be filled with `Focus` as the character reads incantations from the book, but the other half has to be done with `Command`, as they must bind the being to their will._
+> _For her specific game about mages with books and incantations, Alice has decided that magic can be done in two ways : Either the character can **Focus** on reading from the book, or they could simply remember a prior **Study** if the character doesn't have their book on hand. But, for a ritual to summon a being from another world, she has decided that the spell require a clock to be filled. Half of it must be filled with **Focus** as the character reads incantations from the book, but the other half has to be done with **Command**, as they must bind the being to their will._
 
 ## The Cost of Magic
 
@@ -1977,10 +1978,10 @@ Depending on the tone of your game, magic can have different costs and have diff
 
 For a cost, magic could require any of :
 
-- Some amount of `momentum`.
-- Time (require a `clock` to be filled).
-- Risk (put you in a certain `position` by default).
-- Danger (a `clock` to tick on consequences that is in your character's `complications` on their sheet).
+- Some amount of **momentum**.
+- Time (require a **clock** to be filled).
+- Risk (put you in a certain **position** by default).
+- Danger (a **clock** to tick on consequences that is in your character's **complications** on their sheet).
 - Materials (no need to keep an inventory, use common sense).
 - Casting Prerequisites (at night; on-site; with a spell tome).
 - Casting Limits (once per day; once per session; once in the whole campaign).
@@ -1998,7 +1999,7 @@ Just be sure the effect that you're giving magic fits the cost, so that your pla
 When creating a magic item, or when using magic that may be used multiple times in the same cast, you should likely define limits to the spell :
 
 - Either use the [Attachment extra](https://fari.games/en/srds/fari-rpgs/charge-rpg/attachment-extra) for a protective item.
-- Use a "magic charge" clock that depletes with use (may or may not be replenished by the caster) that can be tracked on the character sheet, using `projects`.
+- Use a "magic charge" clock that depletes with use (may or may not be replenished by the caster) that can be tracked on the character sheet, using **projects**.
 - For both of the aforementioned items, you may use [Keita Creation's repairs and restoration rules](https://keitacreates.itch.io/repairs-and-restorations)
 - Make the spell much harder to cast and more dangerous on further uses in the same scene.
 - Make further uses of the effect have a cost (see above).
@@ -2024,7 +2025,7 @@ Critical successes on spells raise the effect by one level for every additionnal
 
 # Scars Extra | Extras
 
-This extra introduces new a type of `detail` that permanently changes your character when the stress clock fills up.
+This extra introduces new a type of **detail** that permanently changes your character when the stress clock fills up.
 
 \- By Krister Svanlund
 
@@ -2038,9 +2039,9 @@ Games that could benefit from these rules are primarily those going for a gritti
 
 This extra adds a few concepts to the basis of Charge RPG, namely;
 
-- `scars` -- A new type of character `detail` that indicates a permanent change to your character, either physically or mentally.
-- `bowing out` -- The act of leaving your friends to deal with a conflict to avoid more severe consequences to yourself.
-- being `hardened` -- The beneficial aspects of having a `scar` detail; allows you to take more stress in some circumstances.
+- **scars** -- A new type of character **detail** that indicates a permanent change to your character, either physically or mentally.
+- **bowing out** -- The act of leaving your friends to deal with a conflict to avoid more severe consequences to yourself.
+- being **hardened** -- The beneficial aspects of having a **scar** detail; allows you to take more stress in some circumstances.
 
 ---
 
@@ -2052,23 +2053,23 @@ This extra adds a few concepts to the basis of Charge RPG, namely;
 
 ## Scars Rule
 
-When your stress clock reaches **4 filled segments**, you do not clear it but instead, add a `scar` to your character details and update the condition to something that represents you being `incapacitated`. When you come to from being incapacitated, either by getting help from a friend or from just crawling back on the scene, you clear half of the stress clock and update your `condition` accordingly.
+When your stress clock reaches **4 filled segments**, you do not clear it but instead, add a **scar** to your character details and update the condition to something that represents you being **incapacitated**. When you come to from being incapacitated, either by getting help from a friend or from just crawling back on the scene, you clear half of the stress clock and update your **condition** accordingly.
 
-An incapacitated character can not take more `scars` but further harm to the body can change the nature of the `scar`, such as a burn having a wider reach, or instead of having a deep scar you get an intricate net of deep scars.
+An incapacitated character can not take more **scars** but further harm to the body can change the nature of the **scar**, such as a burn having a wider reach, or instead of having a deep scar you get an intricate net of deep scars.
 
 > ### Overlapping scars
 >
-> _In some cases `scars` end up overlapping in what it affects, such as losing your left arm after leaving your left hand, and in those cases, it is perfectly acceptable to merge those `scars` into a single scar. If a `scar` doesn't change anything about your character it has no use on the character sheet either._
+> _In some cases **scars** end up overlapping in what it affects, such as losing your left arm after leaving your left hand, and in those cases, it is perfectly acceptable to merge those **scars** into a single scar. If a **scar** doesn't change anything about your character it has no use on the character sheet either._
 
-Remember to also update your looks if necessary as you add `scars`.
+Remember to also update your looks if necessary as you add **scars**.
 
 > ### Optional dial setting: Bleeding out
 >
-> _For some games, a fresh `scar` should require some kind of `action` from another character to get the scared character back in the game. This can be being "talked down from the ledge", "staunch the bleeding", or "taking care of the burns". This rule, in particular, can be a bit too much for some groups, so make extra sure to include this with consent, as with all rules dealing with bodily or mental harm._
+> _For some games, a fresh **scar** should require some kind of **action** from another character to get the scared character back in the game. This can be being "talked down from the ledge", "staunch the bleeding", or "taking care of the burns". This rule, in particular, can be a bit too much for some groups, so make extra sure to include this with consent, as with all rules dealing with bodily or mental harm._
 
 ### Definition of a scar
 
-A `scar` is a character detail that is based on the `condition` you got from filling up the stress clock. Similar to conditions, physical and mental `scars` aren't kept separated but rather tracked as the same list of details. The important part is that the `scar` isn't the `condition` itself but rather what stays behind after some time.
+A **scar** is a character detail that is based on the **condition** you got from filling up the stress clock. Similar to conditions, physical and mental **scars** aren't kept separated but rather tracked as the same list of details. The important part is that the **scar** isn't the **condition** itself but rather what stays behind after some time.
 
 > ##### Examples of scars
 >
@@ -2076,11 +2077,11 @@ A `scar` is a character detail that is based on the `condition` you got from fil
 > - "missing left hand and underarm"
 > - "intrusive thoughts of the scarred non-blinking eye of Gazh".
 
-Similar to `conditions` certain `scars` may restrict the narrative liberties you are allowed. _For example, you normally can't hold two weapons if you only have one hand._
+Similar to **conditions** certain **scars** may restrict the narrative liberties you are allowed. _For example, you normally can't hold two weapons if you only have one hand._
 
 ### Being hardened
 
-When you have a `scar` it also means that you are `hardened` to some extent, this means that whenever any of your `scars` cause you or your friends' real trouble you are allowed to **clear one tick on the stress clock** by consuming `1 momentum`. What defines as "real trouble" is up to the GM but it should be consequential to what your purpose as a character, or group, is.
+When you have a **scar** it also means that you are **hardened** to some extent, this means that whenever any of your **scars** cause you or your friends' real trouble you are allowed to **clear one tick on the stress clock** by consuming **1 momentum**. What defines as "real trouble" is up to the GM but it should be consequential to what your purpose as a character, or group, is.
 
 > #### Examples of real trouble
 >
@@ -2090,39 +2091,39 @@ When you have a `scar` it also means that you are `hardened` to some extent, thi
 
 > #### Note Scars as slapstick
 >
-> _An important note here is that `scars` causing you "trouble" aren't intended for comedic effect. This will naturally vary between groups but remember to treat `scars` with the same level of respect as any other character `detail`._
+> _An important note here is that **scars** causing you "trouble" aren't intended for comedic effect. This will naturally vary between groups but remember to treat **scars** with the same level of respect as any other character **detail**._
 
 ### Optional dial setting: Compensating
 
-In some cases, and for certain settings, it can make sense to allow for some way to "compensate" for a `scar`, this doesn't remove or negate it but rather compensate some part of the loss of ability. Examples of this can be buying a clockwork prosthesis, getting a skin graft, or just receiving therapy. This doesn't block you from utilizing being `hardened` but it does lessen the chances of the `scar` causing problems.
+In some cases, and for certain settings, it can make sense to allow for some way to "compensate" for a **scar**, this doesn't remove or negate it but rather compensate some part of the loss of ability. Examples of this can be buying a clockwork prosthesis, getting a skin graft, or just receiving therapy. This doesn't block you from utilizing being **hardened** but it does lessen the chances of the **scar** causing problems.
 
-_An important balance issue for the GM to have in mind for this is that a `compensation` shouldn't, by default, allow for anything a character without the scar can do, nor should it be held against the character as a weakness. But it can be used as an in-character target for future improvement, depending on the type of setting and tone._
+_An important balance issue for the GM to have in mind for this is that a **compensation** shouldn't, by default, allow for anything a character without the scar can do, nor should it be held against the character as a weakness. But it can be used as an in-character target for future improvement, depending on the type of setting and tone._
 
 ### Bowing out
 
-_This rule might not be suitable for all groups. Don't use this if it risks creating interpersonal conflicts among the players. The purpose of the rule is to allow players some agency when it comes to getting a `scar` or not. If leaving your friends in trouble isn't seen as **a cost**, this rule isn't for your group._
+_This rule might not be suitable for all groups. Don't use this if it risks creating interpersonal conflicts among the players. The purpose of the rule is to allow players some agency when it comes to getting a **scar** or not. If leaving your friends in trouble isn't seen as **a cost**, this rule isn't for your group._
 
-As you get closer to filling up the stress clock you have the option to `bow out` instead of taking a `consequence` that would fill up your stress clock. You do this by telling the GM before you roll for your final action that risks filling up your stress clock, that you wish to `bow out`. This means that you narrate how the result of the action causes you to leave the scene or be `incapacitated`, and you can't rejoin the group during the same scene. If this ends up leaving at least one friend in trouble you also get to clear 2 ticks of your stress clock.
+As you get closer to filling up the stress clock you have the option to **bow out** instead of taking a **consequence** that would fill up your stress clock. You do this by telling the GM before you roll for your final action that risks filling up your stress clock, that you wish to **bow out**. This means that you narrate how the result of the action causes you to leave the scene or be **incapacitated**, and you can't rejoin the group during the same scene. If this ends up leaving at least one friend in trouble you also get to clear 2 ticks of your stress clock.
 
 > #### Example: Bowing out
 >
 > _Player 1s character is at 3 stress, with the condition "overwhelmed and stabbed through the right shoulder"."_
 >
-> _**GM:** The Brute rushes towards you as the bullets fly through the air, it looks to go in for tackling you into the wall behind you, you're in a `desperate position`._
+> _**GM:** The Brute rushes towards you as the bullets fly through the air, it looks to go in for tackling you into the wall behind you, you're in a **desperate position**._
 >
-> _**Player 1:** Ok, so I want to `move` out of the way but since I'm at 3 stress I also want to `bow out`._
+> _**Player 1:** Ok, so I want to **move** out of the way but since I'm at 3 stress I also want to **bow out**._
 >
-> _**GM:** Yeah, sure that's fine, you have `standard effect` for that, but it will leave <Player 2> in pretty deep shit with you gone and having to deal with both the Brute and the Slice. How do you leave the fight?_
+> _**GM:** Yeah, sure that's fine, you have **standard effect** for that, but it will leave <Player 2> in pretty deep shit with you gone and having to deal with both the Brute and the Slice. How do you leave the fight?_
 >
-> _**Player 1:** [Rolling dice] Ok, I actually succeed at the `move` without complications, so I move out of the way and use my effect to cause 2 stress damage to the Brute as it smashes into the wall. But my only way to move out of the way was to throw myself over the edge to the right so I fall into the river below and get carried away._
+> _**Player 1:** [Rolling dice] Ok, I actually succeed at the **move** without complications, so I move out of the way and use my effect to cause 2 stress damage to the Brute as it smashes into the wall. But my only way to move out of the way was to throw myself over the edge to the right so I fall into the river below and get carried away._
 >
 > _**GM:** Ok, so clear 2 ticks from your stress clock and you get to come back when the fight is over._
 
 ### Optional dial setting: Starting the game with scars
 
-`Scars` are the character's history etched into their body, mind, and soul. For that reason there is _no_ option to take `scars` to gain extra `talents`, `action dots`, or similar, if you want your character to start out with `scars` there needs to be a story that goes along with that scar. A story that has fundamentally shaped them into who they are at the start of the game. Preferably each `scar` should have a story that could be told around a campfire, even the `scars` that get added during play.
+**Scars** are the character's history etched into their body, mind, and soul. For that reason there is _no_ option to take **scars** to gain extra **talents**, **action dots**, or similar, if you want your character to start out with **scars** there needs to be a story that goes along with that scar. A story that has fundamentally shaped them into who they are at the start of the game. Preferably each **scar** should have a story that could be told around a campfire, even the **scars** that get added during play.
 
-But naturally, not all scars need to be `scars` in the mechanical sense, a purely decorative scar is just part of your character's looks and personality.
+But naturally, not all scars need to be **scars** in the mechanical sense, a purely decorative scar is just part of your character's looks and personality.
 
 > ### Example of taking a scar
 >
@@ -2134,21 +2135,21 @@ But naturally, not all scars need to be `scars` in the mechanical sense, a purel
 >
 > _**GM:** Sure, but that will also mean that you come closer to the Brute, even tho you know it's pretty inattentive and, at the moment, looks pretty out of it after going face-first into the wall._
 >
-> _**Player 2:** Yeah, that's fine. But I want to take a chance and look over the edge for <Player 1>, that's a `notice` action right?_
+> _**Player 2:** Yeah, that's fine. But I want to take a chance and look over the edge for <Player 1>, that's a **notice** action right?_
 >
-> _**GM:** Sure, that works. You have a `risky position` and `standard effect` on that roll._
+> _**GM:** Sure, that works. You have a **risky position** and **standard effect** on that roll._
 >
 > _**Player 2:** [Rolling dice] I got a 4?_
 >
-> _**GM:** So you look over the railing and see <Player 1> floating in the river, being kept afloat by the auto-inflated vests you both are wearing. But while you're looking over the edge the Slice sees an opportunity and makes a lunge towards you, putting you in a `desperate position`._
+> _**GM:** So you look over the railing and see <Player 1> floating in the river, being kept afloat by the auto-inflated vests you both are wearing. But while you're looking over the edge the Slice sees an opportunity and makes a lunge towards you, putting you in a **desperate position**._
 >
-> _**Player 2:** I try to `move` out of the way. [Rolling dice] my highest is a 2 so I guess not! And I'm out of armor from the earlier attack._
+> _**Player 2:** I try to **move** out of the way. [Rolling dice] my highest is a 2 so I guess not! And I'm out of armor from the earlier attack._
 >
-> _**GM:** Ouch, as you try to move out of the way you feel the burning sensation of the blade gliding in between your ribs on the right side and the speed of the Slice causes both of you to go over the railing. You're at `4 stress` now right?_
+> _**GM:** Ouch, as you try to move out of the way you feel the burning sensation of the blade gliding in between your ribs on the right side and the speed of the Slice causes both of you to go over the railing. You're at **4 stress** now right?_
 >
 > _**Player 2:** Sure am, I guess the hit knocks the wind out of me and I barely notice as we fall towards the river, at least until the cold water hits me._
 >
-> _**GM:** You come to as you feel the vest inflate around you but you have distinct trouble breathing and your right side hurts like nothing before. You don't see a trace of the Slice after that and manage to crawl to shore a bit further downstream where you fall into unconsiousness until <Player 1> finds you barely patched up by the auto-doctor in the vest. You can clear half of your `stress clock` and write down a new `scar` that's called "badly healed scar tissue, right lung". What do you do now?_
+> _**GM:** You come to as you feel the vest inflate around you but you have distinct trouble breathing and your right side hurts like nothing before. You don't see a trace of the Slice after that and manage to crawl to shore a bit further downstream where you fall into unconsiousness until <Player 1> finds you barely patched up by the auto-doctor in the vest. You can clear half of your **stress clock** and write down a new **scar** that's called "badly healed scar tissue, right lung". What do you do now?_
 
 ## Credits
 
@@ -2157,9 +2158,9 @@ But naturally, not all scars need to be `scars` in the mechanical sense, a purel
 
 > ## Recap
 >
-> - **Scar:** When you **fill-up your stress clock**, clear **half of it** and turn your condition into a `scar`.
-> - **Hardened:** If the scar causes you problems, `consume 1 momentum` to `clear one tick` of the stress clock.
-> - **Optional – Bow Out:** Announce **before your final action** that you wish to leave the scene. If your friends end up in a **worse situation** from it you get to `clear 2 ticks` of stress.
+> - **Scar:** When you **fill-up your stress clock**, clear **half of it** and turn your condition into a **scar**.
+> - **Hardened:** If the scar causes you problems, **consume 1 momentum** to **clear one tick** of the stress clock.
+> - **Optional – Bow Out:** Announce **before your final action** that you wish to leave the scene. If your friends end up in a **worse situation** from it you get to **clear 2 ticks** of stress.
 
 # Goals Extra | Extras
 
@@ -2175,22 +2176,22 @@ It's sometimes easier to grasp how a character progresses by declaring goals and
 
 ### What is a Goal?
 
-A `goal` is something a character wants to accomplish, like a mission or a quest. It's also a way to define what the character has to do, what they up for.
+A **goal** is something a character wants to accomplish, like a mission or a quest. It's also a way to define what the character has to do, what they up for.
 
-A character can have a single important `goal`, or multiple small ones. These can be set at creation or emerge during play.
+A character can have a single important **goal**, or multiple small ones. These can be set at creation or emerge during play.
 
-When defining a `goal` for their character, a player has to think about two things:
+When defining a **goal** for their character, a player has to think about two things:
 
-- The `goal`'s name
-- The `goal`'s difficulty
+- The **goal**'s name
+- The **goal**'s difficulty
 
-The name must be detailed enough for everyone, leaving little room about if the `goal` is progressing or not.
+The name must be detailed enough for everyone, leaving little room about if the **goal** is progressing or not.
 
 The difficulty can be **easy**, **medium** or **hard**.
 
 ### Advancing a Goal
 
-A `goal` has an associated clock with 8 segments (see options later for more ideas on this point). When a character makes progress towards one of their `goals` it's time to tick segments, depending on the `goal`'s difficulty:
+A **goal** has an associated clock with 8 segments (see options later for more ideas on this point). When a character makes progress towards one of their **goals** it's time to tick segments, depending on the **goal**'s difficulty:
 
 | Difficulty | Number of segments ticked |
 | ---------- | ------------------------- |
@@ -2202,7 +2203,7 @@ Note: to follow the chassic Charge progression, a good guideline is to ask for t
 
 ### Finishing a Goal
 
-When a `goal`'s clock is full, the `goal` is complete, and the character receives a number of `talent dots` based on the difficulty.
+When a **goal**'s clock is full, the **goal** is complete, and the character receives a number of **talent dots** based on the difficulty.
 
 | Difficulty | Number of talent dots gained |
 | ---------- | ---------------------------- |
@@ -2210,16 +2211,16 @@ When a `goal`'s clock is full, the `goal` is complete, and the character receive
 | Medium     | 2                            |
 | Hard       | 3                            |
 
-The character can apply their freshly acquired `talent dots` immediately, but must keep it thematic to the `goal`. For example, it may not be a good choice to put a dot into Muscle if the `goal` is "writing a delicate recipe with flowers as main ingredient".
+The character can apply their freshly acquired **talent dots** immediately, but must keep it thematic to the **goal**. For example, it may not be a good choice to put a dot into Muscle if the **goal** is "writing a delicate recipe with flowers as main ingredient".
 
 ## Dial: Rolling to Advance
 
-Instead of automatically ticking a number of segments when a `goal` progresses, it's possible to roll to see if it advances even partially, or not.
+Instead of automatically ticking a number of segments when a **goal** progresses, it's possible to roll to see if it advances even partially, or not.
 
 As Charge is a narrative game at its heart, to determine the dice pool follow this guideline:
 
-- Did the character take a risk just to advance their `goal`?
-- Did working on the `goal` impact the character (condition related, etc)?
+- Did the character take a risk just to advance their **goal**?
+- Did working on the **goal** impact the character (condition related, etc)?
 
 If it's complicated, here a fast and simple rule: _use 2 dice_.
 
@@ -2234,12 +2235,12 @@ The number of segments ticked depends on the result and the difficulty.
 
 ## Dial: Rolling to Resolve
 
-Another option is to roll to resolve the `goal`. The 2 ideas behind rolling to resolve are:
+Another option is to roll to resolve the **goal**. The 2 ideas behind rolling to resolve are:
 
-- Add a way to create more narrative around the `goal`'s resolution
-- Authorize a player to test their luck and try to finish a `goal` earlier
+- Add a way to create more narrative around the **goal**'s resolution
+- Authorize a player to test their luck and try to finish a **goal** earlier
 
-The roll is similar to an Action Roll, with the number of dice rolled related to the `goal` clock's status:
+The roll is similar to an Action Roll, with the number of dice rolled related to the **goal** clock's status:
 
 | Clock's status             | Number of segments ticked | equivalent in action dot |
 | -------------------------- | ------------------------- | ------------------------ |
@@ -2255,7 +2256,7 @@ Time to discover how to read the result:
 
 | Result | What happens                                                 |
 | ------ | ------------------------------------------------------------ |
-| 1-3    | The `goal` is lost, it's a failure                           |
+| 1-3    | The **goal** is lost, it's a failure                         |
 | 4-5    | Partial success, one less talent dot or suffer a consequence |
 | 6      | Success! Get your talent dots!                               |
 | 66     | Critical Success! Get one more talent dots than expected!    |
@@ -2268,7 +2269,7 @@ Also, if you want to character progression harder, try a new clock: **the 12 seg
 
 ## Credits
 
-The original idea comes from [Ironsworn](https://ironswornrpg.com)'s vows. `Goals` are a humble adaptation of them for Charge.
+The original idea comes from [Ironsworn](https://ironswornrpg.com)'s vows. **Goals** are a humble adaptation of them for Charge.
 
 Special thanks to LynnJones who enhance the readibility, RP for the useful feedback to make it more Charge, and therabidbanana for the progression guideline.
 
@@ -2282,9 +2283,9 @@ An Extra for Charge to add both narrative structure and mechanical benefits to t
 
 ## Overview
 
-The group of players is referred to in this extra as a `party`. This group has a separate `party sheet` which tracks `details` of how they are perceived by the world around them, as well as maintaining party-level `danger` and `progress` clocks.
+The group of players is referred to in this extra as a **party**. This group has a separate **party sheet** which tracks **details** of how they are perceived by the world around them, as well as maintaining party-level **danger** and **progress** clocks.
 
-The `party sheet` can represent things such as their “HQ” or “Ship”. It can also be used to represent relationships with important factions or specific NPCs.
+The **party sheet** can represent things such as their “HQ” or “Ship”. It can also be used to represent relationships with important factions or specific NPCs.
 
 > #### Example
 >
@@ -2292,37 +2293,37 @@ The `party sheet` can represent things such as their “HQ” or “Ship”. It 
 
 ### Party Details
 
-The `party sheet` tracks `details` about the party, in much the same way as character sheets have `details` about the character. Much like with the character sheet, these details might offer narrative liberties to allow the party to take certain actions. Additionally these details have a `disposition` which might be positive, negative, or neutral. The `disposition` impacts any rolls related with the detail on the `party sheet`.
+The **party sheet** tracks **details** about the party, in much the same way as character sheets have **details** about the character. Much like with the character sheet, these details might offer narrative liberties to allow the party to take certain actions. Additionally these details have a **disposition** which might be positive, negative, or neutral. The **disposition** impacts any rolls related with the detail on the **party sheet**.
 
-`Supporting details` are collected into four categories, summarized under four broader `details` called `key concepts`. If the majority of details under the `key concept` are positive (or negative), the `disposition` of the `key concept` also becomes positive (or negative). The `disposition` of the `key concept` works the same as `supporting details`, but at a broader scope, impacting all rolls related to the category.
+**Supporting details** are collected into four categories, summarized under four broader **details** called **key concepts**. If the majority of details under the **key concept** are positive (or negative), the **disposition** of the **key concept** also becomes positive (or negative). The **disposition** of the **key concept** works the same as **supporting details**, but at a broader scope, impacting all rolls related to the category.
 
 > #### Example
 >
-> The party decides on the following to start their `party sheet` to represent the story they came up with:
+> The party decides on the following to start their **party sheet** to represent the story they came up with:
 >
-> Authority, representing the evil empire, with a `key concept` of “Enemies of the Kabraxian Empire”, and two negative `supporting details` of “thorn in the side of the regional governor” and “falsified spacecraft registration”
+> Authority, representing the evil empire, with a **key concept** of “Enemies of the Kabraxian Empire”, and two negative **supporting details** of “thorn in the side of the regional governor” and “falsified spacecraft registration”
 >
-> Assets, with a `key concept` of “scrappy band of fighters ready to fight” and positive `supporting detail` of “recently ‘liberated’ state-of-the-art spacecraft”.
+> Assets, with a **key concept** of “scrappy band of fighters ready to fight” and positive **supporting detail** of “recently ‘liberated’ state-of-the-art spacecraft”.
 >
-> Allies, with a `key concept` of “nobody likes the Empire”, a positive `supporting detail` of “Maven, a bar owner friendly to rebels” and a neutral `supporting detail` of “dock workers tired of Empire soldiers pushing them around”.
+> Allies, with a **key concept** of “nobody likes the Empire”, a positive **supporting detail** of “Maven, a bar owner friendly to rebels” and a neutral **supporting detail** of “dock workers tired of Empire soldiers pushing them around”.
 >
-> Adversaries, with a `key concept` of “enemies of my enemies are my friends?” and a single neutral `supporting detail` of “Jebralt, the sketchy arms dealer”.
+> Adversaries, with a **key concept** of “enemies of my enemies are my friends?” and a single neutral **supporting detail** of “Jebralt, the sketchy arms dealer”.
 >
-> Because all of these `key concepts` are still neutral in `disposition`, the party will only receive advantages or disadvantages to rolls when dealing with the specific `supporting details` listed. Authority will become negative if it gains one more negative `supporting detail` - the team will have to keep a low profile and take care of that "falsified spacecraft registration" if they want to prevent being put into `desparate` situations every time they roll against the Empire.
+> Because all of these **key concepts** are still neutral in **disposition**, the party will only receive advantages or disadvantages to rolls when dealing with the specific **supporting details** listed. Authority will become negative if it gains one more negative **supporting detail** - the team will have to keep a low profile and take care of that "falsified spacecraft registration" if they want to prevent being put into **desparate** situations every time they roll against the Empire.
 
 ### Party Danger and Progress Clocks
 
-In addition to `key concepts` and their related `supporting details`, the `party sheet` also has a `progress` and `danger` clock.
+In addition to **key concepts** and their related **supporting details**, the **party sheet** also has a **progress** and **danger** clock.
 
-If an action roll results in a `consequence`, the GM can evaluate marking the `danger` clock on the `party sheet` to represent a complication that might affect the group later. This clock tracks a generally deteriorating position in society - loss of assets, adversaries growing more hostile, or alliances shifting. Similarly, the `progress` clock is available for when significant events happen in a session that might improve the party’s position.
+If an action roll results in a **consequence**, the GM can evaluate marking the **danger** clock on the **party sheet** to represent a complication that might affect the group later. This clock tracks a generally deteriorating position in society - loss of assets, adversaries growing more hostile, or alliances shifting. Similarly, the **progress** clock is available for when significant events happen in a session that might improve the party’s position.
 
-When any of these clocks are filled, they are cleared and one of the `supporting detail` changes. If the `danger` clock fills, this change is generally for the worse. If the `progress` clock fills, the change is generally for the better.
+When any of these clocks are filled, they are cleared and one of the **supporting detail** changes. If the **danger** clock fills, this change is generally for the worse. If the **progress** clock fills, the change is generally for the better.
 
 ### How the Party Sheet Impacts Rolls
 
 Details on the party sheet can offer mechanical support in addition to their narrative impact.
 
-When `key concepts` or `supporting details` have a positive disposition, any rolls related to them can receive a bonus to `effect` or `position`. Negative disposition impacts rolls in a similar way.
+When **key concepts** or **supporting details** have a positive disposition, any rolls related to them can receive a bonus to **effect** or **position**. Negative disposition impacts rolls in a similar way.
 
 In a pinch, the ticks on the progress clock can also be used as a substitute for momentum.
 
@@ -2330,34 +2331,34 @@ In a pinch, the ticks on the progress clock can also be used as a substitute for
 
 > #### Designer Note
 >
-> `Key Concepts` and `Supporting details` can be a way for game designers to help drive the kinds of stories that make sense in their setting. The categories provided below are intended to be a generic starting point that can be made setting specific - renaming them per setting is an easy customization to set the right mood!
+> **Key Concepts** and **Supporting details** can be a way for game designers to help drive the kinds of stories that make sense in their setting. The categories provided below are intended to be a generic starting point that can be made setting specific - renaming them per setting is an easy customization to set the right mood!
 >
 > Further structure can be added to the supporting details to drive home key points in the setting, for example, asking players to choose a specific adversary and ally from a list of available world forces.
 >
 > Starting positions for these key details can help further drive a story for the group of players to build on. A crew looking for their first big score might not have a lot of assets or allies, but they probably aren’t big enough to be on anyone’s radar as an adversary either. A resistance group against a repressive regime might start in a horrible position against authority, but have a larger list of allies to lean on.
 
-Both `supporting details` and `key concepts` are `details` as described in Charge's [Character Creation rules](https://fari.games/en/srds/fari-rpgs/charge-rpg/creating-your-character#details). `Supporting details` should be specific people, places or things, such as specific `world forces`, while `key concepts` are more wide-reaching.
+Both **supporting details** and **key concepts** are **details** as described in Charge's [Character Creation rules](https://fari.games/en/srds/fari-rpgs/charge-rpg/creating-your-character#details). **Supporting details** should be specific people, places or things, such as specific **world forces**, while **key concepts** are more wide-reaching.
 
-Like with character creation, `details` on the `party sheet` are facts about the party that can be used for story telling. They also offer narrative liberties, potentially giving players permission to take certain actions. While the GM will have the final say, the entire party should have a chance to help develop and decide on these details at character creation. Much like character details, there will also have the chance to change these over time through play.
+Like with character creation, **details** on the **party sheet** are facts about the party that can be used for story telling. They also offer narrative liberties, potentially giving players permission to take certain actions. While the GM will have the final say, the entire party should have a chance to help develop and decide on these details at character creation. Much like character details, there will also have the chance to change these over time through play.
 
 ### Zooming in and out
 
-Each `key concept` is a `detail` that focuses broadly on the position of the `party` in an important category. Narratively they zoom out and share more of the big picture. `Key concepts` are wide-reaching - they create an assumed default for anything related to that category that isn't already a `supporting detail`.
+Each **key concept** is a **detail** that focuses broadly on the position of the **party** in an important category. Narratively they zoom out and share more of the big picture. **Key concepts** are wide-reaching - they create an assumed default for anything related to that category that isn't already a **supporting detail**.
 
-`Supporting details` add color to `key concepts` by zooming in on specific people, places, or things related to the party in some way (for example, a relationship with a specific `world force`).
+**Supporting details** add color to **key concepts** by zooming in on specific people, places, or things related to the party in some way (for example, a relationship with a specific **world force**).
 
-The four `key concepts` describe the party's standing in the following categories:
+The four **key concepts** describe the party's standing in the following categories:
 
 - **Assets** - This represents the available resources of the party, including money and any available equipment.
 - **Allies** - This represents allies to the party, which might be specific key contacts or whole organizations ready to back the party.
 - **Adversaries** - This represents the adversaries of the party, which could be specific powerful enemies or a whole civilization bent on your destruction.
 - **Authority** - This represents the party’s relationship with authority - how much they have, or how much those who have it like (or dislike) the party.
 
-Examples for each `key concept` and related `supporting details` are available further on in this document.
+Examples for each **key concept** and related **supporting details** are available further on in this document.
 
 ### Dispositions
 
-`Supporting details` have either a positive disposition (good for players, +1 to key concept), or a neutral disposition (+0 to key concept), or a negative disposition (bad for players, -1 to key concept). These dispositions can be used to alter the `position` of a roll. `Disposition` can alter the consequence rating of a `position`, and might be directly used by the GM to help set the `position` of a roll when it makes sense.
+**Supporting details** have either a positive disposition (good for players, +1 to key concept), or a neutral disposition (+0 to key concept), or a negative disposition (bad for players, -1 to key concept). These dispositions can be used to alter the **position** of a roll. **Disposition** can alter the consequence rating of a **position**, and might be directly used by the GM to help set the **position** of a roll when it makes sense.
 
 | Disposition  | Default Position | Consequence Rating              |
 | ------------ | ---------------- | ------------------------------- |
@@ -2365,110 +2366,110 @@ Examples for each `key concept` and related `supporting details` are available f
 | Neutral (0)  | Risky            | No change to Consequence Rating |
 | Negative (-) | Desperate        | +1 Consequence Rating           |
 
-The collection of `supporting details` for a `key concept` can be converted to a numeric score between -4 and +4. The overarching `key concept` is considered neutral until the _majority_ of `supporting details` are negative (score less than -2), or positive (score greater than 2) - changing the `disposition` of the `key concept` to match. When the `key concept` changes disposition it should be rewritten to represent the change in fortunes for the party.
+The collection of **supporting details** for a **key concept** can be converted to a numeric score between -4 and +4. The overarching **key concept** is considered neutral until the _majority_ of **supporting details** are negative (score less than -2), or positive (score greater than 2) - changing the **disposition** of the **key concept** to match. When the **key concept** changes disposition it should be rewritten to represent the change in fortunes for the party.
 
-In cases where `supporting details` or `key concepts` have conflicting `dispositions` that both might impact a roll, they will end up cancelling each other out to a neutral `disposition`.
+In cases where **supporting details** or **key concepts** have conflicting **dispositions** that both might impact a roll, they will end up cancelling each other out to a neutral **disposition**.
 
 ### Party Creation
 
-At the start of a campaign, the party should generally start with each `key concept` at -1, 0, or +1 with one or two `supporting details` written for each concept. This keeps the play group from having to do too much planning up front and offers room to expand as the story goes. This can be pushed further to create interesting balances that fit the story the play group wants to tell.
+At the start of a campaign, the party should generally start with each **key concept** at -1, 0, or +1 with one or two **supporting details** written for each concept. This keeps the play group from having to do too much planning up front and offers room to expand as the story goes. This can be pushed further to create interesting balances that fit the story the play group wants to tell.
 
 ### More Examples
 
 #### 1. Assets
 
-This represents the available resources of the party, including money and any available equipment. A positive `key concept` might be something like “a well funded and equipped organization”, while a negative one might be something like “a ragtag group that’s always behind on their rent and looking for a big score”.
+This represents the available resources of the party, including money and any available equipment. A positive **key concept** might be something like “a well funded and equipped organization”, while a negative one might be something like “a ragtag group that’s always behind on their rent and looking for a big score”.
 
 **Positive (+) Supporting Details**
 
-Positive `supporting details` for assets might include a fancy ship with the latest equipment, access to large banking accounts, or a secret stash of gold doubloons.
+Positive **supporting details** for assets might include a fancy ship with the latest equipment, access to large banking accounts, or a secret stash of gold doubloons.
 
 **Neutral (0) Supporting Details**
 
-Neutral `supporting details` for assets might be equipment or assets that come with drawbacks - the party might have a ship that’s constantly in need of repair or have access to a loan that will definitely come with strings attached if the party tries to use it.
+Neutral **supporting details** for assets might be equipment or assets that come with drawbacks - the party might have a ship that’s constantly in need of repair or have access to a loan that will definitely come with strings attached if the party tries to use it.
 
 **Negative (-) Supporting Details**
 
-Negative `supporting details` for assets might be a big loan that the party can never quite pay off, or a broken down ship that will cost more than it’s worth to repair.
+Negative **supporting details** for assets might be a big loan that the party can never quite pay off, or a broken down ship that will cost more than it’s worth to repair.
 
 #### 2. Authority
 
-This represents how people in power feel about the party, or, depending on the game how much power the party has. A positive `key concept` might be something like “leaders of a thriving business empire”, while a negative one might be something like “considered enemies of the kingdom”.
+This represents how people in power feel about the party, or, depending on the game how much power the party has. A positive **key concept** might be something like “leaders of a thriving business empire”, while a negative one might be something like “considered enemies of the kingdom”.
 
 **Positive (+) Supporting Details**
 
-Positive `supporting details` for authority might include a group of freedom fighters ready to follow your lead or a being the king’s go-to problem solvers.
+Positive **supporting details** for authority might include a group of freedom fighters ready to follow your lead or a being the king’s go-to problem solvers.
 
 **Neutral (0) Supporting Details**
 
-Neutral `supporting details` for authority might be an easily bribed bureaucrat willing to look the other way for now, or a legal decree that could end up causing trouble for the party.
+Neutral **supporting details** for authority might be an easily bribed bureaucrat willing to look the other way for now, or a legal decree that could end up causing trouble for the party.
 
 **Negative (-) Supporting Details**
 
-Negative `supporting details` for authority might be the captain of the watch out to get you or a bounty on everyone’s heads for their latest crime.
+Negative **supporting details** for authority might be the captain of the watch out to get you or a bounty on everyone’s heads for their latest crime.
 
 #### 3. Allies
 
-This represents people that might be willing to help the party, or who have reason to be connected with the party in some way. While typically positive sounding, negative `dispositions` could be used to represent obligations or relationships turned sour. A positive `key concept` might be something like “lots of powerful allies”, while a negative one might be something like “everyone expects our help whether they deserve it or not”.
+This represents people that might be willing to help the party, or who have reason to be connected with the party in some way. While typically positive sounding, negative **dispositions** could be used to represent obligations or relationships turned sour. A positive **key concept** might be something like “lots of powerful allies”, while a negative one might be something like “everyone expects our help whether they deserve it or not”.
 
 **Positive (+) Supporting Details**
 
-Positive `supporting details` for allies could be people or groups that are both friendly to the party and have the means to be helpful.
+Positive **supporting details** for allies could be people or groups that are both friendly to the party and have the means to be helpful.
 
 **Neutral (0) Supporting Details**
 
-Neutral `supporting details` for allies could be people that are willing to help but don’t have the means or maybe a group that hasn’t decided for sure whether the party is worthy of being helped.
+Neutral **supporting details** for allies could be people that are willing to help but don’t have the means or maybe a group that hasn’t decided for sure whether the party is worthy of being helped.
 
 **Negative (-) Supporting Details**
 
-Negative `supporting details` for allies could be people that you’re connected to that cause more trouble for the party than they might be worth, or estranged relationships.
+Negative **supporting details** for allies could be people that you’re connected to that cause more trouble for the party than they might be worth, or estranged relationships.
 
 #### 4. Adversaries
 
-This represents people or groups that are against the party, or possibly even harsh conditions & impending doom. While typically negative sounding, positive leaning `dispositions` could represent friendly competition or forces of nature that can be treated as both friend and foe. A positive `key concept` might be something like “with friends like these, who needs enemies?”, while a negative one might be something like “hunted by nearly everyone”.
+This represents people or groups that are against the party, or possibly even harsh conditions & impending doom. While typically negative sounding, positive leaning **dispositions** could represent friendly competition or forces of nature that can be treated as both friend and foe. A positive **key concept** might be something like “with friends like these, who needs enemies?”, while a negative one might be something like “hunted by nearly everyone”.
 
 **Positive (+) Supporting Details**
 
-Positive `supporting details` for adversaries could be people or groups that might still help the party if they were in mortal danger, sworn enemies that are comically bad at their jobs, or maybe enemies that don’t yet realize the party exists.
+Positive **supporting details** for adversaries could be people or groups that might still help the party if they were in mortal danger, sworn enemies that are comically bad at their jobs, or maybe enemies that don’t yet realize the party exists.
 
 **Neutral (0) Supporting Details**
 
-Neutral `supporting details` for adversaries could be enemies that have bigger fish to fry and consider the party beneath them, or powerful desert sandstorms that can be used to the party’s advantage if they can survive.
+Neutral **supporting details** for adversaries could be enemies that have bigger fish to fry and consider the party beneath them, or powerful desert sandstorms that can be used to the party’s advantage if they can survive.
 
 **Negative (-) Supporting Details**
 
-Negative `supporting details` for adversaries might include powerful enemies sworn to destroy the party, or impending doom of an inbound asteroid.
+Negative **supporting details** for adversaries might include powerful enemies sworn to destroy the party, or impending doom of an inbound asteroid.
 
 ## Danger and Progress
 
 > #### Designer Notes
 >
-> The pace at which the `supporting details` of the party change can be a dial for changing the feel of the game, especially in games where additional mechanical benefits are offered for building up positive `supporting details`. By default, the intended pace is an average of no more than one detail changing per session.
+> The pace at which the **supporting details** of the party change can be a dial for changing the feel of the game, especially in games where additional mechanical benefits are offered for building up positive **supporting details**. By default, the intended pace is an average of no more than one detail changing per session.
 
-The `party sheet` holds two clocks which fight against each other, one dragging the party down, and the other pulling the party up. By default, both of these clocks have eight segments.
+The **party sheet** holds two clocks which fight against each other, one dragging the party down, and the other pulling the party up. By default, both of these clocks have eight segments.
 
 ### Ticking the Danger Clock
 
-As the PCs take risky or even desperate actions, there will be times when those actions will result in big consequences. When that happens, the party can evaluate if that consequence should be applied to the `danger clock` of the party sheet. As it has long-term implications, this option should not be taken lightly - no more than a couple of times per session is probably a good rule of thumb. Marking the `danger` clock as a consequence adds segments to the equal to the consequence rating.
+As the PCs take risky or even desperate actions, there will be times when those actions will result in big consequences. When that happens, the party can evaluate if that consequence should be applied to the **danger clock** of the party sheet. As it has long-term implications, this option should not be taken lightly - no more than a couple of times per session is probably a good rule of thumb. Marking the **danger** clock as a consequence adds segments to the equal to the consequence rating.
 
 > #### Example
 >
-> The party is in a spaceship being chased by multiple authorities (`supporting detail` “falsified spacecraft registration”). They need to make a quick, clean getaway to get medical equipment to a dying friend. They are in a desperate position - their pilot rolls a 5, indicating success with a consequence. The play group suggests they get away but they’ve pushed their ship to its limits (`supporting detail` “state-of-the-art spacecraft”). The GM agrees - they can take the consequence on their `party sheet` instead of risking the life of their friend.
+> The party is in a spaceship being chased by multiple authorities (**supporting detail** “falsified spacecraft registration”). They need to make a quick, clean getaway to get medical equipment to a dying friend. They are in a desperate position - their pilot rolls a 5, indicating success with a consequence. The play group suggests they get away but they’ve pushed their ship to its limits (**supporting detail** “state-of-the-art spacecraft”). The GM agrees - they can take the consequence on their **party sheet** instead of risking the life of their friend.
 
 ### Filling the Danger Clock
 
 When the danger clock fills up the players should decide, based on recent events, what makes the most sense in the storyline:
 
-- Add a new `supporting detail` - the `disposition` of this detail should generally start at `neutral`. Note `supporting details` should all be specific, unique details that tie back into the fiction that are expected to show up again.
-- Downgrade the `disposition` of an existing `supporting detail` (moving from `positive` to `neutral` to ` negative`).
-- Remove or replace an existing neutral `supporting detail`. If all the spaces that make sense are taken or negative, consider whether recent events might have completely supplanted an existing `supporting detail`. This could be a good fit for story elements that have served their purpose or didn't really get much play.
-- Create a new immediate threat - the GM exposes a danger and threatens the players with a negative `supporting detail` _unless_ they complete a mission to prevent it.
+- Add a new **supporting detail** - the **disposition** of this detail should generally start at **neutral**. Note **supporting details** should all be specific, unique details that tie back into the fiction that are expected to show up again.
+- Downgrade the **disposition** of an existing **supporting detail** (moving from **positive** to **neutral** to ** negative**).
+- Remove or replace an existing neutral **supporting detail**. If all the spaces that make sense are taken or negative, consider whether recent events might have completely supplanted an existing **supporting detail**. This could be a good fit for story elements that have served their purpose or didn't really get much play.
+- Create a new immediate threat - the GM exposes a danger and threatens the players with a negative **supporting detail** _unless_ they complete a mission to prevent it.
 
 > #### Example
 >
 > The danger clock fills from the strain placed on the starship engines racing to help a dying friend.
 >
-> The party decides it makes the most sense to downgrade the Assets `supporting detail` “state-of-the-art ship” (+) to “damaged ship” (0).
+> The party decides it makes the most sense to downgrade the Assets **supporting detail** “state-of-the-art ship” (+) to “damaged ship” (0).
 
 ### Ticking the Progress Clock
 
@@ -2476,7 +2477,7 @@ Generally players should be given a chance to advance the progress clock a coupl
 
 > #### Example
 >
-> Saving a person in need has completed a story arc for the players. The GM grants them a milestone and two progress on the `party sheet`. One player has a long term project to find allies and rolls successfully during downtime, adding two more.
+> Saving a person in need has completed a story arc for the players. The GM grants them a milestone and two progress on the **party sheet**. One player has a long term project to find allies and rolls successfully during downtime, adding two more.
 
 ### Burning Progress
 
@@ -2484,20 +2485,20 @@ The segments of the progress clock can be used as a shared pool of momentum. Pla
 
 > #### Example
 >
-> The party is running from an enemy in their spaceship. It’s not fully repaired yet (`supporting detail` “damaged ship” (0), but they have been working toward that goal. The pilot says they’re going to have to give it everything they’ve got - the mechanic curses under his breath and agrees - they erase one progress from the progress clock as momentum to allow the mechanic to assist and add an extra die to the pilot’s roll.
+> The party is running from an enemy in their spaceship. It’s not fully repaired yet (**supporting detail** “damaged ship” (0), but they have been working toward that goal. The pilot says they’re going to have to give it everything they’ve got - the mechanic curses under his breath and agrees - they erase one progress from the progress clock as momentum to allow the mechanic to assist and add an extra die to the pilot’s roll.
 
 ### Filling the Progress Clock
 
 When the progress clock fills up the players should decide, based on recent events, what makes the most sense in the storyline:
 
-- Add a new `supporting detail` - the `disposition` of this detail should generally start at `neutral`. Note `supporting details` should all be specific, unique details that tie back into the fiction, so this is a good chance to promote NPCs to recurring characters, or lean into interesting bits of the story.
-- Upgrade the `disposition` of an existing `supporting detail` (moving from `negative` to `neutral` to `positive`).
-- Remove or replace an existing neutral `supporting detail`. If all the spaces that make sense are taken or positive, consider whether recent events might have completely supplanted an existing `supporting detail`. This could be a good fit for story elements that have served their purpose or didn't really get much play.
-- Create a new immediate opportunity - the GM exposes an opportunity and offers the players with a positive `supporting detail` _if_ they complete a mission to obtain it.
+- Add a new **supporting detail** - the **disposition** of this detail should generally start at **neutral**. Note **supporting details** should all be specific, unique details that tie back into the fiction, so this is a good chance to promote NPCs to recurring characters, or lean into interesting bits of the story.
+- Upgrade the **disposition** of an existing **supporting detail** (moving from **negative** to **neutral** to **positive**).
+- Remove or replace an existing neutral **supporting detail**. If all the spaces that make sense are taken or positive, consider whether recent events might have completely supplanted an existing **supporting detail**. This could be a good fit for story elements that have served their purpose or didn't really get much play.
+- Create a new immediate opportunity - the GM exposes an opportunity and offers the players with a positive **supporting detail** _if_ they complete a mission to obtain it.
 
 > #### Example
 >
-> The party is back at spacedock and has gathered enough progress to fill the progress clock. They collectively decide they would like to get the target off their back. They choose to improve the authority `supporting detail` “falsified spacecraft registration” (-), and rewrite it as “overhauled ship hides stolen past” (0). They haven't completely gotten rid of the mysterious origin of the ship, but it won’t put them in such disadvantageous `positions` any more.
+> The party is back at spacedock and has gathered enough progress to fill the progress clock. They collectively decide they would like to get the target off their back. They choose to improve the authority **supporting detail** “falsified spacecraft registration” (-), and rewrite it as “overhauled ship hides stolen past” (0). They haven't completely gotten rid of the mysterious origin of the ship, but it won’t put them in such disadvantageous **positions** any more.
 
 ## Uses for Party Details
 
@@ -2507,15 +2508,15 @@ When the progress clock fills up the players should decide, based on recent even
 
 ### Details Affect Position
 
-When dealing with a situation that directly relates to a `supporting detail` or more broadly relates to a `key concept`, the `disposition` of the `detail` (positive or negative) may be impact the `position` of the roll. In cases where `supporting details` or `key concepts` have conflicting `dispositions` that might impact a roll, they cancel each other out.
+When dealing with a situation that directly relates to a **supporting detail** or more broadly relates to a **key concept**, the **disposition** of the **detail** (positive or negative) may be impact the **position** of the roll. In cases where **supporting details** or **key concepts** have conflicting **dispositions** that might impact a roll, they cancel each other out.
 
 ### Improved Effect
 
-When dealing with a situation for which a `supporting detail` or `key concept` could be a useful advantage, players may opt for +1 effect rather than an improved position. Which option is being used must be decided before the roll.
+When dealing with a situation for which a **supporting detail** or **key concept** could be a useful advantage, players may opt for +1 effect rather than an improved position. Which option is being used must be decided before the roll.
 
 ### Losing Progress via Add Tension
 
-Progress toward improving details can be burned as momentum. Taking this concept a step further - if it makes sense, the players might suggest downgrading the `disposition` of a supporting detail as a consequence to `add tension` if they don’t have progress to spare.
+Progress toward improving details can be burned as momentum. Taking this concept a step further - if it makes sense, the players might suggest downgrading the **disposition** of a supporting detail as a consequence to **add tension** if they don’t have progress to spare.
 
 ## Dials
 
@@ -2523,53 +2524,53 @@ These rules can be adapted in a few different ways. Below are some ways to tweak
 
 ### No Clocks
 
-Rather than track progress and danger on abstract clocks, the party might decide to update the `party sheet` whenever it makes sense narratively. Rather than keep track of additional clocks, the players can decide to update details
+Rather than track progress and danger on abstract clocks, the party might decide to update the **party sheet** whenever it makes sense narratively. Rather than keep track of additional clocks, the players can decide to update details
 
-This works best with the Attachment extra rules (for absorbing consequences) and Losing Progress via Add Tension (for offering benefits to rolls). The players can use long term projects to improve specific details on the `party sheet` directly.
+This works best with the Attachment extra rules (for absorbing consequences) and Losing Progress via Add Tension (for offering benefits to rolls). The players can use long term projects to improve specific details on the **party sheet** directly.
 
 ### More Clocks
 
-Progress and danger are kept as abstract clocks to prevent the bookkeeping load of tracking a variety of complications and projects on the `party sheet`. If the play group wants to have more direct narrative ties to improvements and complications, they can track them individually as clocks and follow the same rules for danger and progress - damaging `supporting details` with consequences and taking on projects to improve others.
+Progress and danger are kept as abstract clocks to prevent the bookkeeping load of tracking a variety of complications and projects on the **party sheet**. If the play group wants to have more direct narrative ties to improvements and complications, they can track them individually as clocks and follow the same rules for danger and progress - damaging **supporting details** with consequences and taking on projects to improve others.
 
 ### Detailed Disposition
 
-To avoid getting too complicated, `disposition` is either positive, negative or neutral. It'd be possible to allow a range of values for `disposition` (for example from -4 to +4) to allow more nuance on given `supporting details`. If using this approach, you'd probably want to allow players to gain progress and danger more quickly, and only treat >+2 / <-2 as “positive” / “negative” for purposes of changing effect or position on rolls.
+To avoid getting too complicated, **disposition** is either positive, negative or neutral. It'd be possible to allow a range of values for **disposition** (for example from -4 to +4) to allow more nuance on given **supporting details**. If using this approach, you'd probably want to allow players to gain progress and danger more quickly, and only treat >+2 / <-2 as “positive” / “negative” for purposes of changing effect or position on rolls.
 
 ### No Neutral Disposition
 
-Neutral `supporting details` are often a mix of positive and negative traits and have no direct impact on rolls. You could avoid using them completely by:
+Neutral **supporting details** are often a mix of positive and negative traits and have no direct impact on rolls. You could avoid using them completely by:
 
-1. Clearing negative `supporting details` rather than upgrading them to `neutral`.
-2. Clearing positive `supporting details` rather than downgrading them to `neutral`.
-3. Adding new details from `progress` and `danger` clocks directly as positive and negative, respectively, or by presenting opportunities and threats which will add `supporting details` based on how the party reacts.
+1. Clearing negative **supporting details** rather than upgrading them to **neutral**.
+2. Clearing positive **supporting details** rather than downgrading them to **neutral**.
+3. Adding new details from **progress** and **danger** clocks directly as positive and negative, respectively, or by presenting opportunities and threats which will add **supporting details** based on how the party reacts.
 
 ## Combining with other Rules
 
 ### Attachment Extra
 
-For some supporting details it may make sense to take damage directly to a supporting detail rather than mark a consequence on the party’s danger clock. In this case you might drop the danger clock completely and do damage directly to the details on the `party sheet`.
+For some supporting details it may make sense to take damage directly to a supporting detail rather than mark a consequence on the party’s danger clock. In this case you might drop the danger clock completely and do damage directly to the details on the **party sheet**.
 
 ### World Forces
 
-An straightforward way for Powered by Charge games to make the `party sheet` easier to fill out is to define some world forces and allow players to pick some as allies or adversaries.
+An straightforward way for Powered by Charge games to make the **party sheet** easier to fill out is to define some world forces and allow players to pick some as allies or adversaries.
 
 ### World Extra
 
-The World extra offers options to help the GM plan the next mission. One of the three cards drawn could refer to a specific `supporting detail` to tie the adventure into the existing fiction found in the `party sheet`.
+The World extra offers options to help the GM plan the next mission. One of the three cards drawn could refer to a specific **supporting detail** to tie the adventure into the existing fiction found in the **party sheet**.
 
-To help tie to a specific `key concept`, Hearts are Allies, Diamonds are Assets, Spades are Adversaries and Clubs are Authority.
+To help tie to a specific **key concept**, Hearts are Allies, Diamonds are Assets, Spades are Adversaries and Clubs are Authority.
 
 ### Goals Extra
 
-Granting progress on the `party sheet` could happen when milestones or long-term projects are completed. Goals are another way to offer progress to players - allowing them to focus on specific `supporting details` to upgrade. In this case, no more than a few goals should be available at once.
+Granting progress on the **party sheet** could happen when milestones or long-term projects are completed. Goals are another way to offer progress to players - allowing them to focus on specific **supporting details** to upgrade. In this case, no more than a few goals should be available at once.
 
 > ## Recap
 >
-> `Supporting details` are party level details that offer narrative liberties and altered position or effect (if they are `positive` or `negative`). They relate to specific people, groups, places or assets that hold narrative weight for the party.
+> **Supporting details** are party level details that offer narrative liberties and altered position or effect (if they are **positive** or **negative**). They relate to specific people, groups, places or assets that hold narrative weight for the party.
 >
-> `Key concepts` are 4 higher level details that `supporting details` are grouped into. Having three or more positive (or negative) `supporting details` makes the `key concept` positive (or negative), and can alter positions of all rolls related to that category.
+> **Key concepts** are 4 higher level details that **supporting details** are grouped into. Having three or more positive (or negative) **supporting details** makes the **key concept** positive (or negative), and can alter positions of all rolls related to that category.
 >
-> `Supporting details` can be upgraded or downgraded based on filling the `progress` and `danger` clocks, respectively. The `danger` clock might be filled as a consequence, while the `progress` clock is filled each milestone and as the result of `long-term projects`. Ticks on the `progress` clock can be burned as momentum on a one-for-one basis.
+> **Supporting details** can be upgraded or downgraded based on filling the **progress** and **danger** clocks, respectively. The **danger** clock might be filled as a consequence, while the **progress** clock is filled each milestone and as the result of **long-term projects**. Ticks on the **progress** clock can be burned as momentum on a one-for-one basis.
 
 # Threat Level Extra | Extras
 
@@ -2585,29 +2586,29 @@ Threat Level is an extra about how adversityit can affect the character's action
 
 ## What is a Threat Level?
 
-`Threat Level` is a way to represent a special type opposition, affecting the characters capacity while let it's position untouched. It can be seen as a passive way to alter character's chances of success.
+**Threat Level** is a way to represent a special type opposition, affecting the characters capacity while let it's position untouched. It can be seen as a passive way to alter character's chances of success.
 
 ## How to define a Threat Level?
 
 A Threat Level has two main components:
 
-- A defined source of the `Threat Level`
+- A defined source of the **Threat Level**
 - A rating associated with the source
 
-The source must be clearly identified so that there's no room for players' interpretation. Also, the source must define how it generates the `Threat Level`.
+The source must be clearly identified so that there's no room for players' interpretation. Also, the source must define how it generates the **Threat Level**.
 
 > #### Threat Level example: the mist
 >
-> The `mist` wraps the characters in its damp texture, overwhelming their every move, hindering their perception, and blunting their dexterity.
+> The **mist** wraps the characters in its damp texture, overwhelming their every move, hindering their perception, and blunting their dexterity.
 >
-> A heavy `mist` is a simple threat, with a rating of 1, just enough to slightly affect the characters.
-> A poisonous `mist` can be lethal, and more than just a hindrance. The protection needed to survive it is a reason in and of itself to raise the `Threat Level` to a 2.
+> A heavy **mist** is a simple threat, with a rating of 1, just enough to slightly affect the characters.
+> A poisonous **mist** can be lethal, and more than just a hindrance. The protection needed to survive it is a reason in and of itself to raise the **Threat Level** to a 2.
 
 > #### Threat Level example: the hexer
 >
-> More than a simple witcher, the `hexer` is a real issue for a group of intrepid adventurers, plaguing them with curses, slowing them.
+> More than a simple witcher, the **hexer** is a real issue for a group of intrepid adventurers, plaguing them with curses, slowing them.
 >
-> Spells made by `hexers` can be seen as a `Threat Level` applied to a single character or the entire group, depending on the `hexer`'s power.
+> Spells made by **hexers** can be seen as a **Threat Level** applied to a single character or the entire group, depending on the **hexer**'s power.
 
 ### Is there a limit to the Threat Level rating?
 
@@ -2615,11 +2616,11 @@ Depends on the group, but a good range would be between 1 and 3. Keep in mind th
 
 ## Rolling with the Threat Dice
 
-Now that the `Threat Level` is clearly defined, let's go over how it has an impact on the mechanics.
+Now that the **Threat Level** is clearly defined, let's go over how it has an impact on the mechanics.
 
-When a player makes a roll and the threat can be tied to a reason why that roll might be impacted (e.g. perception with the mist example), the player also rolls the number of dice equal to the `Threat Level` rating at the same time.
+When a player makes a roll and the threat can be tied to a reason why that roll might be impacted (e.g. perception with the mist example), the player also rolls the number of dice equal to the **Threat Level** rating at the same time.
 
-Let's call the character's dice pool the action pool, and the dice roll for the `Threat Level` the threat pool.
+Let's call the character's dice pool the action pool, and the dice roll for the **Threat Level** the threat pool.
 
 Once the two pools are rolled, each die from the threat pool cancels **a single die of the same value** in the action pool.
 
@@ -2627,7 +2628,7 @@ For example:
 
 > #### Example #1
 >
-> The action pool contains 2d6, and since the `Threat Level` has a rating of 3, the threat pool is made of 3d6 (let say a poisonous mist (2) with a little curse from the hexer (1)).
+> The action pool contains 2d6, and since the **Threat Level** has a rating of 3, the threat pool is made of 3d6 (let say a poisonous mist (2) with a little curse from the hexer (1)).
 >
 > Then, the player rolls the action pool and gets a 3 and a 5.
 > In the same time, they rolls threat dice and gets a 2, a 3 and a 6.
@@ -2650,7 +2651,7 @@ One way to customize this is to turn the extra so that it hits a bit harder. Thi
 
 > #### Example #3, with this dial
 >
-> The action pool contains 3d6, and since the `Threat Level` has a rating of 2, the threat pool is made of 2d6 (only the poisonous mist here).
+> The action pool contains 3d6, and since the **Threat Level** has a rating of 2, the threat pool is made of 2d6 (only the poisonous mist here).
 >
 > The player gets a 2, a 3 and a 5 on the action pool, and a 3 and a 6 on the threat pool.
 > The 3 from the threat pool cancels the 3 from the action pool, and the 6 from the threat pool cancels the 5 (the highest die of the character's dice pool).
@@ -2661,7 +2662,7 @@ Another way to change this mechanic could be that each die from the threat pool 
 
 > #### Example #3, harsher
 >
-> The action pool contains 3d6, and since the `Threat Level` has a rating of 2, the threat pool is made of 2d6.
+> The action pool contains 3d6, and since the **Threat Level** has a rating of 2, the threat pool is made of 2d6.
 >
 > The player gets a 2, a 3 and a 5 on the action pool, and a 4 and a 6 on the threat pool.
 > From the threat pool over the action pool, the 6 cancels the 5 and the 4 cancel the 3.
@@ -2674,7 +2675,7 @@ Instead of letting players rolling the threat pool, it can be the GM who roll it
 
 > ## Recap
 >
-> A `Threat Level` is a threat source with an associated rating. This rating turns into a dice pool. Each die of the threat pool cancels a die of the same value from the action pool.
+> A **Threat Level** is a threat source with an associated rating. This rating turns into a dice pool. Each die of the threat pool cancels a die of the same value from the action pool.
 
 ## Credits
 
@@ -2788,23 +2789,23 @@ A Charge RPG Extra to make the gear you have matter
 
 ---
 
-Narrative Gear is an extra that lets a character use their equipment to get a bonus die when making an `action roll`, or avoid the worst of a `consequence`.
+Narrative Gear is an extra that lets a character use their equipment to get a bonus die when making an **action roll**, or avoid the worst of a **consequence**.
 
 ## Gear Rule
 
 Gear is a mechanic that lets you bring a number of pieces of equipment into a scene to have a mechanical and narrative impact.
 
-When you leave your home base or equipment stash, you decide your `loadout` and have a number of significant items based on which you choose. If you want a `normal loadout`, you can declare up to 4 items; with a `heavy loadout`, you have up to 8, though characters with a heavy load are slower and stand out in a crowd.
+When you leave your home base or equipment stash, you decide your **loadout** and have a number of significant items based on which you choose. If you want a **normal loadout**, you can declare up to 4 items; with a **heavy loadout**, you have up to 8, though characters with a heavy load are slower and stand out in a crowd.
 
 Declaring Gear
 
-You don't decide what items are in your `loadout` before you leave. Instead, you `declare` you have an item on the fly as long as it makes narrative sense based on your `details`. When you do so, you may also spend 1 `momentum` and choose for that item to be `assisting gear` or `defensive gear` to gain the mechanical benefit listed below. Once declared, write down the gear on your character sheet. You still have the item, if it isn't lost or consumed, but it gives no more mechanical benefit.
+You don't decide what items are in your **loadout** before you leave. Instead, you **declare** you have an item on the fly as long as it makes narrative sense based on your **details**. When you do so, you may also spend 1 **momentum** and choose for that item to be **assisting gear** or **defensive gear** to gain the mechanical benefit listed below. Once declared, write down the gear on your character sheet. You still have the item, if it isn't lost or consumed, but it gives no more mechanical benefit.
 
-You may still push yourself or be assisted when you `declare` gear.
+You may still push yourself or be assisted when you **declare** gear.
 
-`Assisting gear` may include a particularly nasty knife, a local map, or anything else that might help in a specific situation. When you declare you have `assisting gear`, you either make an `action roll` with `+1d6`, or choose to increase your `effect rating`.
+**Assisting gear** may include a particularly nasty knife, a local map, or anything else that might help in a specific situation. When you declare you have **assisting gear**, you either make an **action roll** with **+1d6**, or choose to increase your **effect rating**.
 
-`Defensive gear` represents defensive preparation the character may have done, such as wearing reinforced armor or carrying a shield. When you declare you have `defensive gear` you reduce `stress` taken by the number of `loadout` “slots” you’re willing to use for this item. You may only get this benefit once if you have a `normal loadout`, or twice if you have a `heavy loadout`.
+**Defensive gear** represents defensive preparation the character may have done, such as wearing reinforced armor or carrying a shield. When you declare you have **defensive gear** you reduce **stress** taken by the number of **loadout** “slots” you’re willing to use for this item. You may only get this benefit once if you have a **normal loadout**, or twice if you have a **heavy loadout**.
 
 > #### Example
 >
@@ -2812,7 +2813,7 @@ You may still push yourself or be assisted when you `declare` gear.
 
 > ## GM Notes
 >
-> If your game has more of a focus on equipment, you may want to allow the mechanical benefit when you declare an item to be free, but keep in mind this will make characters a good deal more powerful. Alternatively, you can decrease the `loadout` to 3 and 6 respectively, giving the players a tough decision to make when they want their gear in the spotlight.
+> If your game has more of a focus on equipment, you may want to allow the mechanical benefit when you declare an item to be free, but keep in mind this will make characters a good deal more powerful. Alternatively, you can decrease the **loadout** to 3 and 6 respectively, giving the players a tough decision to make when they want their gear in the spotlight.
 >
 > As GM, don't forget you can always reflavor mechanics for your game. Maybe instead of gear, this represents remaining magic or battery power.
 
@@ -2822,10 +2823,10 @@ You may still push yourself or be assisted when you `declare` gear.
 
 > ## Recap
 >
-> - Pick a `normal loadout` (4 slots) or a `heavy loadout` (8 slots)
-> - `Declare` gear, and spend 1 `momentum` for `assisting gear` or `defensive gear`
-> - `Assisting gear` adds `+1d6` or improved `effect rating` on an `action roll`
-> - `Defensive gear` prevents `stress equal` to the slots of gear used. You can only do this once with a `normal loadout`, or twice with a `heavy loadout`
+> - Pick a **normal loadout** (4 slots) or a **heavy loadout** (8 slots)
+> - **Declare** gear, and spend 1 **momentum** for **assisting gear** or **defensive gear**
+> - **Assisting gear** adds **+1d6** or improved **effect rating** on an **action roll**
+> - **Defensive gear** prevents **stress equal** to the slots of gear used. You can only do this once with a **normal loadout**, or twice with a **heavy loadout**
 > - **Gear always provides narrative freedom**
 
 # Making a Compelling Campaign | Preparing the Game
@@ -2889,35 +2890,35 @@ It really depends on what type of game you want to play. Do you want everything 
 
 Your table, your call.
 
-So, to make the world feel real, we define 1-3 `World Forces`.
+So, to make the world feel real, we define 1-3 **World Forces**.
 
-> A `Force` is something or someone with goals looking to change the status quo in significant and narratively interesting ways.
+> A **Force** is something or someone with goals looking to change the status quo in significant and narratively interesting ways.
 
-We are using the term `Force` here instead of enemy, foe, or big bad, because a force isn't necessarily a person.
+We are using the term **Force** here instead of enemy, foe, or big bad, because a force isn't necessarily a person.
 
 That's why you shouldn't always think of a force as something that will go toe-to-toe against the PCs.
 
-It is entirely up to the PCs how they want to interact with the `World Forces`. The group could be opposed to some, allied with others, and neutral about the rest.
+It is entirely up to the PCs how they want to interact with the **World Forces**. The group could be opposed to some, allied with others, and neutral about the rest.
 
-> A `Force` could be a Person, but it could also be an Organization, a Country, a Planet, Mother Nature, or the Space-Time Continuum!
+> A **Force** could be a Person, but it could also be an Organization, a Country, a Planet, Mother Nature, or the Space-Time Continuum!
 
-Once you have found one or two interesting `World Forces`, you need to think about their `Goal`.
+Once you have found one or two interesting **World Forces**, you need to think about their **Goal**.
 
-Their goal defines the impact the force will have on the world. A `goal` isn't necessarily good or bad— it is merely what the force wants to accomplish. It can also be considered as "good" by the `Force` itself, but others might have different view on the subject.
+Their goal defines the impact the force will have on the world. A **goal** isn't necessarily good or bad— it is merely what the force wants to accomplish. It can also be considered as "good" by the **Force** itself, but others might have different view on the subject.
 
-> A `Goal` could be to take back the throne, protect the galaxy from thieves and thugs, or to open a portal that connects to another world.
+> A **Goal** could be to take back the throne, protect the galaxy from thieves and thugs, or to open a portal that connects to another world.
 
-Now that we have a `Force,` and that force has a `Goal`, let's find out how they interact with the world to achieve said goal. We do this by defining their `Methods`.
+Now that we have a **Force,** and that force has a **Goal**, let's find out how they interact with the world to achieve said goal. We do this by defining their **Methods**.
 
-A Force's Methods represents what they do to get closer to their goal. Each Force has around `2-3 Methods`.
+A Force's Methods represents what they do to get closer to their goal. Each Force has around **2-3 Methods**.
 
-> `Methods` could be things like trying to recruit people in an army, trying to corrupt government officials, or increasing the military surveillance over a certain artifact.
+> **Methods** could be things like trying to recruit people in an army, trying to corrupt government officials, or increasing the military surveillance over a certain artifact.
 
 You can repeat this exercise as many times as you want depending on how many starting forces you want to have in your world.
 
-Each `Force` will then live inside your world, and as the players interact with the world, the forces do too.
+Each **Force** will then live inside your world, and as the players interact with the world, the forces do too.
 
-As time advances, they will act with their `Methods`, which will get them closer or further away from their `Goals`.
+As time advances, they will act with their **Methods**, which will get them closer or further away from their **Goals**.
 
 > #### Force Example
 >
@@ -2931,13 +2932,13 @@ As time advances, they will act with their `Methods`, which will get them closer
 
 Now that we've added more life into our world, we can determine what the group is all about.
 
-Doing this is pretty straightforward. Simply do the exact same exercise we did above, but now the `Force` we are creating represents the group of player characters.
+Doing this is pretty straightforward. Simply do the exact same exercise we did above, but now the **Force** we are creating represents the group of player characters.
 
-To define the group as a `Force`, all the players need to align on what they are about. To do this, they should look back at the `World Forces` and decide how they feel about them. Are they aligned, neutral, or against the different Goals of those Forces?
+To define the group as a **Force**, all the players need to align on what they are about. To do this, they should look back at the **World Forces** and decide how they feel about them. Are they aligned, neutral, or against the different Goals of those Forces?
 
-That's why we defined the `World Forces` before the `Player Force`.
+That's why we defined the **World Forces** before the **Player Force**.
 
-Once the players have a general idea of what their group is about, write a `Force`, a `Goal`, and 2-3 `Methods` that represent them.
+Once the players have a general idea of what their group is about, write a **Force**, a **Goal**, and 2-3 **Methods** that represent them.
 
 # Before We Start | Preparing the Game
 
@@ -2973,21 +2974,21 @@ This chapter provides some guidelines about what is hackable by design. It also 
 
 The character's details section is possibly the easiest section to change since it doesn't impact the mechanic, or the balance of the game.
 
-By default, a character is defined by short descriptors called `details`.
+By default, a character is defined by short descriptors called **details**.
 
-They have a `concept` to explain who they are, an `appearance` to know what they look like, and `ties` to link them to the world.
+They have a **concept** to explain who they are, an **appearance** to know what they look like, and **ties** to link them to the world.
 
 ### Changing the Details
 
 To make your own details, think of what is important in your setting.
 
-If your setting heavily focuses on which god the PCs worship, than add a `God` detail. If characters have a specific role in the group, add a detail for this as well.
+If your setting heavily focuses on which god the PCs worship, than add a **God** detail. If characters have a specific role in the group, add a detail for this as well.
 
 While those descriptors aren't _really_ used by the game mechanics, they are still relevant in highlighting **what is important in your game**.
 
 ## Hacking the Actions
 
-Another great way of to adapting Charge is by changing the standard `12 actions`.
+Another great way of to adapting Charge is by changing the standard **12 actions**.
 
 ### Changing the Words
 
@@ -2997,7 +2998,7 @@ Charge comes with a default set of generic actions. Because they are generic, th
 
 If some of those words feel off, rename them.
 
-Replace `Tinker` by `Craft` or `Hack`. Or replace `Sway` by `Negotiate` or `Argue`.
+Replace **Tinker** by **Craft** or **Hack**. Or replace **Sway** by **Negotiate** or **Argue**.
 
 Even a small change in wording can affect the underlying tone of what the action does.
 
@@ -3013,13 +3014,13 @@ Also think about the **maximum action rating** (default is 4) and the **number o
 
 ## Hacking Momentum
 
-Momentum is pretty much hackable by default because of the existence of the `momentum dial`.
+Momentum is pretty much hackable by default because of the existence of the **momentum dial**.
 
-When you start a new campaign, check if the default `momentum dial` feels good for you and your group.
+When you start a new campaign, check if the default **momentum dial** feels good for you and your group.
 
 Do you have a feeling that PCs gain momentum too often ? Or do you think that when it is gained, the amount gained should be more generous ? There is no golden hammer here, every story is different.
 
-To make your own `momentum dial`, simply look at **when** momentum is generated. Then look at **how much** momentum is gained when it's generated.
+To make your own **momentum dial**, simply look at **when** momentum is generated. Then look at **how much** momentum is gained when it's generated.
 
 Tweak those two variables until things feel right.
 
@@ -3035,9 +3036,9 @@ You could change the content of that tree to make certain types of talent more c
 
 ### Changing When Talent Dots are Gained
 
-Talent dots are usually gained after narrative `milestones`. Depending on the genre, you could alter this and make talent dots gained in different scenarios.
+Talent dots are usually gained after narrative **milestones**. Depending on the genre, you could alter this and make talent dots gained in different scenarios.
 
-A player could gain a talent dot when they fail a `desperate` roll, or when they finish a `project` clock on their character sheet.
+A player could gain a talent dot when they fail a **desperate** roll, or when they finish a **project** clock on their character sheet.
 
 Talents are a great player incentive, so hacking this is an easy way to reinforce behaviors you want your players to do.
 
@@ -3047,9 +3048,9 @@ You can also change the cost of using a talent. By default, talents are free to 
 
 An easy cost to set for activating a talent would be using momentum.
 
-If you set a cost of `1 momentum`, talents could be seen as a way to get bonuses at a cheaper cost than `pushing oneself`.
+If you set a cost of **1 momentum**, talents could be seen as a way to get bonuses at a cheaper cost than **pushing oneself**.
 
-If you set a cost of `2 momentum` for a talent, then consider giving a bigger bonus than what a a usual `push` would give.
+If you set a cost of **2 momentum** for a talent, then consider giving a bigger bonus than what a a usual **push** would give.
 
 Just remember to keep things fair!
 
@@ -3117,9 +3118,9 @@ Here's a recipe on how to create a playbook for Charge using the default charact
 
 ### Details
 
-Find a name for your playbook. Once you have a good catchy name, write it down as the character's `concept`.
+Find a name for your playbook. Once you have a good catchy name, write it down as the character's **concept**.
 
-Leave the `appearance` box empty for the player to fill. Also write down a list of possible `ties` for the player to choose from when they make their character.
+Leave the **appearance** box empty for the player to fill. Also write down a list of possible **ties** for the player to choose from when they make their character.
 
 ### Actions
 
@@ -3131,7 +3132,7 @@ This leaves 4 action dots that they can assign wherever they want to make their 
 
 Each playbook should feel a bit different to play from one another.
 
-In the `talents` section, pre-fill the situational talents by things that make sense for that playbook.
+In the **talents** section, pre-fill the situational talents by things that make sense for that playbook.
 
 ### Rinse and Repeat
 
@@ -3178,17 +3179,17 @@ Thank you, and go power your storytelling!
 
 # Credits
 
-| Name                         | Role                             | Discord                    | Twitter                                    | Itch                                    |
-| ---------------------------- | -------------------------------- | -------------------------- | ------------------------------------------ | --------------------------------------- |
-| `René-Pier Deshaies-Gélinas` | original author, core maintainer | RPDeshaies#4116            | [Link](https://twitter.com/RPDeshaies)     | [Link](https://fari-rpgs.itch.io/)      |
-| `Alexandre L. Lescarbeau`    | sounding board                   |                            |                                            |                                         |
-| `Valdy`                      | extra contributor                | 5-142857#7577              |                                            |                                         |
-| `Nugat`                      | extra contributor                |                            |                                            |                                         |
-| `Keita Creations`            | extra contributor                |                            | [Link](https://twitter.com/KeitaCreates)   | [Link](https://keitacreates.itch.io/)   |
-| `Othelarian`                 | extra contributor                | othelarian#5063            |                                            | [Link](https://othelarian.itch.io/)     |
-| `Stx11`                      | contributor                      | Stx11#0278                 |                                            | [Link](https://stx11.itch.io/)          |
-| `Dylan Greene`               | contributor                      | American Space Prince#2381 | [Link](https://twitter.com/dgcloudrunner)  |                                         |
-| `David Haslem`               | contributor                      | therabidbanana#9231        | [Link](https://twitter.com/therabidbanana) | [Link](https://therabidbanana.itch.io/) |
+| Name                           | Role                             | Discord                    | Twitter                                    | Itch                                    |
+| ------------------------------ | -------------------------------- | -------------------------- | ------------------------------------------ | --------------------------------------- |
+| **René-Pier Deshaies-Gélinas** | original author, core maintainer | RPDeshaies#4116            | [Link](https://twitter.com/RPDeshaies)     | [Link](https://fari-rpgs.itch.io/)      |
+| **Alexandre L. Lescarbeau**    | sounding board                   |                            |                                            |                                         |
+| **Valdy**                      | extra contributor                | 5-142857#7577              |                                            |                                         |
+| **Nugat**                      | extra contributor                |                            |                                            |                                         |
+| **Keita Creations**            | extra contributor                |                            | [Link](https://twitter.com/KeitaCreates)   | [Link](https://keitacreates.itch.io/)   |
+| **Othelarian**                 | extra contributor                | othelarian#5063            |                                            | [Link](https://othelarian.itch.io/)     |
+| **Stx11**                      | contributor                      | Stx11#0278                 |                                            | [Link](https://stx11.itch.io/)          |
+| **Dylan Greene**               | contributor                      | American Space Prince#2381 | [Link](https://twitter.com/dgcloudrunner)  |                                         |
+| **David Haslem**               | contributor                      | therabidbanana#9231        | [Link](https://twitter.com/therabidbanana) | [Link](https://therabidbanana.itch.io/) |
 
 # Licencing
 
