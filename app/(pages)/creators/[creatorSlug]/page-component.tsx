@@ -84,7 +84,7 @@ export function Creator(props: {
       <Heading size="2xl" mt="8" mb="4">
         Projects
       </Heading>
-      <SimpleGrid columns={[1, 2, 3]} spacing="8">
+      <SimpleGrid columns={[1, 2, 2, 3]} spacing="8">
         {props.projects.map((project) => {
           return (
             <ProjectCard
