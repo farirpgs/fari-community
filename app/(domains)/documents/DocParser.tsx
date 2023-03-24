@@ -94,7 +94,8 @@ export class DocParser {
         };
       } else {
         if (currentPage) {
-          currentPage.content += line + "\n";
+          const lineToAdd = line.split("\\#").join("#");
+          currentPage.content += lineToAdd + "\n";
         }
       }
 

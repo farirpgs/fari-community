@@ -11,8 +11,8 @@ import {
   Button,
   Container,
   Divider,
+  Flex,
   Heading,
-  HStack,
   Stack,
   Text,
   VStack,
@@ -20,12 +20,45 @@ import {
 import { Prose } from "@nikolovlazar/chakra-ui-prose";
 import { IDoc } from "app/(domains)/documents/DocParser";
 import { ICreator, IProject } from "public/catalog/loader";
+import { useEffect } from "react";
 
 export function Project(props: {
   creator: ICreator;
   project: IProject;
   doc: IDoc;
 }) {
+  useEffect(() => {
+    const article = document.querySelector("article");
+    const headings = article?.querySelectorAll(
+      "h1,h2,h3,h4,h5,h6"
+    ) as unknown as Array<HTMLElement>;
+
+    headings?.forEach((heading) => {
+      heading.style.position = "relative";
+
+      const anchor = document.createElement("a");
+      anchor.setAttribute("href", `#${heading.id}`);
+      anchor.style.position = "absolute";
+      anchor.style.left = "-2rem";
+      anchor.style.opacity = "0";
+      anchor.style.transition = "opacity 0.1s ease-in-out";
+      anchor.innerHTML = "#";
+
+      const existingAnchor = heading.querySelector("a");
+      if (existingAnchor) {
+        existingAnchor.remove();
+      }
+      heading.addEventListener("mouseover", () => {
+        anchor.style.opacity = "1";
+      });
+      heading.addEventListener("mouseout", () => {
+        anchor.style.opacity = "0";
+      });
+
+      heading.appendChild(anchor);
+    });
+  }, []);
+
   return (
     <Container maxWidth="container.xl" pt="32" pb="32">
       <style
@@ -78,19 +111,18 @@ export function Project(props: {
       </Stack>
       <Divider mb="4" />
       <Box>
-        <Stack direction="row" spacing={0} justifyContent="" display="flex">
+        <Flex direction="row" width="100%" maxW="100%">
           <Box
             px={2}
             position="sticky"
             overscrollBehavior="contain"
             top="2rem"
-            width="280px"
+            width={`${(3 / 12) * 100}%`}
             height="calc(100vh - 2rem)"
             overflowY="auto"
             flexShrink={0}
             borderRight="1px solid"
             borderColor="gray.200"
-            paddingRight="2rem"
           >
             <Heading size="lg" noOfLines={1}>
               {props.project.data?.name}
@@ -104,42 +136,38 @@ export function Project(props: {
             {renderSidebar()}
           </Box>
 
-          <Box paddingLeft="8rem" pb="10rem">
-            <HStack spacing={2} align="flex-start">
-              <Box width="80%">
-                <Prose>
-                  <Box>
-                    <h1>
-                      {
-                        props.doc.pages.find(
-                          (p) => p.id === props.doc.currentPage.id
-                        )?.title
-                      }
-                    </h1>
-                    <div
-                      dangerouslySetInnerHTML={{
-                        __html: props.doc.html,
-                      }}
-                    />
-                  </Box>
-                </Prose>
+          <Box pb="10rem" width={`${(6 / 12) * 100}%`} px="2rem">
+            <Prose>
+              <Box>
+                <h1>
+                  {
+                    props.doc.pages.find(
+                      (p) => p.id === props.doc.currentPage.id
+                    )?.title
+                  }
+                </h1>
+                <div
+                  dangerouslySetInnerHTML={{
+                    __html: props.doc.html,
+                  }}
+                />
               </Box>
-              <Box
-                width="20%"
-                paddingLeft="1rem"
-                position="sticky"
-                overscrollBehavior="contain"
-                top="2rem"
-                bottom="0"
-                // height="calc(100vh - 20rem)"
-                overflowY="auto"
-                flexShrink={0}
-              >
-                {renderTableOfContents()}
-              </Box>
-            </HStack>
+            </Prose>
           </Box>
-        </Stack>
+          <Box
+            width={`${(3 / 12) * 100}%`}
+            position="sticky"
+            overscrollBehavior="contain"
+            top="2rem"
+            px={2}
+            height="calc(100vh - 2rem)"
+            overflowY="auto"
+            flexShrink={0}
+            borderColor="gray.200"
+          >
+            {renderTableOfContents()}
+          </Box>
+        </Flex>
       </Box>
     </Container>
   );
