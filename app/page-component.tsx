@@ -13,8 +13,8 @@ import {
 
 export function Home() {
   const textGradient = useColorModeValue(
-    "linear(to-l, brand.100,brand.800)",
-    "linear(to-l, brand.50,brand.10)"
+    "linear(to-l, brand.400,brand.600)",
+    "linear(to-l, brand.200,brand.300)"
   );
 
   return (

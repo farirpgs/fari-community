@@ -58,7 +58,7 @@ export function Project(props: {
         existingSpacer.remove();
       }
 
-      heading.style.display = "inline-block";
+      // heading.style.display = "inline-block";
       heading.addEventListener("mouseover", () => {
         anchor.style.opacity = ".5";
       });
