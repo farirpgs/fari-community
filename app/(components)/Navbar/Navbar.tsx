@@ -108,7 +108,10 @@ export function Navbar() {
                   Join our Discord
                 </Button>
               </Hide>
-              <Button onClick={colorModeManager.toggleColorMode}>
+              <Button
+                aria-label="Toggle Dark Mode"
+                onClick={colorModeManager.toggleColorMode}
+              >
                 {colorModeManager.colorMode === "light" ? (
                   <MoonIcon />
                 ) : (
