@@ -18,9 +18,11 @@ import {
   Stack,
   useColorMode,
 } from "@chakra-ui/react";
+import { usePathname } from "next/navigation";
 
 export function Navbar() {
   const colorModeManager = useColorMode();
+  const pathname = usePathname();
   return (
     <Box>
       <Container background="" height="4rem" maxWidth="container.xl">
@@ -28,6 +30,21 @@ export function Navbar() {
           <Stack direction="row" spacing={4}>
             <Box fontWeight="bold" mr="4">
               <Link href="/">Fari Community</Link>
+            </Box>
+            <Box>
+              <Button
+                isActive={pathname === "/browse"}
+                variant="link"
+                as={Link}
+                cursor="pointer"
+                minW={0}
+                href="/browse"
+                _hover={{
+                  textDecoration: "none",
+                }}
+              >
+                Browse
+              </Button>
             </Box>
             <Menu>
               <MenuButton

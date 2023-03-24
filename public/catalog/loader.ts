@@ -4,8 +4,10 @@ import path from "path";
 export const loader = {
   async getCreatorData(creatorSlug: string): Promise<ICreator> {
     const fs = await import("fs/promises");
-    const directory = path.join(process.cwd(), "public", "catalog", "creators");
-    const files = await fs.readdir(directory, { withFileTypes: true });
+    const files = await fs.readdir(
+      path.join(process.cwd(), "public", "catalog", "creators"),
+      { withFileTypes: true }
+    );
     const folders = files.filter((f) => f.isDirectory());
 
     const creatorFolder = folders.find((f) => f.name === creatorSlug);
@@ -18,10 +20,15 @@ export const loader = {
         `./creators/${creatorFolder.name}/index.ts`
       );
       data = creatorDataLoader?.default();
+      data.description =
+        data.description ||
+        `Find ton of free and open licensed content by ${data?.name} right here, on Fari Community`;
     } catch (error) {}
     const name: string = data?.name || startCase(creatorSlug);
+    const projects = await this.getCreatorProjects(creatorSlug);
     return {
       creatorSlug: creatorSlug,
+      projects: projects,
       data: {
         name: name,
         ...data,
@@ -30,8 +37,11 @@ export const loader = {
   },
   async getAllCreators() {
     const fs = await import("fs/promises");
-    const directory = path.join(process.cwd(), "public", "catalog", "creators");
-    const files = await fs.readdir(directory, { withFileTypes: true });
+
+    const files = await fs.readdir(
+      path.join(process.cwd(), "public", "catalog", "creators"),
+      { withFileTypes: true }
+    );
     const folders = files.filter((f) => f.isDirectory());
     const result = await Promise.all(
       folders.map(async (folder) => {
@@ -40,16 +50,13 @@ export const loader = {
     );
     return result;
   },
+
   async getCreatorProjects(creatorSlug: string): Promise<Array<IProject>> {
     const fs = await import("fs/promises");
-    const directory = path.join(
-      process.cwd(),
-      "public",
-      "catalog",
-      "creators",
-      creatorSlug
+    const files = await fs.readdir(
+      path.join(process.cwd(), "public", "catalog", "creators", creatorSlug),
+      { withFileTypes: true }
     );
-    const files = await fs.readdir(directory, { withFileTypes: true });
     const folders = files.filter((f) => f.isDirectory());
     const result = await Promise.all(
       folders.map(async (folder) => {
@@ -62,10 +69,10 @@ export const loader = {
     const [slug, language] = projectSlug.split(".");
     const fs = await import("fs/promises");
     // load image
-    let image: string | undefined = undefined;
-    try {
-      image = `/catalog/creators/${creatorSlug}/${slug}/image.png`;
-    } catch (error) {}
+    let image: string | undefined = await this.getProjectImage(
+      creatorSlug,
+      projectSlug
+    );
     // load project
     let data: IProjectData | undefined = undefined;
     try {
@@ -75,15 +82,17 @@ export const loader = {
       data = projectDataLoader?.default();
     } catch (error) {}
     // load other languages
-    const directory = path.join(
-      process.cwd(),
-      "public",
-      "catalog",
-      "creators",
-      creatorSlug,
-      slug
+    const files = await fs.readdir(
+      path.join(
+        process.cwd(),
+        "public",
+        "catalog",
+        "creators",
+        creatorSlug,
+        slug
+      ),
+      { withFileTypes: true }
     );
-    const files = await fs.readdir(directory, { withFileTypes: true });
     const otherLanguages = files
       .filter((f) => f.name.endsWith(".md") && f.name !== "index.md")
       .map((f) => f.name.replace(".md", ""));
@@ -99,6 +108,45 @@ export const loader = {
         ...data,
       },
     };
+  },
+  async getProjectImage(creatorSlug: string, projectSlug: string) {
+    const fs = await import("fs/promises");
+    const [slug, language] = projectSlug.split(".");
+    let image: string | undefined = undefined;
+    try {
+      const pngFile = await fs.readFile(
+        path.join(
+          process.cwd(),
+          "public",
+          "catalog",
+          "creators",
+          creatorSlug,
+          slug,
+          "image.png"
+        )
+      );
+      if (!!pngFile) {
+        image = `/catalog/creators/${creatorSlug}/${slug}/image.png`;
+      }
+    } catch (error) {}
+    try {
+      const jpgFile = await fs.readFile(
+        path.join(
+          process.cwd(),
+          "public",
+          "catalog",
+          "creators",
+          creatorSlug,
+          slug,
+          "image.jpg"
+        )
+      );
+      if (!!jpgFile) {
+        image = `/catalog/creators/${creatorSlug}/${slug}/image.jpg`;
+      }
+    } catch (error) {}
+
+    return image;
   },
   async getProjectMarkdown(creatorSlug: string, projectSlug: string) {
     const [slug, language] = projectSlug.split(".");
@@ -127,12 +175,14 @@ export type ICreatorData = {
 
 export type ICreator = {
   creatorSlug: string;
+  projects: Array<IProject>;
   data: ICreatorData | undefined;
 };
 
 export type IProjectData = {
   name: string;
   description?: string;
+  links?: Record<string, string>;
 };
 
 export type IProject = {
@@ -142,3 +192,9 @@ export type IProject = {
 };
 
 export type ILoaderFunction<T> = { default: () => T };
+
+export enum License {
+  Reserved = "All Rights Reserved",
+  CC_BY_3 = "CC BY 3.0",
+  CC_BY_4 = "CC BY 4.0",
+}

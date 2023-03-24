@@ -21,13 +21,6 @@
       }
     ]
   },
-  "include": [
-    "next-env.d.ts",
-    "**/*.ts",
-    "**/*.tsx",
-    ".next/types/**/*.ts",
-    "app/(resources)/creators/[creatorSlug]/[productSlug]/page.bak",
-    "app/(resources)/creators/[creatorSlug]/[productSlug]/[chapterSlug]/page.bak"
-  ],
-  "exclude": ["node_modules"]
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "exclude": ["node_modules", "out"]
 }

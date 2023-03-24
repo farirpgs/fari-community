@@ -1,6 +1,5 @@
-"use client";
+"use client"; // Error components must be Client components
 
-import { useRouter } from "next/navigation";
 import { useEffect } from "react";
 
 export default function Error({
@@ -10,8 +9,6 @@ export default function Error({
   error: Error;
   reset: () => void;
 }) {
-  const router = useRouter();
-
   useEffect(() => {
     // Log the error to an error reporting service
     console.error(error);
@@ -19,33 +16,15 @@ export default function Error({
 
   return (
     <div>
-      <p>Something went wrong!</p>
+      <h2>Something went wrong!</h2>
       <button
-        onClick={() => {
-          reset();
-          router.refresh();
-        }}
+        onClick={
+          // Attempt to recover by trying to re-render the segment
+          () => reset()
+        }
       >
-        Reload
+        Try again
       </button>
     </div>
   );
-}
-
-{
-  /* <Page
-          title="Something went wrong"
-          description="An error has occurred. Please try again later."
-          container={{
-            maxWidth: "md",
-          }}
-          box={{ mt: "2rem" }}
-        >
-          <Typography variant="h2" gutterBottom>
-            Something went wrong.
-          </Typography>
-          <Typography variant="body1">
-            An error has occurred. Please try again later.
-          </Typography>
-        </Page> */
 }

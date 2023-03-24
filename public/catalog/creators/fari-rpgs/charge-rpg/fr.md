@@ -6,9 +6,9 @@ highlightFont: Oswald
 ---
 
 <style>
-	ul.people li { display: inline; white-space: pre; }
-	ul.people li:after { content:  " •"; }
-	ul.people li:last-child:after { content: ""; }
+	article ul.people li { display: inline; white-space: pre; }
+	article ul.people li:after { content:  " •"; }
+	article ul.people li:last-child:after { content: ""; }
 </style>
 
 # Introductions | Power Your Storytelling
