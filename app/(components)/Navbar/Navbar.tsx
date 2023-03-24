@@ -64,24 +64,24 @@ export function Navbar() {
                   {/* <MenuDivider /> */}
                   <MenuItem
                     as={Link}
-                    href="/creators/fari-rpgs/projects/charge-rpg"
+                    href="/creators/fari-rpgs/projects/charge"
                   >
-                    Charge RPG
+                    Charge
                   </MenuItem>
                   <MenuItem
                     as={Link}
                     href="/creators/fari-rpgs/projects/breathless"
                   >
-                    Breathless SRD
+                    Breathless
                   </MenuItem>
                   {/* <MenuItem as={Link} href="/creators/fari-rpgs/projects/firelights">
                   Firelights
                 </MenuItem> */}
                   <MenuItem
                     as={Link}
-                    href="/creators/fari-rpgs/projects/hopes-and-dreams-srd"
+                    href="/creators/fari-rpgs/projects/hopes-and-dreams"
                   >
-                    Hopes & Dreams SRD
+                    Hopes & Dreams
                   </MenuItem>
                 </MenuList>
               </Menu>
@@ -94,7 +94,7 @@ export function Navbar() {
                 <Button
                   leftIcon={<AddIcon />}
                   as={Link}
-                  href="/creators/fari-rpgs/projects/fari-community/fari-community"
+                  href="/creators/fari-rpgs/projects/fari-community"
                 >
                   Add Your Own Content
                 </Button>

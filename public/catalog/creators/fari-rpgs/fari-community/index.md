@@ -1,12 +1,14 @@
-# Fari Community | Getting Started
+# Introduction | Getting Started
 
 Welcome to Fari Community, a place where you can find tons of free and open licensed resources for tabletop role-playing games.
 
 Every single page on this site is publically available on GitHub and can be edited by anyone.
 
+If you are looking to **add your own content** to the site, just read the instructions laid out in this document and if you need anyhelp, feel free to **reach out to us on [Discord](https://farirpgs.com/discord)**.
+
 # Structure | Getting Started
 
-The Fari Community's site is all based on the file structure of the `public/catalog` folder.
+The Fari Community's site is all based on the file structure of the [`public/catalog`](https://github.com/fariapp/fari-community/tree/main/public/catalog) folder.
 
 The folder names and files found within this folder are used to generate the site's navigation.
 
@@ -22,9 +24,20 @@ public/catalog
 
 ```
 
-## Fari Community Markdown Parser
+Or, in a more visual way using an example
 
-The Fari Community's site uses a custom Markdown parser that adds some extra features to the standard Markdown syntax.
+- Creator space: [link](/creators/fari-rpgs)
+- Project space: [link](/creators/fari-rpgs/projects/breathless)
+
+````sh
+public/catalog
+├── creators
+│   ├── fari-rpgs
+│   │   ├── index.ts
+│   │   ├── breathless
+│   │   │   ├── index.md
+│   │   │   ├── index.ts
+│   │   │   ├── image.png
 
 # Creators | Site Management
 
@@ -32,14 +45,14 @@ This section goes over how to add or update a creator to the site.
 
 ## Creating the Creator's Space
 
-To add a new creator, you need to create a new folder in the `public/catalog/creators` folder.
+To add a new creator, you need to create a new folder in the [`public/catalog/creators`](https://github.com/fariapp/fari-community/tree/main/public/catalog/creators) folder.
 
 The folder name should be the creator's identifier. This identifier is used to generate the URL of the creator's page, and should be written in `kebab-case` (lowercase with hyphens).
 
 ```sh
 public/catalog/creators
 ├── {creator-identifier}
-```
+````
 
 ## Creator Config (Optional)
 
@@ -77,7 +90,7 @@ This section goes over how to add or update a project to the site.
 
 ## Creating the Project's Space
 
-To add a new project, you need to create a new folder in the `public/catalog/creators/{creator-identifier}` folder.
+To add a new project, you need to create a new folder in the [`public/catalog/creators/{creator-identifier}`](https://github.com/fariapp/fari-community/tree/main/public/catalog/creators) folder.
 
 The folder name should be the project's identifier. This identifier is used to generate the URL of the project's page, and should be written in `kebab-case` (lowercase with hyphens).
 

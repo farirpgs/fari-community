@@ -1,3 +1,22 @@
+# What is the Breathless RPG | Breathless
+
+> The city has been walled up from the outside. You are stuck with breathless Crawlers roaming as far as the eye can see. You are surrounded by strangers, and the only thing left to do is survive. You can’t give up now.
+
+**Breathless** is a survival horror role-playing game where you play as Survivors trying to stay alive in a walled city full of Crawlers (zombies). The entire game fits on two sides of a letter-sized sheet of paper, making it the perfect game to print at home and enjoy for a nice and cozy zombie killing one shot.
+The game is inspired by things like: Shaun of the Dead, Left 4 Dead, The Last of Us, and other great zombie related media. Basically, if you want to kill some breathless living dead, this is the game you are looking for.
+
+You will find all Breathless related resources like the game's official SRD which contains all the rules and design guidelines for you to make your own Breathless game, extra rules, and more.
+
+<iframe frameborder="0" src="https://itch.io/embed/1372598" width="552" height="167"><a href="https://fari-rpgs.itch.io/breathless">Breathless - Shoot, Loot, Survive by Fari RPGs (René-Pier Deshaies)</a></iframe>
+
+<iframe frameborder="0" src="https://itch.io/embed/1395991" width="552" height="167"><a href="https://fari-rpgs.itch.io/breathless-srd">Breathless - System Reference Document by Fari RPGs (René-Pier Deshaies)</a></iframe>
+
+# Breathless Games Collection | Breathless
+
+If you are looking for a pretty substantial list of **_Breathless Games_**, you will find them on the following itch collection. If you think I'm missing any, please [reach out](https://farirpgs.com#contact).
+
+- [**Breathless Games Collections**](https://breathless.farirpgs.com/games)
+
 # Introduction | Breathless SRD
 
 ![Breathless SRD](https://gyazo.com/0f40d43a7d0f357b04833aa520703564.png)
@@ -146,9 +165,7 @@ That being said, each Gasp includes a small license blurb that designers are **_
 
 ## Releasing a Gasp
 
-Want to release your own Gasp to the community?
-
-Here's the format you need to use, then just send me the markdown text at https://farirpgs.com/#contact
+Want to release your own Gasp to the community? Here's the format you need to use, then simply [contact us](https://farirpgs.com/contact) to submit your Gasp, and we'll add it to the list!
 
 ```md
 \# {Title}

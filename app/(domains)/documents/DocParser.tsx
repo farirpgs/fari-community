@@ -25,8 +25,7 @@ export class DocParser {
     this.#frontMatter = this.extractFrontmatter();
     this.#style = this.#extractStyle();
 
-    const { pages, toc, sidebar, searchIndexes } =
-      this.#extractPagesTocAndSearchIndexes();
+    const { pages, toc, sidebar, searchIndexes } = this.#extractPages();
     this.#pages = pages;
     this.#toc = toc;
     this.#sidebar = sidebar;
@@ -70,7 +69,7 @@ export class DocParser {
     };
   }
 
-  #extractPagesTocAndSearchIndexes() {
+  #extractPages() {
     const pages: Array<IPageElement> = [];
     const toc: Array<ITocElement> = [];
     const sidebar: ISidebar = {
@@ -80,16 +79,46 @@ export class DocParser {
     const markdownWithoutFrontMatter = this.#getMarkdownWithoutFrontmatter();
     const lines = markdownWithoutFrontMatter.split("\n");
     let currentPage: IPageElement | null = null;
-
+    const idsRecordCounter: Record<string, number> = {};
     for (const line of lines) {
       // handle page
       if (line.startsWith("# ")) {
         if (currentPage) {
           pages.push(currentPage);
         }
+
+        // handle id generation
+        const newIdPrefix = DocParser.makeSectionId(line);
+        const pageIdCount = idsRecordCounter[newIdPrefix] ?? 0;
+        idsRecordCounter[newIdPrefix] = pageIdCount + 1;
+        const currentPageId =
+          pageIdCount === 0 ? newIdPrefix : `${newIdPrefix}-${pageIdCount}`;
+
+        // trim title and category
+        const [title, category] = line.split("|");
+        const trimmedTitle = title.split("#")[1]?.trim();
+        const trimmedCategory = category?.trim();
+
+        // handle sidebar
+        if (!trimmedCategory) {
+          sidebar.root.push({
+            id: currentPageId,
+            title: trimmedTitle,
+          });
+        } else {
+          const prev = sidebar.categories[trimmedCategory] ?? [];
+          sidebar.categories[trimmedCategory] = [
+            ...prev,
+            {
+              id: currentPageId,
+              title: trimmedTitle,
+            },
+          ];
+        }
+
         currentPage = {
-          id: DocParser.makeSectionId(line),
-          title: line.split("|")[0]?.trim().split("#")[1]?.trim(),
+          id: currentPageId,
+          title: title.trim().split("#")[1]?.trim(),
           content: "",
           toc: [],
         };
@@ -109,28 +138,6 @@ export class DocParser {
           title,
           level,
         });
-      }
-
-      // handle sidebar
-      if (line.startsWith("# ")) {
-        const pageTitle = line.split("|")[0]?.trim();
-        const pageCategory = line.split("|")[1]?.trim();
-        if (!pageCategory) {
-          sidebar.root.push({
-            id: DocParser.makeSectionId(line),
-            title: pageTitle,
-          });
-        } else {
-          const prev = sidebar.categories[pageCategory] ?? [];
-
-          sidebar.categories[pageCategory] = [
-            ...prev,
-            {
-              id: DocParser.makeSectionId(line),
-              title: pageTitle,
-            },
-          ];
-        }
       }
     }
     if (currentPage) {

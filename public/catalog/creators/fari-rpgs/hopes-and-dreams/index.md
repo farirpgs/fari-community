@@ -1,4 +1,20 @@
-# Hopes & Dreams SRD
+# Introduction | Hopes & Dreams
+
+Hopes & Dreams is a rules-lite tabletop role-playing game where you play as young adults who want to make a difference in a world that won’t let them. Government officials are corrupted, your leaders are broken, and the future looks bleak. Play in this original grunge industrial fantasy setting where you and your friends haven’t abandoned hope yet. You still have dreams of what life could be, and are willing to fight for it.
+
+You will find all Hopes & Dreams related resources like the game's official SRD which contains all the rules and design guidelines for you to make your own game _Ignited by Hopes & Dreams_, extra rules, and more.
+
+<iframe frameborder="0" src="https://itch.io/embed/1321086" width="552" height="167"><a href="https://fari-rpgs.itch.io/hopes-and-dreams">Hopes &amp; Dreams by Fari RPGs (René-Pier Deshaies)</a></iframe>
+
+<iframe frameborder="0" src="https://itch.io/embed/1324990" width="552" height="167"><a href="https://fari-rpgs.itch.io/hopes-and-dreams-srd">Hopes &amp; Dreams SRD by Fari RPGs (René-Pier Deshaies)</a></iframe>
+
+# Hopes & Dreams Games Collection | Hopes & Dreams
+
+If you are looking for a pretty substantial list of games **_Ignited by Hopes & Dreams_**, you will find them on the following itch collection. If you think I'm missing any, please [reach out](https://farirpgs.com#contact).
+
+- [**Hopes & Dreams Games Collections**](https://hopesanddreams.farirpgs.com/games)
+
+# SRD | Hopes & Dreams SRD
 
 ![](https://gyazo.com/c2c009c2ccdbb0d853275d573ec41ce6.png)
 
@@ -17,7 +33,7 @@ This system has:
 - **Plot Tracks**: A way to track things at the character, group, or story level which changes the world in a cinematic way.
 - and more...
 
-# Before We Start
+# Before We Start | Hopes & Dreams SRD
 
 ## Safety
 
@@ -51,7 +67,7 @@ One person plays as the game moderator (GM), the rest as players.
 - Fill the world with your ideas, and make the story your own.
 - Focus on your dream, and don’t fear your nightmare.
 
-# Mechanics
+# Mechanics| Hopes & Dreams SRD
 
 ## Checks
 
@@ -133,7 +149,7 @@ When you want answer to a question, and don’t want to decide for yourself, ask
 - **On a 8-10**: Yes
 - **On a 11-12**: Yes, and…
 
-# Designer Notes
+# Designer Notes| Hopes & Dreams SRD
 
 This next section goes over how to customize and adapt the mechanics found in this document to help you design your own game Ignited by Hopes & Dreams.
 
@@ -225,7 +241,7 @@ This SRD is written very briefly to give you a lot of design room. Rephrase or e
 
 Hopes & Dreams comes with a set of mechanics that handles numerous aspects of gameplay. Don’t hesitate to get rid of the stuff that doesn’t apply to your game, then add mechanics that you think will reinforce your world. Add only what is necessary, and try to tie it with the core dice mechanic to keep things homogeneous.
 
-# License & Logos
+# License & Logos| Hopes & Dreams SRD
 
 ## Attribution Text
 
