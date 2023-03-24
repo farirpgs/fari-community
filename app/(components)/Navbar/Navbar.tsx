@@ -10,6 +10,7 @@ import {
   Container,
   Divider,
   Flex,
+  Hide,
   Icon,
   Menu,
   MenuButton,
@@ -46,63 +47,67 @@ export function Navbar() {
                 Browse
               </Button>
             </Box>
-            <Menu>
-              <MenuButton
-                variant="link"
-                cursor="pointer"
-                minW={0}
-                as={Button}
-                _hover={{
-                  textDecoration: "none",
-                }}
-              >
-                Fari Projects
-              </MenuButton>
-              <MenuList alignItems="center">
-                {/* <MenuDivider /> */}
-                <MenuItem
-                  as={Link}
-                  href="/creators/fari-rpgs/projects/charge-rpg"
+            <Hide below="md">
+              <Menu>
+                <MenuButton
+                  variant="link"
+                  cursor="pointer"
+                  minW={0}
+                  as={Button}
+                  _hover={{
+                    textDecoration: "none",
+                  }}
                 >
-                  Charge RPG
-                </MenuItem>
-                <MenuItem
-                  as={Link}
-                  href="/creators/fari-rpgs/projects/breathless"
-                >
-                  Breathless SRD
-                </MenuItem>
-                {/* <MenuItem as={Link} href="/creators/fari-rpgs/projects/firelights">
+                  Fari Projects
+                </MenuButton>
+                <MenuList alignItems="center">
+                  {/* <MenuDivider /> */}
+                  <MenuItem
+                    as={Link}
+                    href="/creators/fari-rpgs/projects/charge-rpg"
+                  >
+                    Charge RPG
+                  </MenuItem>
+                  <MenuItem
+                    as={Link}
+                    href="/creators/fari-rpgs/projects/breathless"
+                  >
+                    Breathless SRD
+                  </MenuItem>
+                  {/* <MenuItem as={Link} href="/creators/fari-rpgs/projects/firelights">
                   Firelights
                 </MenuItem> */}
-                <MenuItem
-                  as={Link}
-                  href="/creators/fari-rpgs/projects/hopes-and-dreams-srd"
-                >
-                  Hopes & Dreams SRD
-                </MenuItem>
-              </MenuList>
-            </Menu>
+                  <MenuItem
+                    as={Link}
+                    href="/creators/fari-rpgs/projects/hopes-and-dreams-srd"
+                  >
+                    Hopes & Dreams SRD
+                  </MenuItem>
+                </MenuList>
+              </Menu>
+            </Hide>
           </Stack>
 
           <Flex alignItems="center">
             <Stack direction="row" spacing={4}>
-              <Button
-                leftIcon={<AddIcon />}
-                as={Link}
-                href="/creators/fari-rpgs/projects/fari-community/fari-community"
-              >
-                Add Your Own Content
-              </Button>
-              <Button
-                as={Link}
-                href="https://farirpgs.com/discord"
-                target="_blank"
-                rel="noopener noreferrer"
-                leftIcon={<Icon as={BsDiscord} />}
-              >
-                Join our Discord
-              </Button>
+              <Hide below="md">
+                <Button
+                  leftIcon={<AddIcon />}
+                  as={Link}
+                  href="/creators/fari-rpgs/projects/fari-community/fari-community"
+                >
+                  Add Your Own Content
+                </Button>
+                <Button
+                  as={Link}
+                  href="https://farirpgs.com/discord"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  leftIcon={<Icon as={BsDiscord} />}
+                >
+                  Join our Discord
+                </Button>
+              </Hide>
               <Button onClick={colorModeManager.toggleColorMode}>
                 {colorModeManager.colorMode === "light" ? (
                   <MoonIcon />

@@ -1,6 +1,6 @@
 "use client";
 
-import { EditIcon } from "@chakra-ui/icons";
+import { ArrowBackIcon, ArrowForwardIcon, EditIcon } from "@chakra-ui/icons";
 import { Link } from "@chakra-ui/next-js";
 
 import {
@@ -21,6 +21,10 @@ import { Prose } from "@nikolovlazar/chakra-ui-prose";
 import { IDoc } from "app/(domains)/documents/DocParser";
 import { ICreator, IProject } from "public/catalog/loader";
 import { useEffect } from "react";
+
+function per(value: number) {
+  return `${(value / 12) * 100}%`;
+}
 
 export function Project(props: {
   creator: ICreator;
@@ -60,7 +64,7 @@ export function Project(props: {
   }, []);
 
   return (
-    <Container maxWidth="container.xl" pt="32" pb="32">
+    <Container maxWidth="container.xl" pt="32">
       <style
         dangerouslySetInnerHTML={{
           __html: props.doc.style,
@@ -117,7 +121,8 @@ export function Project(props: {
             position="sticky"
             overscrollBehavior="contain"
             top="2rem"
-            width={`${(3 / 12) * 100}%`}
+            display={["none", "none", "block", "block"]}
+            width={[per(0), per(0), per(3), per(3)]}
             height="calc(100vh - 2rem)"
             overflowY="auto"
             flexShrink={0}
@@ -136,26 +141,72 @@ export function Project(props: {
             {renderSidebar()}
           </Box>
 
-          <Box pb="10rem" width={`${(6 / 12) * 100}%`} px="2rem">
-            <Prose>
-              <Box>
-                <h1>
-                  {
-                    props.doc.pages.find(
-                      (p) => p.id === props.doc.currentPage.id
-                    )?.title
-                  }
-                </h1>
-                <div
-                  dangerouslySetInnerHTML={{
-                    __html: props.doc.html,
-                  }}
-                />
-              </Box>
-            </Prose>
+          <Box
+            pb="32"
+            width={[per(12), per(12), per(9), per(7)]}
+            px={[0, 0, "1rem", "2rem"]}
+          >
+            <Stack spacing={4}>
+              <Prose>
+                <Box>
+                  <h1>
+                    {
+                      props.doc.pages.find(
+                        (p) => p.id === props.doc.currentPage.id
+                      )?.title
+                    }
+                  </h1>
+                  <div
+                    dangerouslySetInnerHTML={{
+                      __html: props.doc.html,
+                    }}
+                  />
+                </Box>
+              </Prose>
+
+              {/* next and previous buttons */}
+              <Stack
+                direction="row"
+                justifyContent={
+                  props.doc.previousPage && props.doc.nextPage
+                    ? "space-between"
+                    : props.doc.previousPage
+                    ? "flex-start"
+                    : "flex-end"
+                }
+              >
+                {props.doc.previousPage && (
+                  <Link
+                    href={`/creators/${props.creator.creatorSlug}/projects/${props.project.projectSlug}/${props.doc.previousPage.id}`}
+                  >
+                    <Button
+                      variant="outline"
+                      leftIcon={<ArrowBackIcon />}
+                      size="md"
+                    >
+                      {props.doc.previousPage.title}
+                    </Button>
+                  </Link>
+                )}
+                {props.doc.nextPage && (
+                  <Link
+                    href={`/creators/${props.creator.creatorSlug}/projects/${props.project.projectSlug}/${props.doc.nextPage.id}`}
+                  >
+                    <Button
+                      variant="outline"
+                      rightIcon={<ArrowForwardIcon />}
+                      size="md"
+                    >
+                      {props.doc.nextPage.title}
+                    </Button>
+                  </Link>
+                )}
+              </Stack>
+            </Stack>
           </Box>
           <Box
-            width={`${(3 / 12) * 100}%`}
+            display={["none", "none", "none", "block"]}
+            width={[per(0), per(0), per(0), per(2)]}
             position="sticky"
             overscrollBehavior="contain"
             top="2rem"
@@ -176,7 +227,7 @@ export function Project(props: {
     const hasCategories = Object.keys(props.doc.sidebar.categories).length > 0;
     const hasRootPages = props.doc.sidebar.root.length > 0;
     return (
-      <Stack spacing="1rem">
+      <Stack spacing="1rem" pb="32">
         {Object.entries(props.doc.sidebar.categories).map(
           ([id, categories]) => {
             const isCurrentCategory = categories.find(

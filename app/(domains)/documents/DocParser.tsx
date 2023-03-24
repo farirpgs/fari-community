@@ -63,7 +63,8 @@ export class DocParser {
       sidebar: this.#sidebar,
       numberOfChapters: this.#pages.length,
       numberOfWordsInPage: this.#content.split(" ").length,
-
+      previousPage: this.#previousPage,
+      nextPage: this.#nextPage,
       currentPage: this.#currentPage,
       searchIndexes: this.#searchIndexes,
     };
