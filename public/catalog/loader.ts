@@ -183,7 +183,7 @@ export type ICreator = {
 };
 
 export type IProjectData = {
-  name?: string;
+  name: string;
   description?: string;
   links?: Record<string, string>;
   fonts?: Array<string>;
