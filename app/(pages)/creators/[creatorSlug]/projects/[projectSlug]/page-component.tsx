@@ -13,6 +13,7 @@ import {
   Divider,
   Flex,
   Heading,
+  Hide,
   Stack,
   Text,
   VStack,
@@ -73,31 +74,38 @@ export function Project(props: {
       <Stack
         mb="4"
         direction="row"
-        spacing={4}
-        justifyContent="space-between"
+        spacing={0}
         alignItems="center"
+        justifyContent={[
+          "flex-start",
+          "flex-start",
+          "space-between",
+          "space-between",
+        ]}
       >
         <Box>
-          <Breadcrumb mb="4">
-            <BreadcrumbItem>
-              <BreadcrumbLink as="span">
-                <Link href={`/creators/${props.creator.creatorSlug}`}>
-                  {props.creator.data?.name}
-                </Link>
-              </BreadcrumbLink>
-            </BreadcrumbItem>
+          <Hide below="md">
+            <Breadcrumb mb="4">
+              <BreadcrumbItem>
+                <BreadcrumbLink as="span">
+                  <Link href={`/creators/${props.creator.creatorSlug}`}>
+                    {props.creator.data?.name}
+                  </Link>
+                </BreadcrumbLink>
+              </BreadcrumbItem>
 
-            <BreadcrumbItem isCurrentPage>
-              <BreadcrumbLink
-                _hover={{
-                  textDecoration: "none",
-                  cursor: "default",
-                }}
-              >
-                {props.project.data?.name}
-              </BreadcrumbLink>
-            </BreadcrumbItem>
-          </Breadcrumb>
+              <BreadcrumbItem isCurrentPage>
+                <BreadcrumbLink
+                  _hover={{
+                    textDecoration: "none",
+                    cursor: "default",
+                  }}
+                >
+                  {props.project.data?.name}
+                </BreadcrumbLink>
+              </BreadcrumbItem>
+            </Breadcrumb>
+          </Hide>
         </Box>
         <Box>
           <Button
@@ -105,7 +113,7 @@ export function Project(props: {
             leftIcon={<EditIcon />}
             size="md"
             as="a"
-            href={`https://github.com/fariapp/fari-community/tree/main/public/catalog/creators/${props.creator.creatorSlug}/${props.project.projectSlug}/index.md#:~:text=${props.doc.currentPage.title}`}
+            href={`https://github.com/fariapp/fari-community/edit/main/public/catalog/creators/${props.creator.creatorSlug}/${props.project.projectSlug}/index.md#:~:text=${props.doc.currentPage.title}`}
             target="_blank"
             rel="noopener noreferrer"
           >
