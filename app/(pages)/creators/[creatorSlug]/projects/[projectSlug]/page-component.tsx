@@ -73,7 +73,7 @@ export function Project(props: {
   }, []);
 
   return (
-    <Container maxWidth="container.xl" pt="32">
+    <Container maxWidth="container.xl" pt={["4", "4", "32"]}>
       <style
         className="fari-doc-style"
         dangerouslySetInnerHTML={{

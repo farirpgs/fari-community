@@ -10,18 +10,19 @@ It is free, and maintained by the [Fari Community](https://farirpgs.com/discord)
 
 It is also open licensed. Which means you can use it for free. You can also make (and sell) your own games using Charge as the base framework.
 
-<iframe frameborder="0" src="https://itch.io/embed/1196268" width="552" height="167"><a href="https://fari-rpgs.itch.io/charge-rpg">Charge RPG by Fari RPGs (René-Pier Deshaies)</a></iframe>
+<iframe frameborder="0" src="https://itch.io/embed/1196268" width="100%" max-width="552" height="167"><a href="https://fari-rpgs.itch.io/charge-rpg">Charge RPG by Fari RPGs (René-Pier Deshaies)</a></iframe>
+
 ## Dash
 
 To get started as quickly as possible with Charge, checkout it's condensed version: **Dash**, available for free on [itch.io](https://fari-rpgs.itch.io/dash) and on [Fari Games](/en/srds/fari-games/dash).
 
-<iframe frameborder="0" src="https://itch.io/embed/1444306" width="552" height="167"><a href="https://fari-rpgs.itch.io/dash">Dash - A Charge Condensed Game by Fari RPGs (René-Pier Deshaies)</a></iframe>
+<iframe frameborder="0" src="https://itch.io/embed/1444306" width="100%" max-width="552" height="167"><a href="https://fari-rpgs.itch.io/dash">Dash - A Charge Condensed Game by Fari RPGs (René-Pier Deshaies)</a></iframe>
 
 ## Charge SRD
 
 For more details on how to design games using Charge, checkout the Charge SRD also available on [itch.io](https://fari-rpgs.itch.io/charge-srd), and on [Fari Games](/en/srds/fari-rpgs/charge-srd).
 
-<iframe frameborder="0" src="https://itch.io/embed/1243992" width="552" height="167"><a href="https://fari-rpgs.itch.io/charge-srd">Charge SRD by Fari RPGs (René-Pier Deshaies)</a></iframe>
+<iframe frameborder="0" src="https://itch.io/embed/1243992" width="100%" max-width="552" height="167"><a href="https://fari-rpgs.itch.io/charge-srd">Charge SRD by Fari RPGs (René-Pier Deshaies)</a></iframe>
 
 ## Credits
 
