@@ -390,20 +390,12 @@ export function Project(props: {
           }
         }}
       >
-        <option
-          key=""
-          value=""
-          selected={"language" === props.project.language}
-        >
+        <option key="" value="">
           Original
         </option>
         {props.project.languages.map((language) => {
           return (
-            <option
-              key={language}
-              value={language}
-              selected={language === props.project.language}
-            >
+            <option key={language} value={language}>
               {languagesIsoToName[language]}
             </option>
           );

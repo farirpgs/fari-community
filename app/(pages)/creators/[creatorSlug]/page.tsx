@@ -4,9 +4,16 @@ import { Creator } from "./page-component";
 export async function generateMetadata(props: Parameters<typeof Page>[0]) {
   const creator = await loader.getCreatorData(props.params.creatorSlug);
 
+  const title = `${creator.data?.name} - Fari Community`;
   return {
-    title: `${creator.data?.name} - Fari Community`,
+    title: title,
     description: creator.data?.description,
+    openGraph: {
+      title: title,
+      description: creator.data?.description,
+      locale: "en-US",
+      type: "website",
+    },
   };
 }
 

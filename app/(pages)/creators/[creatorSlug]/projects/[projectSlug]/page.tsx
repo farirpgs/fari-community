@@ -19,9 +19,19 @@ export async function generateMetadata(props: Parameters<typeof Page>[0]) {
     markdown: fileContents,
   }).getDoc();
 
+  const title = `${doc.currentPage.title} - ${project.data.name} - ${creator.data?.name} - Fari Community`;
   return {
-    title: `${doc.currentPage.title} - ${project.data.name} - ${creator.data?.name} - Fari Community`,
+    title: title,
     description: project.data.description,
+    openGraph: {
+      title: title,
+      description: project.data.description,
+      images: [
+        {
+          url: project.image ?? "",
+        },
+      ],
+    },
   };
 }
 

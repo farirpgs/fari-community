@@ -14,6 +14,7 @@ export async function generateMetadata(
 ) {
   return {
     title: `Fari Community - Free TTRPG Resources`,
+    description: `Fari Community is a free TTRPG resources website.`,
     icons: {
       icon: [
         {
@@ -25,6 +26,21 @@ export async function generateMetadata(
           media: "(prefers-color-scheme: dark)",
         },
       ],
+    },
+    openGraph: {
+      title: "Fari Community",
+      description: `Fari Community is a free TTRPG resources website.`,
+      url: "https://fari.community",
+      siteName: "Fari Community",
+      images: [
+        {
+          url: "/images/og.png",
+          width: 800,
+          height: 600,
+        },
+      ],
+      locale: "en-US",
+      type: "website",
     },
   };
 }
