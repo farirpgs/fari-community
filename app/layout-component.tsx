@@ -44,6 +44,10 @@ const theme = extendTheme(
         marginTop: "1rem !important",
         marginBottom: "1rem !important",
       },
+      "ul li": {
+        marginTop: "0",
+        marginBottom: "0",
+      },
     },
   })
 );
