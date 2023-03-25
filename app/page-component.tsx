@@ -18,7 +18,7 @@ export function Home() {
   );
 
   return (
-    <Container maxWidth="container.xl" pt="8rem">
+    <Container maxWidth="container.xl" py="32">
       <Flex justifyContent="center" textAlign="center" mb="3rem">
         <Heading size="4xl" maxW="2xl" margin="0 auto">
           Free TTRPG Resources on{" "}

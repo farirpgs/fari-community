@@ -10,12 +10,12 @@ import {
   Container,
   Divider,
   Flex,
-  Hide,
   Icon,
   Menu,
   MenuButton,
   MenuItem,
   MenuList,
+  Show,
   Stack,
   useColorMode,
 } from "@chakra-ui/react";
@@ -47,7 +47,7 @@ export function Navbar() {
                 Browse
               </Button>
             </Box>
-            <Hide below="md">
+            <Show above="md">
               <Menu>
                 <MenuButton
                   variant="link"
@@ -85,12 +85,12 @@ export function Navbar() {
                   </MenuItem>
                 </MenuList>
               </Menu>
-            </Hide>
+            </Show>
           </Stack>
 
           <Flex alignItems="center">
             <Stack direction="row" spacing={4}>
-              <Hide below="md">
+              <Show above="md">
                 <Button
                   leftIcon={<AddIcon />}
                   as={Link}
@@ -107,7 +107,7 @@ export function Navbar() {
                 >
                   Join our Discord
                 </Button>
-              </Hide>
+              </Show>
               <Button
                 aria-label="Toggle Dark Mode"
                 onClick={colorModeManager.toggleColorMode}
