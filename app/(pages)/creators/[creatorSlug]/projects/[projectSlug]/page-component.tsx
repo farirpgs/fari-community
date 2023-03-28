@@ -1,6 +1,11 @@
 "use client";
 
-import { ArrowBackIcon, ArrowForwardIcon, EditIcon } from "@chakra-ui/icons";
+import {
+  ArrowBackIcon,
+  ArrowForwardIcon,
+  EditIcon,
+  SearchIcon,
+} from "@chakra-ui/icons";
 import { Link } from "@chakra-ui/next-js";
 
 import {
@@ -14,27 +19,52 @@ import {
   Flex,
   Heading,
   Hide,
+  Icon,
+  Input,
+  InputGroup,
+  InputLeftElement,
+  Modal,
+  ModalBody,
+  ModalContent,
+  ModalOverlay,
   Select,
   Stack,
   Text,
+  useColorModeValue,
   VStack,
   Wrap,
   WrapItem,
 } from "@chakra-ui/react";
 import { Prose } from "@nikolovlazar/chakra-ui-prose";
 import { IDoc } from "app/(domains)/documents/DocParser";
+import { useSearchParams } from "next/navigation";
 import { ICreator, IProject } from "public/catalog/loader";
-import { useEffect } from "react";
-
-function per(value: number) {
-  return `${(value / 12) * 100}%`;
-}
+import { useEffect, useState } from "react";
+import { FaHashtag } from "react-icons/fa";
+import { IoMdDocument } from "react-icons/io";
+import { per } from "../../../../../(domains)/style/per";
 
 export function Project(props: {
   creator: ICreator;
   project: IProject;
   doc: IDoc;
 }) {
+  const searchParams = useSearchParams();
+
+  const [searchOpen, setSearchOpen] = useState(false);
+  const [search, setSearch] = useState("");
+  const scrollTo = searchParams.get("scrollTo");
+  const cardBackground = useColorModeValue("gray.50", "gray.600");
+
+  useEffect(() => {
+    if (scrollTo) {
+      const element = document.getElementById(scrollTo);
+      if (element) {
+        element.scrollIntoView();
+      }
+    }
+  }, [scrollTo]);
+
   useEffect(() => {
     const article = document.querySelector("article");
     const headings = article?.querySelectorAll(
@@ -215,7 +245,8 @@ export function Project(props: {
             flexShrink={0}
             borderColor="gray.200"
           >
-            <Stack spacing={2} divider={<Divider />}>
+            <Stack spacing={4}>
+              {renderSearch()}
               {renderTableOfContents()}
               {renderProjectLinks()}
             </Stack>
@@ -319,7 +350,7 @@ export function Project(props: {
                           color={isCurrentPage ? "brand.500" : "inherit"}
                           href={`/creators/${props.creator.creatorSlug}/projects/${props.project.projectSlug}/${item.id}`}
                         >
-                          {item.title.split("#").join("")}
+                          {item.title}
                         </Box>
                       );
                     })}
@@ -353,7 +384,7 @@ export function Project(props: {
                   color={isCurrentPage ? "brand.400" : "inherit"}
                   href={`/creators/${props.creator.creatorSlug}/projects/${props.project.projectSlug}/${item.id}`}
                 >
-                  {item.title.split("#").join("")}
+                  {item.title}
                 </Box>
               );
             })}
@@ -362,6 +393,125 @@ export function Project(props: {
       </Stack>
     );
   }
+
+  function renderSearch() {
+    const seachResult = props.doc.indexes.filter((index) => {
+      if (!search) {
+        return false;
+      }
+      // check title and section title
+      return (
+        index.pageTitle.toLowerCase().includes(search.toLowerCase()) ||
+        index.sectionTitle?.toLowerCase().includes(search.toLowerCase())
+      );
+    });
+    return (
+      <Box>
+        <InputGroup>
+          <InputLeftElement pointerEvents="none">
+            <SearchIcon color="gray.300" />
+          </InputLeftElement>
+          <Input
+            placeholder="Search"
+            onClick={() => {
+              setSearchOpen(true);
+            }}
+          />
+        </InputGroup>
+        <Modal
+          size="xl"
+          isOpen={searchOpen}
+          scrollBehavior="inside"
+          onClose={() => {
+            setSearchOpen(false);
+            setSearch("");
+          }}
+        >
+          <ModalOverlay />
+          <ModalContent>
+            <ModalBody py="4" px="4">
+              <Box>
+                <Stack spacing={4}>
+                  <InputGroup>
+                    <InputLeftElement pointerEvents="none">
+                      <SearchIcon color="gray.300" />
+                    </InputLeftElement>
+                    <Input
+                      focusBorderColor="transparent"
+                      variant="filled"
+                      value={search}
+                      placeholder="Search the docs"
+                      onChange={(e) => {
+                        setSearch(e.target.value);
+                      }}
+                    />
+                  </InputGroup>
+                  {seachResult.length > 0 && (
+                    <Stack justify="center" display="flex">
+                      {seachResult.map((item) => {
+                        const isDocument = !item.sectionHash;
+                        const link = isDocument
+                          ? `/creators/${props.creator.creatorSlug}/projects/${props.project.projectSlug}/${item.pageId}`
+                          : `/creators/${props.creator.creatorSlug}/projects/${props.project.projectSlug}/${item.pageId}?scrollTo=${item.sectionHash}`;
+                        return (
+                          <Flex
+                            align="center"
+                            key={item.pageId + item.sectionHash}
+                            as={Link}
+                            background={cardBackground}
+                            borderRadius="md"
+                            padding="4"
+                            href={link}
+                            minHeight="4rem"
+                            _hover={{
+                              background: "brand.500",
+                              color: "white",
+                            }}
+                            onClick={() => {
+                              setSearchOpen(false);
+                            }}
+                          >
+                            <Stack
+                              direction="row"
+                              align="center"
+                              spacing={4}
+                              height="100%"
+                            >
+                              <Icon
+                                as={isDocument ? IoMdDocument : FaHashtag}
+                                color="gray.400"
+                              />
+                              <Stack spacing={0}>
+                                {isDocument ? (
+                                  <>
+                                    <Text fontWeight="bold">
+                                      {item.pageTitle}
+                                    </Text>
+                                  </>
+                                ) : (
+                                  <>
+                                    <Text fontSize="xs">{item.pageTitle}</Text>
+                                    <Text fontWeight="bold">
+                                      {item.sectionTitle}
+                                    </Text>
+                                  </>
+                                )}
+                              </Stack>
+                            </Stack>
+                          </Flex>
+                        );
+                      })}
+                    </Stack>
+                  )}
+                </Stack>
+              </Box>
+            </ModalBody>
+          </ModalContent>
+        </Modal>
+      </Box>
+    );
+  }
+
   function renderTableOfContents() {
     if (props.doc.currentPage.toc.length === 0) {
       return null;
@@ -382,11 +532,10 @@ export function Project(props: {
                 cursor="pointer"
                 paddingLeft={(item.level - 2) * 8 + "px"}
                 noOfLines={1}
-                onClick={() => {
-                  location.hash = item.id;
-                }}
+                as={Link}
+                href={`/creators/${props.creator.creatorSlug}/projects/${props.project.projectSlug}/${props.doc.currentPage.id}?scrollTo=${item.id}`}
               >
-                {item.title.split("#").join("")}
+                {item.title}
               </Box>
             );
           })}

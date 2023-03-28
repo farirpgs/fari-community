@@ -7,6 +7,7 @@ export class DocParser {
   #html: string;
   #content: string;
   #pages: Array<IPageElement>;
+  #indexes: Array<ISearchIndex>;
   #currentPage: IPageElement;
   #nextPage: IPageElement | undefined;
   #previousPage: IPageElement | undefined;
@@ -19,8 +20,9 @@ export class DocParser {
       markdown: string;
     }
   ) {
-    const { pages, toc, sidebar } = this.#extractPages();
+    const { pages, toc, sidebar, indexes } = this.#extractPages();
     this.#pages = pages;
+    this.#indexes = indexes;
     this.#toc = toc;
     this.#sidebar = sidebar;
     const currentPageId = this.options.currentChapterId ?? this.#pages[0].id;
@@ -48,6 +50,7 @@ export class DocParser {
     return {
       html: this.#html,
       pages: this.#pages,
+      indexes: this.#indexes,
       toc: this.#toc,
       sidebar: this.#sidebar,
       numberOfChapters: this.#pages.length,
@@ -68,6 +71,7 @@ export class DocParser {
     const lines = this.options.markdown.split("\n");
     let currentPage: IPageElement | null = null;
     const idsRecordCounter: Record<string, number> = {};
+
     for (const line of lines) {
       // handle page
       if (line.startsWith("# ")) {
@@ -84,7 +88,7 @@ export class DocParser {
 
         // trim title and category
         const [title, category] = line.split("|");
-        const trimmedTitle = title.split("#")[1]?.trim();
+        const trimmedTitle = title.split("#").join("").trim();
         const trimmedCategory = category?.trim();
 
         // handle sidebar
@@ -106,9 +110,10 @@ export class DocParser {
 
         currentPage = {
           id: currentPageId,
-          title: title.trim().split("#")[1]?.trim(),
+          title: trimmedTitle,
           content: "",
           toc: [],
+          indexes: [],
         };
       } else {
         if (currentPage) {
@@ -120,21 +125,46 @@ export class DocParser {
       // handle toc
       if (line.startsWith("## ") || line.startsWith("### ")) {
         const level = line.startsWith("## ") ? 2 : 3;
-        const title = line.replace("## ", "").replace("### ", "");
+        const title = line.split("#").join("").trim();
         currentPage?.toc.push({
           id: DocParser.makeSectionId(line),
-          title,
-          level,
+          title: title,
+          level: level,
         });
       }
     }
+    // adds last page
     if (currentPage) {
       pages.push(currentPage);
     }
     if (currentPage && currentPage.id === this.options.currentChapterId) {
       this.#currentPage = currentPage;
     }
-    return { pages, toc, sidebar, currentPage };
+
+    // add indexes to all pages
+    for (const page of pages) {
+      const pageMarkdownPreviewWithoutAnyMarkdown = page.content
+        .split("\n")
+        .map((line) => line.split("#").join("").trim());
+      page.indexes.push({
+        pageId: page.id,
+        pageTitle: page.title,
+        sectionHash: undefined,
+        sectionTitle: undefined,
+      });
+      for (const tocElement of page.toc) {
+        page.indexes.push({
+          pageId: page.id,
+          pageTitle: page.title,
+          sectionHash: tocElement.id,
+          sectionTitle: tocElement.title,
+        });
+      }
+    }
+
+    const indexes = pages.flatMap((page) => page.indexes);
+
+    return { pages, toc, sidebar, currentPage, indexes };
   }
 
   private static makeSectionId(line: string): string {
@@ -153,11 +183,19 @@ export type ISidebar = {
   >;
 };
 
+type ISearchIndex = {
+  pageId: string;
+  pageTitle: string;
+  sectionHash: string | undefined;
+  sectionTitle: string | undefined;
+};
+
 export type IPageElement = {
   id: string;
   title: string;
   content: string;
   toc: Array<ITocElement>;
+  indexes: Array<ISearchIndex>;
 };
 export type ITocElement = {
   id: string;
