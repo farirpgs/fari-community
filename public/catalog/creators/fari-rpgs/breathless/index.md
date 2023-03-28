@@ -1,4 +1,4 @@
-# What is the Breathless RPG | Breathless
+# What is Breathless | Breathless
 
 > The city has been walled up from the outside. You are stuck with breathless Crawlers roaming as far as the eye can see. You are surrounded by strangers, and the only thing left to do is survive. You can’t give up now.
 

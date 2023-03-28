@@ -19,7 +19,7 @@ export async function generateMetadata(props: Parameters<typeof Page>[0]) {
     markdown: fileContents,
   }).getDoc();
 
-  const title = `${doc.currentPage.title} - ${project.data.name} - ${creator.data?.name} - Fari Community`;
+  const title = `${project.data.name} - ${creator.data?.name} - Fari Community`;
   return {
     title: title,
     description: project.data.description,

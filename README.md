@@ -1,13 +1,19 @@
-# Fari Games
+# Fari Community
 
-Home of the https://fari.games website
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b106e8c1-1ca6-4da3-84d7-d06d7fe1ec68/deploy-status)](https://app.netlify.com/sites/fari-community/deploys)
+
+This is the repository for the Fari Community website which can be found at [https://fari.community](https://fari.community).
 
 # Getting Started
 
-Install Node `^16.2.0` (to match engine property in `package.json`)
+Install Node `^18` (to match engine property in `package.json`)
 
 1. Then `npm install`
-2. and run `npm start` to start the site
+2. and run `npm run dev` to start the site
+
+## Contributing
+
+If you want to contribute to the content of the Fari Community website, you can read the proper documentation [here](https://fari.community/creators/fari-rpgs/projects/fari-community).
 
 ## Special Thanks
 
@@ -15,4 +21,4 @@ Install Node `^16.2.0` (to match engine property in `package.json`)
   <img width="100px" src="https://www.netlify.com/img/global/badges/netlify-color-accent.svg" alt="Deploys by Netlify" />
 </a>
 
-- [Netlify](https://netlify.com/) for hosting Fari Games.
+- [Netlify](https://netlify.com/) for hosting Fari Community.

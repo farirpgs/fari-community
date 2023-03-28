@@ -18,6 +18,8 @@ import {
   Stack,
   Text,
   VStack,
+  Wrap,
+  WrapItem,
 } from "@chakra-ui/react";
 import { Prose } from "@nikolovlazar/chakra-ui-prose";
 import { IDoc } from "app/(domains)/documents/DocParser";
@@ -85,7 +87,7 @@ export function Project(props: {
         mb="4"
         direction="row"
         spacing={2}
-        alignItems="center"
+        align="center"
         justifyContent={[
           "flex-start",
           "flex-start",
@@ -94,7 +96,7 @@ export function Project(props: {
         ]}
       >
         <Hide below="md">
-          <Breadcrumb mb="4">
+          <Breadcrumb>
             <BreadcrumbItem>
               <BreadcrumbLink as="span">
                 <Link href={`/creators/${props.creator.creatorSlug}`}>
@@ -119,7 +121,7 @@ export function Project(props: {
           <Button
             colorScheme="brand"
             leftIcon={<EditIcon />}
-            size="md"
+            size="sm"
             as="a"
             href={`https://github.com/fariapp/fari-community/edit/main/public/catalog/creators/${props.creator.creatorSlug}/${props.project.projectSlug}/index.md#:~:text=${props.doc.currentPage.title}`}
             target="_blank"
@@ -128,7 +130,7 @@ export function Project(props: {
             Edit this page
           </Button>
         </Box>
-        <Box>{renderLanguageSelector()}</Box>
+        {renderLanguageSelector()}
       </Stack>
       <Divider mb="4" />
       <Box>
@@ -198,44 +200,7 @@ export function Project(props: {
                 </Box>
               </Prose>
 
-              {/* next and previous buttons */}
-              <Stack
-                direction="row"
-                justifyContent={
-                  props.doc.previousPage && props.doc.nextPage
-                    ? "space-between"
-                    : props.doc.previousPage
-                    ? "flex-start"
-                    : "flex-end"
-                }
-              >
-                {props.doc.previousPage && (
-                  <Link
-                    href={`/creators/${props.creator.creatorSlug}/projects/${props.project.projectSlug}/${props.doc.previousPage.id}`}
-                  >
-                    <Button
-                      variant="outline"
-                      leftIcon={<ArrowBackIcon />}
-                      size="md"
-                    >
-                      {props.doc.previousPage.title}
-                    </Button>
-                  </Link>
-                )}
-                {props.doc.nextPage && (
-                  <Link
-                    href={`/creators/${props.creator.creatorSlug}/projects/${props.project.projectSlug}/${props.doc.nextPage.id}`}
-                  >
-                    <Button
-                      variant="outline"
-                      rightIcon={<ArrowForwardIcon />}
-                      size="md"
-                    >
-                      {props.doc.nextPage.title}
-                    </Button>
-                  </Link>
-                )}
-              </Stack>
+              {renderBottomNavigation()}
             </Stack>
           </Box>
           <Box
@@ -250,12 +215,78 @@ export function Project(props: {
             flexShrink={0}
             borderColor="gray.200"
           >
-            {renderTableOfContents()}
+            <Stack spacing={2} divider={<Divider />}>
+              {renderTableOfContents()}
+              {renderProjectLinks()}
+            </Stack>
           </Box>
         </Flex>
       </Box>
     </Container>
   );
+
+  function renderBottomNavigation() {
+    const hasPreviousPage = props.doc.previousPage !== null;
+    const hasNextPage = props.doc.nextPage !== null;
+
+    if (!hasPreviousPage && !hasNextPage) {
+      return null;
+    }
+
+    return (
+      <Box>
+        <Divider mt="16" mb="8" />
+        <Wrap
+          direction="row"
+          width="100%"
+          justify={
+            props.doc.previousPage && props.doc.nextPage
+              ? "space-between"
+              : props.doc.previousPage
+              ? "flex-start"
+              : "flex-end"
+          }
+        >
+          {props.doc.previousPage && (
+            <WrapItem width={["100%", "100%", "auto"]}>
+              <Link
+                width={["100%", "100%", "auto"]}
+                href={`/creators/${props.creator.creatorSlug}/projects/${props.project.projectSlug}/${props.doc.previousPage.id}`}
+              >
+                <Button
+                  width={["100%", "100%", "auto"]}
+                  variant="outline"
+                  leftIcon={<ArrowBackIcon />}
+                  size="md"
+                  noOfLines={1}
+                >
+                  {props.doc.previousPage.title}
+                </Button>
+              </Link>
+            </WrapItem>
+          )}
+          {props.doc.nextPage && (
+            <WrapItem width={["100%", "100%", "auto"]}>
+              <Link
+                width={["100%", "100%", "auto"]}
+                href={`/creators/${props.creator.creatorSlug}/projects/${props.project.projectSlug}/${props.doc.nextPage.id}`}
+              >
+                <Button
+                  width={["100%", "100%", "auto"]}
+                  variant="outline"
+                  rightIcon={<ArrowForwardIcon />}
+                  size="md"
+                  noOfLines={1}
+                >
+                  {props.doc.nextPage.title}
+                </Button>
+              </Link>
+            </WrapItem>
+          )}
+        </Wrap>
+      </Box>
+    );
+  }
 
   function renderSidebar() {
     const hasCategories = Object.keys(props.doc.sidebar.categories).length > 0;
@@ -264,9 +295,6 @@ export function Project(props: {
       <Stack spacing="1rem" pb="32">
         {Object.entries(props.doc.sidebar.categories).map(
           ([id, categories]) => {
-            const isCurrentCategory = categories.find(
-              (item) => item.id === props.doc.currentPage.id
-            );
             return (
               <Box key={id}>
                 <Box
@@ -286,6 +314,7 @@ export function Project(props: {
                         <Box
                           key={item.id}
                           as={Link}
+                          noOfLines={1}
                           fontWeight={isCurrentPage ? "bold" : "normal"}
                           color={isCurrentPage ? "brand.500" : "inherit"}
                           href={`/creators/${props.creator.creatorSlug}/projects/${props.project.projectSlug}/${item.id}`}
@@ -319,6 +348,7 @@ export function Project(props: {
                 <Box
                   key={item.id}
                   as={Link}
+                  noOfLines={1}
                   fontWeight={isCurrentPage ? "bold" : "normal"}
                   color={isCurrentPage ? "brand.400" : "inherit"}
                   href={`/creators/${props.creator.creatorSlug}/projects/${props.project.projectSlug}/${item.id}`}
@@ -333,6 +363,9 @@ export function Project(props: {
     );
   }
   function renderTableOfContents() {
+    if (props.doc.currentPage.toc.length === 0) {
+      return null;
+    }
     return (
       <Box>
         <Heading size="xs" textTransform="uppercase" mb={2}>
@@ -348,11 +381,45 @@ export function Project(props: {
                 fontSize="xs"
                 cursor="pointer"
                 paddingLeft={(item.level - 2) * 8 + "px"}
+                noOfLines={1}
                 onClick={() => {
                   location.hash = item.id;
                 }}
               >
                 {item.title.split("#").join("")}
+              </Box>
+            );
+          })}
+        </VStack>
+      </Box>
+    );
+  }
+  function renderProjectLinks() {
+    const projectLinks = Object.entries(props.project.data.links ?? {});
+    if (projectLinks.length === 0) {
+      return null;
+    }
+    return (
+      <Box>
+        <Heading size="xs" textTransform="uppercase" mb={2}>
+          Links
+        </Heading>
+        <VStack spacing="1">
+          {projectLinks.map(([label, link]) => {
+            return (
+              <Box
+                key={label}
+                textAlign="left"
+                width="100%"
+                fontSize="xs"
+                cursor="pointer"
+                as={Link}
+                target="_blank"
+                rel="noopener noreferrer"
+                noOfLines={1}
+                href={link}
+              >
+                {label}
               </Box>
             );
           })}
@@ -380,27 +447,29 @@ export function Project(props: {
     }
 
     return (
-      <Select
-        defaultValue={props.project.language}
-        onChange={(e) => {
-          if (e.target.value) {
-            location.href = `/creators/${props.creator.creatorSlug}/projects/${projectSlugWithoutLanguage}.${e.target.value}`;
-          } else {
-            location.href = `/creators/${props.creator.creatorSlug}/projects/${projectSlugWithoutLanguage}`;
-          }
-        }}
-      >
-        <option key="" value="">
-          Original
-        </option>
-        {props.project.languages.map((language) => {
-          return (
-            <option key={language} value={language}>
-              {languagesIsoToName[language]}
-            </option>
-          );
-        })}
-      </Select>
+      <Box>
+        <Select
+          defaultValue={props.project.language}
+          onChange={(e) => {
+            if (e.target.value) {
+              location.href = `/creators/${props.creator.creatorSlug}/projects/${projectSlugWithoutLanguage}.${e.target.value}`;
+            } else {
+              location.href = `/creators/${props.creator.creatorSlug}/projects/${projectSlugWithoutLanguage}`;
+            }
+          }}
+        >
+          <option key="" value="">
+            Original
+          </option>
+          {props.project.languages.map((language) => {
+            return (
+              <option key={language} value={language}>
+                {languagesIsoToName[language]}
+              </option>
+            );
+          })}
+        </Select>
+      </Box>
     );
   }
 }

@@ -5,9 +5,10 @@ export default function getData(): IProjectData {
     name: "Breathless",
     description: "An SRD for creating Breathless games",
     links: {
-      itchIo: "https://fari-rpgs.itch.io/breathless-srd",
+      "Breathless PDF": "https://breathless.farirpgs.com/game",
+      "Breathless SRD PDF": "https://breathless.farirpgs.com/srd",
+      "Breathless Games": "https://breathless.farirpgs.com/games",
     },
-
     headingFont: "Cheddar Gothic Stencil",
     textFont: "Lato",
     css: `

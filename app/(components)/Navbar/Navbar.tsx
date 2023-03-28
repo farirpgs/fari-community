@@ -74,6 +74,12 @@ export function Navbar() {
                   >
                     Breathless
                   </MenuItem>
+                  <MenuItem
+                    as={Link}
+                    href="/creators/fari-rpgs/projects/firelights"
+                  >
+                    Firelights
+                  </MenuItem>
                   {/* <MenuItem as={Link} href="/creators/fari-rpgs/projects/firelights">
                   Firelights
                 </MenuItem> */}

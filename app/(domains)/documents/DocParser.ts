@@ -1,11 +1,9 @@
 import kebabCase from "lodash/kebabCase";
-import { Remarkable } from "remarkable";
+import { MarkdownParser } from "../markdown/MarkdownParser";
 
 export type IDoc = ReturnType<InstanceType<typeof DocParser>["getDoc"]>;
 
 export class DocParser {
-  #frontMatter: IDocFrontMatter;
-  #style: string;
   #html: string;
   #content: string;
   #pages: Array<IPageElement>;
@@ -14,7 +12,6 @@ export class DocParser {
   #previousPage: IPageElement | undefined;
   #toc: Array<ITocElement>;
   #sidebar: ISidebar;
-  #searchIndexes: Array<ISearchIndex>;
 
   constructor(
     private options: {
@@ -22,15 +19,10 @@ export class DocParser {
       markdown: string;
     }
   ) {
-    this.#frontMatter = this.extractFrontmatter();
-    this.#style = this.#extractStyle();
-
-    const { pages, toc, sidebar, searchIndexes } = this.#extractPages();
+    const { pages, toc, sidebar } = this.#extractPages();
     this.#pages = pages;
     this.#toc = toc;
     this.#sidebar = sidebar;
-    this.#searchIndexes = searchIndexes;
-
     const currentPageId = this.options.currentChapterId ?? this.#pages[0].id;
     const currentPageIndex = this.#pages.findIndex(
       (page) => page.id === currentPageId
@@ -40,7 +32,7 @@ export class DocParser {
     this.#nextPage = this.#pages[currentPageIndex + 1];
 
     this.#content = this.#currentPage.content;
-    this.#html = this.#convertMarkdownToHtml(this.#currentPage.content);
+    this.#html = MarkdownParser.toHtml(this.#currentPage.content);
 
     // add `id` to all headings
     this.#html = this.#html.replace(
@@ -54,8 +46,6 @@ export class DocParser {
 
   getDoc() {
     return {
-      frontMatter: this.#frontMatter,
-      style: this.#style,
       html: this.#html,
       pages: this.#pages,
       toc: this.#toc,
@@ -65,7 +55,6 @@ export class DocParser {
       previousPage: this.#previousPage,
       nextPage: this.#nextPage,
       currentPage: this.#currentPage,
-      searchIndexes: this.#searchIndexes,
     };
   }
 
@@ -76,8 +65,7 @@ export class DocParser {
       root: [],
       categories: {},
     };
-    const markdownWithoutFrontMatter = this.#getMarkdownWithoutFrontmatter();
-    const lines = markdownWithoutFrontMatter.split("\n");
+    const lines = this.options.markdown.split("\n");
     let currentPage: IPageElement | null = null;
     const idsRecordCounter: Record<string, number> = {};
     for (const line of lines) {
@@ -146,7 +134,7 @@ export class DocParser {
     if (currentPage && currentPage.id === this.options.currentChapterId) {
       this.#currentPage = currentPage;
     }
-    return { pages, toc, sidebar, searchIndexes: [], currentPage };
+    return { pages, toc, sidebar, currentPage };
   }
 
   private static makeSectionId(line: string): string {
@@ -155,55 +143,10 @@ export class DocParser {
     const lineKebabCase = kebabCase(lineWithoutDividerSuffix);
     return lineKebabCase;
   }
-
-  #convertMarkdownToHtml(markdown: string | undefined) {
-    const md = new Remarkable({
-      html: true,
-    });
-    const pagesContent = markdown || "";
-    const html = md.render(pagesContent);
-
-    return html;
-  }
-
-  #extractStyle() {
-    const style = this.options.markdown.match(/<style>([\s\S]*?)<\/style>/);
-    if (style) {
-      return style[1].trim();
-    }
-    return "";
-  }
-
-  #getMarkdownWithoutFrontmatter() {
-    const frontmatter = this.options.markdown.match(/---\n([\s\S]*?)\n---/);
-    if (frontmatter) {
-      return this.options.markdown.replace(frontmatter[0], "");
-    }
-    return this.options.markdown;
-  }
-
-  extractFrontmatter(): Record<string, string> {
-    const frontMatter = this.options.markdown.split("---");
-    if (frontMatter.length === 1) {
-      return {};
-    }
-    const [, content] = frontMatter;
-    const firstLines = content.split("\n");
-    const frontMatterObject: Record<string, string> = {};
-    for (const line of firstLines) {
-      const [key, value] = line.split(": ");
-      if (key && value) {
-        frontMatterObject[key] = value;
-      }
-    }
-
-    return frontMatterObject;
-  }
 }
 
 export type ISidebar = {
   root: Array<ISidebarItem>;
-
   categories: Record<
     string, // category label
     Array<ISidebarItem> // category items
@@ -225,20 +168,4 @@ export type ITocElement = {
 export type ISidebarItem = {
   id: string;
   title: string;
-};
-type IDocFrontMatter = {
-  fonts?: string;
-  headingFont?: string;
-  textFont?: string;
-  highlightFont?: string;
-  headingUppercase?: string;
-  languages?: string;
-};
-
-export type ISearchIndex = {
-  id: string;
-  label: string;
-  group: string;
-  preview: string;
-  path: string;
 };

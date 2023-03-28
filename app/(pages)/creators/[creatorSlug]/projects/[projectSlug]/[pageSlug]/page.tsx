@@ -1,4 +1,5 @@
 import { DocParser } from "app/(domains)/documents/DocParser";
+import { MarkdownParser } from "app/(domains)/markdown/MarkdownParser";
 import { loader } from "public/catalog/loader";
 import { Project } from "../page-component";
 
@@ -19,9 +20,25 @@ export async function generateMetadata(props: Parameters<typeof Page>[0]) {
     markdown: fileContents,
   }).getDoc();
 
+  const title = `${doc.currentPage.title} - ${project.data.name} - ${creator.data?.name} - Fari Community`;
+
+  const currentPageTextContent = MarkdownParser.toPlainText(
+    doc.currentPage.content
+  );
+  const description = currentPageTextContent.substring(0, 160) + "...";
+
   return {
-    title: `${doc.currentPage.title} - ${project.data.name} - ${creator.data?.name} - Fari Community`,
-    description: project.data.description,
+    title: title,
+    description: description,
+    openGraph: {
+      title: title,
+      description: description,
+      images: [
+        {
+          url: project.image ?? "",
+        },
+      ],
+    },
   };
 }
 
