@@ -55,6 +55,7 @@ export function Project(props: {
   const [search, setSearch] = useState("");
   const scrollTo = searchParams.get("scrollTo");
   const cardBackground = useColorModeValue("gray.50", "gray.600");
+  const brand = useColorModeValue("brand.500", "brand.100");
 
   useEffect(() => {
     if (scrollTo) {
@@ -75,7 +76,7 @@ export function Project(props: {
       heading.style.position = "relative";
 
       const anchor = document.createElement("a");
-      anchor.setAttribute("href", `#${heading.id}`);
+      anchor.setAttribute("href", `?scrollTo=${heading.id}`);
       anchor.style.opacity = "0";
       anchor.style.transition = "opacity 0.1s ease-in-out";
       anchor.innerHTML = "#";
@@ -112,6 +113,9 @@ export function Project(props: {
           __html: props.project.data?.css ?? "",
         }}
       />
+      <Hide above="md">
+        <Box mb="2">{renderSearch()}</Box>
+      </Hide>
 
       <Stack
         mb="4"
@@ -160,9 +164,11 @@ export function Project(props: {
             Edit this page
           </Button>
         </Box>
+
         {renderLanguageSelector()}
       </Stack>
       <Divider mb="4" />
+
       <Box>
         <Flex direction="row" width="100%" maxW="100%">
           <Box
@@ -212,6 +218,12 @@ export function Project(props: {
                       textTransform: props.project.data?.headingUppercase
                         ? "uppercase"
                         : "none",
+                    },
+
+                    [`& [id='${scrollTo}']`]: {
+                      borderBottom: `4px solid`,
+                      borderColor: brand,
+                      color: brand,
                     },
                   }}
                 >
@@ -347,7 +359,7 @@ export function Project(props: {
                           as={Link}
                           noOfLines={1}
                           fontWeight={isCurrentPage ? "bold" : "normal"}
-                          color={isCurrentPage ? "brand.500" : "inherit"}
+                          color={isCurrentPage ? brand : "inherit"}
                           href={`/creators/${props.creator.creatorSlug}/projects/${props.project.projectSlug}/${item.id}`}
                         >
                           {item.title}
