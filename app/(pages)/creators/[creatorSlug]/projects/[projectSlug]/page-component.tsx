@@ -121,7 +121,12 @@ export function Project(props: {
         }}
       />
       <Hide above="md">
-        <Box mb="2">{renderSearch()}</Box>
+        <Box mb="2">
+          <Stack spacing={4}>
+            {renderSearch()}
+            {renderLanguageSelector()}
+          </Stack>
+        </Box>
       </Hide>
 
       <Stack
@@ -196,22 +201,25 @@ export function Project(props: {
             borderColor="gray.200"
           >
             <Stack spacing={4}>
-              <Box>
-                <Heading size="lg" noOfLines={1}>
-                  <Link
-                    href={`/creators/${props.creator.creatorSlug}/projects/${props.project.projectSlug}`}
-                  >
-                    {props.project.data?.name}
-                  </Link>
-                </Heading>
-                <Text noOfLines={1}>
-                  By{" "}
-                  <Link href={`/creators/${props.creator.creatorSlug}`}>
-                    {props.creator.data?.name}
-                  </Link>
-                </Text>
+              <Stack spacing={2}>
+                <Box>
+                  <Heading size="lg" noOfLines={1}>
+                    <Link
+                      href={`/creators/${props.creator.creatorSlug}/projects/${props.project.projectSlug}`}
+                    >
+                      {props.project.data?.name}
+                    </Link>
+                  </Heading>
+                  <Text noOfLines={1}>
+                    By{" "}
+                    <Link href={`/creators/${props.creator.creatorSlug}`}>
+                      {props.creator.data?.name}
+                    </Link>
+                  </Text>
+                </Box>
                 {renderLanguageSelector()}
-              </Box>
+              </Stack>
+
               {renderSidebar()}
             </Stack>
           </Box>
@@ -633,7 +641,7 @@ export function Project(props: {
     return (
       <Box>
         <Select
-          variant="flushed"
+          // variant="outlined"
           defaultValue={props.project.language}
           onChange={(e) => {
             if (e.target.value) {
