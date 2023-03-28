@@ -4,7 +4,7 @@ export default function getData(): IProjectData {
   return {
     name: "Blades in the Dark",
     description:
-      "Blades in the Dark is a tabletop role-playing game about a crew of daring scoundrels seeking their fortunes on the haunted streets of an industrial-fantasy city",
+      "Use the great Blades in the Dark SRD by John Harper to make your own Forged in the Dark game",
     links: {
       website: "https://www.bladesinthedark.com/",
       itch: "https://johnharper.itch.io/blades-in-the-dark",
