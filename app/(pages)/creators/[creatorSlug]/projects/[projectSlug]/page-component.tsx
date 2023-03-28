@@ -140,13 +140,12 @@ export function Project(props: {
             </BreadcrumbItem>
 
             <BreadcrumbItem isCurrentPage>
-              <BreadcrumbLink
-                _hover={{
-                  textDecoration: "none",
-                  cursor: "default",
-                }}
-              >
-                {props.project.data?.name}
+              <BreadcrumbLink>
+                <Link
+                  href={`/creators/${props.creator.creatorSlug}/projects/${props.project.projectSlug}`}
+                >
+                  {props.project.data?.name}
+                </Link>
               </BreadcrumbLink>
             </BreadcrumbItem>
           </Breadcrumb>
@@ -185,7 +184,11 @@ export function Project(props: {
             borderColor="gray.200"
           >
             <Heading size="lg" noOfLines={1}>
-              {props.project.data?.name}
+              <Link
+                href={`/creators/${props.creator.creatorSlug}/projects/${props.project.projectSlug}`}
+              >
+                {props.project.data?.name}
+              </Link>
             </Heading>
             <Text mb="4" noOfLines={1}>
               By{" "}
