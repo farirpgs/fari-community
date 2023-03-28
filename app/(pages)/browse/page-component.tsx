@@ -24,6 +24,7 @@ export default function Browse(props: { creators: Array<ICreator> }) {
     "charge",
     "dash",
     "breathless",
+    "firelights",
     "blades",
     "lumen",
     "24xx",

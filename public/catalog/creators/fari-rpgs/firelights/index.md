@@ -12,6 +12,12 @@ Players take on the role of a last of its kind lone-protagonist whose role is to
 
 Using only the most accessible gaming material (2 six sided dice, a deck of card, and a notebook), players will tackle challenges, evade danger, explore and create a map of the land, fight dangerous bosses, search for treasures, and more.
 
+<iframe frameborder="0" src="https://itch.io/embed/1903017" width="100%" max-width="552" height="167"><a href="https://fari-rpgs.itch.io/firelights">Firelights by Fari RPGs (René-Pier Deshaies)</a></iframe>
+
+<br/>
+
+<iframe frameborder="0" src="https://itch.io/embed/1918467" width="100%" max-width="552" height="167"><a href="https://fari-rpgs.itch.io/firelights-creator-kit">Firelights Creator Kit and SRD by Fari RPGs (René-Pier Deshaies)</a></iframe>
+
 # Firelights Games Collection | Firelights
 
 If you are looking for a pretty substantial list of games **_Guided by Firelights_**, you will find them on the following itch collection. If you think I'm missing any, please [reach out](https://farirpgs.com#contact).
