@@ -3,6 +3,7 @@
 import {
   ArrowBackIcon,
   ArrowForwardIcon,
+  DownloadIcon,
   EditIcon,
   SearchIcon,
 } from "@chakra-ui/icons";
@@ -14,6 +15,7 @@ import {
   BreadcrumbItem,
   BreadcrumbLink,
   Button,
+  ButtonGroup,
   Container,
   Divider,
   Flex,
@@ -105,6 +107,11 @@ export function Project(props: {
     });
   }, []);
 
+  const creatorLink = `/creators/${props.creator.creatorSlug}`;
+  const projectLink = `/creators/${props.creator.creatorSlug}/projects/${props.project.projectSlug}`;
+  const editPageLink = `https://github.com/fariapp/fari-community/edit/main/public/catalog/creators/${props.creator.creatorSlug}/${props.project.projectSlug}/index.md#:~:text=${props.doc.currentPage.title}`;
+  const rawPageLink = `https://raw.githubusercontent.com/fariapp/fari-community/main/public/catalog/creators/${props.creator.creatorSlug}/${props.project.projectSlug}/index.md`;
+
   return (
     <Container maxWidth="container.xl" pt={["4", "4", "32"]}>
       <style
@@ -133,45 +140,50 @@ export function Project(props: {
           <Breadcrumb>
             <BreadcrumbItem>
               <BreadcrumbLink as="span">
-                <Link href={`/creators/${props.creator.creatorSlug}`}>
-                  {props.creator.data?.name}
-                </Link>
+                <Link href={creatorLink}>{props.creator.data?.name}</Link>
               </BreadcrumbLink>
             </BreadcrumbItem>
 
             <BreadcrumbItem isCurrentPage>
               <BreadcrumbLink>
-                <Link
-                  href={`/creators/${props.creator.creatorSlug}/projects/${props.project.projectSlug}`}
-                >
-                  {props.project.data?.name}
-                </Link>
+                <Link href={projectLink}>{props.project.data?.name}</Link>
               </BreadcrumbLink>
             </BreadcrumbItem>
           </Breadcrumb>
         </Hide>
-        <Box>
+        <ButtonGroup>
           <Button
             colorScheme="brand"
             leftIcon={<EditIcon />}
             size="sm"
+            variant="ghost"
             as="a"
-            href={`https://github.com/fariapp/fari-community/edit/main/public/catalog/creators/${props.creator.creatorSlug}/${props.project.projectSlug}/index.md#:~:text=${props.doc.currentPage.title}`}
+            href={editPageLink}
             target="_blank"
             rel="noopener noreferrer"
           >
             Edit this page
           </Button>
-        </Box>
-
-        {renderLanguageSelector()}
+          <Button
+            colorScheme="brand"
+            leftIcon={<DownloadIcon />}
+            size="sm"
+            variant="ghost"
+            as="a"
+            href={rawPageLink}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Download
+          </Button>
+        </ButtonGroup>
       </Stack>
       <Divider mb="4" />
 
       <Box>
         <Flex direction="row" width="100%" maxW="100%">
           <Box
-            px={2}
+            pr={2}
             position="sticky"
             overscrollBehavior="contain"
             top="2rem"
@@ -183,20 +195,25 @@ export function Project(props: {
             borderRight="1px solid"
             borderColor="gray.200"
           >
-            <Heading size="lg" noOfLines={1}>
-              <Link
-                href={`/creators/${props.creator.creatorSlug}/projects/${props.project.projectSlug}`}
-              >
-                {props.project.data?.name}
-              </Link>
-            </Heading>
-            <Text mb="4" noOfLines={1}>
-              By{" "}
-              <Link href={`/creators/${props.creator.creatorSlug}`}>
-                {props.creator.data?.name}
-              </Link>
-            </Text>
-            {renderSidebar()}
+            <Stack spacing={4}>
+              <Box>
+                <Heading size="lg" noOfLines={1}>
+                  <Link
+                    href={`/creators/${props.creator.creatorSlug}/projects/${props.project.projectSlug}`}
+                  >
+                    {props.project.data?.name}
+                  </Link>
+                </Heading>
+                <Text noOfLines={1}>
+                  By{" "}
+                  <Link href={`/creators/${props.creator.creatorSlug}`}>
+                    {props.creator.data?.name}
+                  </Link>
+                </Text>
+                {renderLanguageSelector()}
+              </Box>
+              {renderSidebar()}
+            </Stack>
           </Box>
 
           <Box
@@ -254,7 +271,7 @@ export function Project(props: {
             position="sticky"
             overscrollBehavior="contain"
             top="2rem"
-            px={2}
+            pl={2}
             height="calc(100vh - 2rem)"
             overflowY="auto"
             flexShrink={0}
@@ -338,7 +355,7 @@ export function Project(props: {
     const hasCategories = Object.keys(props.doc.sidebar.categories).length > 0;
     const hasRootPages = props.doc.sidebar.root.length > 0;
     return (
-      <Stack spacing="1rem" pb="32">
+      <Stack spacing="4" pb="32">
         {Object.entries(props.doc.sidebar.categories).map(
           ([id, categories]) => {
             return (
@@ -356,6 +373,7 @@ export function Project(props: {
                     {categories.map((item) => {
                       const isCurrentPage =
                         item.id === props.doc.currentPage.id;
+                      const sidebarItemLink = `/creators/${props.creator.creatorSlug}/projects/${props.project.projectSlug}/${item.id}`;
                       return (
                         <Box
                           key={item.id}
@@ -363,7 +381,7 @@ export function Project(props: {
                           noOfLines={1}
                           fontWeight={isCurrentPage ? "bold" : "normal"}
                           color={isCurrentPage ? brand : "inherit"}
-                          href={`/creators/${props.creator.creatorSlug}/projects/${props.project.projectSlug}/${item.id}`}
+                          href={sidebarItemLink}
                         >
                           {item.title}
                         </Box>
@@ -389,6 +407,7 @@ export function Project(props: {
           <Stack spacing="0">
             {props.doc.sidebar.root.map((item) => {
               const isCurrentPage = item.id === props.doc.currentPage.id;
+              const sidebarItemLink = `/creators/${props.creator.creatorSlug}/projects/${props.project.projectSlug}/${item.id}`;
 
               return (
                 <Box
@@ -397,7 +416,7 @@ export function Project(props: {
                   noOfLines={1}
                   fontWeight={isCurrentPage ? "bold" : "normal"}
                   color={isCurrentPage ? "brand.400" : "inherit"}
-                  href={`/creators/${props.creator.creatorSlug}/projects/${props.project.projectSlug}/${item.id}`}
+                  href={sidebarItemLink}
                 >
                   {item.title}
                 </Box>
@@ -465,7 +484,7 @@ export function Project(props: {
                     <Stack justify="center" display="flex">
                       {seachResult.map((item) => {
                         const isDocument = !item.sectionHash;
-                        const link = isDocument
+                        const searchItemLink = isDocument
                           ? `/creators/${props.creator.creatorSlug}/projects/${props.project.projectSlug}/${item.pageId}`
                           : `/creators/${props.creator.creatorSlug}/projects/${props.project.projectSlug}/${item.pageId}?scrollTo=${item.sectionHash}`;
                         return (
@@ -476,7 +495,7 @@ export function Project(props: {
                             background={cardBackground}
                             borderRadius="md"
                             padding="4"
-                            href={link}
+                            href={searchItemLink}
                             minHeight="4rem"
                             _hover={{
                               background: "brand.500",
@@ -538,6 +557,7 @@ export function Project(props: {
         </Heading>
         <VStack spacing="1">
           {props.doc.currentPage.toc.map((item) => {
+            const tableOfContentsItemLink = `/creators/${props.creator.creatorSlug}/projects/${props.project.projectSlug}/${props.doc.currentPage.id}?scrollTo=${item.id}`;
             return (
               <Box
                 key={item.id}
@@ -548,7 +568,7 @@ export function Project(props: {
                 paddingLeft={(item.level - 2) * 8 + "px"}
                 noOfLines={1}
                 as={Link}
-                href={`/creators/${props.creator.creatorSlug}/projects/${props.project.projectSlug}/${props.doc.currentPage.id}?scrollTo=${item.id}`}
+                href={tableOfContentsItemLink}
               >
                 {item.title}
               </Box>
@@ -613,6 +633,7 @@ export function Project(props: {
     return (
       <Box>
         <Select
+          variant="flushed"
           defaultValue={props.project.language}
           onChange={(e) => {
             if (e.target.value) {
@@ -623,7 +644,7 @@ export function Project(props: {
           }}
         >
           <option key="" value="">
-            Original
+            English
           </option>
           {props.project.languages.map((language) => {
             return (
