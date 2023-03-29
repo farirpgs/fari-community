@@ -3,7 +3,7 @@
 import { extendTheme } from "@chakra-ui/react";
 import { withProse } from "@nikolovlazar/chakra-ui-prose";
 
-const theme = extendTheme(
+export const theme = extendTheme(
   {
     fonts: {
       heading: `Inter, sans-serif`,

@@ -9,11 +9,14 @@ import {
   Stack,
 } from "@chakra-ui/react";
 import { ProjectCard } from "app/(components)/ProjectCard/ProjectCard";
+import { useSearchParams } from "next/navigation";
 import { ICreator } from "public/catalog/loader";
 import { useState } from "react";
 
 export default function Browse(props: { creators: Array<ICreator> }) {
-  const [search, setSearch] = useState("");
+  const searchDefaultValue = useSearchParams().get("search") ?? "";
+  const [search, setSearch] = useState(searchDefaultValue);
+
   const projectsFlatMapWithCreators = props.creators.flatMap((c) => {
     return c.projects.map((p) => {
       return { project: p, creator: c };

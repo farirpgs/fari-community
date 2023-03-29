@@ -4,7 +4,7 @@ Welcome to Fari Community, a place where you can find tons of free and open lice
 
 Every single page on this site is publically available on GitHub and can be edited by anyone.
 
-If you are looking to **add your own content** to the site, just read the instructions laid out in this document and if you need anyhelp, feel free to **reach out to us on [Discord](https://farirpgs.com/discord)**.
+If you are looking to **add your own content** to the site, just read the instructions laid out in this document and if you need anyhelp, feel free to [**reach out to us on Discord**](https://farirpgs.com/discord).
 
 # Structure | Getting Started
 

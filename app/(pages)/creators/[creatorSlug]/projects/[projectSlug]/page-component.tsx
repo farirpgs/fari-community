@@ -38,7 +38,7 @@ import {
 } from "@chakra-ui/react";
 import { Prose } from "@nikolovlazar/chakra-ui-prose";
 import { IDoc } from "app/(domains)/documents/DocParser";
-import { useSearchParams } from "next/navigation";
+import { useSearchParams, useServerInsertedHTML } from "next/navigation";
 import { ICreator, IProject } from "public/catalog/loader";
 import { useEffect, useState } from "react";
 import { FaHashtag } from "react-icons/fa";
@@ -57,6 +57,18 @@ export function Project(props: {
   const scrollTo = searchParams.get("scrollTo");
   const cardBackground = useColorModeValue("gray.50", "gray.600");
   const brand = useColorModeValue("brand.500", "brand.200");
+
+  useServerInsertedHTML(() => {
+    return (
+      <style
+        key="fari-community-project-css"
+        id="fari-community-project-css"
+        dangerouslySetInnerHTML={{
+          __html: props.project.data?.css ?? "",
+        }}
+      />
+    );
+  });
 
   useEffect(() => {
     if (scrollTo) {
@@ -93,7 +105,6 @@ export function Project(props: {
         existingSpacer.remove();
       }
 
-      // heading.style.display = "inline-block";
       heading.addEventListener("mouseover", () => {
         anchor.style.opacity = ".5";
       });
@@ -113,12 +124,6 @@ export function Project(props: {
 
   return (
     <Container maxWidth="container.xl" pt={["4", "4", "4", "32"]}>
-      <style
-        className="fari-doc-style"
-        dangerouslySetInnerHTML={{
-          __html: props.project.data?.css ?? "",
-        }}
-      />
       <Box display={["block", "block", "block", "none"]}>
         <Box mb="2">
           <Stack spacing={4}>
