@@ -1,8 +1,8 @@
 "use client";
 
-import { MoonIcon, SunIcon } from "@chakra-ui/icons";
+import { AddIcon, MoonIcon, SunIcon } from "@chakra-ui/icons";
 import { Link } from "@chakra-ui/next-js";
-import { BsDiscord } from "react-icons/bs";
+import { BsDiscord, BsGithub } from "react-icons/bs";
 
 import {
   Box,
@@ -98,7 +98,7 @@ export function Navbar() {
                   href="/creators/fari-rpgs/projects/fari-community"
                   target="_blank"
                   rel="noopener noreferrer"
-                  leftIcon={<Icon as={BsDiscord} />}
+                  leftIcon={<Icon as={AddIcon} />}
                 >
                   Add Your Own Content
                 </Button>
@@ -123,6 +123,14 @@ export function Navbar() {
                 ) : (
                   <SunIcon />
                 )}
+              </Button>
+              <Button
+                as={Link}
+                href="https://github.com/fariapp/fari-community"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <BsGithub />
               </Button>
             </Stack>
           </Flex>
