@@ -22,7 +22,7 @@ export const loader = {
       data = creatorDataLoader?.default();
       data.description =
         data.description ||
-        `Find ton of free and open licensed content by ${data?.name} right here, on Fari Community`;
+        `Find ton of free and open licensed content by ${data?.name} on Fari Community`;
     } catch (error) {}
     const name: string = data?.name || startCase(creatorSlug);
     const projects = await this.getCreatorProjects(creatorSlug);
