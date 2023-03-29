@@ -252,6 +252,10 @@ export function Project(props: {
                         ? "uppercase"
                         : "none",
                     },
+                    "& p,li,td,th": {
+                      fontSize: "1.125rem",
+                      lineHeight: "1.75rem",
+                    },
 
                     [`& [id='${scrollTo}']`]: {
                       borderBottom: `4px solid`,
