@@ -5,6 +5,7 @@ export default function getData(): IProjectData {
     name: "Trophy SRD",
     description:
       "Build your own rules-light, risk-heavy games rooted in the Trophy SRD.",
+    license: "CC BY 4.0",
     links: {},
     headingFont: "Raleway",
     textFont: "Source Sans Pro",

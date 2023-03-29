@@ -6,7 +6,7 @@ export default function getData(): IProjectData {
     description:
       "This expansion for the Fate Core System contains tons of flexible, hackable and adaptable rules that fits any world you are trying to play in.",
     links: {
-      itchIo: "https://evilhat.itch.io/fate-system-toolkit",
+      "itch.io": "https://evilhat.itch.io/fate-system-toolkit",
       driveThru:
         "https://www.drivethrurpg.com/product/119385/Fate-System-Toolkit",
     },

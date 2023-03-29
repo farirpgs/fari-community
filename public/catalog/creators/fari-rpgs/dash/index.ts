@@ -5,8 +5,9 @@ export default function getData(): IProjectData {
     name: "Dash",
     description:
       "A print friendly & condensed version of the Charge RPG system.",
+    license: "CC BY 4.0",
     links: {
-      itchIo: "https://fari-rpgs.itch.io/dash",
+      "itch.io": "https://fari-rpgs.itch.io/dash",
     },
     headingFont: "Oswald",
     headingUppercase: true,

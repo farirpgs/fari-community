@@ -4,8 +4,9 @@ export default function getData(): IProjectData {
   return {
     name: "Second Guess System",
     description: "Power your solo role-playing games.",
+    license: "CC BY 4.0",
     links: {
-      itchIo: "https://gamenomicon.itch.io/second-guess-system-srd",
+      "itch.io": "https://gamenomicon.itch.io/second-guess-system-srd",
     },
     headingFont: "Oswald",
     headingUppercase: true,

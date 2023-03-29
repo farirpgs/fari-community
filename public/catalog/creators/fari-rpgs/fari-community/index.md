@@ -187,7 +187,7 @@ export default function getData(): IProjectData {
     description:
       "A generic and fiction first RPG system to power your action packed adventures.",
     links: {
-      itchIo: "https://fari-rpgs.itch.io/charge-rpg",
+      "itch.io": "https://fari-rpgs.itch.io/charge-rpg",
     },
   };
 }

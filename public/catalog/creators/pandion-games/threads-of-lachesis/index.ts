@@ -5,8 +5,10 @@ export default function getData(): IProjectData {
     name: "Threads of Lachesis",
     description:
       "A guide to create solo games or generators with branched random prompts that the player organizes into a cohesive sequence via a single roll.",
+
+    license: "CC BY 4.0",
     links: {
-      itchIo: "https://pandiongames.itch.io/threadsoflachesis",
+      "itch.io": "https://pandiongames.itch.io/threadsoflachesis",
     },
   };
 }

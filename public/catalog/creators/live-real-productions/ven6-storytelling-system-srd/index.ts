@@ -6,7 +6,7 @@ export default function getData(): IProjectData {
     description:
       "Create narrative storytelling roleplaying games with conflict mechanics and a GM option.",
     links: {
-      itchIo: "https://jwalberg.itch.io/ven6-srd",
+      "itch.io": "https://jwalberg.itch.io/ven6-srd",
     },
   };
 }

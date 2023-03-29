@@ -5,6 +5,7 @@ import {
   ArrowForwardIcon,
   DownloadIcon,
   EditIcon,
+  ExternalLinkIcon,
   SearchIcon,
 } from "@chakra-ui/icons";
 import { Link } from "@chakra-ui/next-js";
@@ -30,9 +31,10 @@ import {
   ModalOverlay,
   Select,
   Stack,
+  Tag,
+  TagRightIcon,
   Text,
   useColorModeValue,
-  VStack,
   Wrap,
   WrapItem,
 } from "@chakra-ui/react";
@@ -146,7 +148,11 @@ export function Project(props: {
           "space-between",
         ]}
       >
-        <Box display={["none", "none", "none", "block"]}>
+        <Stack
+          display={["none", "none", "none", "flex"]}
+          spacing={1}
+          direction="row"
+        >
           <Breadcrumb>
             <BreadcrumbItem>
               <BreadcrumbLink as="span">
@@ -160,7 +166,7 @@ export function Project(props: {
               </BreadcrumbLink>
             </BreadcrumbItem>
           </Breadcrumb>
-        </Box>
+        </Stack>
         <ButtonGroup>
           <Button
             colorScheme="brand"
@@ -222,6 +228,7 @@ export function Project(props: {
                     </Link>
                   </Text>
                 </Box>
+
                 {renderLanguageSelector()}
               </Stack>
 
@@ -298,6 +305,7 @@ export function Project(props: {
               {renderSearch()}
               {renderTableOfContents()}
               {renderProjectLinks()}
+              {renderProjectLicense()}
             </Stack>
           </Box>
         </Flex>
@@ -572,7 +580,7 @@ export function Project(props: {
         <Heading size="xs" textTransform="uppercase" mb={2}>
           On This Page
         </Heading>
-        <VStack spacing="1">
+        <Stack spacing="1">
           {props.doc.currentPage.toc.map((item) => {
             const tableOfContentsItemLink = `/creators/${props.creator.creatorSlug}/projects/${props.project.projectSlug}/${props.doc.currentPage.id}?scrollTo=${item.id}`;
             return (
@@ -591,7 +599,7 @@ export function Project(props: {
               </Box>
             );
           })}
-        </VStack>
+        </Stack>
       </Box>
     );
   }
@@ -605,26 +613,44 @@ export function Project(props: {
         <Heading size="xs" textTransform="uppercase" mb={2}>
           Links
         </Heading>
-        <VStack spacing="1">
+        <Stack spacing="2" align="flex-start" justify="center">
           {projectLinks.map(([label, link]) => {
             return (
-              <Box
-                key={label}
-                textAlign="left"
-                width="100%"
-                fontSize="xs"
-                cursor="pointer"
-                as={Link}
-                target="_blank"
-                rel="noopener noreferrer"
-                noOfLines={1}
-                href={link}
-              >
-                {label}
+              <Box key={label}>
+                <Tag
+                  key={label}
+                  textAlign="left"
+                  cursor="pointer"
+                  as={Link}
+                  display="inline-flex"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  href={link}
+                >
+                  {label}
+                  <TagRightIcon>
+                    <ExternalLinkIcon />
+                  </TagRightIcon>
+                </Tag>
               </Box>
             );
           })}
-        </VStack>
+        </Stack>
+      </Box>
+    );
+  }
+  function renderProjectLicense() {
+    if (!props.project.data.license) {
+      return null;
+    }
+    return (
+      <Box>
+        <Heading size="xs" textTransform="uppercase" mb={2}>
+          License
+        </Heading>
+        <Box>
+          <Tag size="sm">{props.project.data.license}</Tag>
+        </Box>
       </Box>
     );
   }

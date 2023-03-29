@@ -6,7 +6,7 @@ export default function getData(): IProjectData {
     description:
       "Give characters a laughably bad time with the Bad Time Game SRD!",
     links: {
-      itchIo: "https://urania-games.itch.io/bad-time-game-srd",
+      "itch.io": "https://urania-games.itch.io/bad-time-game-srd",
     },
   };
 }

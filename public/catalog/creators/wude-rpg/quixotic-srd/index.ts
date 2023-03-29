@@ -5,7 +5,7 @@ export default function getData(): IProjectData {
     name: "Quixotic SRD",
     description: "Extravagantly chivalrous",
     links: {
-      itchIo: "https://wuderpg.itch.io/quixotic",
+      "itch.io": "https://wuderpg.itch.io/quixotic",
     },
   };
 }

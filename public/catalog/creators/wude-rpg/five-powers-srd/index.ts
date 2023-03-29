@@ -6,7 +6,7 @@ export default function getData(): IProjectData {
     description:
       "The Five Powers SRD harnesses the full potential of the 5 Elements of East-Asian Philosophy so you can create evocative games!",
     links: {
-      itchIo: "https://wuderpg.itch.io/wude-the-five-powers",
+      "itch.io": "https://wuderpg.itch.io/wude-the-five-powers",
     },
   };
 }

@@ -4,9 +4,10 @@ export default function getData(): IProjectData {
   return {
     name: "Breathless",
     description: "An SRD for creating Breathless games",
+    license: "CC BY 4.0",
     links: {
-      "Breathless PDF": "https://breathless.farirpgs.com/game",
-      "Breathless SRD PDF": "https://breathless.farirpgs.com/srd",
+      "Game PDF": "https://breathless.farirpgs.com/game",
+      "SRD PDF": "https://breathless.farirpgs.com/srd",
       "Breathless Games": "https://breathless.farirpgs.com/games",
     },
     headingFont: "Cheddar Gothic Stencil",

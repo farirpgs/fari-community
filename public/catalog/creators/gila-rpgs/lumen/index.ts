@@ -5,7 +5,7 @@ export default function getData(): IProjectData {
     name: "Lumen",
     description: "RPG system for action packed, power fantasy games.",
     links: {
-      itchIo: "https://gilarpgs.itch.io/lumen",
+      "itch.io": "https://gilarpgs.itch.io/lumen",
     },
     headingFont: "Lato",
     textFont: "Lato",

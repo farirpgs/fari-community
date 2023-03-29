@@ -6,7 +6,7 @@ export default function getData(): IProjectData {
     description:
       "A Complete guide to Fate with rules, examples and tips. A most if your thirst for knowledge was not satisfied with Fate Condensed.",
     links: {
-      itchIo: "https://evilhat.itch.io/fate-core",
+      "itch.io": "https://evilhat.itch.io/fate-core",
       driveThru: "https://www.drivethrurpg.com/product/114903/Fate-Core-System",
     },
     css: `

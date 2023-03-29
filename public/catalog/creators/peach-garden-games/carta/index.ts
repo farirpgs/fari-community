@@ -4,8 +4,9 @@ export default function getData(): IProjectData {
   return {
     name: "Carta",
     description: "A Toolkit For Making Exploration Games.",
+    license: "CC BY 3.0",
     links: {
-      itchIo: "https://peachgardengames.itch.io/carta-srd",
+      "itch.io": "https://peachgardengames.itch.io/carta-srd",
     },
     headingFont: "Architects Daughter",
     css: `

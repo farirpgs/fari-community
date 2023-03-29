@@ -5,7 +5,7 @@ export default function getData(): IProjectData {
     name: "Shillings SRD",
     description: "Shillings SRD is an SRD where you pay to make other pay",
     links: {
-      itchIo: "https://lynxen-rpgs.itch.io/shillings-srd",
+      "itch.io": "https://lynxen-rpgs.itch.io/shillings-srd",
     },
   };
 }

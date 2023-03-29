@@ -4,8 +4,9 @@ export default function getData(): IProjectData {
   return {
     name: "Hopes & Dreams",
     description: "Make your own game ignited by Hopes & Dreams.",
+    license: "CC BY 4.0",
     links: {
-      itchIo: "https://fari-rpgs.itch.io/hopes-and-dreams-srd",
+      "itch.io": "https://fari-rpgs.itch.io/hopes-and-dreams-srd",
     },
 
     headingFont: "Poppins",

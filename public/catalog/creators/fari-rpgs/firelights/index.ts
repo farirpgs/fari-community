@@ -4,6 +4,11 @@ export default function getData(): IProjectData {
   return {
     name: "Firelights",
     description: "An SRD for creating Firelights games",
+    license: "CC BY 4.0",
+    links: {
+      "Game PDF": "https://firelights.farirpgs.com/game",
+      "Firelights Games": "https://firelights.farirpgs.com/games",
+    },
     headingFont: "Ramaraja",
     textFont: "Hind Madurai",
     css: `

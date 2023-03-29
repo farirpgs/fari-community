@@ -184,6 +184,7 @@ export type ICreator = {
 
 export type IProjectData = {
   name: string;
+  license?: ILicense;
   description?: string;
   links?: Record<string, string>;
   fonts?: Array<string>;
@@ -203,8 +204,8 @@ export type IProject = {
 
 export type ILoaderFunction<T> = { default: () => T };
 
-export enum License {
-  Reserved = "All Rights Reserved",
-  CC_BY_3 = "CC BY 3.0",
-  CC_BY_4 = "CC BY 4.0",
-}
+export type ILicense =
+  | "All Rights Reserved"
+  | "CC BY 3.0"
+  | "CC BY 4.0"
+  | "Unknown";

@@ -4,9 +4,9 @@ export default function getData(): IProjectData {
   return {
     name: "Charge SRD",
     description: "An SRD to make action packed RPGs with forward momentum.",
-
+    license: "CC BY 4.0",
     links: {
-      itchIo: "https://fari-rpgs.itch.io/charge-srd",
+      "itch.io": "https://fari-rpgs.itch.io/charge-srd",
     },
     headingFont: "Oswald",
     headingUppercase: true,

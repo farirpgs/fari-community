@@ -6,7 +6,7 @@ export default function getData(): IProjectData {
     description:
       "The SAVE System is a framework for building quick-playing, low-prep, story-focused RPGs.",
     links: {
-      itchIo: "https://dbisdorf.itch.io/the-save-system",
+      "itch.io": "https://dbisdorf.itch.io/the-save-system",
     },
   };
 }

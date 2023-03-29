@@ -7,7 +7,7 @@ export default function getData(): IProjectData {
       "A system/design guide for resolving fights via a two player trick taking game.",
 
     links: {
-      itchIo: "https://ratwavegamehouse.itch.io/the-fight-card-system",
+      "itch.io": "https://ratwavegamehouse.itch.io/the-fight-card-system",
     },
     headingFont: "Bebas Neue",
     headingUppercase: true,

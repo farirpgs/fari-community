@@ -5,8 +5,9 @@ export default function getData(): IProjectData {
     name: "Guided by the Sun",
     description:
       "A GM-less, card-based system, where players tell the story of a protagonist undertaking a journey and making friends along the way.",
+    license: "CC BY 4.0",
     links: {
-      itchIo: "https://aryl-ether.itch.io/guided-by-the-sun",
+      "itch.io": "https://aryl-ether.itch.io/guided-by-the-sun",
     },
     headingFont: "Grenze Gotisch",
     textFont: "Libre Baskerville",

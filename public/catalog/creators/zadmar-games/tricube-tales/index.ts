@@ -5,6 +5,7 @@ export default function getData(): IProjectData {
     name: "Tricube Tales",
     description:
       "A rules-light roleplaying system capable of handling a wide variety of genres and settings.",
+    license: "CC BY 4.0",
     links: {
       itchIo:
         "https://itch.io/c/1589928/tricube-tales-one-page-rpgs-micro-settings",

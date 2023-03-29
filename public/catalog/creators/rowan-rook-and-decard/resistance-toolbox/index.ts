@@ -5,6 +5,7 @@ export default function getData(): IProjectData {
     name: "Resistance Toolbox",
     description:
       "Make your own games of desperate struggle using the Resistance System, the core rules that power the Spire RPG.",
+    license: "CC BY 4.0",
     links: {},
     headingFont: "Special Elite",
     textFont: "Urbanist",
