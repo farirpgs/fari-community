@@ -5,7 +5,7 @@ export default function getData(): ICreatorData {
     name: "Live Real Productions",
     links: {
       twitter: "https://twitter.com/jwalberg4",
-      website: "https://liverealproductions.com/",
+      Website: "https://liverealproductions.com/",
     },
   };
 }

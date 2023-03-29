@@ -5,7 +5,7 @@ export default function getData(): ICreatorData {
     name: "Don Bisdorf",
     links: {
       twitter: "https://twitter.com/dbisdorf",
-      website: "https://www.donbisdorf.com/",
+      Website: "https://www.donbisdorf.com/",
     },
   };
 }

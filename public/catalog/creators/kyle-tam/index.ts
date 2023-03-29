@@ -5,7 +5,7 @@ export default function getData(): ICreatorData {
     name: "Kyle Tam",
     links: {
       twitter: "https://twitter.com/PercyPropa?s=20",
-      website: "https://urania-games.itch.io/",
+      Website: "https://urania-games.itch.io/",
     },
   };
 }

@@ -5,7 +5,7 @@ export default function getData(): IProjectData {
     name: "Jesse Ross",
     links: {
       twitter: "https://twitter.com/jesseross",
-      website: "https://jesseross.com/",
+      Website: "https://jesseross.com/",
     },
   };
 }

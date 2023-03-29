@@ -4,7 +4,7 @@ export default function getData(): ICreatorData {
   return {
     name: "Penflower Ink",
     links: {
-      website: "https://www.penflower-ink.com/",
+      Website: "https://www.penflower-ink.com/",
       twitter: "https://twitter.com/tomfummo",
     },
   };

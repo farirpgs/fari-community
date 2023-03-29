@@ -5,7 +5,7 @@ export default function getData(): ICreatorData {
     name: "WuDeRPG",
     links: {
       twitter: "https://twitter.com/WuDeRPG",
-      website: "https://wuderpg.wordpress.com/",
+      Website: "https://wuderpg.wordpress.com/",
     },
   };
 }

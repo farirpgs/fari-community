@@ -5,7 +5,7 @@ export default function getData(): ICreatorData {
     name: "Rowan Rook & Decard",
     links: {
       twitter: "https://twitter.com/gshowitt",
-      website: "rrdgames.com",
+      Website: "rrdgames.com",
     },
     description:
       "Independent game design studio based in Québec, Canada that focuses on action packed, fiction-driven, and accessible gaming experiences.",

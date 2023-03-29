@@ -6,7 +6,7 @@ export default function getData(): IProjectData {
     license: "CC BY 3.0",
     links: {
       twitter: "https://twitter.com/jwalberg4",
-      website: "https://liverealproductions.com/",
+      Website: "https://liverealproductions.com/",
     },
   };
 }

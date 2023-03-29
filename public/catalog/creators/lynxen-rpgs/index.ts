@@ -5,7 +5,7 @@ export default function getData(): ICreatorData {
     name: "Lynxen RPGs",
     links: {
       twitter: "https://twitter.com/CrackersCheese2",
-      website: "https://lynxen-rpgs.itch.io",
+      Website: "https://lynxen-rpgs.itch.io",
     },
   };
 }

@@ -5,7 +5,7 @@ export default function getData(): ICreatorData {
     name: "Pandion Games",
     links: {
       twitter: "https://twitter.com/PandionGames",
-      website: "https://www.pandiongames.com/",
+      Website: "https://www.pandiongames.com/",
     },
   };
 }

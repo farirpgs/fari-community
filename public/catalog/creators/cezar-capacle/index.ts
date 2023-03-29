@@ -5,7 +5,7 @@ export default function getData(): ICreatorData {
     name: "Cezar Capacle",
     links: {
       twitter: "https://twitter.com/capacle",
-      website: "https://capacle.bio.link/",
+      Website: "https://capacle.bio.link/",
     },
   };
 }

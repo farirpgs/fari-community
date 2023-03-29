@@ -4,7 +4,7 @@ export default function getData(): ICreatorData {
   return {
     name: "Peach Garden Games",
     links: {
-      website: "http://www.peachgardengames.com",
+      Website: "http://www.peachgardengames.com",
       twitter: "https://twitter.com/peachgardenrpgs",
     },
   };
