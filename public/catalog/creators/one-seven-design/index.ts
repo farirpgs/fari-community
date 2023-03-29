@@ -5,7 +5,7 @@ export default function getData(): ICreatorData {
     name: "One Seven Design",
     links: {
       Website: "http://www.onesevendesign.com/",
-      itch: "https://johnharper.itch.io/",
+      "Itch.io": "https://johnharper.itch.io/",
     },
   };
 }

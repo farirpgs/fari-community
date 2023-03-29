@@ -6,7 +6,7 @@ export default function getData(): IProjectData {
     description: "A story-first, push-your-luck system for your games",
     license: "CC BY 4.0",
     links: {
-      itch: "https://capacle.itch.io/push",
+      "Itch.io": "https://capacle.itch.io/push",
     },
     headingFont: "Text Me One",
     textFont: "Barlow Semi Condensed",
