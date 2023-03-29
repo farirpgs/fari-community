@@ -20,7 +20,6 @@ import {
   Divider,
   Flex,
   Heading,
-  Hide,
   Icon,
   Input,
   InputGroup,
@@ -113,21 +112,21 @@ export function Project(props: {
   const rawPageLink = `https://raw.githubusercontent.com/fariapp/fari-community/main/public/catalog/creators/${props.creator.creatorSlug}/${props.project.projectSlug}/index.md`;
 
   return (
-    <Container maxWidth="container.xl" pt={["4", "4", "32"]}>
+    <Container maxWidth="container.xl" pt={["4", "4", "4", "32"]}>
       <style
         className="fari-doc-style"
         dangerouslySetInnerHTML={{
           __html: props.project.data?.css ?? "",
         }}
       />
-      <Hide above="md">
+      <Box display={["block", "block", "block", "none"]}>
         <Box mb="2">
           <Stack spacing={4}>
             {renderSearch()}
             {renderLanguageSelector()}
           </Stack>
         </Box>
-      </Hide>
+      </Box>
 
       <Stack
         mb="4"
@@ -137,11 +136,12 @@ export function Project(props: {
         justifyContent={[
           "flex-start",
           "flex-start",
+          "flex-start",
           "space-between",
           "space-between",
         ]}
       >
-        <Hide below="md">
+        <Box display={["none", "none", "none", "block"]}>
           <Breadcrumb>
             <BreadcrumbItem>
               <BreadcrumbLink as="span">
@@ -155,7 +155,7 @@ export function Project(props: {
               </BreadcrumbLink>
             </BreadcrumbItem>
           </Breadcrumb>
-        </Hide>
+        </Box>
         <ButtonGroup>
           <Button
             colorScheme="brand"
@@ -192,8 +192,8 @@ export function Project(props: {
             position="sticky"
             overscrollBehavior="contain"
             top="2rem"
-            display={["none", "none", "block", "block"]}
-            width={[per(0), per(0), per(3), per(3)]}
+            display={["none", "none", "none", "block"]}
+            width={[per(0), per(0), per(0), per(3), per(3)]}
             height="calc(100vh - 2rem)"
             overflowY="auto"
             flexShrink={0}
@@ -226,8 +226,8 @@ export function Project(props: {
 
           <Box
             pb="32"
-            width={[per(12), per(12), per(9), per(7)]}
-            px={[0, 0, "1rem", "2rem"]}
+            width={[per(12), per(12), per(12), per(9), per(7)]}
+            px={[0, 0, 0, "1rem", "2rem"]}
           >
             <Stack spacing={4}>
               <Prose>
@@ -319,13 +319,13 @@ export function Project(props: {
           }
         >
           {props.doc.previousPage && (
-            <WrapItem width={["100%", "100%", "auto"]}>
+            <WrapItem width={["100%", "100%", "100%", "auto"]}>
               <Link
-                width={["100%", "100%", "auto"]}
+                width={["100%", "100%", "100%", "auto"]}
                 href={`/creators/${props.creator.creatorSlug}/projects/${props.project.projectSlug}/${props.doc.previousPage.id}`}
               >
                 <Button
-                  width={["100%", "100%", "auto"]}
+                  width={["100%", "100%", "100%", "auto"]}
                   variant="outline"
                   leftIcon={<ArrowBackIcon />}
                   size="md"
@@ -337,13 +337,13 @@ export function Project(props: {
             </WrapItem>
           )}
           {props.doc.nextPage && (
-            <WrapItem width={["100%", "100%", "auto"]}>
+            <WrapItem width={["100%", "100%", "100%", "auto"]}>
               <Link
-                width={["100%", "100%", "auto"]}
+                width={["100%", "100%", "100%", "auto"]}
                 href={`/creators/${props.creator.creatorSlug}/projects/${props.project.projectSlug}/${props.doc.nextPage.id}`}
               >
                 <Button
-                  width={["100%", "100%", "auto"]}
+                  width={["100%", "100%", "100%", "auto"]}
                   variant="outline"
                   rightIcon={<ArrowForwardIcon />}
                   size="md"

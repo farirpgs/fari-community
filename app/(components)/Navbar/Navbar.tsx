@@ -15,7 +15,6 @@ import {
   MenuButton,
   MenuItem,
   MenuList,
-  Show,
   Stack,
   useColorMode,
 } from "@chakra-ui/react";
@@ -47,7 +46,7 @@ export function Navbar() {
                 Browse
               </Button>
             </Box>
-            <Show above="md">
+            <Box display={["none", "none", "none", "block"]}>
               <Menu>
                 <MenuButton
                   variant="link"
@@ -61,7 +60,6 @@ export function Navbar() {
                   Fari Projects
                 </MenuButton>
                 <MenuList alignItems="center">
-                  {/* <MenuDivider /> */}
                   <MenuItem
                     as={Link}
                     href="/creators/fari-rpgs/projects/charge"
@@ -80,9 +78,7 @@ export function Navbar() {
                   >
                     Firelights
                   </MenuItem>
-                  {/* <MenuItem as={Link} href="/creators/fari-rpgs/projects/firelights">
-                  Firelights
-                </MenuItem> */}
+
                   <MenuItem
                     as={Link}
                     href="/creators/fari-rpgs/projects/hopes-and-dreams"
@@ -91,12 +87,12 @@ export function Navbar() {
                   </MenuItem>
                 </MenuList>
               </Menu>
-            </Show>
+            </Box>
           </Stack>
 
           <Flex alignItems="center">
             <Stack direction="row" spacing={4}>
-              <Show above="md">
+              <Box display={["none", "none", "none", "block"]}>
                 <Button
                   leftIcon={<AddIcon />}
                   as={Link}
@@ -113,7 +109,7 @@ export function Navbar() {
                 >
                   Join our Discord
                 </Button>
-              </Show>
+              </Box>
               <Button
                 aria-label="Toggle Dark Mode"
                 onClick={colorModeManager.toggleColorMode}
