@@ -56,7 +56,7 @@ export function Project(props: {
   const [search, setSearch] = useState("");
   const scrollTo = searchParams.get("scrollTo");
   const cardBackground = useColorModeValue("gray.50", "gray.600");
-  const brand = useColorModeValue("brand.500", "brand.100");
+  const brand = useColorModeValue("brand.500", "brand.200");
 
   useEffect(() => {
     if (scrollTo) {
