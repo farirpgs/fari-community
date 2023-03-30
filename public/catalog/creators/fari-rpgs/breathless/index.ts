@@ -4,7 +4,7 @@ export default function getData(): IProjectData {
   return {
     name: "Breathless",
     description:
-      "Design your own survival horror games with the Breathless System",
+      "Design your own survival horror games with the Breathless System.",
     license: "CC BY 4.0",
     links: {
       "Game PDF": "https://breathless.farirpgs.com/game",
@@ -14,7 +14,7 @@ export default function getData(): IProjectData {
     headingFont: "Cheddar Gothic Stencil",
     textFont: "Lato",
     css: `
-    @import url('https://fonts.googleapis.com/css2?family=Latodisplay=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
     @import url("https://fonts.cdnfonts.com/css/cheddar-gothic-stencil");
     article h1 {
         font-family: "Cheddar Gothic Stencil", sans-serif !important;

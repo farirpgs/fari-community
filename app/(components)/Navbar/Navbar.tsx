@@ -99,7 +99,7 @@ export function Navbar() {
               <Box display={["none", "none", "none", "block"]}>
                 <Button
                   as={Link}
-                  href="/creators/fari-rpgs/projects/fari-community"
+                  href="/creators/fari-rpgs/projects/fari-community/adding-content"
                   leftIcon={<Icon as={AddIcon} />}
                 >
                   Add Your Own Content

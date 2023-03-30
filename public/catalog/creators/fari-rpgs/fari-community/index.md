@@ -2,11 +2,181 @@
 
 Welcome to Fari Community, a place where you can find tons of free and open licensed resources for tabletop role-playing games.
 
-Every single page on this site is publically available on GitHub and can be edited by anyone.
+Look at the side navigation on the left ← to find the content you are looking for.
 
-If you are looking to **add your own content** to the site, just read the instructions laid out in this document and if you need anyhelp, feel free to [**reach out to us on Discord**](https://farirpgs.com/discord).
+# Adding Content | Site Management
 
-# Structure | Getting Started
+If you are looking to **add your own content** to the site, there are two ways you can do so depending if you are familiar with Git and Markdown or not.
+
+## I'm Familiar with Git and Markdown
+
+If you are familiar with Git and Markdown, you can [**fork the Fari Community repository**](https://github.com/fariapp/fari-community) and read the content of this wiki to learn how to add your own content and how the site is structured.
+
+## I'm Not Familiar with Git and Markdown
+
+In this case, you'll need help from members of the Fari Community to add your content to the site. To add your content, you'll need to provide us the following information:
+
+### Creator Details
+
+If this is your firstime adding content to the site, you'll need to provide us with some information about yourself or your organization.
+
+#### Creator name (Required)
+
+This is the name of the person or organization that created the content.
+
+e.g.
+
+```
+Fari RPGs
+```
+
+#### Creator description (Required)
+
+This is a short description of the person or organization that created the content. (max. 160 characters)
+
+e.g.
+
+```
+Independent game design studio based in Québec, Canada that focuses on action packed, fiction-driven, and accessible gaming experiences.
+```
+
+### Advanced Creator Details Information
+
+For more advanced users, you can also provide us with some additional information to customize the way your content is displayed on the site.
+
+#### Creator links (Optional)
+
+This is a dictionary of links to the creator's website's social media accounts.
+
+```ts
+{
+  twitter: "https://twitter.com/RPDeshaies",
+  website: "https://farirpgs.com",
+}
+```
+
+### Project Details
+
+When adding a new project to the site, you'll need to provide us with some information about the project.
+
+#### Project name (Required)
+
+This is the name of the project that you want to add to the site.
+
+e.g.
+
+```
+Breathless
+```
+
+#### Project description (Required)
+
+This is a short description of the project that you want to add to the site. (max. 160 characters)
+
+e.g.
+
+```
+Design your own survival horror games with the Breathless System.
+```
+
+#### Project image (Required)
+
+This is an image that will be used to represent the project on the site. The image should be a `png` or `jpg` file, should be named `image.png` or `image.jpg`, and should have a resolution of `630px500px` (or have a similar aspect ratio).
+
+e.g.
+
+<img src="https://raw.githubusercontent.com/fariapp/fari-community/main/public/catalog/creators/fari-rpgs/breathless/image.png" width='200px'/>
+
+#### Project content (Required)
+
+This is the content of the project that you want to add to the site. The content should be written in Markdown text file (`.md`) and should be named `index.md`.
+
+e.g.
+
+```md
+\# Breathless
+
+Design your own survival horror games with the Breathless System.
+
+\## What is Breathless?
+
+> The city has been walled up from the outside. You are stuck with breathless Crawlers roaming as far as the eye can see. You are surrounded by strangers, and the only thing left to do is survive. You can’t give up now.
+
+**Breathless** is a survival horror role-playing game where you play as Survivors trying to stay alive in a walled city full of Crawlers (zombies). The entire game fits on two sides of a letter-sized sheet of paper, making it the perfect game to print at home and enjoy for a nice and cozy zombie killing one shot.
+The game is inspired by things like: Shaun of the Dead, Left 4 Dead, The Last of Us, and other great zombie related media. Basically, if you want to kill some breathless living dead, this is the game you are looking for.
+
+...
+...
+```
+
+### Advanced Project Details Information
+
+For more advanced users, you can also provide us with some additional information to customize the way your content is displayed on the site.
+
+#### Project links (Optional)
+
+This is a dictionary of links to the project's website's social media accounts.
+
+e.g.
+
+```ts
+{
+  "Itch.io": "https://fari-rpgs.itch.io/breathless-srd",
+  website: "https://breathless.farirpgs.com/",
+}
+```
+
+#### License (Optional)
+
+This is the license that the project is under.
+
+e.g.
+
+```
+CC BY 4.0
+```
+
+#### CSS (Optional)
+
+This is the inline CSS that will be applied to the project's content. This is where you can import fonts, change the color of the text, etc.
+
+> **⚠️ Important**
+>
+> Every CSS customization needs to be prefixed by `article` to avoid affecting the rest of the site.\*\*
+
+e.g.
+
+```css
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
+
+article h2 {
+  background: #333;
+  color: #fff;
+}
+```
+
+#### Heading Font (Optional)
+
+This is the font that will be used for the project's headings. This fonts needs to be imported using the `CSS` field.
+
+e.g.
+
+```
+Roboto
+```
+
+#### Text Font (Optional)
+
+This is the font that will be used for the project's content. This fonts needs to be imported using the `CSS` field.
+
+e.g.
+
+```
+Lato
+```
+
+# Structure | Site Management
 
 The Fari Community's site is all based on the file structure of the [`public/catalog`](https://github.com/fariapp/fari-community/tree/main/public/catalog) folder.
 
@@ -202,3 +372,7 @@ The following properties are available for you to use:
 | `name`        | The project's name.                                            | The project's identifier converted to title case |
 | `description` | A short description of the project.                            | `""`                                             |
 | `links`       | A dictionary of links to the project's website's social media. | `{}`                                             |
+| `license`     | The project's license.                                         | `"Unknown"`                                      |
+| `css`         | Inline CSS to inject in the project's page.                    | `undefined`                                      |
+| `headingFont` | The font to use for the project's heading.                     | `"Inter"`                                        |
+| `textFont`    | The font to use for the project's body.                        | `"Inter"`                                        |

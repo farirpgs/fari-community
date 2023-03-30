@@ -259,6 +259,17 @@ export function Project(props: {
                         ? "uppercase"
                         : "none",
                     },
+                    "& h2": {
+                      borderTop: "1px solid",
+                      borderColor: "gray.200",
+                      marginTop: "3rem  !important",
+                      marginBottom: "1rem  !important",
+                      paddingTop: "1.5rem",
+                    },
+                    "& h3": {
+                      marginTop: "2rem  !important",
+                      marginBottom: "0  !important",
+                    },
                     "& p,li,td,th": {
                       fontSize: "1.125rem",
                       lineHeight: "1.75rem",
