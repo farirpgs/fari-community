@@ -105,7 +105,7 @@ export function Home(props: { creators: Array<ICreator> }) {
                     fontSize="1.25rem"
                     variant="outline"
                   >
-                    Read the Wiki
+                    Read the wiki
                   </Button>
                 </Stack>
               </Flex>
