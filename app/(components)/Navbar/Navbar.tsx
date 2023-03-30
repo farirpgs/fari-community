@@ -100,8 +100,6 @@ export function Navbar() {
                 <Button
                   as={Link}
                   href="/creators/fari-rpgs/projects/fari-community"
-                  target="_blank"
-                  rel="noopener noreferrer"
                   leftIcon={<Icon as={AddIcon} />}
                 >
                   Add Your Own Content
