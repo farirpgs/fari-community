@@ -3,6 +3,7 @@ import "./global.css";
 import { LayoutComponent } from "./layout-component";
 
 import { Inter } from "next/font/google";
+import Script from "next/script";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -51,6 +52,22 @@ export default function RootLayout(props: { children: React.ReactNode }) {
       <head />
       <body>
         <LayoutComponent>{props.children}</LayoutComponent>
+        <Script
+          async
+          src="https://www.googletagmanager.com/gtag/js?id=G-J6GE46YQYE"
+          strategy="afterInteractive"
+        />
+
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+           window.dataLayer = window.dataLayer || [];
+           function gtag(){dataLayer.push(arguments);}
+           gtag('js', new Date());
+           gtag('config', 'J6GE46YQYE', {
+           page_path: window.location.pathname,
+           });
+           `}
+        </Script>
       </body>
     </html>
   );
