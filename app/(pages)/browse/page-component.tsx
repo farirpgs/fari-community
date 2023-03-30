@@ -65,6 +65,7 @@ export default function Browse(props: { creators: Array<ICreator> }) {
         <FormControl>
           <FormLabel>Filter</FormLabel>
           <Input
+            autoFocus
             placeholder="Search"
             size="lg"
             value={search}
