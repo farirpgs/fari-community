@@ -3,7 +3,8 @@ import { IProjectData } from "public/catalog/loader";
 export default function getData(): IProjectData {
   return {
     name: "Breathless",
-    description: "An SRD for creating Breathless games",
+    description:
+      "Design your own survival horror games with the Breathless System",
     license: "CC BY 4.0",
     links: {
       "Game PDF": "https://breathless.farirpgs.com/game",

@@ -2,7 +2,7 @@ import { IProjectData } from "public/catalog/loader";
 
 export default function getData(): IProjectData {
   return {
-    name: "Charge",
+    name: "Charge RPG",
     license: "CC BY 4.0",
     description:
       "A generic and fiction first RPG system to power your action packed adventures.",

@@ -3,7 +3,7 @@ import { IProjectData } from "public/catalog/loader";
 export default function getData(): IProjectData {
   return {
     name: "Firelights",
-    description: "An SRD for creating Firelights games",
+    description: "Easily create solo exploration RPG Guided by Firelights",
     license: "CC BY 4.0",
     links: {
       "Game PDF": "https://firelights.farirpgs.com/game",

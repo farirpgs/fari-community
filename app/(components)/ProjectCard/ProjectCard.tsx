@@ -13,7 +13,11 @@ import {
 } from "@chakra-ui/react";
 import { ICreator, IProject } from "public/catalog/loader";
 
-export function ProjectCard(props: { creator: ICreator; project: IProject }) {
+export function ProjectCard(props: {
+  creator: ICreator;
+  project: IProject;
+  condensed?: boolean;
+}) {
   return (
     <>
       <Card
@@ -23,7 +27,6 @@ export function ProjectCard(props: { creator: ICreator; project: IProject }) {
         height="100%"
         display="flex"
         flexDirection="column"
-        // shadow="md"
       >
         <CardBody p="0" borderRadius="lg" display="flex" flexDirection="column">
           <Box
@@ -77,27 +80,38 @@ export function ProjectCard(props: { creator: ICreator; project: IProject }) {
             )}
           </Box>
 
-          <Stack my="6" spacing="3" px="4" display="flex" flex="1 0 auto">
+          <Stack my="4" spacing="3" px="4" display="flex" flex="1 0 auto">
             <Heading
-              size="md"
+              size="sm"
               variant="link"
               as={Link}
+              textAlign="left"
               href={`/creators/${props.creator.creatorSlug}/projects/${props.project.projectSlug}`}
             >
               {props.project.data?.name}
             </Heading>
-            <Text>{props.project.data?.description}</Text>
-            <Box marginTop="auto !important">
-              <Divider marginTop="4" marginBottom="4" />
-              <Button
-                as={Link}
-                _hover={{ textDecoration: "none" }}
-                href={`/creators/${props.creator.creatorSlug}`}
-                variant="link"
+            {!props.condensed && (
+              <Text
+                textAlign="left"
+                noOfLines={2}
+                title={props.project.data?.description}
               >
-                {props.creator.data?.name}
-              </Button>
-            </Box>
+                {props.project.data?.description}
+              </Text>
+            )}
+            {!props.condensed && (
+              <Box marginTop="auto !important" textAlign="left">
+                <Divider marginTop="4" marginBottom="4" />
+                <Button
+                  as={Link}
+                  _hover={{ textDecoration: "none" }}
+                  href={`/creators/${props.creator.creatorSlug}`}
+                  variant="link"
+                >
+                  By {props.creator.data?.name}
+                </Button>
+              </Box>
+            )}
           </Stack>
         </CardBody>
       </Card>

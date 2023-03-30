@@ -1,9 +1,9 @@
+import { loader } from "public/catalog/loader";
 import { Home } from "./page-component";
 
 export async function generateMetadata(props: Parameters<typeof Page>[0]) {
   return {
     title: `Fari Community | Free TTRPG Resources`,
-
     icons: {
       icon: [
         {
@@ -16,10 +16,10 @@ export async function generateMetadata(props: Parameters<typeof Page>[0]) {
         },
       ],
     },
-    // other: {},
   };
 }
 
-export default function Page(props: {}) {
-  return <Home />;
+export default async function Page(props: {}) {
+  const allCreators = await loader.getAllCreators();
+  return <Home creators={allCreators} />;
 }

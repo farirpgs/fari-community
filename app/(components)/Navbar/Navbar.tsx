@@ -24,7 +24,11 @@ export function Navbar() {
   const colorModeManager = useColorMode();
   const pathname = usePathname();
   return (
-    <Box>
+    <Box
+      background={colorModeManager.colorMode === "light" ? "white" : "black"}
+      position="relative"
+      zIndex={1}
+    >
       <Container background="" height="4rem" maxWidth="container.xl">
         <Flex h={16} alignItems="center" justifyContent="space-between">
           <Stack direction="row" spacing={4}>
@@ -115,6 +119,14 @@ export function Navbar() {
                 </Button>
               </Box>
               <Button
+                as={Link}
+                href="https://github.com/fariapp/fari-community"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <BsGithub />
+              </Button>
+              <Button
                 aria-label="Toggle Dark Mode"
                 onClick={colorModeManager.toggleColorMode}
               >
@@ -123,14 +135,6 @@ export function Navbar() {
                 ) : (
                   <SunIcon />
                 )}
-              </Button>
-              <Button
-                as={Link}
-                href="https://github.com/fariapp/fari-community"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <BsGithub />
               </Button>
             </Stack>
           </Flex>
