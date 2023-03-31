@@ -33,11 +33,17 @@ export async function generateMetadata(props: Parameters<typeof Page>[0]) {
     openGraph: {
       title: title,
       description: description,
+      url: `https://fari.community/creators/${props.params.creatorSlug}/projects/${props.params.projectSlug}/${props.params.pageSlug}`,
+      siteName: "Fari Community",
       images: [
         {
           url: project.image ?? "",
+          width: 630,
+          height: 500,
         },
       ],
+      locale: "en-US",
+      type: "article",
     },
   };
 }

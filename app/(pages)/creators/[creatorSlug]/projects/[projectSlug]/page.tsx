@@ -9,16 +9,6 @@ export async function generateMetadata(props: Parameters<typeof Page>[0]) {
     props.params.projectSlug
   );
 
-  const fileContents = await loader.getProjectMarkdown(
-    props.params.creatorSlug,
-    props.params.projectSlug
-  );
-
-  const doc = new DocParser({
-    currentChapterId: undefined,
-    markdown: fileContents,
-  }).getDoc();
-
   const title = `${project.data.name} - ${creator.data?.name} - Fari Community`;
   return {
     title: title,
@@ -26,11 +16,17 @@ export async function generateMetadata(props: Parameters<typeof Page>[0]) {
     openGraph: {
       title: title,
       description: project.data.description,
+      url: `https://fari.community/creators/${props.params.creatorSlug}/projects/${props.params.projectSlug}`,
+      siteName: "Fari Community",
       images: [
         {
           url: project.image ?? "",
+          width: 630,
+          height: 500,
         },
       ],
+      locale: "en-US",
+      type: "article",
     },
   };
 }
