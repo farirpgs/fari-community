@@ -84,7 +84,10 @@ export function Home(props: { creators: Array<ICreator> }) {
               </Heading>
 
               <Flex justifyContent="center" pt={8}>
-                <Stack direction="row" spacing={4}>
+                <Stack
+                  direction={["column", "column", "column", "row"]}
+                  spacing={4}
+                >
                   <Button
                     as={Link}
                     href="/browse"
