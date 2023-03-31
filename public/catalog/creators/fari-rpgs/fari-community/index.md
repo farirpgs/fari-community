@@ -176,6 +176,10 @@ e.g.
 Lato
 ```
 
+### Sending My Content
+
+Once you have all the information ready, you can send it to us by creating a new post on the [Fari Community Content Channel](https://discord.gg/NCjZbrErFK) on our Discord
+
 # Structure | Site Management
 
 The Fari Community's site is all based on the file structure of the [`public/catalog`](https://github.com/fariapp/fari-community/tree/main/public/catalog) folder.
