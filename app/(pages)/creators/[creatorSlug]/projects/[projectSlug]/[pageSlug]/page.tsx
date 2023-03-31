@@ -37,7 +37,7 @@ export async function generateMetadata(props: Parameters<typeof Page>[0]) {
       siteName: "Fari Community",
       images: [
         {
-          url: project.image ?? "",
+          url: `https://fari.community${project.image}` ?? "",
           width: 630,
           height: 500,
         },

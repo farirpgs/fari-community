@@ -19,11 +19,11 @@ export async function generateMetadata(
     icons: {
       icon: [
         {
-          url: "/images/favicon-light.png",
+          url: "https://fari.community/images/favicon-light.png",
           media: "(prefers-color-scheme: light)",
         },
         {
-          url: "/images/favicon-dark.png",
+          url: "https://fari.community/images/favicon-dark.png",
           media: "(prefers-color-scheme: dark)",
         },
       ],
@@ -35,7 +35,7 @@ export async function generateMetadata(
       siteName: "Fari Community",
       images: [
         {
-          url: "/images/og.png",
+          url: "https://fari.community/images/og.png",
           width: 800,
           height: 600,
         },

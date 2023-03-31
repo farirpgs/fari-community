@@ -39,8 +39,9 @@ import {
   WrapItem,
 } from "@chakra-ui/react";
 import { Prose } from "@nikolovlazar/chakra-ui-prose";
+import { getClientSideValue } from "app/(domains)/browser/getClientSideValue";
 import { IDoc } from "app/(domains)/documents/DocParser";
-import { useSearchParams, useServerInsertedHTML } from "next/navigation";
+import { useServerInsertedHTML } from "next/navigation";
 import { ICreator, IProject } from "public/catalog/loader";
 import { useEffect, useState } from "react";
 import { FaHashtag } from "react-icons/fa";
@@ -52,13 +53,20 @@ export function Project(props: {
   project: IProject;
   doc: IDoc;
 }) {
-  const searchParams = useSearchParams();
+  const scrollTo = getClientSideValue(() => {
+    const searchParams = new URLSearchParams(location.search);
+    const scrollTo = searchParams.get("scrollTo") || "";
+    return scrollTo;
+  }, "");
 
   const [searchOpen, setSearchOpen] = useState(false);
   const [search, setSearch] = useState("");
-  const scrollTo = searchParams.get("scrollTo");
   const cardBackground = useColorModeValue("gray.50", "gray.600");
   const brand = useColorModeValue("brand.500", "brand.200");
+  const creatorLink = `/creators/${props.creator.creatorSlug}`;
+  const projectLink = `/creators/${props.creator.creatorSlug}/projects/${props.project.projectSlug}`;
+  const editPageLink = `https://github.com/fariapp/fari-community/edit/main/public/catalog/creators/${props.creator.creatorSlug}/${props.project.projectSlug}/index.md#:~:text=${props.doc.currentPage.title}`;
+  const rawPageLink = `https://raw.githubusercontent.com/fariapp/fari-community/main/public/catalog/creators/${props.creator.creatorSlug}/${props.project.projectSlug}/index.md`;
 
   useServerInsertedHTML(() => {
     return (
@@ -118,11 +126,6 @@ export function Project(props: {
       heading.appendChild(anchor);
     });
   }, []);
-
-  const creatorLink = `/creators/${props.creator.creatorSlug}`;
-  const projectLink = `/creators/${props.creator.creatorSlug}/projects/${props.project.projectSlug}`;
-  const editPageLink = `https://github.com/fariapp/fari-community/edit/main/public/catalog/creators/${props.creator.creatorSlug}/${props.project.projectSlug}/index.md#:~:text=${props.doc.currentPage.title}`;
-  const rawPageLink = `https://raw.githubusercontent.com/fariapp/fari-community/main/public/catalog/creators/${props.creator.creatorSlug}/${props.project.projectSlug}/index.md`;
 
   return (
     <Container maxWidth="container.xl" pt={["4", "4", "4", "32"]}>
@@ -712,3 +715,59 @@ export function Project(props: {
     );
   }
 }
+
+// function SearchThing() {
+//   // const searchParams = useSearchParams();
+//   const searchParams = new URLSearchParams(location.search);
+
+//   const scrollTo = searchParams.get("scrollTo") || "";
+
+//   useEffect(() => {
+//     if (scrollTo) {
+//       const element = document.getElementById(scrollTo);
+//       if (element) {
+//         element.scrollIntoView();
+//       }
+//     }
+//   }, [scrollTo]);
+
+//   useEffect(() => {
+//     const article = document.querySelector("article");
+//     const headings = article?.querySelectorAll(
+//       "h1,h2,h3,h4,h5,h6"
+//     ) as unknown as Array<HTMLElement>;
+
+//     headings?.forEach((heading) => {
+//       heading.style.position = "relative";
+
+//       const anchor = document.createElement("a");
+//       anchor.setAttribute("href", `?scrollTo=${heading.id}`);
+//       anchor.style.opacity = "0";
+//       anchor.style.transition = "opacity 0.1s ease-in-out";
+//       anchor.innerHTML = "#";
+//       const spacer = document.createElement("span");
+//       spacer.innerHTML = "&nbsp;&nbsp;";
+
+//       const existingAnchor = heading.querySelector("a");
+//       if (existingAnchor) {
+//         existingAnchor.remove();
+//       }
+//       const existingSpacer = heading.querySelector("span");
+//       if (existingSpacer) {
+//         existingSpacer.remove();
+//       }
+
+//       heading.addEventListener("mouseover", () => {
+//         anchor.style.opacity = ".5";
+//       });
+//       heading.addEventListener("mouseout", () => {
+//         anchor.style.opacity = "0";
+//       });
+
+//       heading.appendChild(spacer);
+//       heading.appendChild(anchor);
+//     });
+//   }, []);
+
+//   return null;
+// }
