@@ -35,7 +35,7 @@ _This work is based on The Hints and Hijinx System, product of Pandion Games (<h
 
 ![](https://img.itch.zone/aW1hZ2UvMTg4NjA2Ny8xMTA5MzMyNy5wbmc=/original/CYgSGu.png)
 
-# Notes and Commentary | Designer Commentary
+# Notes and Commentary
 
 In this section, we’ll discuss the thoughts and design elements of the Hints and Hijinx System, why we made them the way we did, and discuss ways you can tweak them to fit your own game.
 
@@ -173,7 +173,7 @@ If you tie complications to locations, you can also tie the resolution of that c
 
 Part of the larger design goals at Pandion is turning the game book themselves into play session artifacts by providing space for a character sheet, map drawing, or journaling directly in the book. We think it’s neat.
 
-# Hints and Hijinx Game Template | Game Template
+# Hints and Hijinx Game Template
 
 ## Introduction
 
