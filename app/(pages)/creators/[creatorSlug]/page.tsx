@@ -47,9 +47,9 @@ export default async function Page(props: {
 
 export async function generateStaticParams() {
   const creators = await loader.getAllCreators();
-  return creators.map((c) => {
+  return creators.map((creator) => {
     return {
-      creatorSlug: c.creatorSlug,
+      creatorSlug: creator.creatorSlug,
     };
   });
 }

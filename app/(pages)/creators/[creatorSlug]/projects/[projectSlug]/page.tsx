@@ -69,18 +69,18 @@ export async function generateStaticParams() {
 
   const params: { creatorSlug: string; projectSlug: string }[] = [];
 
-  for (const c of creators) {
-    const projects = await loader.getCreatorProjects(c.creatorSlug);
-    for (const p of projects) {
+  for (const creator of creators) {
+    const projects = await loader.getCreatorProjects(creator.creatorSlug);
+    for (const project of projects) {
       params.push({
-        creatorSlug: c.creatorSlug,
-        projectSlug: p.projectSlug,
+        creatorSlug: creator.creatorSlug,
+        projectSlug: project.projectSlug,
       });
 
-      for (const language of p.languages) {
+      for (const language of project.languages) {
         params.push({
-          creatorSlug: c.creatorSlug,
-          projectSlug: `${p.projectSlug}.${language}`,
+          creatorSlug: creator.creatorSlug,
+          projectSlug: `${project.projectSlug}.${language}`,
         });
       }
     }

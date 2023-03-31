@@ -91,22 +91,33 @@ export async function generateStaticParams() {
     pageSlug: string;
   }[] = [];
 
-  for (const c of creators) {
-    const projects = await loader.getCreatorProjects(c.creatorSlug);
-    for (const p of projects) {
+  for (const creator of creators) {
+    const projects = await loader.getCreatorProjects(creator.creatorSlug);
+    const projectSlugs = [];
+
+    for (const project of projects) {
+      projectSlugs.push(project.projectSlug);
+      for (const language of project.languages) {
+        projectSlugs.push(`${project.projectSlug}.${language}`);
+      }
+    }
+
+    for (const projectSlug of projectSlugs) {
+      // handle default language
       const fileContents = await loader.getProjectMarkdown(
-        c.creatorSlug,
-        p.projectSlug
+        creator.creatorSlug,
+        projectSlug
       );
 
       const doc = new DocParser({
         currentChapterId: undefined,
         markdown: fileContents,
       }).getDoc();
+
       doc.pages.forEach((page) => {
         params.push({
-          creatorSlug: c.creatorSlug,
-          projectSlug: p.projectSlug,
+          creatorSlug: creator.creatorSlug,
+          projectSlug: projectSlug,
           pageSlug: page.id,
         });
       });
