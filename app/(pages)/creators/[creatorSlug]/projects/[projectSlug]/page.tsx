@@ -80,6 +80,13 @@ export async function generateStaticParams() {
         creatorSlug: c.creatorSlug,
         projectSlug: p.projectSlug,
       });
+
+      for (const language of p.languages) {
+        params.push({
+          creatorSlug: c.creatorSlug,
+          projectSlug: `${p.projectSlug}.${language}`,
+        });
+      }
     }
   }
 
