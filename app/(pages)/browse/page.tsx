@@ -6,7 +6,6 @@ export async function generateMetadata(
   props: Parameters<typeof Page>[0],
   parent: ResolvingMetadata
 ) {
-  // const previousImages = (await parent).openGraph?.images || [];
   return {
     title: `Browse - Fari Community`,
     description: "Browse all the creators and projects on Fari Community",
@@ -15,7 +14,6 @@ export async function generateMetadata(
       description: "Browse all the creators and projects on Fari Community",
       url: `/browse`,
       siteName: "Fari Community",
-      // images: [...previousImages],
       locale: "en-US",
       type: "website",
     },

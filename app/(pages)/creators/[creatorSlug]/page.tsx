@@ -9,7 +9,6 @@ export async function generateMetadata(
   const creator = await loader.getCreatorData(props.params.creatorSlug);
 
   const title = `${creator.data?.name} - Fari Community`;
-  const previousImages = (await parent).openGraph?.images || [];
 
   return {
     title: title,
@@ -19,7 +18,6 @@ export async function generateMetadata(
       description: creator.data?.description,
       url: `/creators/${props.params.creatorSlug}`,
       siteName: "Fari Community",
-      images: [...previousImages],
       locale: "en-US",
       type: "website",
     },
