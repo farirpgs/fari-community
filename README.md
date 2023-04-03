@@ -6,6 +6,8 @@ This is the repository for the Fari Community website which can be found at [htt
 
 # License
 
+test
+
 This project includes many resources which are licensed under many different licenses. Please refer to the information found in each markdown document to know more about the license of each project.
 
 As for the code of the website, it is licensed under the AGPL-3.0 license, where its details can be found in the [LICENSE](LICENSE) file.
