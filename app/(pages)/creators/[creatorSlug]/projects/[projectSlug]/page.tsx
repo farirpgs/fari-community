@@ -16,7 +16,7 @@ export async function generateMetadata(props: Parameters<typeof Page>[0]) {
     openGraph: {
       title: title,
       description: project.data.description,
-      url: `https://fari.community/creators/${props.params.creatorSlug}/projects/${props.params.projectSlug}`,
+      url: `/creators/${props.params.creatorSlug}/projects/${props.params.projectSlug}`,
       siteName: "Fari Community",
       images: [
         {

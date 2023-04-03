@@ -16,6 +16,7 @@ export async function generateMetadata(
   return {
     title: `Fari Community - Free TTRPG Resources`,
     description: `Free and Open RPG Resources maintained by the Fari Community`,
+    metadataBase: new URL("https://fari.community"),
     icons: {
       icon: [
         {

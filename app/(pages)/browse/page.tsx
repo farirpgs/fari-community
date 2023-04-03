@@ -6,16 +6,16 @@ export async function generateMetadata(
   props: Parameters<typeof Page>[0],
   parent: ResolvingMetadata
 ) {
-  const previousImages = (await parent).openGraph?.images || [];
+  // const previousImages = (await parent).openGraph?.images || [];
   return {
     title: `Browse - Fari Community`,
     description: "Browse all the creators and projects on Fari Community",
     openGraph: {
       title: `Browse - Fari Community`,
       description: "Browse all the creators and projects on Fari Community",
-      url: `https://fari.community/browse`,
+      url: `/browse`,
       siteName: "Fari Community",
-      images: [...previousImages],
+      // images: [...previousImages],
       locale: "en-US",
       type: "website",
     },
