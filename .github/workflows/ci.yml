@@ -43,7 +43,7 @@ jobs:
   deploy-preview:
     needs: [build]
     runs-on: ubuntu-latest
-    if: github.repository == 'fariapp/fari-community' && github.ref != 'refs/heads/main'
+    if: ${{ !github.event.pull_request.head.repo.fork }}
     environment:
       name: Preview
       url: https://${{github.run_id}}--fari-community.netlify.app
@@ -77,7 +77,7 @@ jobs:
   deploy-production:
     needs: [build]
     runs-on: ubuntu-latest
-    if: github.repository == 'fariapp/fari-community' && github.ref == 'refs/heads/main'
+    if: ${{ !github.event.pull_request.head.repo.fork }}
     environment:
       name: Production
       url: https://fari.community
