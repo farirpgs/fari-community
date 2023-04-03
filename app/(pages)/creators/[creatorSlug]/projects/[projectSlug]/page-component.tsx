@@ -240,7 +240,6 @@ export function Project(props: {
           </Box>
 
           <Box
-            pb="32"
             width={[per(12), per(12), per(12), per(9), per(7)]}
             px={[0, 0, 0, "1rem", "2rem"]}
           >

@@ -209,4 +209,5 @@ export type ILicense =
   | "CC BY 3.0"
   | "CC BY 4.0"
   | "CC BY SA 4.0"
-  | "Unknown";
+  | "Unknown"
+  | string;

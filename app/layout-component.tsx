@@ -54,6 +54,7 @@ export const theme = extendTheme(
 
 import { CacheProvider } from "@chakra-ui/next-js";
 import { ChakraProvider } from "@chakra-ui/react";
+import { Footer } from "./(components)/Footer/Footer";
 import { Navbar } from "./(components)/Navbar/Navbar";
 
 export function LayoutComponent(props: { children?: React.ReactNode }) {
@@ -62,6 +63,7 @@ export function LayoutComponent(props: { children?: React.ReactNode }) {
       <ChakraProvider theme={theme}>
         <Navbar />
         {props.children}
+        <Footer />
       </ChakraProvider>
     </CacheProvider>
   );
