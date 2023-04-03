@@ -1,13 +1,13 @@
 ![](https://img.itch.zone/aW1nLzEwNTU4NjE3LmpwZw==/original/OV2IEi.jpg)
 by Pandion Games
 Version 1.0
-*03/31/2023 Note: The game behind the Grove System is undergoing an full overhaul. After that is complete, we expect to release a version 2.0 of The Grove System.*
+_03/31/2023 Note: The game behind the Grove System is undergoing an full overhaul. After that is complete, we expect to release a version 2.0 of The Grove System._
 
-# What is this?
+# What is this? | Grove System
 
 This system reference document is for creating your own games using the rules and mechanics that power [Banda’s Grove: The Quantum Convergence of Campgrounds](https://bandasgrove.com/). A system designed for discovering and exploring communities collaboratively.
 
-# License
+# License | Grove System
 
 The Grove System SRD is released under Creative Commons Attribution CC-BY 4.0.
 
@@ -23,7 +23,7 @@ You may use the Grove System logo to indicate compatibility with The Grove Syste
 
 Not at all! In the document, we provide copy and paste wording for you to drop all the parts into place, and flesh out and tweak however you choose - write detailed settings, or a rolling table, or even simple prompts for players to build out details themselves. If there’s a mechanic you don’t want to use, you can simply ignore it.
 
-![](https://img.itch.zone/aW1nLzEwNTU4NzQ5LnBuZw==/original/rMgAZ%2F.png)  
+![](https://img.itch.zone/aW1nLzEwNTU4NzQ5LnBuZw==/original/rMgAZ%2F.png)
 
 ## Features
 
@@ -37,7 +37,7 @@ Not at all! In the document, we provide copy and paste wording for you to drop a
 - **Facilities** - places that provide **unique moves and bonuses.**
 - **Idea mechanic** - reward players by welcoming new members to a community by presenting them with **new Ideas used to solve big problems.**
 
-# GM Lite
+# GM Lite | Grove System
 
 GM-Lite is a balance between traditional Game Mastered games and GMLess games. One player plays with a special facilitator playbook. The facilitator’s playbook has special actions that replicate GM-like actions (see The Playbook example). By default, they narrate scenes, runs NPCs and Adventure, ask leading questions, and make sure everyone gets a chance in the spotlight.
 
@@ -45,7 +45,7 @@ GM-Lite is a balance between traditional Game Mastered games and GMLess games. O
 
 Because of this, the goal is for the facilitator to transition to being just another character in the story as everyone becomes comfortable running Grove games together.
 
-# Phases of Play
+# Phases of Play | Grove System
 
 There are three Phases of Play. Playing through all three is a **Loop** and is a unit of game time used to measure how long projects take to complete.
 
@@ -53,7 +53,7 @@ There are three Phases of Play. Playing through all three is a **Loop** and is a
 
 A small, encapsulated adventure. Think a 90s television episode. Normally, 45-60 minutes long. During this phase, players are solving a problem and only have access to their playbook Actions and inventory to complete their tasks.
 
-See *Adventures* for how Adventures are written and structured.
+See _Adventures_ for how Adventures are written and structured.
 
 ## Update Phase
 
@@ -65,13 +65,13 @@ A time for players to take care of and interact with the larger community. From 
 
 Each player takes 5 actions during the Macro Phase. If an action involves another player, it only counts against the initiating player. Once all actions are taken, a new Adventure Phase starts and the loop begins again.
 
-***Design Note:*** The Macro phase is meant to zoom out from individuals for players to take wider actions or just have a respite from adventure. Consider different ways that can be integrated into your game.
+**_Design Note:_** The Macro phase is meant to zoom out from individuals for players to take wider actions or just have a respite from adventure. Consider different ways that can be integrated into your game.
 
-# Tracking Projects
+# Tracking Projects | Grove System
 
 Use a d6 to track projects in length of required **loops**to complete, such as building a facility or planning an event. Reduce the tracking die during each Update Phase by 1. Once the die rolls over from 1, the project is complete.
 
-# Tokens
+# Tokens | Grove System
 
 Tokens are the main currency to use Actions or accomplish tasks, instead of dice. Players start with 4 tokens and earn more in several ways.
 
@@ -79,15 +79,15 @@ Tokens are the main currency to use Actions or accomplish tasks, instead of dice
 - Help others, or need help
 - Be a friend, or show character depth
 
-***Design Note:*** We recommend giving a list of options. Above are three broad categories to start. These token-earning actions should reinforce your game’s themes and help define what players should be doing through the game.
+**_Design Note:_** We recommend giving a list of options. Above are three broad categories to start. These token-earning actions should reinforce your game’s themes and help define what players should be doing through the game.
 
-# Actions
+# Actions | Grove System
 
 Actions are special moves or abilities that cost 1-10 tokens to perform. Three Playbook Actions are given to characters by their playbooks. Unique Macro Actions are available during the Macro Phase. Characters can add to their Playbook Actions by using the Learn a Skill Macro Action. Finally, building Facilities adds new Macro Actions with special benefits.
 
-***Design Note:*** In other systems, players might have access to numerous Moves or Actions as part of their playbook. However, in The Grove System characters purposefully start with fewer (about 3), but are provided opportunities to increase their available playbook actions by learning skills, and add larger Macro actions by building facilities. Overall, between Playbooks, Skills, Facilities and Macro actions, players have a wide range of choices available to them that continue to grow as they play.
+**_Design Note:_** In other systems, players might have access to numerous Moves or Actions as part of their playbook. However, in The Grove System characters purposefully start with fewer (about 3), but are provided opportunities to increase their available playbook actions by learning skills, and add larger Macro actions by building facilities. Overall, between Playbooks, Skills, Facilities and Macro actions, players have a wide range of choices available to them that continue to grow as they play.
 
-# Failing, Complications, & Assisting
+# Failing, Complications, & Assisting | Grove System
 
 When attempting something risky or performing a task or Action, players can decide if their character fails at the task in exchange for earning a Token. When a player fails, others may assist them to succeed by giving something up – such as a memory, a macro phase action, an item, or anything else they can think of, though they are not obligated to help.
 
@@ -107,7 +107,7 @@ The player takes a Token and describes how they fail at what they’re doing. Ot
 
 **_Design Note: _**This is the game’s complication system. Since we don’t roll dice, we don’t have probabilities of failure for Actions, we give the power to the players to decide when to add friction or complications into the story, instead.
 
-# Drawing and Mapping
+# Drawing and Mapping | Grove System
 
 The world the players have access to is represented by an overview map. Each region on this map then has a detailed view, which zooms into each overview region for players to define details, from individual trails and buildings of a campground, or discovered planets, moons, and derelicts in the star system’s quadrant.
 
@@ -117,7 +117,7 @@ The world the players have access to is represented by an overview map. Each reg
 
 **_Design Note: _**The Detail Maps replace what would normally be adventure locations in a traditional Hex Crawl. Instead, The Grove System uses blank hex detail maps as a collaborative drawing exercise as details are uncovered at locations. You decide on the default size of each map and its layout. We recommend starting with a 19-hex grid for Overview and a 7 Hex grid for detail maps. Or start with a blank sheet of paper to be more free form.
 
-# *Design Note Section:* Locations & Creating the Map
+# Locations & Creating the Map | Design Note Section | Grove System
 
 At the start of the game, players collaboratively build the opening world, creating the first known locations and game world.
 
@@ -138,13 +138,13 @@ One unique hex type can be a Problem Hex. These blanket other hexes and make the
 
 Decide if Problem Hexes should apply at the Overview or Detail level, are they economic problems of a sector? Strange phenomena in a basement? Invading forces? Or a problematic customer appearing at the coffee shop that moves room to room each loop?
 
-# Ideas
+# Ideas | Design Note Section
 
 Ideas are ways for players to quickly correct Problem Hexes to make the community a better place for everyone. Spend an Action, token, and the Idea during the Macro Phase and explain how the problem is resolved. New Ideas are difficult to get. To collect a new Idea, characters need to welcome Strangers into the community.
 
 **_Design Note: _**Ideas can be represented by a physical object or just increased consciousness, knowledge, etc. Consider the Strangers and Problem Hexes in your game. For example, in Banda’s Grove, Strangers are Spirits that live in the Quantum Woods. They give the players Quantum Shards when welcomed to the Grove as campers, which in turn can fix quantum instabilities called Blips.
 
-# Strangers
+# Strangers | Design Note Section
 
 Strangers are non-playable characters that are, for whatever reason, not part of the community, and exist on the fringes. Players can define, understand, and welcome Strangers - which is the process of making a place for them in the community.
 
@@ -165,9 +165,9 @@ After a Stranger trusts the players, players work together to create an adventur
 
 **_Design Note: _**Be thoughtful in how you represent Strangers in your game. There are many reasons a character may feel outcast, unwelcome, forgotten, or excluded from a community, and the Grove System looks to identify those reasons for your specific theme and setting and allow players to work at improving the community and world by finding ways to include them.
 
-***Design Note’s Note***: Do not create games where players welcome fascists, bigots, and racists into the community by providing them what they want. Acceptance of intolerance has no place in a Grove game.
+**_Design Note’s Note_**: Do not create games where players welcome fascists, bigots, and racists into the community by providing them what they want. Acceptance of intolerance has no place in a Grove game.
 
-# NPCs
+# NPCs | Design Note Section
 
 Non-Playable Characters represent any character in the game that is not a Stranger or a Player’s Character. Players create NPCs together by filling out an NPC Notecard with the following information:
 
@@ -179,7 +179,7 @@ Non-Playable Characters represent any character in the game that is not a Strang
 
 Afterwards, any player can pick up the NPC’s card to act and speak on their behalf.
 
-# Macro Phase Actions
+# Macro Phase Actions | Design Note Section
 
 During the Macro Phase, players have access to unique, community-level actions. Each player can perform 5 actions during this phase, in whatever order they see fit. Each Action has a token cost associated with it. Players must have the actions and Tokens available. They can also spend an action to perform token earning behavior.
 
@@ -195,7 +195,7 @@ During the Macro Phase, players have access to unique, community-level actions. 
   - Add a major detail about the location - 1 Token
 - Use a Facility’s Action - 1-10 Tokens (defined by the Facility)
 
-***Design Note:*** We provide an example token cost for each skill, but you are welcome to change them to fit your game, difficulty, or balance. You can also add additional Actions here. For instance, Banda’s Grove has an additional “Nature Watching” action tied to a d100 table to discover new creatures.
+**_Design Note:_** We provide an example token cost for each skill, but you are welcome to change them to fit your game, difficulty, or balance. You can also add additional Actions here. For instance, Banda’s Grove has an additional “Nature Watching” action tied to a d100 table to discover new creatures.
 
 ## Learn a Skill
 
@@ -223,7 +223,7 @@ After gathering the required ingredients with the Gather Ingredients action, pla
 4. Artisanal - Artisan’s Shop
 5. Specialty (Magic / Quantum / Electronic, etc.) - Lab / Observatory
 
-**\[Name\] -** \[Category**(Physical, Edible, Artisan, Textile, Quantum)**\]****- (Required ingredients (Flora, Fauna, Earthen, Specialty))
+**\[Name\] -** \[Category**(Physical, Edible, Artisan, Textile, Quantum)**\]\*\*\*\*- (Required ingredients (Flora, Fauna, Earthen, Specialty))
 
 Description **\[Any Special Benefits\]**
 
@@ -234,7 +234,7 @@ Below is an example crafting recipe. Remember that this is not an exhaustive lis
 **Fragmental Uncertainty Arranger - 4 Earthen, 2 Flora, 6 Special**
 Rearrange Hexes in Banda’s Grove! Using quantum uncertainty states, this tool allows you to move 1 hex to another location per use. | 1 Token
 
-***Design Note:***While it may be wise to include a sampling of crafting recipes, usually 5-10 per category, encourage players to create crafting recipes together at the table as well.
+**_Design Note:_**While it may be wise to include a sampling of crafting recipes, usually 5-10 per category, encourage players to create crafting recipes together at the table as well.
 
 ## Special Events
 
@@ -245,7 +245,7 @@ Number of Loops to Plan | (Any requirements to plan it)
 \[Description of the Event\]
 **A benefit of participating in the Special Event.**
 
- 1. Things that happen at the Event or task list.****
+1.  Things that happen at the Event or task list.\*\*\*\*
 
 ### Example Special Event
 
@@ -262,12 +262,12 @@ During the Quantum Potluck:
 - What cooking complications are there?
 - How are they resolved?
 
-# Facilities
+# Facilities | Design Note Section
 
 Facilities are special buildings or locations characters can build that grant a benefit, unlock crafting, or provide a special Action and take x-loops to build. They are built on detail or overview maps hexes.
 **\[Name of Facility\]** \[Loops to Build\]
- (What the facility adds mechanically)
- Description. **\[Player Tasks\]**
+(What the facility adds mechanically)
+Description. **\[Player Tasks\]**
 
 ## Example Facility
 
@@ -275,13 +275,13 @@ Facilities are special buildings or locations characters can build that grant a 
 **Unlocks Quantum Crafting. Define a Scientist NPC!**
 Add Macro Action: **Watch the Realm | 4 Tokens**
 
-A place to discover the marvels of Banda’s Quantum Realm. While watching the outer reaches of Banda’s Realm, you discover something odd happening. **What is it?  Define an Adventure about the mysterious sight you see.** You can ask for your new Adventure to be run during a future Adventure Phase (it doesn’t have to be run immediately).
+A place to discover the marvels of Banda’s Quantum Realm. While watching the outer reaches of Banda’s Realm, you discover something odd happening. **What is it? Define an Adventure about the mysterious sight you see.** You can ask for your new Adventure to be run during a future Adventure Phase (it doesn’t have to be run immediately).
 
 **_Design Note: _** Consider limiting the number of facilities per hex, if needed, to create scarcity and encourage exploring. While most of The Grove System supports players coming up with their own details, Facilities are one of the few items in the game we recommend having fully fleshed out, or at the very least, providing numerous examples of.
 
-# Playbooks
+# Playbooks | Design Note Section
 
-Playbooks are how players construct their character.  One of the playbooks is dedicated to the player acting as the facilitator. The playbook dedicated to the facilitator can be used by other players, but it should be discussed beforehand. Characters should answer the following:
+Playbooks are how players construct their character. One of the playbooks is dedicated to the player acting as the facilitator. The playbook dedicated to the facilitator can be used by other players, but it should be discussed beforehand. Characters should answer the following:
 
 **What is your Name?**Say it out loud. How does it feel? Does it fit? It’s okay to pick another at any time if it doesn’t.
 
@@ -323,7 +323,7 @@ When a character shares their **secret**or lets it control their actions, they g
 
 **_Design Note: _** Playbooks can represent a kind of class or job players hold and give them unique Actions. We have provided an example playbook below, and it is also the facilitator’s playbook. Both are structured the same way, but the facilitator’s actions revolve around gm-like support. How these actions are structured depend on the kind of game you are making. Consider what three actions are important for a GM to perform in your game.
 
-The way we have worded the **Name**and **Pronoun**sections are important - this codifies into the rules that players can choose any name or pronoun they wish, ***but also change them at any time if they don’t feel right without the need to ask permission of anyone*.** If you want to change the wording of those sections, we just ask that you keep the purpose of the words.
+The way we have worded the **Name**and **Pronoun**sections are important - this codifies into the rules that players can choose any name or pronoun they wish, **_but also change them at any time if they don’t feel right without the need to ask permission of anyone_.** If you want to change the wording of those sections, we just ask that you keep the purpose of the words.
 
 ## Playbook Example: Grove Ranger
 
@@ -343,7 +343,7 @@ The Grove Ranger assists Ranger Murie and helps keep the operations of the Grove
 
 - One pant leg is always stuffed into a boot.
 
-- You’re always jogging everywhere. *Everywhere*.
+- You’re always jogging everywhere. _Everywhere_.
 - You sometimes just stop, mid-sentence, to appreciate the view.
 - You walk around with a towel draped on your shoulders.
 
@@ -379,7 +379,7 @@ Whenever you talk about your secret with someone, gain a Token.
 2. What secret did Murie share with you after joining?
 3. What is a bizarre, quantum thing do you deal with as a common issue every day?
 
-# Adventures
+# Adventures | Design Note Section
 
 Adventures are small, episodic quests. These are things that happen that to the players that they need to respond to. Normally, these are shorter in scope (45-60 minutes of play time) but several can be created to make longer arcs. Optionally, complications can be kept secret from the other players and only known or created by the one running the adventure.
 
@@ -391,19 +391,19 @@ The facilitator and players create Adventures as they see fit, or as it suits th
 
 **\[Adventure Name\]**
 **Introduction Text**
- List of Goals to Accomplish
+List of Goals to Accomplish
 
 **Complications**
- Two or more complications that arise
+Two or more complications that arise
 
- **Outcomes**
- Two or more outcomes with penalties and/or boons, and how those outcomes are triggered. Outcomes don’t have to just be positive/negative, but any combination of positive, negative, neutral.
+**Outcomes**
+Two or more outcomes with penalties and/or boons, and how those outcomes are triggered. Outcomes don’t have to just be positive/negative, but any combination of positive, negative, neutral.
 
 **_Design Note: _**This adventure outline was created so players can create adventures together at the table. At minimum, we do suggest creating an opening adventure to help introduce the players to the setting and get them started. You can also provide tools, such as rolling tables, or a series of questions to answer, to help generate new adventures quickly.
 
 ## Example Adventure
 
-# Quantum Woods Shenanigans
+## Quantum Woods Shenanigans
 
 ### **Introduction**
 
