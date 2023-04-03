@@ -13,54 +13,21 @@ import {
   Text,
   useColorModeValue,
 } from "@chakra-ui/react";
-import { ICreator } from "public/catalog/loader";
+import { ICreator, IProject } from "public/catalog/loader";
 import { ProjectCard } from "./(components)/ProjectCard/ProjectCard";
 
-export function Home(props: { creators: Array<ICreator> }) {
+export function Home(props: {
+  creatorsAndProjects: Array<{
+    creator: ICreator;
+    project: IProject;
+  }>;
+}) {
   const textGradient = useColorModeValue(
     "linear(to-l, brand.400,brand.600)",
     "linear(to-l, brand.200,brand.300)"
   );
 
-  const projectsFlatMapWithCreators = props.creators.flatMap((c) => {
-    return c.projects.map((p) => {
-      return { project: p, creator: c };
-    });
-  });
-
-  const featuredProjects = [
-    "breathless",
-    "firelights",
-    "charge rpg",
-    "blades",
-    "lumen",
-    "24xx",
-    "push",
-    "trophy",
-    "bad time",
-    "resistance",
-    "motif",
-    "tricube",
-    "guided by the sun",
-    "fate",
-  ]
-    .map((p) => p.toLowerCase())
-    .reverse();
-
-  const result = projectsFlatMapWithCreators.sort(function (a, b) {
-    const aProjectName = (a.project.data?.name ?? "").toLowerCase();
-    const bProjectName = (b.project.data?.name ?? "").toLowerCase();
-
-    return (
-      featuredProjects.findIndex((p) => {
-        return bProjectName.includes(p);
-      }) -
-      featuredProjects.findIndex((p) => {
-        return aProjectName.includes(p);
-      })
-    );
-  });
-  const top8 = result.slice(0, 8);
+  const top8 = props.creatorsAndProjects.slice(0, 8);
 
   return (
     <Box pb={32}>

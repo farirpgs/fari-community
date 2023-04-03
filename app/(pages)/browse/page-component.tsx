@@ -10,10 +10,15 @@ import {
 } from "@chakra-ui/react";
 import { ProjectCard } from "app/(components)/ProjectCard/ProjectCard";
 import { getClientSideValue } from "app/(domains)/browser/getClientSideValue";
-import { ICreator } from "public/catalog/loader";
+import { ICreator, IProject } from "public/catalog/loader";
 import { useState } from "react";
 
-export default function Browse(props: { creators: Array<ICreator> }) {
+export default function Browse(props: {
+  creatorsAndProjects: Array<{
+    creator: ICreator;
+    project: IProject;
+  }>;
+}) {
   const searchDefaultValue = getClientSideValue(() => {
     const searchParams = new URLSearchParams(location.search);
     return searchParams.get("search") || "";
@@ -21,45 +26,7 @@ export default function Browse(props: { creators: Array<ICreator> }) {
 
   const [search, setSearch] = useState(searchDefaultValue);
 
-  const projectsFlatMapWithCreators = props.creators.flatMap((c) => {
-    return c.projects.map((p) => {
-      return { project: p, creator: c };
-    });
-  });
-
-  const featuredProjects = [
-    "charge",
-    "dash",
-    "breathless",
-    "firelights",
-    "blades",
-    "lumen",
-    "24xx",
-    "push",
-    "trophy",
-    "bad time",
-    "resistance",
-    "motif",
-    "tricube",
-    "guided by the sun",
-    "fate",
-  ]
-    .map((p) => p.toLowerCase())
-    .reverse();
-
-  const result = projectsFlatMapWithCreators.sort(function (a, b) {
-    const aProjectName = (a.project.data?.name ?? "").toLowerCase();
-    const bProjectName = (b.project.data?.name ?? "").toLowerCase();
-
-    return (
-      featuredProjects.findIndex((p) => {
-        return bProjectName.includes(p);
-      }) -
-      featuredProjects.findIndex((p) => {
-        return aProjectName.includes(p);
-      })
-    );
-  });
+  const result = props.creatorsAndProjects;
 
   return (
     <Container maxWidth="container.xl" pt="32" pb="32">
