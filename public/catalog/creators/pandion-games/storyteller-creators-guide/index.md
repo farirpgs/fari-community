@@ -1,9 +1,9 @@
-![](https://i.imgur.com/XmuAiSrl.png)
-
-# STORYTELLER Creator’s Guide
+# Storyteller Creator’s Guide
 
 By Pandion Games
 Version 1.0
+
+![](https://i.imgur.com/XmuAiSrl.png)
 
 ## What is Storyteller?
 
@@ -23,7 +23,7 @@ This does not mean players must play outside or around a campfire, but the desig
 
 ## Using this Guide
 
-This guide will describe the core mechanics and concepts for  Storyteller games.  If you wish to use this creator resource to simply expand on Storyteller’s Character Profiles and Story Prompt options, monster descriptions, or folklore and legends, we have provided descriptions below to help write that.
+This guide will describe the core mechanics and concepts for Storyteller games. If you wish to use this creator resource to simply expand on Storyteller’s Character Profiles and Story Prompt options, monster descriptions, or folklore and legends, we have provided descriptions below to help write that.
 
 If you want to create a Crafted with Storyteller game that uses a different theme, tone, or genre a new Story Prompt may need to be created, which will affect the options, and we provide guidance on that as well. Generally, the Character Prompt itself will not need to be changed, but that is ultimately up to you.
 
@@ -57,7 +57,7 @@ Makes decisions for an individual character of the group in the story. If a char
 
 Fills out the Story Prompt and quietly acts as the antagonist against the Characters. The Storyteller confers with the Picker about the antagonist's actions during the story. They can also perform the tasks of a Ghost immediately.
 
-> For groups  of 3 or fewer  players, everyone can pick a Story Prompt option. The Storyteller should pick the Happenings and Ending, keeping them secret, and play the part of the antagonist as well.
+> For groups of 3 or fewer players, everyone can pick a Story Prompt option. The Storyteller should pick the Happenings and Ending, keeping them secret, and play the part of the antagonist as well.
 
 ### Ghosts
 
@@ -81,9 +81,9 @@ Hard Decisions are the resolution mechanics in Storyteller games. Players comple
 
 This is one of our favorite mechanics, and we ask that you keep in mind the three styles of tasks to complete Hard Decisions: Physical, Skill, and Knowledge.
 
-* **Physical Tasks** are those that use our body’s strength and endurance. Completing a certain amount of push-ups, completing a handstand, performing a race (between the player and the antagonist for instance).
-* **Skill Tasks** are those that require reactions or some other skillful action. Such as playing rock-paper-scissors, catching three objects rapidly, flipping a long object quickly and catching it by the right side, or flipping a bottle to land on its top.
-* **Knowledge Tasks** are things such as identifying three types of plants around you, knowing or tying a certain number of knots, or answering trivia or study questions.
+- **Physical Tasks** are those that use our body’s strength and endurance. Completing a certain amount of push-ups, completing a handstand, performing a race (between the player and the antagonist for instance).
+- **Skill Tasks** are those that require reactions or some other skillful action. Such as playing rock-paper-scissors, catching three objects rapidly, flipping a long object quickly and catching it by the right side, or flipping a bottle to land on its top.
+- **Knowledge Tasks** are things such as identifying three types of plants around you, knowing or tying a certain number of knots, or answering trivia or study questions.
 
 ### Success
 
@@ -121,10 +121,10 @@ This is Storyteller’s core Story Prompt. If writing for a new genre (not horro
 
 Make it clear that even though we define the ‘ending’ in the story prompt, it is more of a guide for how the Storyteller can wrap up the game, and shouldn’t be set in stone.
 
-Our story begins in LOCATION  in the MOOD  SETTING .
-A group of CHARACTER GROUP  discovers DISCOVERY **.
-The ANTAGONIST  is HAPPENINGS .
-In the end, **ENDING**.
+Our story begins in LOCATION in the MOOD SETTING .
+A group of CHARACTER GROUP discovers DISCOVERY **.
+The ANTAGONIST is HAPPENINGS .
+In the end, **ENDING\*\*.
 
 ## Story Prompt Options
 
@@ -168,7 +168,7 @@ Strengths provide something the character is uniquely skillful at narratively, b
 
 ## FULL
 
-My name is NAME.  (PRONOUNS )
+My name is NAME. (PRONOUNS )
 I am AGE DESCRIPTION .
 Most people would describe me as PERSONALITY TRAIT.
 I joined the group because of my STRENGTH and STRENGTH.  
@@ -177,7 +177,7 @@ I believe that IDEAL, but my FLAW causes my problems.
 
 ## CORE
 
-My name is NAME.  (PRONOUNS)
+My name is NAME. (PRONOUNS)
 I am AGE DESCRIPTION.
 Most people would describe me as PERSONALITY TRAIT.
 
@@ -185,12 +185,12 @@ Most people would describe me as PERSONALITY TRAIT.
 
 Most of these are self-explanatory. However, if you’re looking for examples to start with, we provide many in Storyteller. We will happily provide a free download link to anyone trying to build something with the Creator’s Guide. Reach out to us via Twitter @PandionGames.
 
-* Age Descriptions
-* Personality Traits
-* Strengths
-* Secrets
-* Ideals
-* Flaws
+- Age Descriptions
+- Personality Traits
+- Strengths
+- Secrets
+- Ideals
+- Flaws
 
 # Antagonist Descriptions
 
@@ -210,12 +210,12 @@ Most Antagonists - monsters, characters, or even epic events - have an origin or
 
 **Color Palette Hex Codes:**
 
-* Grey: \#282625
-* Pink:  \#EA356B
-* Yellow: \#F9ED37
-* Dark Green: \#37535C
-* Light Green: \#6CC7BA
-* Off-white: \#DBD9D8
+- Grey: \#282625
+- Pink: \#EA356B
+- Yellow: \#F9ED37
+- Dark Green: \#37535C
+- Light Green: \#6CC7BA
+- Off-white: \#DBD9D8
 
 # Questions? Comments?
 
@@ -230,11 +230,11 @@ You are free to create Storyteller games and content. We ask that you credit Pan
 
 ## Attribution Text
 
-*This work was created using the Storyteller Creator’s Guide ([https://pandiongames.itch.io/storyteller-creators-guide](https://pandiongames.itch.io/storyteller-creators-guide)), by Pandion Games and is licensed for use under the Creative Commons Attribution License 4.0 [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)*
+_This work was created using the Storyteller Creator’s Guide ([https://pandiongames.itch.io/storyteller-creators-guide](https://pandiongames.itch.io/storyteller-creators-guide)), by Pandion Games and is licensed for use under the Creative Commons Attribution License 4.0 [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)_
 
-You are free to make use of the Crafted with Storyteller logo in your games, promotional materials, etc. If you use Crafted  with Storyteller logo in your game, also add the following text:
+You are free to make use of the Crafted with Storyteller logo in your games, promotional materials, etc. If you use Crafted with Storyteller logo in your game, also add the following text:
 
-*The Crafted with Storyteller logo is copyright Pandion Games and is used with permission.*
+_The Crafted with Storyteller logo is copyright Pandion Games and is used with permission._
 
 The Crafted with Storyteller logo can be downloaded from: [https://pandiongames.itch.io/storyteller-creators-guide](https://pandiongames.itch.io/storyteller-creators-guide).
 
