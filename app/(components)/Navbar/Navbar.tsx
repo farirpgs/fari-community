@@ -37,17 +37,24 @@ export function Navbar() {
         display="flex"
         alignItems="center"
         justifyContent="center"
-        paddingTop="var(--chakra-space-2)"
-        paddingBottom="var(--chakra-space-2)"
-        paddingInlineStart="var(--chakra-space-3)"
-        paddingInlineEnd="var(--chakra-space-3)"
-        // backgroundImage="linear-gradient(to right, brand.500, brand.900)"
+        paddingTop="4"
+        paddingBottom="4"
+        paddingInlineStart="3"
+        paddingInlineEnd="3"
         bgGradient="linear(to-r, brand.500, brand.700)"
         color="var(--chakra-colors-white)"
         textAlign="center"
       >
-        <Stack direction="row" align="center" spacing={4}>
-          <Stack direction="row" align="center" spacing={1}>
+        <Stack
+          direction={["column", "column", "row"]}
+          align="center"
+          spacing={4}
+        >
+          <Stack
+            direction={["column", "column", "row"]}
+            align="center"
+            spacing={4}
+          >
             <Text fontWeight="bold">✨NEWS✨</Text>
             <Text>Liminal Horror is now on Fari Community!</Text>
           </Stack>
@@ -67,10 +74,6 @@ export function Navbar() {
     return (
       <Box
         background={colorModeManager.colorMode === "light" ? "white" : "black"}
-        // position="sticky"
-        // top={0}
-        // left={0}
-        // right={0}
         zIndex={1}
       >
         <Container background="" height="4rem" maxWidth="container.xl">
