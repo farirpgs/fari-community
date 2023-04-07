@@ -25,6 +25,7 @@ export class DocParser {
     this.#indexes = indexes;
     this.#toc = toc;
     this.#sidebar = sidebar;
+
     const currentPageId = this.options.currentChapterId ?? this.#pages[0].id;
     const currentPageIndex = this.#pages.findIndex(
       (page) => page.id === currentPageId
