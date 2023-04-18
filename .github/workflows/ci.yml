@@ -29,7 +29,7 @@ jobs:
             ${{ runner.os }}-node-
       # Install
       - name: Install
-        run: npm install --force
+        run: npm install
       # Build
       - name: Build
         run: npm run build
@@ -64,7 +64,7 @@ jobs:
             ${{ runner.os }}-node-
       # Install
       - name: Install
-        run: npm install --force
+        run: npm install
       # Download Artifacts
       - name: Download Artifacts
         uses: actions/download-artifact@master
@@ -99,7 +99,7 @@ jobs:
             ${{ runner.os }}-node-
       # Install
       - name: Install
-        run: npm install --force
+        run: npm install
       # Download Artifacts
       - name: Download Artifacts
         uses: actions/download-artifact@master
