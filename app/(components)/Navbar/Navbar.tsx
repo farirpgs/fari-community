@@ -55,14 +55,14 @@ export function Navbar() {
             align="center"
             spacing={4}
           >
-            <Text fontWeight="bold">✨NEWS✨</Text>
-            <Text>Liminal Horror is now on Fari Community!</Text>
+            <Text fontWeight="bold">⚔️ NEWS ⚔️</Text>
+            <Text>Cairn is now on Fari Community!</Text>
           </Stack>
           <Button
             size="sm"
             colorScheme="brand"
             as={Link}
-            href="/creators/goblin-archives/projects/liminal-horror"
+            href="/creators/yochai-gal/projects/cairn"
           >
             Learn more
           </Button>
