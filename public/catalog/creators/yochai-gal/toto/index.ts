@@ -7,8 +7,7 @@ export default function getData(): IProjectData {
     license: "CC BY SY 4.0",
     links: {
       "itch.io": "https://yochaigal.itch.io/",
-      driveThru:
-        "https://www.drivethrurpg.com/product/330809/Cairn",
+      driveThru: "https://www.drivethrurpg.com/product/330809/Cairn",
     },
 
     headingFont: "Barlow Condensed",
