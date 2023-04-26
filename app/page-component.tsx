@@ -24,7 +24,7 @@ export function Home(props: { allCreators: Array<ICreator> }) {
     "linear(to-l, brand.200,brand.300)"
   );
 
-  const top8 = creatorsAndProjects.slice(0, 8);
+  const top8 = creatorsAndProjects.slice(0, 12);
 
   return (
     <Box pb={32}>
