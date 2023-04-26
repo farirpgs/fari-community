@@ -1,4 +1,4 @@
-# Mark of the Odd | Overview
+# Mark of the Odd
 
 Want to use Into the Odd as a basis for your game or adventure?
 
@@ -10,7 +10,7 @@ Continue for the full licensing info and SRD.
 >
 > Bastionland Press, January 2022
 
-# Licence | Overview
+# Licence
 
 ![](/catalog/creators/bastionland-press/mark-of-the-odd/logos/mark-of-the-odd.jpg)
 
@@ -25,7 +25,7 @@ Anybody can give their game the Mark of the Odd by adhering to these guidelines:
 
 This is a general licence. If you want to negotiate a licence with different terms, please get in touch at bastionlandpress@gmail.com
 
-# Mark Of The Odd SRD
+# System Reference Document
 
 ## Your Character
 
