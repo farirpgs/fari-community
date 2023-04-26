@@ -37,7 +37,7 @@ After you've sent your players the link, they can enter their name and join the 
 
 ### Offline
 
-The pffline mode is useful if everyone is physically in the same room but the GM still wants to use Fari App to manage their scenes and character sheets.
+The offline mode is useful if everyone is physically in the same room but the GM still wants to use Fari App to manage their scenes and character sheets.
 
 **_Note: When playing in offline mode, the app won't connect to its server and won't generate the session link cited above._**
 
