@@ -10,23 +10,18 @@ import {
 } from "@chakra-ui/react";
 import { ProjectCard } from "app/(components)/ProjectCard/ProjectCard";
 import { getClientSideValue } from "app/(domains)/browser/getClientSideValue";
-import { ICreator, IProject } from "public/catalog/loader";
+import { CreatorsProjectSorter } from "app/(domains)/creators/CreatorsProjectsSorter";
+import { ICreator } from "public/catalog/loader";
 import { useState } from "react";
 
-export default function Browse(props: {
-  creatorsAndProjects: Array<{
-    creator: ICreator;
-    project: IProject;
-  }>;
-}) {
+export default function Browse(props: { allCreators: Array<ICreator> }) {
   const searchDefaultValue = getClientSideValue(() => {
     const searchParams = new URLSearchParams(location.search);
     return searchParams.get("search") || "";
   }, "");
 
+  const creatorsAndProjects = CreatorsProjectSorter.sort(props.allCreators);
   const [search, setSearch] = useState(searchDefaultValue);
-
-  const result = props.creatorsAndProjects;
 
   return (
     <Container maxWidth="container.xl" pt="32" pb="32">
@@ -48,7 +43,7 @@ export default function Browse(props: {
         </FormControl>
 
         <SimpleGrid columns={[1, 2, 3]} spacing="4">
-          {result.map((projectAndCreator) => {
+          {creatorsAndProjects.map((projectAndCreator) => {
             if (search) {
               const lowerCaseSearch = search.toLowerCase();
               const lowerCaseTitle =

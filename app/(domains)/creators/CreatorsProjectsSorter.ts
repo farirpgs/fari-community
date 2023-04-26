@@ -8,8 +8,8 @@ export const CreatorsProjectSorter = {
       });
     });
 
-    const fariProjects = ["charge", "dash", "breathless", "firelights"];
-    const fariApprovedProjects = [
+    const fariRPGsProjects = ["charge", "dash", "breathless", "firelights"];
+    const fariRecommendedProjects = [
       "blades",
       "lumen",
       "24xx",
@@ -29,11 +29,16 @@ export const CreatorsProjectSorter = {
       "grove system",
       "harmony drive",
       "hints and hijinx",
-    ].sort((a, b) => {
-      return Math.random() - 0.5;
-    });
-
-    const featuredProjects = [...fariProjects, ...fariApprovedProjects]
+    ];
+    const currentDateOfTheMonth = new Date().getDate();
+    const shuffledFariRecommendedProjects = shuffleWithSeed(
+      fariRecommendedProjects,
+      currentDateOfTheMonth
+    );
+    const featuredProjects = [
+      ...fariRPGsProjects,
+      ...shuffledFariRecommendedProjects,
+    ]
       .map((p) => p.toLowerCase())
       .reverse();
 
@@ -53,3 +58,25 @@ export const CreatorsProjectSorter = {
     return result;
   },
 };
+
+function shuffleWithSeed<T>(array: Array<T>, seed: number) {
+  let currentIndex = array.length,
+    temporaryValue,
+    randomIndex;
+  seed = seed || 1;
+  function random() {
+    var x = Math.sin(seed++) * 10000;
+    return x - Math.floor(x);
+  }
+  // While there remain elements to shuffle...
+  while (0 !== currentIndex) {
+    // Pick a remaining element...
+    randomIndex = Math.floor(random() * currentIndex);
+    currentIndex -= 1;
+    // And swap it with the current element.
+    temporaryValue = array[currentIndex];
+    array[currentIndex] = array[randomIndex];
+    array[randomIndex] = temporaryValue;
+  }
+  return array;
+}

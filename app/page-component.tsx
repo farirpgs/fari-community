@@ -13,21 +13,18 @@ import {
   Text,
   useColorModeValue,
 } from "@chakra-ui/react";
-import { ICreator, IProject } from "public/catalog/loader";
+import { ICreator } from "public/catalog/loader";
 import { ProjectCard } from "./(components)/ProjectCard/ProjectCard";
+import { CreatorsProjectSorter } from "./(domains)/creators/CreatorsProjectsSorter";
 
-export function Home(props: {
-  creatorsAndProjects: Array<{
-    creator: ICreator;
-    project: IProject;
-  }>;
-}) {
+export function Home(props: { allCreators: Array<ICreator> }) {
+  const creatorsAndProjects = CreatorsProjectSorter.sort(props.allCreators);
   const textGradient = useColorModeValue(
     "linear(to-l, brand.400,brand.600)",
     "linear(to-l, brand.200,brand.300)"
   );
 
-  const top8 = props.creatorsAndProjects.slice(0, 8);
+  const top8 = creatorsAndProjects.slice(0, 8);
 
   return (
     <Box pb={32}>

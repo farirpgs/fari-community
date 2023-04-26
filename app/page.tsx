@@ -1,5 +1,4 @@
 import { loader } from "public/catalog/loader";
-import { CreatorsProjectSorter } from "./(domains)/creators/CreatorsProjectsSorter";
 import { Home } from "./page-component";
 
 export async function generateMetadata(props: Parameters<typeof Page>[0]) {
@@ -38,6 +37,5 @@ export async function generateMetadata(props: Parameters<typeof Page>[0]) {
 
 export default async function Page(props: {}) {
   const allCreators = await loader.getAllCreators();
-  const creatorsAndProjects = CreatorsProjectSorter.sort(allCreators);
-  return <Home creatorsAndProjects={creatorsAndProjects} />;
+  return <Home allCreators={allCreators} />;
 }

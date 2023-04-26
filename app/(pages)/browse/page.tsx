@@ -1,4 +1,3 @@
-import { CreatorsProjectSorter } from "app/(domains)/creators/CreatorsProjectsSorter";
 import { ResolvingMetadata } from "next/dist/lib/metadata/types/metadata-interface";
 import { loader } from "public/catalog/loader";
 import Browse from "./page-component";
@@ -23,7 +22,6 @@ export async function generateMetadata(
 
 export default async function Page(props: {}) {
   const allCreators = await loader.getAllCreators();
-  const creatorsAndProjects = CreatorsProjectSorter.sort(allCreators);
 
-  return <Browse creatorsAndProjects={creatorsAndProjects} />;
+  return <Browse allCreators={allCreators} />;
 }
