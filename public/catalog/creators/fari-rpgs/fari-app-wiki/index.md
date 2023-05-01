@@ -37,7 +37,7 @@ After you've sent your players the link, they can enter their name and join the 
 
 ### Offline
 
-The pffline mode is useful if everyone is physically in the same room but the GM still wants to use Fari App to manage their scenes and character sheets.
+The offline mode is useful if everyone is physically in the same room but the GM still wants to use Fari App to manage their scenes and character sheets.
 
 **_Note: When playing in offline mode, the app won't connect to its server and won't generate the session link cited above._**
 
@@ -145,7 +145,7 @@ Each scene has also a basic note field that you can use if you want to save some
 
 Like said previously, Index Cards are built using the character sheet building blocks.
 
-To help you quickly add index cards during play, Fari as multiple pre mades templates for Fate, Blades in the Dark. You can also use the **Card Collection** feature to make your own templates to pull in during a gane.
+To help you quickly add index cards during play, Fari has multiple pre-made templates for Fate, Blades in the Dark. You can also use the **Card Collection** feature to make your own templates to pull in during a game.
 
 ![Quick Templates Buttons](https://gyazo.com/fa537106c33dd715830bb325c28a3eea.png)
 ![Quick Templates](https://gyazo.com/e03c3b97e16b425c2c5ea26cdcacd452.png)
@@ -200,7 +200,7 @@ This feature is super useful if you want to make a card stand-out from the lot!
 
 Each index card has an initiative tracker which is represented by the little icon of a person waving!
 
-You can use this to track if an npc has acted during the initiative or is still waiting for their turn
+You can use this to track if an NPC has acted during the initiative or is still waiting for their turn
 
 ![Initiative Tracker](https://gyazo.com/02c983f637dc26c912e9e5617660a344.png)
 
@@ -270,13 +270,13 @@ You can view the **Group** field as a "Campaign" field if you want.
 
 When the **Advanced Mode** is turned on, you can customize how your sheet is organized.
 
-The Character Sheet is seperated into multiple **Pages/Tabs** where each page can have its own set of sections and building blocks.
+The Character Sheet is separated into multiple **Pages/Tabs** where each page can have its own set of sections and building blocks.
 
 ### Adding a Page
 
 To add a page, click on the **+** icon on the right and click on the Page name to rename it as you wish
 
-![Addding a Page](https://gyazo.com/e180cb0f68661380ed9da33ef3285459.gif)
+![Adding a Page](https://gyazo.com/e180cb0f68661380ed9da33ef3285459.gif)
 
 ### Moving a Page
 
@@ -394,7 +394,7 @@ Once enabled, clicking on the **Roll** label will let you roll that specific ski
 
 #### Dice Pool Block
 
-Similar the the skill block, Dice Pools will let you create some sort of skill that is attached to a set of dice that should be added to a dice pool.
+Similar to the skill block, Dice Pools will let you create some sort of skill that is attached to a set of dice that should be added to a dice pool.
 
 Once configured, when a players clicks on the pool button, all the dice commands inside that block will be added to the pool.
 Clicking on it again will remove the dice commands from the pool.
@@ -410,7 +410,7 @@ When the pool is complete, the player simply needs to click on the **Roll Pool**
 This kind of block is useful if you are looking to track any sort of point based value. Use it to track your Fate Points, health points, gold pieces, etc.
 
 - **Set as Main Counter**: This control lets you select a **single** point counter as the main one. The main point counter is going to be the one that is displayed in the Players section when you are playing a game session.
-- **With Max**: Use this value if you want to have a max value attached to your point counter.
+- **With Max**: Use this value if you want to have a maximum value attached to your point counter.
 
 ![Point Counter Block](https://gyazo.com/b520f5e1d36a3de7f11bcf401721accd.png)
 
@@ -540,7 +540,7 @@ Otherwise, take a look at the other options for translating Fari programmaticall
 
 ## Adding a new language to Fari
 
-To add a new language to Fari, you can download the [english translation file](https://github.com/fariapp/fari/blob/master/locales/en.json) and update the values of each key.
+To add a new language to Fari, you can download the [English translation file](https://github.com/fariapp/fari/blob/master/locales/en.json) and update the values of each key.
 
 Once the file is translated, [open a feature request](https://github.com/fariapp/fari/issues/new/choose) and upload the new file in the issue.
 
