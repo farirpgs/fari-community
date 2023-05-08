@@ -166,7 +166,7 @@ When you confront a Curse, **Action+Approach**. Repeat until you’ve stacked en
 
 When you avoid an impending threat, **Action+Approach**.
 
-- Upon** Light**, you avoid the **danger**.
+- Upon **Light**, you avoid the **danger**.
 - Upon **Shade**, mark **1 Fatigue**.
 - Upon **Darkness**, mark **2 Fatigue**.
 
