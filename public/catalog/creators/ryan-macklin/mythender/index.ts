@@ -8,21 +8,14 @@ export default function getData(): IProjectData {
       driveThru:
         "https://www.drivethrurpg.com/product/110779/Mythender-Roleplaying-Game",
     },
+    headingFont: "Cinzel",
+    /*textFont: "serif",*/
     css: `
 /*
    The book uses Minion for most purposes; Crimson Text is very similar.
    Heading levels 1 and 2 in the book use Windlass; Cinzel is vaguely similar.
    */
-@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500&family=Crimson+Text:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-body {
-	font-family: 'Crimson Text', serif;
-	/* It's a small font, bump it up to be readable */
-	font-size: 20px;
-	/* This is roughly the book's line length */
-	max-width: 35em; 
-	padding-left: auto;
-	padding-right: auto;
-}
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500&display=swap');
 blockquote {
 	border: 3pt solid black;
 	padding: 0.5em;
@@ -55,8 +48,6 @@ p {
 	margin-bottom: 0.7em;
 }
 h1,h2 {
-	font-family: 'Cinzel', serif;
-	font-weight: 500;
 	/*font-variant: small-caps;*//*Cinzel is always small caps*/
 	font-weight: normal;
 }
@@ -98,7 +89,9 @@ h5+p {
 li {
 	margin-bottom: 0.3em;
 }
-
+div pre code {
+	font-family: monospace !important;
+}
 `,
   };
 }
