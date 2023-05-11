@@ -48,7 +48,7 @@ There are various safety tools and techniques that can help create a comfortable
 
 It is important to familiarize yourself with these tools and techniques and to use them proactively to ensure that everyone feels safe and comfortable during the game.
 
-## Character Generation
+# Character Generation
 
 The essence of GIST! lies in resourceful protagonists confronting perilous situations and obstacles with strategic and assertive approaches, which are shaped by their unique backgrounds and abilities.
 
@@ -129,7 +129,7 @@ Skills flavor and granularity are determined by the Referee consistently with th
 > Social (score 1)
 > Your character's name is Zephyr, and they are 21 years old. For starting gear, you choose a wand and a book of spells.
 
-## Action Resolution
+# Action Resolution
 
 Most of actions can be adjudicate from the context and how the player describes the character performing them. When the outcome is uncertain, however, the Referee may request a check:
 
@@ -191,7 +191,7 @@ Here are some examples:
 
 > Both Sasha and the guard roll 2d6, with Sasha adding their modifier for Agility (+2) and the guard adding their modifier for Perception (+3). The Referee applies no modifiers to the roll. Sasha rolls a 9 and the guard rolls a 7, making Sasha the winner of the check, as they managed to slip past the guard and escape with the painting.
 
-## Combat
+# Combat
 
 Combat is a contested action that occurs in rounds. Each round, a character can take two actions, chosen from moving, attacking, defending, or using special abilities. It is also possible to perform a double action of the same type, at the cost of forgoing the other action.
 
@@ -229,11 +229,11 @@ After every combat, characters' HPs are restored immediately if they are higher 
 
 > After the round ends, if Max's HPs are higher than 0, they are immediately restored. If his HPs are equal to 0, he needs immediate medical treatment. If medical treatment is not feasible, Max makes a Shape Check against 8+. On success, his HPs are restored by half the total. On failure, Max must retire from the action.
 
-## Advancement
+# Advancement
 
 Whenever a situation arises in which a skill is particularly challenged, the Referee may offer the player an Advancement roll. The player rolls a 2d6 and must score 8 or higher to succeed. If the roll is successful, the character gains an additional level in that particular skill. This represents the character learning from their experiences and improving their abilities through practice and dedication.
 
-## Freeform Magic
+# Freeform Magic
 
 Magical skill allows a player to attempt to cast a spell by crafting a simple phrase consisting of a focus and a locus. The difficulty of the spell is set by the Referee, and the player must make a Magical Check to cast the spell. If successful, the spell is cast, and its effects are determined by the Referee.
 
@@ -305,7 +305,7 @@ Here is a list of a generic mishaps, use it as a reference to flesh out your own
 
 > Azura successfully cast her spell with some consequences.
 
-## Creatures and NPCs
+ Creatures and NPCs
 
 Creatures are divided by size, having a different impact on their physical characteristics.
 Sentient beings are effectively NPCs, but they have no limitations on characteristics and abilities like humans.
@@ -321,7 +321,7 @@ To build other creatures, the reference table below may be useful.
 | Massive    | 5d6   | 2d6-2   |
 | Colossal   | 6d6   | 2d6-4   |
 
-## Bestiary
+# Bestiary
 
 ### Fantasy
 
@@ -454,7 +454,7 @@ A humanoid creature with wings and glowing red eyes. It is known for appearing b
 
 Stats: Shape 3d6, Agility 2d6+2
 
-## Advice for the Referee
+# Advice for the Referee
 
 As the Referee, your primary goal in GIST! is to create an immersive and challenging experience for the players. The game is designed to blur the line between the player and the character, allowing players to attempt actions that make sense in the game context, even if their character may not have the necessary skills or knowledge.
 
@@ -464,7 +464,7 @@ Tactical infinity should be the main resolution engine for any action. This mean
 
 In GIST!, the focus should be on creating an immersive and interactive game world where players have the freedom to explore and make decisions that will impact the story. As a Referee, it's important not to overly structure the game with complex plots and predetermined storylines. Instead, focus on creating interesting and challenging situations that players can engage with and respond to. By doing so, you'll allow the game world to evolve naturally based on the actions of the players, rather than trying to force them down a specific path. As you resolve player actions and respond to their decisions, you'll discover together where the game takes you, creating an exciting and unpredictable narrative that unfolds through the actions and decisions of the players.
 
-## License
+# License
 
 (CC) 2023 Roberto Bisceglie
 

@@ -48,7 +48,7 @@ Esistono vari strumenti e tecniche di sicurezza che possono aiutare a creare un 
 
 È importante familiarizzare con questi strumenti e tecniche e utilizzarli in modo proattivo per garantire che tutti si sentano al sicuro e a proprio agio durante il gioco.
 
-## Generazione del personaggio
+# Generazione del personaggio
 
 L'essenza di GIST! risiede in protagonisti proattivi che affrontano situazioni pericolose e ostacoli con approcci strategici e assertivi, che sono plasmati dai loro background e abilità unici.
 
@@ -130,7 +130,7 @@ Il colore e la granularità delle abilità sono determinate dall'Arbitro coerent
 
 > Il nome del tuo personaggio è Zephyr e ha 21 anni. Come equipaggiamento scegli una bacchetta e un libro di incantesimi.
 
-## Risoluzione delle azioni
+# Risoluzione delle azioni
 
 L'esito della maggior parte delle azioni può essere stabilito dal contesto e da come il giocatore descrive il personaggio che le esegue. Quando l'esito è incerto, tuttavia, l'Arbitro può richiedere una prova:
 
@@ -192,7 +192,7 @@ Ecco alcuni esempi:
 
 > Sia Sasha che la guardia tirano 2d6, con Sasha che aggiunge il modificatore di Agilità (+2) e la guardia che aggiunge il modificatore di Percezione (+3). L'Arbitro non applica modificatori al tiro. Sasha tira un 9 e la guardia tira un 7, rendendo Sasha il vincitore della prova.Riesce a oltrepassare la guardia e scappare con il dipinto.
 
-## Combattimento
+# Combattimento
 
 Il combattimento è un'azione contrapposta che avviene in round. Ogni round, un personaggio può compiere due azioni, scelte tra muoversi, attaccare, difendere o usare abilità speciali. È anche possibile eseguire una doppia azione dello stesso tipo, a costo di rinunciare all'altra azione.
 
@@ -230,11 +230,11 @@ Dopo ogni combattimento, i PF dei personaggi vengono ripristinati immediatamente
 
 > Al termine dello scontro, se i PF di Max sono superiori a 0, vengono immediatamente ripristinati. Se i suoi PF sono pari a 0, ha bisogno di cure mediche immediate. Se il trattamento medico non è fattibile, Max effettua una prova su Forma contro 8+. In caso di successo, i suoi PF vengono ripristinati della metà del totale. In caso di fallimento, Max deve ritirarsi dall'azione.
 
-## Avanzamento
+# Avanzamento
 
 Ogni volta che si verifica una situazione in cui un'abilità è particolarmente messa alla prova, l'Arbitro può offrire al giocatore un tiro di Avanzamento. Il giocatore tira un 2d6 e deve ottenere un punteggio di 8 o superiore per avere successo. Se il tiro ha successo, il personaggio guadagna un livello aggiuntivo in quella particolare abilità. Questo rappresenta il personaggio che impara dalle proprie esperienze e migliora le proprie capacità attraverso la pratica e la dedizione.
 
-## Magia in forma libera
+# Magia in forma libera
 
 L'abilità Magico consente a un giocatore di tentare di lanciare un incantesimo creando una semplice frase composta da un *Focus* e un *Locus*. La difficoltà dell'incantesimo è stabilita dall'arbitro e il giocatore deve effettuare una prova di Magico per lanciare l'incantesimo. In caso di successo, l'incantesimo viene lanciato ei suoi effetti sono determinati dall'Arbitro.
 
@@ -305,7 +305,7 @@ Ecco un elenco di incidenti generici, usalo come riferimento per rimpolpare il t
 
 > Azura ha lanciato con successo il suo incantesimo con alcune conseguenze.
 
-## Creature e PNG
+# Creature e PNG
 
 Le creature sono divise per taglia, avendo un diverso impatto sulle loro caratteristiche fisiche.
 Gli esseri senzienti sono effettivamente PNG, ma non hanno limitazioni su caratteristiche e abilità come gli umani.
@@ -321,7 +321,7 @@ Per costruire altre creature, può essere utile la tabella di riferimento qui so
 | Massiccio    | 5d6   | 2d6-2   |
 | Colossale    | 6d6   | 2d6-4   |
 
-## Bestiario
+# Bestiario
 
 ### Fantasy
 
@@ -454,7 +454,7 @@ Una creatura umanoide con ali e occhi rossi luminosi. È noto per apparire prima
 
 Statistiche: Forma 3d6, Agilità 2d6+2
 
-## Consigli per l'arbitro
+# Consigli per l'arbitro
 
 Come arbitro, il tuo obiettivo principale in GIST! è quello di creare un'esperienza coinvolgente e stimolante per i giocatori. Il gioco è progettato per sfumare il confine tra il giocatore e il personaggio, consentendo ai giocatori di tentare azioni che hanno senso nel contesto del gioco, anche se il loro personaggio potrebbe non avere le abilità o le conoscenze necessarie.
 
@@ -464,7 +464,7 @@ L'infinità tattica dovrebbe essere il principale motore di risoluzione per qual
 
 In GIST!, l'obiettivo dovrebbe essere quello di creare un mondo di gioco coinvolgente e interattivo in cui i giocatori abbiano la libertà di esplorare e prendere decisioni che avranno un impatto sulla storia. In qualità di Arbitro, è importante non strutturare eccessivamente il gioco con trame complesse e trame predeterminate. Invece, concentrati sulla creazione di situazioni interessanti e stimolanti con cui i giocatori possono interagire e rispondere. In questo modo, consentirai al mondo di gioco di evolversi naturalmente in base alle azioni dei giocatori, piuttosto che cercare di costringerli a seguire un percorso specifico. Mentre risolvete le azioni dei giocatori e rispondete alle loro decisioni, scoprirete insieme dove vi porta il gioco, creando una narrazione emozionante e imprevedibile che si sviluppa attraverso le azioni e le decisioni dei giocatori.
 
-## Licenza
+# Licenza
 
 (CC) 2023 Roberto Bisceglie
 

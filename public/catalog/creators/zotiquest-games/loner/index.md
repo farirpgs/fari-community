@@ -1,5 +1,4 @@
-# Loner - Core Rules
-
+# Introduction
 ## What is Loner?
 
 ***Loner*** is a minimalist Solo Role Playing Game designed to be played with only one character (the Protagonist). You'll guide them through the story that will unravel during the game, asking closed questions to an Oracle which will help you overturn your expectations. 
@@ -21,6 +20,7 @@ Unlike a gamebook (such as the Fighting Fantasy, Lone Wolf, and Tunnels & Trolls
 
 Through the interaction of player, oracle, tools, and prompts, the character's actions will build an **emergent narrative** within whose boundaries anything can be attempted, without predetermined limits.
 
+# Game Setup
 ## Safety Tools
 You will play alone, but be sure to play in an environment that is comfortable for you, without overexerting yourself, and reserve the option to stop as soon as you feel uncomfortable for any reason, physical or emotional. Don't be afraid to tackle new themes, but do so in full awareness of your boundaries.
 
@@ -40,7 +40,7 @@ Or you can use the Adventure Packs found in the second part of the volume.
 
 You can also generate the character first, based on randomly chosen tropes, and once it is defined, you can follow the genre that emerged at this stage.
 
-## Make Your Protagonist
+# Make Your Protagonist
 Once the setting is established, now is the time to create your Protagonist.
 
 Your Protagonist is described by some fixed traits:
@@ -94,7 +94,7 @@ Jot down these NPCs in a list, which you will consult when they need to be recal
 
 Also, it might be useful to jot down interesting **Locations** that serve as settings for your Protagonist and keep a list of major **Events** that happen during the game.
 
-## Start Your Game
+# Start Your Game
 
 To begin an adventure in Loner you will need to determine the initial scene: 
 
@@ -147,7 +147,7 @@ An expectation does not necessarily automatically lead to a question, which you 
 **Example**  
 > Zahra sneaks into the Leton Corporation subsidiary. The expectation is that the place will be well guarded during the day and less so at night. To escape an inevitable head-on collision, Zahra decides to act at night and enter through the ventilation ductsYou don't expect there to be an alarm but maybe it's worth asking the question!
 
-## Consulting the Oracle
+# Consulting the Oracle
 
 When you need to test your expectations you'll ask the Oracle a closed question.
 
@@ -223,7 +223,7 @@ Interpret the two-word sentence in the context of the current scene. Twists will
 
 > Now Zahra knows the content of the datapad, but you roll 1 and 5 on the Twist Table "*A third party*", "*Changes the goal*". An agent of the Leton Corporation appears before Zahra with a proposal....
 
-## Conflicts
+# Conflicts
 
 A *Conflict* is any situation in which opponents clash, attacking, defending, or wearing each other down in order to win.
 This applies both in a practical and metaphorical sense. 
@@ -260,7 +260,7 @@ The final outcome depends on the context. Do you get caught? Are you seriously i
 **Example**
 > Zahra confronts a thug in an alley. He is "Martial Artist", "Hand-to-Hand Combat", "Feline" and "Short". Zahra tries to hit him with the knife, you throw (5) (6) [4] ("**Yes, And...**", causing a Luck loss of 3 to the thug). The thug throws a roundhouse kick at Zahra (roll (3) (2) [2], "**Yes, but...**", causing a Luck loss of 1 to Zahra). Who will win?
 
-## Determine the mood of the next scene
+# Determine the mood of the next scene
 
 At the end of the current scene sometimes you will be clear about the direction to take, other times you may need to determine the general mood of the next one. In this case roll 1d6 and consult the following table:
 
@@ -277,7 +277,7 @@ At the end of the current scene sometimes you will be clear about the direction 
 **Example**
 > Zahra accepts the proposal, you now roll for the next scene: 6, *Meanwhile scene*. In the following scene, Tobias Wethern hires a hit man to kill Zahra...
 
-## Open-Ended Question or Get Inspired
+# Open-Ended Question or Get Inspired
 
 To answer an Open-Ended question, roll 1d6 once on each of the following tables (roll at least a verb and a noun, adjectives are optional).
 
@@ -314,7 +314,7 @@ To answer an Open-Ended question, roll 1d6 once on each of the following tables 
 **Example**
 > You ask: "Does Zahra have friends to ask for help against the hit man?". You roll 24 and 32: *multiply motion*. Zahra needs to move quickly to reach Melina Reade, a hacker with contacts in the underworld who might be able to help her!
 
-## When the story ends
+# When the story ends
 
 At the end of the adventure you may add another trait to the character. It is better that this is related to how the story just ended and can be either a Skill, Gear, a new Frailty, or even a new Nemesis! You can also modify an existing trait to better represent an enhanced expertise.
 
@@ -323,7 +323,7 @@ Also update the list of **NPCs**, **Locations**, and **Events** that may show up
 **Example**
 > Zahra secures the datapad in the hands of the authorities, framing both Wethern and the Leton Corporation. Wethern is arrested, but she has gained a powerful enemy working against the Corporation. She gains "Wannabe Hacker" to her skills. Maybe Melina can mentor her!
 
-## Loner Together
+# Loner Together
 Loner's rules are designed for a single player controlling one character.
 However being derivative of a multiplayer game (Freeform Universal) no one prevents you from using them for group play as well, if you insist on doing so.
 
@@ -333,7 +333,7 @@ It is then possible to play in the following modes:
 
 Keep in mind that as much as Loner can be played in groups, I strongly recommend that you use Freeform Universal for this need.
 
-## The Adventure Maker
+# The Adventure Maker
 Sometimes you may lack the inspiration to think of a game setting, or you want to experiment with one you have never thought of.
 The tables below are designed to instantly generate an unpredictable setting for you to explore with a game.
 
@@ -348,7 +348,7 @@ To generate a premise of adventure:
 
 Note that the adventure premise is not the initial scene prompt, only the framework within which it takes place.
 
-### Table 1: Settings
+## Table 1: Settings
 
 |     | 1                                    | 2                       | 3                         | 4                                 | 5                                 | 6                           |     |
 | --- | ------------------------------------ | ----------------------- | ------------------------- | --------------------------------- | --------------------------------- | --------------------------- | --- |
@@ -360,7 +360,7 @@ Note that the adventure premise is not the initial scene prompt, only the framew
 | 6   | Underwater Adventure and Exploration | Jungle-Covered Planet   | Steampunk Victorian Era   | Time Travel Paradoxes             | Intergalactic Starfighter Battles | Survival in a Savage Land   |     |
 |     |                                      |                         |                           |                                   |                                   |                             |     |
 
-### Table 2: Tones
+## Table 2: Tones
 
 |     | 1-2                                | 3-4                       | 5-6                          |
 | --- | ---------------------------------- | ------------------------- | ---------------------------- |
@@ -372,7 +372,7 @@ Note that the adventure premise is not the initial scene prompt, only the framew
 | 6   | Eerie and paranormal               | Martial and disciplined   | Gracious and elegant         |
 
 
-### Table 3: Things
+## Table 3: Things
 
 |     |           1           |          2          |           3          |           4          |           5           |          6          |
 |:---:|:---------------------:|:-------------------:|:--------------------:|:--------------------:|:---------------------:|:-------------------:|
@@ -403,7 +403,7 @@ Note that the adventure premise is not the initial scene prompt, only the framew
 |  5  | Extensive world-building |  Unstoppable monster |     Enchanted kingdom     |     The final frontier    |    Robotic revolution   |  Secrets of the ancients  |
 |  6  | End of the era scenarios |   Psionic abilities  |  Futuristic battlefields  |  Interdimensional portals |       Technomancy       |   Superpowered diplomacy  |
 
-### Table 4: Actions
+## Table 4: Actions
 
 |     |      1      |     2    |      3     |     4     |     5     |    6    |
 |:---:|:-----------:|:--------:|:----------:|:---------:|:---------:|:-------:|
@@ -415,7 +415,7 @@ Note that the adventure premise is not the initial scene prompt, only the framew
 |  6  |  Anticipate |  Develop |    Ally    |   Expand  |   Become  |   Slay  |
 
 
-### Table 5: Oppositions
+## Table 5: Oppositions
 
 |     |           1          |          2          |             3            |           4           |          5          |           6          |
 |:---:|:--------------------:|:-------------------:|:------------------------:|:---------------------:|:-------------------:|:--------------------:|
@@ -427,7 +427,7 @@ Note that the adventure premise is not the initial scene prompt, only the framew
 |  6  |    Terrible curses   |    Devious traps    |   Sinister conspiracies  |  Dangerous illusions  | Malevolent entities |   Ruthless factions  |
 
 
-## Credits
+# Credits
 
 - [Recluse Engine](https://gravenutterance.itch.io/recluse) (CC BY 4.0) by Graven Utterance and Tiny Solitary Soldier Oracle for the main resolution and scene mechanics.
 - [Freeform Universal Roleplaying Game](https://www.perilplanet.com/freeform-universal/) (CC BY 4.0) by Nathan Russell as an inspiration of the whole game and the character traits.
@@ -440,7 +440,7 @@ With deepest thanks to :
 - Shane Conner for proof reading and revision of the text of the First Edition.
 - the Italian solo player community for their constant support and drive to improve the game.
 
-## License
+# License
 
 Loner v.2.3
 

@@ -1,5 +1,4 @@
-# Loner - Regole Base
-
+# Introduzione
 ## Che cos'è Loner?
 
 ***Loner*** è un gioco di ruolo solitario minimalista pensato per essere giocato con un solo personaggio (il Protagonista). Lo guiderai attraverso la storia che si dipanerà nel corso del gioco, ponendo domande chiuse a un Oracolo che ti aiuterà a ribaltare le tue aspettative. Di tanto in tanto sarai sorpreso con un colpo di scena inaspettato!
@@ -25,6 +24,8 @@ Attraverso l'interazione tra giocatore, oracolo, strumenti e suggerimenti, le az
 
 Giocherai da solo, ma sii certo di giocare in un ambiente per te confortevole, senza affaticarti eccessivamente e riservati l'opzione di interrompere appena dovessi sentirti a disagio per qualche motivo, fisico o emozionale. Non avere timore di affrontare temi nuovi, ma fallo nella piena consapevolezza dei tuoi limiti.
 
+# Impostare il gioco
+
 ## Requisiti minimi
 
 Per giocare a *Loner* avrai bisogno di:
@@ -42,7 +43,7 @@ Oppure puoi usare gli Adventure Packs che trovi nella seconda parte del volume.
 
 Puoi anche generare il personaggio per primo, sulla base di tropi scelti casualmente e una volta che l'hai definito, puoi seguire il genere emerso in questa fase.
 
-## Crea il Protagonista
+# Crea il Protagonista
 Stabilita l'ambientazione, è il momento di generare il tuo Protagonista.
 
 Il tuo Protagonista è descritto da alcune caratteristiche:
@@ -96,7 +97,7 @@ Annota questi PNG in una lista, che consulterai quando sarà necessario richiama
 
 Inoltre potrebbe essere utile annotare **Luoghi** interessanti che fanno da cornice al tuo Protagonista e mantenere una lista degli **Eventi** principali che accadono durante il gioco.
 
-## Inizia l'avventura
+# Inizia l'avventura
 
 Per iniziare un'avventura in Loner dovrai determinare la scena iniziale:
 
@@ -149,7 +150,7 @@ Non è detto che un'aspettativa porti automaticamente a una domanda, che devi po
 **Esempio**  
 > Zahra si intrufola nella filiale della Leton Corporation. L'aspettativa è che il luogo sia ben sorvegliato durante il giorno e meno durante la notte. Per sottrarsi a un inevitabile scontro frontale, Zahra decide di agire di notte ed entrare dalle condotte di aerazione. Non ti aspetti che ci sia un allarme ma forse vale la pena porsi la domanda!
 
-## Interrogare l'Oracolo
+# Interrogare l'Oracolo
 
 Quando devi mettere alla prova le tue aspettative, poni all'Oracolo una domanda chiusa.
 
@@ -223,7 +224,7 @@ Interpreta la frase di due parole nel contesto della scena corrente. I Colpi di 
 
 > Ora che Zahra conosce il contenuto del datapad, ma si tirano 1 e 5 sulla Tabella dei colpi di scena: "Un terzo", "Cambia l'obiettivo". Un agente della Corporazione Leton appare davanti a Zahra con una proposta...
 
-## Conflitti
+# Conflitti
 
 Un *conflitto* è una qualsiasi situazione in cui degli avversari si scontrano, attaccandosi, difendendosi o logorandosi a vicenda per vincere.
 Questo vale sia in senso concreto che metaforico. 
@@ -259,7 +260,7 @@ L'esito finale dipende dal contesto. Si viene catturati? Si viene gravemente fer
 **Esempio**
 > Zahra affronta un delinquente in un vicolo. È "Artista marziale", "Combattente corpo a corpo", "Felino" e "Basso". Zahra cerca di colpirlo con il coltello, tu tiri (5) (6) [4] ("Sì, e...", causando una perdita di Fortuna di 3 al teppista). Il teppista tira un calcio circolare a Zahra (tiro (3) (2) [2], "Sì, ma...", causando una perdita di Fortuna di 1 a Zahra). Chi vincerà? 
 
-## Determina l'atmosfera della prossima scena
+# Determina l'atmosfera della prossima scena
 
 Alla fine della scena in corso a volte ti sarà chiara la direzione da prendere, altre volte potrebbe essere necessario determinare l'umore generale della scena successiva. In questo caso tira 1d6 e consulta la seguente tabella:
 
@@ -276,7 +277,7 @@ Alla fine della scena in corso a volte ti sarà chiara la direzione da prendere,
 **Esempio**
 > Zahra accetta la proposta, ora tiri per la scena successiva: 6, "Nel frattempo...". Nella scena seguente, Tobias Wethern assume un sicario per uccidere Zahra...
 
-## Domanda aperta o Ispirazione
+# Domanda aperta o Ispirazione
 
 Per rispondere a una domanda aperta, tira 1d6 una volta su ciascuna delle seguenti tabelle (tirare almeno un verbo e un nome, gli aggettivi sono facoltativi).
 
@@ -310,7 +311,7 @@ Per rispondere a una domanda aperta, tira 1d6 una volta su ciascuna delle seguen
 **Esempio**
 > Chiedi all'Oracolo: "Zahra ha amici a cui chiedere aiuto contro il sicario?". Tiri 24 e 32: "moltiplicare movimento". Zahra deve muoversi rapidamente per raggiungere Melina Reade, un'hacker con contatti nella malavita che potrebbe aiutarla!
 
-## Quando la storia finisce
+# Quando la storia finisce
 
 Alla fine dell'avventura si possono aggiungere un nuovo tratto al personaggio. È meglio che questo sia legato alla storia appena conclusa e può essere un'Abilità, un Equipaggiamento o una nuova Debolezza o addirittura una nuova Nemesi! È anche possibile modificare un tratto esistente per rappresentare meglio un'abilità potenziata.
 
@@ -319,7 +320,7 @@ Aggiorna anche l'elenco di **PNG**, **Luoghi** ed **Eventi** che potrebbero ripr
 **Esempio**
 > Zahra mette al sicuro il datapad nelle mani delle autorità, incastrando sia Wethern che la Corporazione Leton. Wethern viene arrestato, ma ha ottenuto un potente nemico che lavora contro la Corporazione. Alle sue abilità si aggiunge la qualifica di "Aspirante Hacker". Forse Melina può farle da mentore!
 
-## Loner Insieme
+# Loner Insieme
 Le regole di Loner sono state pensate per un giocatore singolo che controlla un solo personaggio.
 Tuttavia essendo derivato di un gioco multi-giocatore (Freeform Universal) nessuno impedisce di utilizzarle anche per giocare in gruppo, se insisti per farlo.
 
@@ -329,7 +330,7 @@ Tuttavia essendo derivato di un gioco multi-giocatore (Freeform Universal) nessu
 
 Tenete presente che, per quanto Loner possa essere giocato in gruppo, vi consiglio vivamente di utilizzare Freeform Universal per questa esigenza.
 
-## Generatore di Avventure
+# Generatore di Avventure
 A volte potrebbe mancarti l'ispirazione per pensare a un'ambientazione di gioco, oppure vuoi sperimentarne uno mai pensato.
 Le tabelle che seguono sono pensate per generare istantaneamente un setting imprevedibile da esplorare con una partita.
 
@@ -344,7 +345,7 @@ Per generare una premessa di avventura:
 
 Nota che la premessa dell'avventura non è lo spunto della scena iniziale, ma solo la cornice all'interno della quale essa si svolge.
 
-### Tabella 1: Ambientazioni
+## Tabella 1: Ambientazioni
 
 |     | 1                                   | 2                               | 3                            | 4                                | 5                                            | 6                                    |     |
 | --- | ----------------------------------- | ------------------------------- | ---------------------------- | -------------------------------- | -------------------------------------------- | ------------------------------------ | --- |
@@ -355,7 +356,7 @@ Nota che la premessa dell'avventura non è lo spunto della scena iniziale, ma so
 | 5   | Urban Fantasy Underworld            | Stazione spaziale abbandonata   | America coloniale            | Creature mitiche e leggende      | Azione di arti marziali                      | Carnevale orrorifico                 |     |
 | 6   | Avventura ed esplorazione subacquea | Pianeta ricoperto dalla giungla | Era vittoriana steampunk     | Paradossi del viaggio nel tempo  | Battaglie intergalattiche di caccia stellari | Sopravvivenza in una terra selvaggia |     |
 
-### Tabella 2: Toni
+## Tabella 2: Toni
 
 |     | 1-2                                   | 3-4                     | 5-6                       |
 | --- | ------------------------------------- | ----------------------- | ------------------------- |
@@ -368,7 +369,7 @@ sporco         | Gotico e minaccioso       |
 | 6   | Inquietante e paranormale             | Marziale e disciplinato | Grazioso ed elegante      |
 
 
-### Tabella 3: Cose
+## Tabella 3: Cose
 
 | | 1 | 2 | 3 | 4 | 5 | 6 |
 |:---:|:---------------------:|:-------------------:|:--------------------:|:--------------------:|:---------------------:|:-------------------:|
@@ -400,7 +401,7 @@ sporco         | Gotico e minaccioso       |
 | 6 | Scenari da fine dell'era | Capacità psioniche | Campi di battaglia futuristici | Portali interdimensionali | Tecnomanzia | Diplomazia con i superpoteri |
 
 
-### Tabella 4: Azioni
+## Tabella 4: Azioni
 
 | | 1 | 2 | 3 | 4 | 5 | 6 |
 |:---:|:-----------:|:--------:|:----------:|:---------:|:---------:|:-------:|
@@ -412,7 +413,7 @@ sporco         | Gotico e minaccioso       |
 | 6 | Anticipare | Sviluppare | Alleare | Espandere | Diventare | Uccidere |
 
 
-### Tabella 5: Opposizioni
+## Tabella 5: Opposizioni
 
 | | 1 | 2 | 3 | 4 | 5 | 6 |
 |:---:|:--------------------:|:-------------------:|:------------------------:|:---------------------:|:-------------------:|:--------------------:|
@@ -423,7 +424,7 @@ sporco         | Gotico e minaccioso       |
 | 5 | Veleno letale | Antiche profezie | Tentazioni irresistibili | Potenti incantesimi | Signori della guerra spietati | Pericoli invisibili |
 | 6 | Terribili maledizioni | Subdole trappole | Sinistre cospirazioni | Pericolose illusioni | Entità maligne | Fazioni spietate |
 
-## Riconoscimenti
+# Riconoscimenti
 
 - [Recluse Engine](https://gravenutterance.itch.io/recluse) (CC BY 4.0) di Graven Utterance e Tiny Solitary Soldier Oracle per la risoluzione principale e le meccaniche di scena.
 - [Freeform Universal Roleplaying Game](https://www.perilplanet.com/freeform-universal/) (CC BY 4.0) di Nathan Russell come ispirazione dell'intero gioco e dei tratti dei personaggi.
@@ -434,7 +435,7 @@ sporco         | Gotico e minaccioso       |
 
 Un sincero ringraziamento al gruppo dei [Ruolatori Solitari](https://t.me/ruolatorisolitari) per il continuo supporto e la spinta a migliorare il gioco.
 
-## Licenza
+# Licenza
 
 Loner v.2.3
 
