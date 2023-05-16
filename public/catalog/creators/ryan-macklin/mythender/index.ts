@@ -11,15 +11,19 @@ export default function getData(): IProjectData {
     headingFont: "Cinzel",
     /*textFont: "serif",*/
     css: `
+img {
+	display: inline;
+}
 /*
    The book uses Minion for most purposes; Crimson Text is very similar.
    Heading levels 1 and 2 in the book use Windlass; Cinzel is vaguely similar.
    */
-@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500&display=swap');
 blockquote {
 	border: 3pt solid black;
+	border-inline-start-color: black !important; /* Override default grey for Fari Community */
 	padding: 0.5em;
 	margin: 0;
+	font-style: normal !important; /* Override italic default for Fari Community */
 }
 .read-aloud {
 	font-style: italic;
@@ -48,7 +52,7 @@ p {
 	margin-bottom: 0.7em;
 }
 h1,h2 {
-	/*font-variant: small-caps;*//*Cinzel is always small caps*/
+	font-variant: small-caps;
 	font-weight: normal;
 }
 h1 {
