@@ -433,21 +433,21 @@ All the many dice of Mythender are six-sided dice.You’ll need four different s
 
 ### Storm Dice
 
-Storm dice are represented by white dice: ![ ](storm-1.svg) ![ ](storm-2.svg) ![ ](storm-3.svg) ![ ](storm-4.svg) ![ ](storm-5.svg) ![ ](storm-6.svg). You’ll need 30-40 in order for everyone to hold onto their dice. If you have fewer, you can share, but you may need as many as 15 at any given point.
+Storm dice are represented by white dice: ![ ](/catalog/creators/ryan-macklin/mythender/storm-1.svg) ![ ](/catalog/creators/ryan-macklin/mythender/storm-2.svg) ![ ](/catalog/creators/ryan-macklin/mythender/storm-3.svg) ![ ](/catalog/creators/ryan-macklin/mythender/storm-4.svg) ![ ](/catalog/creators/ryan-macklin/mythender/storm-5.svg) ![ ](/catalog/creators/ryan-macklin/mythender/storm-6.svg). You’ll need 30-40 in order for everyone to hold onto their dice. If you have fewer, you can share, but you may need as many as 15 at any given point.
 
 ### Thunder Dice
 
-Thunder dice are represented by black dice: ![ ](thunder-1.svg) ![ ](thunder-2.svg) ![ ](thunder-3.svg) ![ ](thunder-4.svg) ![ ](thunder-5.svg) ![ ](thunder-6.svg). You’ll need at least a hundred for the group, the more the better. Holding onto your own Thunder dice is a key part of the game. If you run out of Thunder dice, use some sort of counter to keep track of how many you have, as it constantly changes with every turn.
+Thunder dice are represented by black dice: ![ ](/catalog/creators/ryan-macklin/mythender/thunder-1.svg) ![ ](/catalog/creators/ryan-macklin/mythender/thunder-2.svg) ![ ](/catalog/creators/ryan-macklin/mythender/thunder-3.svg) ![ ](/catalog/creators/ryan-macklin/mythender/thunder-4.svg) ![ ](/catalog/creators/ryan-macklin/mythender/thunder-5.svg) ![ ](/catalog/creators/ryan-macklin/mythender/thunder-6.svg). You’ll need at least a hundred for the group, the more the better. Holding onto your own Thunder dice is a key part of the game. If you run out of Thunder dice, use some sort of counter to keep track of how many you have, as it constantly changes with every turn.
 
 ### Bonus Dice
 
-Bonus Thunder dice are represented by red dice: ![ ](bonus-1.svg) ![ ](bonus-2.svg) ![ ](bonus-3.svg) ![ ](bonus-4.svg) ![ ](bonus-5.svg) ![ ](bonus-6.svg). You’ll only need ten or twelve for the group, as they aren’t held onto when a turn is over.
+Bonus Thunder dice are represented by red dice: ![ ](/catalog/creators/ryan-macklin/mythender/bonus-1.svg) ![ ](/catalog/creators/ryan-macklin/mythender/bonus-2.svg) ![ ](/catalog/creators/ryan-macklin/mythender/bonus-3.svg) ![ ](/catalog/creators/ryan-macklin/mythender/bonus-4.svg) ![ ](/catalog/creators/ryan-macklin/mythender/bonus-5.svg) ![ ](/catalog/creators/ryan-macklin/mythender/bonus-6.svg). You’ll only need ten or twelve for the group, as they aren’t held onto when a turn is over.
 
 There are times when you’ll also get bonus Storm dice, but for those you’ll use the same white dice as normal Storm. Thunder is kept track of from one moment to the next.
 
 ### The Mythic Die
 
-The Mythic die is represented by a larger die than all the others: ![ ](mythic-6.svg). Having one die is enough, though if each Mythender has their own Mythic die, all the better.
+The Mythic die is represented by a larger die than all the others: ![ ](/catalog/creators/ryan-macklin/mythender/mythic-6.svg). Having one die is enough, though if each Mythender has their own Mythic die, all the better.
 
 ### Lightning Tokens
 
@@ -2199,7 +2199,7 @@ The Mythmaster will direct everyone through this tutorial. It will be very helpf
 
 ### Physical Tokens
 
-You’re using physical tokens for everything, right? A bunch of Storm dice (![white dice](storm-6.svg)), Thunder dice (![black dice](thunder-6.svg)), and bonus Thunder dice (![red dice](bonus-6.svg)) within reach of everyone? And at least one Mythic die (![giant die](mythic-6.svg)) on hand? Two kinds of tokens for Lightning and Might?
+You’re using physical tokens for everything, right? A bunch of Storm dice (![white dice](/catalog/creators/ryan-macklin/mythender/storm-6.svg)), Thunder dice (![black dice](/catalog/creators/ryan-macklin/mythender/thunder-6.svg)), and bonus Thunder dice (![red dice](/catalog/creators/ryan-macklin/mythender/bonus-6.svg)) within reach of everyone? And at least one Mythic die (![giant die](/catalog/creators/ryan-macklin/mythender/mythic-6.svg)) on hand? Two kinds of tokens for Lightning and Might?
 
 Mythender battles are tactile experiences. Not using them makes the baby Odin smile with joy, and we certainly don’t want that, do we?
 
@@ -2343,7 +2343,7 @@ This tutorial assumes that the Mythmaster is starting in the adventure with this
 
 ### Gathering Dice & Tokens
 
-Each Mythender should gather 3 Storm dice (![white dice](storm-6.svg)) and put them in the top-left corner of their playsheets, the one labeled <span class="keyword">Storm Dice</span>. Then they gather 1 Thunder die (![black die](thunder-6.svg)) and put it in the bottom-left corner of their playsheets, labeled <span class="keyword">Thunder Dice</span>. They leave the bottom-right corner, <span class="keyword">Lightning Tokens</span>, empty. Finally, they each should have 5 Might tokens in the top-right corner, labeled <span class="keyword">Might Tokens</span>.
+Each Mythender should gather 3 Storm dice (![white dice](/catalog/creators/ryan-macklin/mythender/storm-6.svg)) and put them in the top-left corner of their playsheets, the one labeled <span class="keyword">Storm Dice</span>. Then they gather 1 Thunder die (![black die](/catalog/creators/ryan-macklin/mythender/thunder-6.svg)) and put it in the bottom-left corner of their playsheets, labeled <span class="keyword">Thunder Dice</span>. They leave the bottom-right corner, <span class="keyword">Lightning Tokens</span>, empty. Finally, they each should have 5 Might tokens in the top-right corner, labeled <span class="keyword">Might Tokens</span>.
 
 If any of them has the <span class="keyword">Harbinger of Storm</span> Gift, they take 5 Storm dice instead of 3.
 
@@ -2430,11 +2430,11 @@ Either way, refer to **Describe Being Awesome** on making your action work if yo
 
 <p class="do-this"><span class="keyword">Mythmaster</span>: gather your white Storm dice and black Thunder dice. Roll them together.</p>
 
-For each Thunder die that comes up ![4](thunder-4.svg), ![5](thunder-5.svg), or ![6](thunder-6.svg), gain a Lightning token. Put this into the Lightning pool on your playsheet.
+For each Thunder die that comes up ![4](/catalog/creators/ryan-macklin/mythender/thunder-4.svg), ![5](/catalog/creators/ryan-macklin/mythender/thunder-5.svg), or ![6](/catalog/creators/ryan-macklin/mythender/thunder-6.svg), gain a Lightning token. Put this into the Lightning pool on your playsheet.
 
-For each Storm die that comes up ![4](storm-4.svg), ![5](storm-5.svg), or ![ 6](storm-6.svg), gain a Thunder die. Put this in the Thunder pool on your playsheet. You’ll use it in future turns.
+For each Storm die that comes up ![4](/catalog/creators/ryan-macklin/mythender/storm-4.svg), ![5](/catalog/creators/ryan-macklin/mythender/storm-5.svg), or ![ 6](/catalog/creators/ryan-macklin/mythender/storm-6.svg), gain a Thunder die. Put this in the Thunder pool on your playsheet. You’ll use it in future turns.
 
-If either your Storm or your Thunder rolled all failures, change one to a ![storm 4](storm-4.svg). Explain that you’re cheating, because it’s a tutorial, and normally you can’t just do that.
+If either your Storm or your Thunder rolled all failures, change one to a ![storm 4](/catalog/creators/ryan-macklin/mythender/storm-4.svg). Explain that you’re cheating, because it’s a tutorial, and normally you can’t just do that.
 
 <p class="do-this"><span class="keyword">Mythmaster</span>: read the following to the table.</p>
 
@@ -2498,9 +2498,9 @@ You may need to help guide this description. Make sure it keeps to a Legendary a
 
 <p class="do-this"><span class="keyword">Player</span>: gather your Storm dice and your 1 Thunder die. Roll them together.</p>
 
-If your Thunder die comes up ![4](thunder-4.svg), ![5](thunder-5.svg), or ![6](thunder-6.svg), gain a Lightning token. Put this into the Lightning pool on your playsheet.
+If your Thunder die comes up ![4](/catalog/creators/ryan-macklin/mythender/thunder-4.svg), ![5](/catalog/creators/ryan-macklin/mythender/thunder-5.svg), or ![6](/catalog/creators/ryan-macklin/mythender/thunder-6.svg), gain a Lightning token. Put this into the Lightning pool on your playsheet.
 
-For each Storm die that comes up ![4](storm-4.svg), ![5](storm-5.svg), or ![6](storm-6.svg), gain a Thunder die. Put this in the Thunder pool on your playsheet. You’ll use it in future turns.
+For each Storm die that comes up ![4](/catalog/creators/ryan-macklin/mythender/storm-4.svg), ![5](/catalog/creators/ryan-macklin/mythender/storm-5.svg), or ![6](/catalog/creators/ryan-macklin/mythender/storm-6.svg), gain a Thunder die. Put this in the Thunder pool on your playsheet. You’ll use it in future turns.
 
 ### If You Gained Nothing
 
@@ -2562,11 +2562,11 @@ This will mean you can make a Blight like “Storm of Lightning Spears.”
 
 This is identical to the **Roll Dice & Gain Power** step from the Myth’s First Action</a>.
 
-For each Storm die that comes up ![4](storm-4.svg), ![5](storm-5.svg), or ![6](storm-6.svg), gain a Thunder die. Put this in the Thunder pool on your playsheet. You’ll use it in future turns.
+For each Storm die that comes up ![4](/catalog/creators/ryan-macklin/mythender/storm-4.svg), ![5](/catalog/creators/ryan-macklin/mythender/storm-5.svg), or ![6](/catalog/creators/ryan-macklin/mythender/storm-6.svg), gain a Thunder die. Put this in the Thunder pool on your playsheet. You’ll use it in future turns.
 
-For each Thunder die that comes up ![4](thunder-4.svg), ![5](thunder-5.svg), or ![6](thunder-6.svg), gain a Lightning token. Put this into the Lightning pool on your playsheet.
+For each Thunder die that comes up ![4](/catalog/creators/ryan-macklin/mythender/thunder-4.svg), ![5](/catalog/creators/ryan-macklin/mythender/thunder-5.svg), or ![6](/catalog/creators/ryan-macklin/mythender/thunder-6.svg), gain a Lightning token. Put this into the Lightning pool on your playsheet.
 
-If you gained no Thunder or Lightning this turn, cheat by turning a die to ![storm 4](storm-4.svg) as in **If you Gained Nothing**. Explain that you’re cheating for the tutorial.
+If you gained no Thunder or Lightning this turn, cheat by turning a die to ![storm 4](/catalog/creators/ryan-macklin/mythender/storm-4.svg) as in **If you Gained Nothing**. Explain that you’re cheating for the tutorial.
 
 ### Push Forward
 
@@ -2650,11 +2650,11 @@ The example to the right shows charging the Blight the first time a Mythender us
 
 <p class="do-this"><span class="keyword">Player</span>: gather your Storm dice, Thunder dice, and the Mythic Die. If you charged a Blight, add in one bonus Storm die. (Bonus Storm dice are also white.) Roll them together.</p>
 
-For each Thunder die that comes up ![4](thunder-4.svg), ![5](thunder-5.svg), or ![6](thunder-6.svg), gain a Lightning token. Put this into the Lightning pool on your playsheet.
+For each Thunder die that comes up ![4](/catalog/creators/ryan-macklin/mythender/thunder-4.svg), ![5](/catalog/creators/ryan-macklin/mythender/thunder-5.svg), or ![6](/catalog/creators/ryan-macklin/mythender/thunder-6.svg), gain a Lightning token. Put this into the Lightning pool on your playsheet.
 
-For each Storm die that comes up ![4](storm-4.svg), ![5](storm-5.svg), or ![6](storm-6.svg), gain a Thunder die. Put this in the Thunder pool on your playsheet. You’ll use it in future turns.
+For each Storm die that comes up ![4](/catalog/creators/ryan-macklin/mythender/storm-4.svg), ![5](/catalog/creators/ryan-macklin/mythender/storm-5.svg), or ![6](/catalog/creators/ryan-macklin/mythender/storm-6.svg), gain a Thunder die. Put this in the Thunder pool on your playsheet. You’ll use it in future turns.
 
-Take additional Thunder dice equal to the number on the Mythic die (a ![1](mythic-1.svg) means take 1 extra Thunder die, a ![6](mythic-6.svg) means take 6 extra Thunder dice). This is in addition to the Thunder dice gained from Storm dice rolled.
+Take additional Thunder dice equal to the number on the Mythic die (a ![1](/catalog/creators/ryan-macklin/mythender/mythic-1.svg) means take 1 extra Thunder die, a ![6](/catalog/creators/ryan-macklin/mythender/mythic-6.svg) means take 6 extra Thunder dice). This is in addition to the Thunder dice gained from Storm dice rolled.
 
 _Important_: don’t touch the Mythic die yet. The number on it factors in Suffering Corruption.
 
@@ -2738,7 +2738,7 @@ The <span class="keyword">Paragon Form</span> comes from that character’s Fate
 
 <p class="do-this"><span class="keyword">Player</span>: compare the number on the Mythic Die with the number in the Corruption box you checked. If the Mythic Die is equal or higher, you’re forced to progress your Fate.</p>
 
-Since this tutorial only has you checking off the first two boxes, the Corruption number will be 4. So if the Mythic die comes up ![4](mythic-4.svg), ![5](mythic-5.svg), or ![6](mythic-6.svg), then the Mythender’s Fate is progressed.
+Since this tutorial only has you checking off the first two boxes, the Corruption number will be 4. So if the Mythic die comes up ![4](/catalog/creators/ryan-macklin/mythender/mythic-4.svg), ![5](/catalog/creators/ryan-macklin/mythender/mythic-5.svg), or ![6](/catalog/creators/ryan-macklin/mythender/mythic-6.svg), then the Mythender’s Fate is progressed.
 
 #### If Fate isn’t progressing
 
@@ -2820,7 +2820,7 @@ This process is almost identical to your second turn. You get one bonus Storm di
 
 #### Introducing the Relentlessness Gift
 
-_Important_: if all of your Thunder dice are successful, turn one of them to be ![1](thunder-1.svg). Explain you’re doing this for tutorial purposes.
+_Important_: if all of your Thunder dice are successful, turn one of them to be ![1](/catalog/creators/ryan-macklin/mythender/thunder-1.svg). Explain you’re doing this for tutorial purposes.
 
 <p class="do-this"><span class="keyword">Mythmaster</span>: if you have any failures on your Thunder dice, read and do the following.</p>
 
@@ -3075,13 +3075,13 @@ take 2 Might tokens. Explain that these tokens aren’t temporary like bonus dic
 
 <p class="do-this"><span class="keyword">Player</span>: gather your Storm dice, normal and bonus Thunder dice, and the Mythic Die. Roll them together.</p>
 
-For each permanent Thunder die that comes up ![4](thunder-4.svg), ![5](thunder-5.svg), or ![6](thunder-6.svg), gain a Lightning token. Put this into the Lightning pool on your playsheet.
+For each permanent Thunder die that comes up ![4](/catalog/creators/ryan-macklin/mythender/thunder-4.svg), ![5](/catalog/creators/ryan-macklin/mythender/thunder-5.svg), or ![6](/catalog/creators/ryan-macklin/mythender/thunder-6.svg), gain a Lightning token. Put this into the Lightning pool on your playsheet.
 
-For each bonus Thunder die that comes up ![4](bonus-4.svg), ![5](bonus-5.svg), or ![6](bonus-6.svg), gain a Lightning token. Put this into the Lightning pool on your playsheet.
+For each bonus Thunder die that comes up ![4](/catalog/creators/ryan-macklin/mythender/bonus-4.svg), ![5](/catalog/creators/ryan-macklin/mythender/bonus-5.svg), or ![6](/catalog/creators/ryan-macklin/mythender/bonus-6.svg), gain a Lightning token. Put this into the Lightning pool on your playsheet.
 
-For each Storm die that comes up ![4](storm-4.svg), ![5](storm-5.svg), or ![6](storm-6.svg), gain a Thunder die. Put this in the Thunder pool on your playsheet. You’ll use it in future turns.
+For each Storm die that comes up ![4](/catalog/creators/ryan-macklin/mythender/storm-4.svg), ![5](/catalog/creators/ryan-macklin/mythender/storm-5.svg), or ![6](/catalog/creators/ryan-macklin/mythender/storm-6.svg), gain a Thunder die. Put this in the Thunder pool on your playsheet. You’ll use it in future turns.
 
-Take additional Thunder dice equal to the number on the Mythic die (a ![1](mythic-1.svg) means take 1 extra Thunder die, a ![6](mythic-6.svg) means take 6 extra Thunder dice). This is in addition to the Thunder dice gained from Storm.
+Take additional Thunder dice equal to the number on the Mythic die (a ![1](/catalog/creators/ryan-macklin/mythender/mythic-1.svg) means take 1 extra Thunder die, a ![6](/catalog/creators/ryan-macklin/mythender/mythic-6.svg) means take 6 extra Thunder dice). This is in addition to the Thunder dice gained from Storm.
 
 Once you’ve gained everything, put the bonus storm and bonus Thunder dice back. Don’t touch the Mythic die, because you’ll need the value it rolled when you Suffer Corruption.
 
@@ -3163,13 +3163,13 @@ You should guide the player into describing a Titanic action. If it helps, goad 
 
 <p class="do-this"><span class="keyword">Player</span>: gather your normal and bonus Thunder dice, and the Mythic die. Roll them.</p>
 
-For each permanent Thunder die that comes up ![4](thunder-4.svg), ![5](thunder-5.svg), or ![6](thunder-6.svg), gain 3 Lightning tokens. Put this into the Lightning pool on your playsheet.
+For each permanent Thunder die that comes up ![4](/catalog/creators/ryan-macklin/mythender/thunder-4.svg), ![5](/catalog/creators/ryan-macklin/mythender/thunder-5.svg), or ![6](/catalog/creators/ryan-macklin/mythender/thunder-6.svg), gain 3 Lightning tokens. Put this into the Lightning pool on your playsheet.
 
-For each bonus Thunder die that comes up ![4](bonus-4.svg), ![5](bonus-5.svg), or ![6](bonus-6.svg), gain 3 Lightning tokens. Put this into the Lightning pool on your playsheet.
+For each bonus Thunder die that comes up ![4](/catalog/creators/ryan-macklin/mythender/bonus-4.svg), ![5](/catalog/creators/ryan-macklin/mythender/bonus-5.svg), or ![6](/catalog/creators/ryan-macklin/mythender/bonus-6.svg), gain 3 Lightning tokens. Put this into the Lightning pool on your playsheet.
 
-Take additional Might tokens equal to the number on the Mythic Die (a ![1](mythic-1.svg) means take 1 extra Might token, a ![6](mythic-6.svg) means take 6 extra Might tokens).
+Take additional Might tokens equal to the number on the Mythic Die (a ![1](/catalog/creators/ryan-macklin/mythender/mythic-1.svg) means take 1 extra Might token, a ![6](/catalog/creators/ryan-macklin/mythender/mythic-6.svg) means take 6 extra Might tokens).
 
-Discard each permanent Thunder die that comes up ![1](thunder-1.svg), ![2](thunder-2.svg), or ![3](thunder-3.svg). If that means you lose all your Thunder dice, then you’ve died. That’s okay, you’ll get better. See **Dead Mythenders**, then come back here.
+Discard each permanent Thunder die that comes up ![1](/catalog/creators/ryan-macklin/mythender/thunder-1.svg), ![2](/catalog/creators/ryan-macklin/mythender/thunder-2.svg), or ![3](/catalog/creators/ryan-macklin/mythender/thunder-3.svg). If that means you lose all your Thunder dice, then you’ve died. That’s okay, you’ll get better. See **Dead Mythenders**, then come back here.
 
 Once you’ve gained everything, put the bonus Thunder dice back.
 
@@ -3256,7 +3256,7 @@ Whatever number you checked off is your Wound Number, just as when the Mythender
 
 <p class="do-this"><span class="keyword">Mythmaster</span>: roll your Thunder dice. Keep any that are equal to or higher than your Wound number. Discard any that are less.</p>
 
-If the players raised your Wound number to 7 due to the <span class="keyword">Grievous Harm</span> Gift, then you will start by discarding everything that isn’t a ![6](thunder-6.svg), and then discard one ![6](thunder-6.svg). If the Wound number is 8, discard two ![6](thunder-6.svg)s.
+If the players raised your Wound number to 7 due to the <span class="keyword">Grievous Harm</span> Gift, then you will start by discarding everything that isn’t a ![6](/catalog/creators/ryan-macklin/mythender/thunder-6.svg), and then discard one ![6](/catalog/creators/ryan-macklin/mythender/thunder-6.svg). If the Wound number is 8, discard two ![6](/catalog/creators/ryan-macklin/mythender/thunder-6.svg)s.
 
 #### The Bloodlust Gift
 
@@ -3559,13 +3559,13 @@ Only Lasting Blights start in a battle. Any Blights that weren’t Lasting from 
 
 In a battle, the Mythenders are trying to End a Myth (a monster or god) either before the Myth slaughters them all or builds up enough power by surviving the battle to beat them down. It consists of rounds where the Myth takes one action and then the Mythenders take one action each.
 
-On each action, you’ll pick out a Weapon you’re using, sometimes along with a Blight, and describe the awesome thing you’re doing. Then you’ll roll your dice—your Storm dice (![ ](storm-6.svg)) and your Thunder dice (![ ](thunder-6.svg))—and count up your successes. Your Storm dice are the measure of your power in a single action, and your Thunder dice are the measure of your strength of presence in the battle. Successes on Storm dice give you more Thunder dice for the future, and successes on Thunder dice give you a new thing called Lightning Tokens.
+On each action, you’ll pick out a Weapon you’re using, sometimes along with a Blight, and describe the awesome thing you’re doing. Then you’ll roll your dice—your Storm dice (![ ](/catalog/creators/ryan-macklin/mythender/storm-6.svg)) and your Thunder dice (![ ](/catalog/creators/ryan-macklin/mythender/thunder-6.svg))—and count up your successes. Your Storm dice are the measure of your power in a single action, and your Thunder dice are the measure of your strength of presence in the battle. Successes on Storm dice give you more Thunder dice for the future, and successes on Thunder dice give you a new thing called Lightning Tokens.
 
 Lightning Tokens are what you use to do permanent things like Wound the fuck out of your foe or cause a Blight that you can keep drawing power from. Wounding a Myth until it’s Ended is how the Mythenders win, and vice versa. Causing a Blight is a way for you and all your friends to gain power during a battle…which in turn will help you Wound the fuck out of creation.
 
 Here’s the thing: when you get Wounded, you lose Thunder dice—you roll the dice and lose certain ones. If you run out, you’re Ended. So you need Thunder dice, or you’ll die.
 
-There’s another important piece of an action: the Mythic die (![ ](mythic-6.svg)). Some actions will have you roll it, and some won’t. When you do, you’ll get great stuff for it, depending on the sort of action. But it always comes at a price of possibly losing a piece of your mortality and edge closer to dark apotheosis and becoming a hateful Myth.
+There’s another important piece of an action: the Mythic die (![ ](/catalog/creators/ryan-macklin/mythender/mythic-6.svg)). Some actions will have you roll it, and some won’t. When you do, you’ll get great stuff for it, depending on the sort of action. But it always comes at a price of possibly losing a piece of your mortality and edge closer to dark apotheosis and becoming a hateful Myth.
 
 Fun fact: the Mythmaster never gets to roll the Mythic die. That’s just for you, Mythenders. Power and temptation. Sweet, sexy power. Tasty, tantalizing temptation.
 
@@ -3974,15 +3974,15 @@ Since Legendary and Mythic actions are very similar, their die-rolling is descri
 
 #### Gain Lightning from Thunder Dice
 
-Each Thunder die that succeeds (comes up ![4](thunder-4.svg), ![5](thunder-5.svg), and ![6](thunder-6.svg)) gives you 1 Lightning token.
+Each Thunder die that succeeds (comes up ![4](/catalog/creators/ryan-macklin/mythender/thunder-4.svg), ![5](/catalog/creators/ryan-macklin/mythender/thunder-5.svg), and ![6](/catalog/creators/ryan-macklin/mythender/thunder-6.svg)) gives you 1 Lightning token.
 
 #### Gain Thunder from Storm Dice
 
-Each Storm die that succeeds (comes up ![4](storm-4.svg), ![5](storm-5.svg), and ![6](storm-6.svg)) gives you 1 Thunder die.
+Each Storm die that succeeds (comes up ![4](/catalog/creators/ryan-macklin/mythender/storm-4.svg), ![5](/catalog/creators/ryan-macklin/mythender/storm-5.svg), and ![6](/catalog/creators/ryan-macklin/mythender/storm-6.svg)) gives you 1 Thunder die.
 
 #### Gain Thunder from the Mythic Die (Mythic Actions)
 
-Gain additional Thunder dice equal to the number on the Mythic die (![1](mythic-1.svg) = 1 Thunder die, ![5](mythic-5.svg) = 5 Thunder dice, etc.). Then deal with **Suffer Corruption & Risk Fate**, since you rolled the Mythic die.
+Gain additional Thunder dice equal to the number on the Mythic die (![1](/catalog/creators/ryan-macklin/mythender/mythic-1.svg) = 1 Thunder die, ![5](/catalog/creators/ryan-macklin/mythender/mythic-5.svg) = 5 Thunder dice, etc.). Then deal with **Suffer Corruption & Risk Fate**, since you rolled the Mythic die.
 
 #### Collect your Pools
 
@@ -3992,13 +3992,13 @@ Discard all bonus dice rolled. Then take all the Thunder dice you’ve rolled an
 
 #### Gain Lightning from Thunder Dice
 
-Each Thunder die that succeeds (comes up ![4](thunder-4.svg), ![5](thunder-5.svg), and ![6](thunder-6.svg)) gives you _3_ Lightning tokens, not just 1.
+Each Thunder die that succeeds (comes up ![4](/catalog/creators/ryan-macklin/mythender/thunder-4.svg), ![5](/catalog/creators/ryan-macklin/mythender/thunder-5.svg), and ![6](/catalog/creators/ryan-macklin/mythender/thunder-6.svg)) gives you _3_ Lightning tokens, not just 1.
 
-Each Thunder die that fails (comes up ![1](thunder-1.svg), ![2](thunder-2.svg), and ![3](thunder-3.svg)) is immediately discarded. Titanic actions are dangerous, as Thunder is lost. If all of your dice came up failures, then at the end of this action, you have died. _You still get to finish your action, though!_ After (or as part of) Pushing Forward, go to **Mythender Death & Making the Choice**.
+Each Thunder die that fails (comes up ![1](/catalog/creators/ryan-macklin/mythender/thunder-1.svg), ![2](/catalog/creators/ryan-macklin/mythender/thunder-2.svg), and ![3](/catalog/creators/ryan-macklin/mythender/thunder-3.svg)) is immediately discarded. Titanic actions are dangerous, as Thunder is lost. If all of your dice came up failures, then at the end of this action, you have died. _You still get to finish your action, though!_ After (or as part of) Pushing Forward, go to **Mythender Death & Making the Choice**.
 
 #### Gain Might from the Mythic Die
 
-Gain additional Might tokens equal to the number on the Mythic die (![1](mythic-1.svg) = 1 Might token, ![5](mythic-5.svg) = 5 Might tokens, etc.). Then deal with **Suffer Corruption & Risk Fate**, since you rolled the Mythic die.
+Gain additional Might tokens equal to the number on the Mythic die (![1](/catalog/creators/ryan-macklin/mythender/mythic-1.svg) = 1 Might token, ![5](/catalog/creators/ryan-macklin/mythender/mythic-5.svg) = 5 Might tokens, etc.). Then deal with **Suffer Corruption & Risk Fate**, since you rolled the Mythic die.
 
 #### Collect your Pools
 
@@ -4244,7 +4244,7 @@ Once you have your Wound number, roll all of your Thunder Dice. Any that come up
 
 Sometimes, thanks to Gifts (like <span class="keyword">Grievous Harm</span>, **Your Heart’s Gifts**) or doubling down (below), you’ll end up with a Wound number higher than 6. Since you’re rolling six-diced dice, there’s no number higher than 6 on them! That means you do something a little different.
 
-First, you roll all your Thunder Dice, and discard anything less than 6. After that, if your Wound number is 7, then you’ll discard one of the ![6](thunder-6.svg)s you rolled, if any. If your Wound number is 8 or higher, you’ll discard two ![6](thunder-6.svg)s, if any rolled.
+First, you roll all your Thunder Dice, and discard anything less than 6. After that, if your Wound number is 7, then you’ll discard one of the ![6](/catalog/creators/ryan-macklin/mythender/thunder-6.svg)s you rolled, if any. If your Wound number is 8 or higher, you’ll discard two ![6](/catalog/creators/ryan-macklin/mythender/thunder-6.svg)s, if any rolled.
 
 This tends to cause someone to die.
 
@@ -4486,7 +4486,7 @@ The Mythenders’ greatest advantage is the ability to pool their Lightning toke
 
 ### Every Wound Matters
 
-Even if your foe doesn’t lose much in the way of Thunder dice when Wounded, that still one Wound closer to needing to roll all ![6](thunder-6.svg)s. And if you increase the foe’s Wound number, one of two things will happen: they’ll lose more Thunder dice, or they’ll spend Lightning to counteract that raise. Either way, it’s a win for you.
+Even if your foe doesn’t lose much in the way of Thunder dice when Wounded, that still one Wound closer to needing to roll all ![6](/catalog/creators/ryan-macklin/mythender/thunder-6.svg)s. And if you increase the foe’s Wound number, one of two things will happen: they’ll lose more Thunder dice, or they’ll spend Lightning to counteract that raise. Either way, it’s a win for you.
 
 ### Drain Might
 
@@ -4544,7 +4544,7 @@ He then checks off the <span class="keyword">+3 dice</span> charged box on that 
 #### Gathering & Rolling Dice
 
 Ben has the base Storm rating of 3, so he grabs his 3 Storm dice. He has 1 Thunder die from
-the start of the battle, and together, he rolls them: ![storm 3,](storm-3.svg) ![6,](storm-6.svg) ![4,](storm-4.svg) ![and thunder 4](thunder-4.svg).
+the start of the battle, and together, he rolls them: ![storm 3,](/catalog/creators/ryan-macklin/mythender/storm-3.svg) ![6,](/catalog/creators/ryan-macklin/mythender/storm-6.svg) ![4,](/catalog/creators/ryan-macklin/mythender/storm-4.svg) ![and thunder 4](/catalog/creators/ryan-macklin/mythender/thunder-4.svg).
 
 That gives him 1 success on Thunder dice, giving him his first Lightning token of the battle, and 2 successes on his Storm pool, which means he gains 2 more Thunder dice (for a total of 3 Thunder dice in his pool).
 
@@ -4584,7 +4584,7 @@ The Mythmaster has no problem with Ben describing killing one of the twelve gian
 
 #### Gathering & Rolling Dice
 
-Ben grabs his 3 Storm dice, the 3 Thunder dice in his pool, and the Mythic die. He rolls them: ![storm 5,](storm-5.svg) ![2,](storm-2.svg) ![5,](storm-5.svg) ![thunder 3,](thunder-3.svg) ![3,](thunder-3.svg) ![1,](thunder-1.svg) ![and mythic 4](mythic-4.svg).
+Ben grabs his 3 Storm dice, the 3 Thunder dice in his pool, and the Mythic die. He rolls them: ![storm 5,](/catalog/creators/ryan-macklin/mythender/storm-5.svg) ![2,](/catalog/creators/ryan-macklin/mythender/storm-2.svg) ![5,](/catalog/creators/ryan-macklin/mythender/storm-5.svg) ![thunder 3,](/catalog/creators/ryan-macklin/mythender/thunder-3.svg) ![3,](/catalog/creators/ryan-macklin/mythender/thunder-3.svg) ![1,](/catalog/creators/ryan-macklin/mythender/thunder-1.svg) ![and mythic 4](/catalog/creators/ryan-macklin/mythender/mythic-4.svg).
 
 He gets 6 more Thunder dice for his pool! Two are from the 2 Storm successes, and 4 from the number on the Mythic die. But no Lightning this time. Oh no!
 
@@ -4607,7 +4607,7 @@ That isn’t enough for Ben to change form yet, so he appears as normal: <span c
      X •  Bloodlust         2
      ☒ •  ______________    2
 
-Because Ben rolled the Mythic die, he has to see if he Suffers Fate. His Corruption number is 4 (from the Corruption box he just checked), and the Mythic die is ![4](mythic-4.svg)—that’s equal to or higher than the Corruption number, so he suffers Fate!
+Because Ben rolled the Mythic die, he has to see if he Suffers Fate. His Corruption number is 4 (from the Corruption box he just checked), and the Mythic die is ![4](/catalog/creators/ryan-macklin/mythender/mythic-4.svg)—that’s equal to or higher than the Corruption number, so he suffers Fate!
 
 He checks off the his first Fate box, giving him a new Gift slot to use now or later. For now, he’ll hold off filling one in.
 
@@ -4647,13 +4647,13 @@ Since this is a Relic Weapon, it doesn’t cost Might to make these bonus Thunde
 
 (Note: because this is using the Tutorial Battle format, the Mythmaster changed the frost jötnar’s stats from what they are in the Norden chapter.)
 
-The Mythmaster rolls a bunch of dice: 4 Storm dice, 1 bonus Storm die, 7 Thunder dice, and 5 bonus Thunder dice: ![storm 3,](storm-3.svg) ![6,](storm-6.svg) ![2,](storm-2.svg) ![5, ](storm-5.svg) ![5,](storm-5.svg) ![thunder 3,](thunder-3.svg) ![5,](thunder-5.svg) ![2,](thunder-2.svg) ![3,](thunder-3.svg) ![1,](thunder-1.svg) ![3,](thunder-3.svg) ![4,](thunder-4.svg) ![and bonus 6,](bonus-6.svg) ![6,](bonus-6.svg) ![2,](bonus-2.svg) ![4,](bonus-4.svg) ![3](bonus-3.svg).
+The Mythmaster rolls a bunch of dice: 4 Storm dice, 1 bonus Storm die, 7 Thunder dice, and 5 bonus Thunder dice: ![storm 3,](/catalog/creators/ryan-macklin/mythender/storm-3.svg) ![6,](/catalog/creators/ryan-macklin/mythender/storm-6.svg) ![2,](/catalog/creators/ryan-macklin/mythender/storm-2.svg) ![5, ](/catalog/creators/ryan-macklin/mythender/storm-5.svg) ![5,](/catalog/creators/ryan-macklin/mythender/storm-5.svg) ![thunder 3,](/catalog/creators/ryan-macklin/mythender/thunder-3.svg) ![5,](/catalog/creators/ryan-macklin/mythender/thunder-5.svg) ![2,](/catalog/creators/ryan-macklin/mythender/thunder-2.svg) ![3,](/catalog/creators/ryan-macklin/mythender/thunder-3.svg) ![1,](/catalog/creators/ryan-macklin/mythender/thunder-1.svg) ![3,](/catalog/creators/ryan-macklin/mythender/thunder-3.svg) ![4,](/catalog/creators/ryan-macklin/mythender/thunder-4.svg) ![and bonus 6,](/catalog/creators/ryan-macklin/mythender/bonus-6.svg) ![6,](/catalog/creators/ryan-macklin/mythender/bonus-6.svg) ![2,](/catalog/creators/ryan-macklin/mythender/bonus-2.svg) ![4,](/catalog/creators/ryan-macklin/mythender/bonus-4.svg) ![3](/catalog/creators/ryan-macklin/mythender/bonus-3.svg).
 
 That gives the Myth 3 more Thunder dice for its pool, and 5 Lightning tokens to add to its existing 4 Lightning.
 
 #### Using a Gift
 
-The Mythmaster decides that’s not enough, and pays 2 of the Myth’s 8 Might tokens to use the <span class="keyword">Relentlessness</span> Gift (**Your Heart’s Gifts**)—that means he’ll reroll the failed Thunder dice, including the bonus Thunder dice, coming up with: ![thunder 5,](thunder-5.svg) ![3,](thunder-3.svg) ![4,](thunder-4.svg) ![4,](thunder-4.svg) ![2,](thunder-2.svg) ![and bonus 3, ](bonus-3.svg) ![6](bonus-6.svg). The Myth gets 9 Lightning tokens instead of 5. It’s about time to Wound the Mythenders!
+The Mythmaster decides that’s not enough, and pays 2 of the Myth’s 8 Might tokens to use the <span class="keyword">Relentlessness</span> Gift (**Your Heart’s Gifts**)—that means he’ll reroll the failed Thunder dice, including the bonus Thunder dice, coming up with: ![thunder 5,](/catalog/creators/ryan-macklin/mythender/thunder-5.svg) ![3,](/catalog/creators/ryan-macklin/mythender/thunder-3.svg) ![4,](/catalog/creators/ryan-macklin/mythender/thunder-4.svg) ![4,](/catalog/creators/ryan-macklin/mythender/thunder-4.svg) ![2,](/catalog/creators/ryan-macklin/mythender/thunder-2.svg) ![and bonus 3, ](/catalog/creators/ryan-macklin/mythender/bonus-3.svg) ![6](/catalog/creators/ryan-macklin/mythender/bonus-6.svg). The Myth gets 9 Lightning tokens instead of 5. It’s about time to Wound the Mythenders!
 
 The Myth spends 3 of its 13 Lightning tokens to Wound Ben—all Mythenders have a Wound Cost of 3. It also spends 3 more to Wound Beatrice and a further 3 to Wound Rashid (total of 9 Lightning spent).
 
@@ -4670,9 +4670,9 @@ The Myth spends 3 of its 13 Lightning tokens to Wound Ben—all Mythenders have 
 
 This is Ben’s first Wound, so he’s going to check off the first Wound box: 3.
 
-He rolls the 9 Thunder dice in his pool, and hopes for ![3](thunder-3.svg)s and higher on each: ![3,](thunder-3.svg) ![2,](thunder-2.svg) ![4,](thunder-4.svg) ![5,](thunder-5.svg) ![1,](thunder-1.svg) ![3,](thunder-3.svg) ![6,](thunder-6.svg) ![2,](thunder-2.svg) ![1](thunder-1.svg).
+He rolls the 9 Thunder dice in his pool, and hopes for ![3](/catalog/creators/ryan-macklin/mythender/thunder-3.svg)s and higher on each: ![3,](/catalog/creators/ryan-macklin/mythender/thunder-3.svg) ![2,](/catalog/creators/ryan-macklin/mythender/thunder-2.svg) ![4,](/catalog/creators/ryan-macklin/mythender/thunder-4.svg) ![5,](/catalog/creators/ryan-macklin/mythender/thunder-5.svg) ![1,](/catalog/creators/ryan-macklin/mythender/thunder-1.svg) ![3,](/catalog/creators/ryan-macklin/mythender/thunder-3.svg) ![6,](/catalog/creators/ryan-macklin/mythender/thunder-6.svg) ![2,](/catalog/creators/ryan-macklin/mythender/thunder-2.svg) ![1](/catalog/creators/ryan-macklin/mythender/thunder-1.svg).
 
-Four dice were less than ![3](thunder-3.svg), so they’re discarded, leaving Ben with 5 Thunder dice. He’s still alive! But a bit worse for wear. The Mythmaster pushes forward with some vicious description:
+Four dice were less than ![3](/catalog/creators/ryan-macklin/mythender/thunder-3.svg), so they’re discarded, leaving Ben with 5 Thunder dice. He’s still alive! But a bit worse for wear. The Mythmaster pushes forward with some vicious description:
 
 **_The giants hurl their ice-weapons (the Weapon) into the air, and they hammer down as the Ice Spears (the Blight) in the ground thrust up, finding purchase in each of your Mythenders. Your blood flows into the thirsty ground as you are each stuck like pigs prepared for a great feast!_**
 
@@ -4729,11 +4729,11 @@ The Mythmaster backs up. “Yes…that is Titanic.”
 
 #### Gathering & Rolling Dice
 
-Ben grabs his 5 Thunder dice, 9 bonus Thunder dice, and the Mythic die. He rolls them and gets: ![thunder 4,](thunder-4.svg) ![3,](thunder-3.svg) ![2,](thunder-2.svg) ![5,](thunder-5.svg) ![3,](thunder-3.svg) ![bonus 5,](bonus-5.svg) ![6,](bonus-6.svg) ![3,](bonus-3.svg) ![2,](bonus-2.svg) ![4,](bonus-4.svg) ![5,](bonus-5.svg) ![1,](bonus-1.svg) ![6,](bonus-6.svg) ![4,](bonus-4.svg) ![and mythic 3](mythic-3.svg).
+Ben grabs his 5 Thunder dice, 9 bonus Thunder dice, and the Mythic die. He rolls them and gets: ![thunder 4,](/catalog/creators/ryan-macklin/mythender/thunder-4.svg) ![3,](/catalog/creators/ryan-macklin/mythender/thunder-3.svg) ![2,](/catalog/creators/ryan-macklin/mythender/thunder-2.svg) ![5,](/catalog/creators/ryan-macklin/mythender/thunder-5.svg) ![3,](/catalog/creators/ryan-macklin/mythender/thunder-3.svg) ![bonus 5,](/catalog/creators/ryan-macklin/mythender/bonus-5.svg) ![6,](/catalog/creators/ryan-macklin/mythender/bonus-6.svg) ![3,](/catalog/creators/ryan-macklin/mythender/bonus-3.svg) ![2,](/catalog/creators/ryan-macklin/mythender/bonus-2.svg) ![4,](/catalog/creators/ryan-macklin/mythender/bonus-4.svg) ![5,](/catalog/creators/ryan-macklin/mythender/bonus-5.svg) ![1,](/catalog/creators/ryan-macklin/mythender/bonus-1.svg) ![6,](/catalog/creators/ryan-macklin/mythender/bonus-6.svg) ![4,](/catalog/creators/ryan-macklin/mythender/bonus-4.svg) ![and mythic 3](/catalog/creators/ryan-macklin/mythender/mythic-3.svg).
 
 Each success gives him 3 Lightning. Seven successes means 21 Lightning! Well enough to seriously Wound this Myth. But as this is a Titanic Action, all of the failures are discarded; Ben will only have 2 Thunder dice left after this turn. Still, he plans on there not being a turn after this one.
 
-Since this was a Titanic action, the Mythic die grants him additional Might: in this case, 3 Might tokens for the ![3](mythic-3.svg) on the die.
+Since this was a Titanic action, the Mythic die grants him additional Might: in this case, 3 Might tokens for the ![3](/catalog/creators/ryan-macklin/mythender/mythic-3.svg) on the die.
 
 #### Suffering Corruption
 
@@ -4758,9 +4758,9 @@ With the 4 Lightning he had at the start of this turn, he has 25 Lightning now. 
 
 With the doubling down, the Wound number becomes 5 (though the 4 box remains checked, not the 5). Ben has an open Gift slot, so he fills that slot with the <span class="keyword">Grievous Harm</span> Gift (**Your Heart’s Gifts**)—that lets him pay 2 Might tokens to increase the Wound number by an additional 1. He grins as he does so and pays the Might.
 
-The Myth now only keeps ![thunder 6](thunder-6.svg)s when rolling its Wound. It had 10 Thunder dice when Beatrice Wounded it, and lost 4 dice, leaving 6.
+The Myth now only keeps ![thunder 6](/catalog/creators/ryan-macklin/mythender/thunder-6.svg)s when rolling its Wound. It had 10 Thunder dice when Beatrice Wounded it, and lost 4 dice, leaving 6.
 
-The Mythmaster rolls: ![thunder 3,](thunder-3.svg) ![5,](thunder-5.svg) ![1,](thunder-1.svg) ![2,](thunder-2.svg) ![5,](thunder-5.svg) ![and 4](thunder-4.svg). No ![6](thunder-6.svg)s! The Myth is Ended!
+The Mythmaster rolls: ![thunder 3,](/catalog/creators/ryan-macklin/mythender/thunder-3.svg) ![5,](/catalog/creators/ryan-macklin/mythender/thunder-5.svg) ![1,](/catalog/creators/ryan-macklin/mythender/thunder-1.svg) ![2,](/catalog/creators/ryan-macklin/mythender/thunder-2.svg) ![5,](/catalog/creators/ryan-macklin/mythender/thunder-5.svg) ![and 4](/catalog/creators/ryan-macklin/mythender/thunder-4.svg). No ![6](/catalog/creators/ryan-macklin/mythender/thunder-6.svg)s! The Myth is Ended!
 
 Ben starts his description of the Ending, and everyone else, including the Mythmaster, join in. There is some rejoicing, some wailing of jötnar mothers, and a lot of Mythic Power flowing around.
 
@@ -4796,15 +4796,15 @@ You may charge or drain a Blight. If you’re charging a Blight, you’ll gain 1
 
 #### Legendary Actions & Myth Actions
 
-For each Thunder die that’s ![4](thunder-4.svg), ![5](thunder-5.svg), or ![6](thunder-6.svg), gain 1 Lightning token. Roll your Storm and Thunder. For each Storm die that’s ![4](storm-4.svg), ![5](storm-5.svg), or ![6](storm-6.svg), gain 1 Thunder die. Take the dice you rolled and all your gains back to their respective pools on your playsheet, discarding all bonus dice.
+For each Thunder die that’s ![4](/catalog/creators/ryan-macklin/mythender/thunder-4.svg), ![5](/catalog/creators/ryan-macklin/mythender/thunder-5.svg), or ![6](/catalog/creators/ryan-macklin/mythender/thunder-6.svg), gain 1 Lightning token. Roll your Storm and Thunder. For each Storm die that’s ![4](/catalog/creators/ryan-macklin/mythender/storm-4.svg), ![5](/catalog/creators/ryan-macklin/mythender/storm-5.svg), or ![6](/catalog/creators/ryan-macklin/mythender/storm-6.svg), gain 1 Thunder die. Take the dice you rolled and all your gains back to their respective pools on your playsheet, discarding all bonus dice.
 
 #### Mythic Actions
 
-Same as Legendary Actions, but also roll the Mythic die. Gain additional Thunder dice equal to the number on the Mythic die (![4](mythic-4.svg) means 4 Thunder dice, for example).
+Same as Legendary Actions, but also roll the Mythic die. Gain additional Thunder dice equal to the number on the Mythic die (![4](/catalog/creators/ryan-macklin/mythender/mythic-4.svg) means 4 Thunder dice, for example).
 
 #### Titanic Actions
 
-Roll only Thunder dice, and the Mythic die. For each Thunder die that’s ![4](thunder-4.svg), ![5](thunder-5.svg), or ![6](thunder-6.svg), gain 3 Lightning tokens. Discard each that were 3 or less. Gain Might tokens equal to the number on the Mythic die (![4](mythic-4.svg) means 4 Might tokens, for example).
+Roll only Thunder dice, and the Mythic die. For each Thunder die that’s ![4](/catalog/creators/ryan-macklin/mythender/thunder-4.svg), ![5](/catalog/creators/ryan-macklin/mythender/thunder-5.svg), or ![6](/catalog/creators/ryan-macklin/mythender/thunder-6.svg), gain 3 Lightning tokens. Discard each that were 3 or less. Gain Might tokens equal to the number on the Mythic die (![4](/catalog/creators/ryan-macklin/mythender/mythic-4.svg) means 4 Might tokens, for example).
 
 #### The Mythic Die & Suffering Corruption
 
@@ -4858,7 +4858,7 @@ Every Mythender begins with one Gift at character creation, specified by the Hea
 
 As new Fate boxes are checked, the Gift slots next to them become unlocked. If you have an empty Gift slot, you may fill it in _at any time_ with a new Gift or upgrade, interrupting whatever you’re doing at that moment. You may use that Gift right away, provided you can pay the Might cost and it’s something you can use in that moment.
 
-_**Example: Yolen rolls for his action, and gets a number of failures. He has an empty Gift slot, and wants to get more out of his roll. He could take the <span class="keyword">Relentlessness</span> Gift, that allows rerolling failed dice. He could also take the <span class="keyword">Sureness</span> Gift, which allows dice of ![3](storm-3.svg) or higher to be successes, but because that’s done before the roll, he couldn’t use it on this turn.**_
+_**Example: Yolen rolls for his action, and gets a number of failures. He has an empty Gift slot, and wants to get more out of his roll. He could take the <span class="keyword">Relentlessness</span> Gift, that allows rerolling failed dice. He could also take the <span class="keyword">Sureness</span> Gift, which allows dice of ![3](/catalog/creators/ryan-macklin/mythender/storm-3.svg) or higher to be successes, but because that’s done before the roll, he couldn’t use it on this turn.**_
 
 ### Losing Gifts
 
@@ -5014,7 +5014,7 @@ On a Titanic action, gain 4 Lightning tokens instead of 3 for each successful Th
 
 <span class="gift-qualifier">Myths only</span>
 
-If you’re Wounded and did not lose all your Thunder dice, you may pay <span class="keyword">1 Might token</span> after rolling your Wound. Rotate a single Thunder die up one face (a ![3](thunder-3.svg) becomes a ![4](thunder-4.svg), a ![5](thunder-5.svg) becomes a ![6](thunder-6.svg)). You cannot rotate a die higher than ![6](thunder-6.svg). You may rotate as many dice as you wish, at the cost of 1 Might token per die per face rotated; for example, turning a ![3](thunder-3.svg) ![4](thunder-4.svg) into a ![5](thunder-5.svg) ![5](thunder-5.svg) costs 3 Might tokens.
+If you’re Wounded and did not lose all your Thunder dice, you may pay <span class="keyword">1 Might token</span> after rolling your Wound. Rotate a single Thunder die up one face (a ![3](/catalog/creators/ryan-macklin/mythender/thunder-3.svg) becomes a ![4](/catalog/creators/ryan-macklin/mythender/thunder-4.svg), a ![5](/catalog/creators/ryan-macklin/mythender/thunder-5.svg) becomes a ![6](/catalog/creators/ryan-macklin/mythender/thunder-6.svg)). You cannot rotate a die higher than ![6](/catalog/creators/ryan-macklin/mythender/thunder-6.svg). You may rotate as many dice as you wish, at the cost of 1 Might token per die per face rotated; for example, turning a ![3](/catalog/creators/ryan-macklin/mythender/thunder-3.svg) ![4](/catalog/creators/ryan-macklin/mythender/thunder-4.svg) into a ![5](/catalog/creators/ryan-macklin/mythender/thunder-5.svg) ![5](/catalog/creators/ryan-macklin/mythender/thunder-5.svg) costs 3 Might tokens.
 
 In addition, you may pay <span class="keyword">5 Might tokens</span> when Ended to attempt to corrupt one of the Mythenders who just Ended you. If that Mythender needs to check for Apotheosis at the end of this battle, she’ll roll the die twice and use the higher result.
 
@@ -5036,7 +5036,7 @@ Pay <span class="keyword">double Might cost</span> to reroll failed Storm _and_ 
 
 ### Sureness
 
-Pay <span class="keyword">3 Might tokens</span> during a Legendary or Mythic action; count ![3](storm-3.svg)s and higher as successes on Storm and Thunder. Pay <span class="keyword">2 more Might tokens</span> to do so on a Titanic action. Must pay before rolling.
+Pay <span class="keyword">3 Might tokens</span> during a Legendary or Mythic action; count ![3](/catalog/creators/ryan-macklin/mythender/storm-3.svg)s and higher as successes on Storm and Thunder. Pay <span class="keyword">2 more Might tokens</span> to do so on a Titanic action. Must pay before rolling.
 
 #### Upgrades
 
@@ -5044,7 +5044,7 @@ Pay <span class="keyword">3 Might tokens</span> during a Legendary or Mythic act
 
 <span class="keyword">Quick</span>: Pay <span class="keyword">1 fewer Might</span> to use these benefits.
 
-<span class="keyword">Unyielding</span>: Pay <span class="keyword">2 more Might</span>, count ![2](storm-2.svg)s and higher as successes.
+<span class="keyword">Unyielding</span>: Pay <span class="keyword">2 more Might</span>, count ![2](/catalog/creators/ryan-macklin/mythender/storm-2.svg)s and higher as successes.
 
 ### Surge of Might
 
@@ -5182,7 +5182,7 @@ Gain two <span class="keyword">Corruption</span> (see **Suffering Corruption**).
 
 #### Roll the Mythic Die
 
-Roll it! If the <span class="keyword">Mythic die</span> came up ![4](mythic-4.svg), ![5](mythic-5.svg), or ![6](mythic-6.svg), advance <span class="keyword">Fate</span> twice and gain two <span class="keyword">Gifts</span>. Otherwise, advance <span class="keyword">Fate</span> once and gain one Gift.
+Roll it! If the <span class="keyword">Mythic die</span> came up ![4](/catalog/creators/ryan-macklin/mythender/mythic-4.svg), ![5](/catalog/creators/ryan-macklin/mythender/mythic-5.svg), or ![6](/catalog/creators/ryan-macklin/mythender/mythic-6.svg), advance <span class="keyword">Fate</span> twice and gain two <span class="keyword">Gifts</span>. Otherwise, advance <span class="keyword">Fate</span> once and gain one Gift.
 
 _Note_: If you have the <span class="keyword">Blaze of Glory</span> gift, just still roll one die. Gifts do not apply outside of Battle.
 
@@ -5224,7 +5224,7 @@ Because she’s Terrorizing for Power, she’ll check off the next two Fate boxe
 
 Now she’s in her Supernatural Form: her and her warhorse leave blood with each step that whispers lament, and her shadow continues to constantly battle.
 
-After that change, she rolls the Mythic Die and gets a ![5](mythic-5.svg), so she advances her Fate twice. This means she has two more Gift slots available, to be filled in whenever she likes.
+After that change, she rolls the Mythic Die and gets a ![5](/catalog/creators/ryan-macklin/mythender/mythic-5.svg), so she advances her Fate twice. This means she has two more Gift slots available, to be filled in whenever she likes.
 
 Since she now has four Fate boxes checked (including the first one), she gets 4 Might tokens.
 
@@ -5259,7 +5259,7 @@ The Mythmaster and the rest of the table get to answer if these are true. If you
 
 ### Roll Dice to Restrain your Nature
 
-Once you have your dice, if any, roll them. If any come up ![5](storm-5.svg) or ![6](storm-6.svg), you succeed at restraining your Mythic nature. If none did, or you have no dice, you fail to do so.
+Once you have your dice, if any, roll them. If any come up ![5](/catalog/creators/ryan-macklin/mythender/storm-5.svg) or ![6](/catalog/creators/ryan-macklin/mythender/storm-6.svg), you succeed at restraining your Mythic nature. If none did, or you have no dice, you fail to do so.
 
 #### If You Succeed
 
@@ -5293,11 +5293,11 @@ Since no one has terrorized mortals yet (at least, not intentionally), Rashid st
 
 #### He Succeeds
 
-Rashid rolls a ![4,](storm-4.svg) ![3,](storm-3.svg) ![5](storm-5.svg), giving him the one success he needs…barely. Kolgrímur gets up and thanks “Lord Rashid” for his time, and says he will reflect on the Mythender’s wisdom. Rashid’s Heart calms, and he turns back into his Paragon Form, as a man with eyes of eldritch power. They shake hands, and Rashid leaves.
+Rashid rolls a ![4,](/catalog/creators/ryan-macklin/mythender/storm-4.svg) ![3,](/catalog/creators/ryan-macklin/mythender/storm-3.svg) ![5](/catalog/creators/ryan-macklin/mythender/storm-5.svg), giving him the one success he needs…barely. Kolgrímur gets up and thanks “Lord Rashid” for his time, and says he will reflect on the Mythender’s wisdom. Rashid’s Heart calms, and he turns back into his Paragon Form, as a man with eyes of eldritch power. They shake hands, and Rashid leaves.
 
 #### He Fails
 
-Rashid rolls a ![4,](storm-4.svg) ![3,](storm-3.svg) ![1](storm-1.svg), giving him no successes. While Rashid’s Heart calms and he turns back to his Paragon Form, he watches as the Mythic Power overwhelms the mortal. Rashid was not able to contain the power and save the man who saved him. Still, even in failing, his Heart calms…just as Kolgrímur coughs up blood and dies.
+Rashid rolls a ![4,](/catalog/creators/ryan-macklin/mythender/storm-4.svg) ![3,](/catalog/creators/ryan-macklin/mythender/storm-3.svg) ![1](/catalog/creators/ryan-macklin/mythender/storm-1.svg), giving him no successes. While Rashid’s Heart calms and he turns back to his Paragon Form, he watches as the Mythic Power overwhelms the mortal. Rashid was not able to contain the power and save the man who saved him. Still, even in failing, his Heart calms…just as Kolgrímur coughs up blood and dies.
 
 ## Performing Badass, Epic Feats
 
@@ -5359,7 +5359,7 @@ If you are attempting to resist Corruption, this is a risk. Grab two dice if the
 
 _Reminder_: Companions don’t count as mortals, because they no longer have true free will.
 
-Roll the dice. If either come up ![5](storm-5.svg) or ![6](storm-6.svg), you have resisted Myth’s corrupting influence! You’re unchanged. Otherwise, treat as the result of **Terrorizing Mortals for Power**, except you don’t roll the Mythic die—only claim 1 Might token and only suffer one Fate box. There is less reward if you resist your Mythic nature.
+Roll the dice. If either come up ![5](/catalog/creators/ryan-macklin/mythender/storm-5.svg) or ![6](/catalog/creators/ryan-macklin/mythender/storm-6.svg), you have resisted Myth’s corrupting influence! You’re unchanged. Otherwise, treat as the result of **Terrorizing Mortals for Power**, except you don’t roll the Mythic die—only claim 1 Might token and only suffer one Fate box. There is less reward if you resist your Mythic nature.
 
 ### Describe the Feat & Push Forward
 
@@ -5385,7 +5385,7 @@ There are mortals around, so Rashid’s player picks up just 1 die.
 
 #### Failing to Resist
 
-He rolls it, getting a ![4](storm-4.svg)! Oh no! He failed to resist Corruption!
+He rolls it, getting a ![4](/catalog/creators/ryan-macklin/mythender/storm-4.svg)! Oh no! He failed to resist Corruption!
 
 The Mythmaster takes over the narration, though Rashid still pays the 2 Might tokens to destroy the Blight. The Mythmaster describes the raging inferno turning into spirits, and as they all die down, some lash back with their final breathes to burn several villagers. The rest of the mortals bow to Rashid, He Who Controls Fire, and beg him for forgiveness against whatever transgressions they may have committed.
 
@@ -5393,7 +5393,7 @@ Rashid progresses is Fate by one box and gains 1 Might for causing this horror i
 
 #### Succeeding in Resisting
 
-He rolls it, getting a ![5](storm-5.svg)! He successfully resists Corruption!
+He rolls it, getting a ![5](/catalog/creators/ryan-macklin/mythender/storm-5.svg)! He successfully resists Corruption!
 
 So he describes forcing the fire spirits into the deep earth, and the fire vanishing with it (and paying 2 Might tokens to do so). The people witnessing still bow before his terrible awe, but not in a “I accidentally destroyed your free will while trying to help” way.
 
@@ -5461,7 +5461,7 @@ In any case, slaughtering mortals always an option, and shows the power you have
 
 ##### Terrorizing Mortals for Power
 
-Describe terrorizing the mortals. Gain two Corruption, the roll the Mythic die. If it comes up ![4](mythic-4.svg), ![5](mythic-5.svg), or ![6](mythic-6.svg), advance Fate twice. Otherwise, advance Fate once. Gain Might tokens equal to the number of Fate boxes you have checked (including the first one and the ones you’ve just now checked).
+Describe terrorizing the mortals. Gain two Corruption, the roll the Mythic die. If it comes up ![4](/catalog/creators/ryan-macklin/mythender/mythic-4.svg), ![5](/catalog/creators/ryan-macklin/mythender/mythic-5.svg), or ![6](/catalog/creators/ryan-macklin/mythender/mythic-6.svg), advance Fate twice. Otherwise, advance Fate once. Gain Might tokens equal to the number of Fate boxes you have checked (including the first one and the ones you’ve just now checked).
 
 ##### Seeking Sympathy & Healing
 
@@ -5472,7 +5472,7 @@ Describe how you’re trying to bond with a mortal. Then the table answers these
 - Did you make a serious effort to downplay or disregard your Mythic nature?
 - Did you share yourself in a way that exposed emotional vulnerability?
 
-Gain up to 3 dice, one for each question answered “yes.” Roll them. If any come up a ![5](storm-5.svg) or ![6](storm-6.svg), you contain your Mythic nature and keep from destroying this mortal. Otherwise, the mortal dies or has their free will annihilated.
+Gain up to 3 dice, one for each question answered “yes.” Roll them. If any come up a ![5](/catalog/creators/ryan-macklin/mythender/storm-5.svg) or ![6](/catalog/creators/ryan-macklin/mythender/storm-6.svg), you contain your Mythic nature and keep from destroying this mortal. Otherwise, the mortal dies or has their free will annihilated.
 
 Either way, uncheck your lowest two Corruption boxes, and reduce as many Gifts and Fate track as you like (including none), though you must keep the first one.
 
@@ -5484,7 +5484,7 @@ Then decide if you’re creating or destroying a Blight. Doing either costs 2 Mi
 
 Finally, are you embracing or resisting Corruption? If you’re embracing Corruption, then it’s also Terrorizing Mortals for Power. And you can create or destroy as many Blights as you can afford (including from the Might tokens you gain in this action).
 
-If you’re resisting Corruption, then you can only create or destroy one Blight. Then roll to see if you resist Corruption. Grab 2 dice if no mortals witness the event, or 1 if even a single mortal does. If either die comes up ![5](storm-5.svg) or ![6](storm-6.svg), you’ve resisted Corruption. If not, treat it as Terrorizing Mortals for Power, except you only get 1 Might token, and the Mythmaster has license to make your feat particularly nasty.
+If you’re resisting Corruption, then you can only create or destroy one Blight. Then roll to see if you resist Corruption. Grab 2 dice if no mortals witness the event, or 1 if even a single mortal does. If either die comes up ![5](/catalog/creators/ryan-macklin/mythender/storm-5.svg) or ![6](/catalog/creators/ryan-macklin/mythender/storm-6.svg), you’ve resisted Corruption. If not, treat it as Terrorizing Mortals for Power, except you only get 1 Might token, and the Mythmaster has license to make your feat particularly nasty.
 
 ##### Helping Mortals
 
@@ -5516,7 +5516,7 @@ If you break a Bond, gain 2 more dice and describe how your Mythender feels. Whe
 
 ### Roll Dice & Count Successes
 
-Once everyone has their dice, roll them! ![4,](storm-4.svg) ![5,](storm-5.svg) ![and 6](storm-6.svg) are successes. There is nothing that can change this roll; <span class="keyword">Gifts</span> don’t apply to Murder.
+Once everyone has their dice, roll them! ![4,](/catalog/creators/ryan-macklin/mythender/storm-4.svg) ![5,](/catalog/creators/ryan-macklin/mythender/storm-5.svg) ![and 6](/catalog/creators/ryan-macklin/mythender/storm-6.svg) are successes. There is nothing that can change this roll; <span class="keyword">Gifts</span> don’t apply to Murder.
 
 ### Someone Dies, Maybe Everyone
 
@@ -5558,19 +5558,19 @@ They roll their dice…
 
 #### Tzofiya Wins
 
-Tzofiya gets ![4,](storm-4.svg) ![5,](storm-5.svg) ![3,](storm-3.svg) ![6,](storm-6.svg) ![and 2](storm-2.svg) and Unna gets ![5,](storm-5.svg) ![2,](storm-2.svg) ![1,](storm-1.svg) ![4,](storm-4.svg) ![and 3](storm-3.svg). That means Tzofiya has 3 successes to Unna’s 2.
+Tzofiya gets ![4,](/catalog/creators/ryan-macklin/mythender/storm-4.svg) ![5,](/catalog/creators/ryan-macklin/mythender/storm-5.svg) ![3,](/catalog/creators/ryan-macklin/mythender/storm-3.svg) ![6,](/catalog/creators/ryan-macklin/mythender/storm-6.svg) ![and 2](/catalog/creators/ryan-macklin/mythender/storm-2.svg) and Unna gets ![5,](/catalog/creators/ryan-macklin/mythender/storm-5.svg) ![2,](/catalog/creators/ryan-macklin/mythender/storm-2.svg) ![1,](/catalog/creators/ryan-macklin/mythender/storm-1.svg) ![4,](/catalog/creators/ryan-macklin/mythender/storm-4.svg) ![and 3](/catalog/creators/ryan-macklin/mythender/storm-3.svg). That means Tzofiya has 3 successes to Unna’s 2.
 
 Tzofiya describes how she stops Unna from raising the dead by slamming her blade into Unna’s back, turning it once to break her spine, and letting her body go slump. Unna is a Mythender no more.
 
 #### Unna Wins
 
-Tzofiya gets ![5,](storm-5.svg) ![1,](storm-1.svg) ![2,](storm-2.svg) ![3,](storm-3.svg) ![and 4](storm-4.svg) and Unna gets ![4,](storm-4.svg) ![5,](storm-5.svg) ![6,](storm-6.svg) ![6,](storm-6.svg) ![and 4](storm-4.svg). That means Tzofiya has 2 successes to Unna’s 5.
+Tzofiya gets ![5,](/catalog/creators/ryan-macklin/mythender/storm-5.svg) ![1,](/catalog/creators/ryan-macklin/mythender/storm-1.svg) ![2,](/catalog/creators/ryan-macklin/mythender/storm-2.svg) ![3,](/catalog/creators/ryan-macklin/mythender/storm-3.svg) ![and 4](/catalog/creators/ryan-macklin/mythender/storm-4.svg) and Unna gets ![4,](/catalog/creators/ryan-macklin/mythender/storm-4.svg) ![5,](/catalog/creators/ryan-macklin/mythender/storm-5.svg) ![6,](/catalog/creators/ryan-macklin/mythender/storm-6.svg) ![6,](/catalog/creators/ryan-macklin/mythender/storm-6.svg) ![and 4](/catalog/creators/ryan-macklin/mythender/storm-4.svg). That means Tzofiya has 2 successes to Unna’s 5.
 
 Unna describes how she defends herself by using the power of Death, killing Tzofiya in doing so by ripping the life force from her throat. She uses this potent life force to reanimate the townsfolk. Unna could not help but kill Tzofiya, as that is fated once Mythenders turn on one another.
 
 #### They Tie
 
-Tzofiya gets ![3,](storm-3.svg) ![4,](storm-4.svg) ![5,](storm-5.svg) ![5,](storm-5.svg) ![and 1](storm-1.svg) and Unna gets ![4,](storm-4.svg) ![1,](storm-1.svg) ![6,](storm-6.svg) ![5,](storm-5.svg) ![and 1](storm-1.svg). That means both of them have 3 successes.
+Tzofiya gets ![3,](/catalog/creators/ryan-macklin/mythender/storm-3.svg) ![4,](/catalog/creators/ryan-macklin/mythender/storm-4.svg) ![5,](/catalog/creators/ryan-macklin/mythender/storm-5.svg) ![5,](/catalog/creators/ryan-macklin/mythender/storm-5.svg) ![and 1](/catalog/creators/ryan-macklin/mythender/storm-1.svg) and Unna gets ![4,](/catalog/creators/ryan-macklin/mythender/storm-4.svg) ![1,](/catalog/creators/ryan-macklin/mythender/storm-1.svg) ![6,](/catalog/creators/ryan-macklin/mythender/storm-6.svg) ![5,](/catalog/creators/ryan-macklin/mythender/storm-5.svg) ![and 1](/catalog/creators/ryan-macklin/mythender/storm-1.svg). That means both of them have 3 successes.
 
 Together, they describe how they kill each other. Tzofiya’s sword bites into Unna’s body, shattering her spine and spraying blood, while Unna grabs Tzofiya’s neck and rips the life from her. They are both dead. Time for new characters!
 
@@ -5997,7 +5997,7 @@ Either way, if you’re going to play again, the Mythmaster should create a new 
 
 Yolen, a simple farmer turned into a Mythender (a <span class="keyword">Mourner Bearer of Life</span>) has fought well against Thor, Ending him by stabbing him in the face with his heirloom war hammer. In this battle, he suffered Fate and checked off his 5 Fate box.
 
-He rolls the Mythic die, and gets a ![5](mythic-5.svg). Yolen is no more!
+He rolls the Mythic die, and gets a ![5](/catalog/creators/ryan-macklin/mythender/mythic-5.svg). Yolen is no more!
 
 Yolen’s player, Tyler, decides that Yolen should replace Thor—there should always be a Thor, he says—but one with a God of Life bent to him. That’s enough for now; if they play again, the Mythmaster can create this new Thor.
 
@@ -7568,9 +7568,9 @@ Each Mythender attempting to Cull gathers dice based on which of the following a
 - 1 die for every god you’ve Ended, including this one. (Only those Ended in play count, none that are part of a Mythender’s backstory.)
 - 1 die for every time you’ve attempted to Cull this exact concept in the past and failed.
 
-Then roll the dice. Discard any that don’t come up a ![6](storm-6.svg). None of your Gifts allow you to modify this roll. For those attempting to Cull the same concept, now poll your dice together.
+Then roll the dice. Discard any that don’t come up a ![6](/catalog/creators/ryan-macklin/mythender/storm-6.svg). None of your Gifts allow you to modify this roll. For those attempting to Cull the same concept, now poll your dice together.
 
-If the concept is directly related to the god you just Ended, then it’s Culled if you have at least two ![6](storm-6.svg)s. If the concept is not directly related, then it’s Culled if you have at least four ![6](storm-6.svg)s.
+If the concept is directly related to the god you just Ended, then it’s Culled if you have at least two ![6](/catalog/creators/ryan-macklin/mythender/storm-6.svg)s. If the concept is not directly related, then it’s Culled if you have at least four ![6](/catalog/creators/ryan-macklin/mythender/storm-6.svg)s.
 
 #### The Consequences of Culling
 
@@ -7584,7 +7584,7 @@ Beatrice’s backstory parallels Jeanne d’Arc, and she sees lust as the root o
 
 As she Ends Freyja, she has her moment to “fix the world.” Her action Ended the god, she doesn’t have much Thunder or Lightning left, she’s Ended a god before this one (meaning she’s Ended two), and she failed to Cull lust last time. That means she has 4 dice to roll.
 
-She rolls ![6,](storm-6.svg) ![2,](storm-2.svg) ![6,](storm-6.svg) ![and 5](storm-5.svg), succeeding in Culling lust! The Mythmaster then describes how in a generation, the human race will dwindle into extinction. But hey, no more lust in their hearts!
+She rolls ![6,](/catalog/creators/ryan-macklin/mythender/storm-6.svg) ![2,](/catalog/creators/ryan-macklin/mythender/storm-2.svg) ![6,](/catalog/creators/ryan-macklin/mythender/storm-6.svg) ![and 5](/catalog/creators/ryan-macklin/mythender/storm-5.svg), succeeding in Culling lust! The Mythmaster then describes how in a generation, the human race will dwindle into extinction. But hey, no more lust in their hearts!
 
 ### The History of this Rule
 
@@ -7703,11 +7703,11 @@ _Pathfinder Roleplaying Game: Mythic Adventures_ (development, editing, addition
 
 Cortex Plus Action (design, writing), part of _Cortex Plus Hacker’s Guide_ — Margaret Weis Productions, 2013
 
-_Convention Book: N.W.O._, _Convention Book: Progenitors__, *Convention Book: Syndicate*_, and _Convention Book: Void Engineers_\* (development, writing) for _Mage: the Ascension Revised_ — Onyx Path Publishing, 2012 & 2013.
+_Convention Book: N.W.O._, _Convention Book: Progenitors\_\_, *Convention Book: Syndicate*_, and _Convention Book: Void Engineers_\* (development, writing) for _Mage: the Ascension Revised_ — Onyx Path Publishing, 2012 & 2013.
 
 _Pathfinder Roleplaying Game: Ultimate Campaign_ (development, editing, writing) — Paizo Publishing, 2013
 
-_The Vicious Crucible of the Verdigris Valley__, *The Vicious Crucible of the Eburnean Tower*_, and _The Vicious Crucible of Villa Argentate_\* — Josh Roby, 2012 & 2013
+_The Vicious Crucible of the Verdigris Valley\_\_, *The Vicious Crucible of the Eburnean Tower*_, and _The Vicious Crucible of Villa Argentate_\* — Josh Roby, 2012 & 2013
 
 _Do: Pilgrims of the Flying Temple_ (editing, additional writing) — Smart Play Games/Evil Hat Productions, 2011
 
