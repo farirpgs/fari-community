@@ -65,9 +65,6 @@ export function ProjectCard(props: {
                     src={props.project.image}
                     alt={props.project.data?.name || ""}
                     objectFit="cover"
-                    // width="100%"
-                    // height="350px"
-                    // objectFit="contain"
                     objectPosition="center"
                     borderBottom="1px"
                     borderColor="gray.200"

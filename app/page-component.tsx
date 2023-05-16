@@ -24,7 +24,7 @@ export function Home(props: { allCreators: Array<ICreator> }) {
     "linear(to-l, brand.200,brand.300)"
   );
 
-  const top8 = creatorsAndProjects.slice(0, 12);
+  const top12 = creatorsAndProjects.slice(0, 12);
 
   return (
     <Box pb={32}>
@@ -98,10 +98,10 @@ export function Home(props: { allCreators: Array<ICreator> }) {
               </Text>
               <Box pt={4} width="100%" maxWidth="container.xl">
                 <SimpleGrid columns={[1, 2, 4]} spacing="4">
-                  {top8.map((projectAndCreator) => {
+                  {top12.map((projectAndCreator, i) => {
                     return (
                       <ProjectCard
-                        key={projectAndCreator.project.projectSlug}
+                        key={i}
                         project={projectAndCreator.project}
                         creator={projectAndCreator.creator}
                       />

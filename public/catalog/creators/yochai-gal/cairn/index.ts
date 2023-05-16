@@ -4,7 +4,7 @@ export default function getData(): IProjectData {
   return {
     name: "Cairn",
     description: "Forest fantasy based on Into The Odd and Knave",
-    license: "CC BY SY 4.0",
+    license: "CC BY SA 4.0",
     links: {
       "itch.io": "https://yochaigal.itch.io/",
       driveThru: "https://www.drivethrurpg.com/product/330809/Cairn",

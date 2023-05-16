@@ -55,14 +55,14 @@ export function Navbar() {
             align="center"
             spacing={4}
           >
-            <Text fontWeight="bold">⚔️ NEWS ⚔️</Text>
-            <Text>Cairn is now on Fari Community!</Text>
+            <Text fontWeight="bold">🏙 NEWS 🏙</Text>
+            <Text>Mark of the Odd is now on Fari Community!</Text>
           </Stack>
           <Button
             size="sm"
             colorScheme="brand"
             as={Link}
-            href="/creators/yochai-gal/projects/cairn"
+            href="/creators/bastionland-press/projects/mark-of-the-odd"
           >
             Learn more
           </Button>
