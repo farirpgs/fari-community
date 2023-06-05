@@ -421,7 +421,7 @@ Facciamo questo per creare una sensazione di "wow" in situazioni sconosciute. Me
 
 Queste meccaniche si basano principalmente sulla comprensione dei rischi e su ciò che sta accadendo. Viene quindi lanciato un set di dadi a sei facce, si interpretano i risultati e la storia continua.
 
-# Lancio dei dadi | Meccaniche
+# Tiro dei dadi | Meccaniche
 
 Il gioco utilizza dadi a sei facce. Si tirano diversi dadi contemporaneamente, che chiamiamo "pool di dadi", e si legge il **risultato più alto** ottenuto.
 
@@ -451,15 +451,15 @@ Il primo passo per sapere se il personaggio supera la sfida è capire cosa sta f
 
 Una volta stabilito l'obiettivo del personaggio, il giocatore decide quale delle **12 azioni** intende utilizzare. Sta "Legando" con un mercante locale o cerca di "Influenzarlo" convincendolo che i suoi prezzi sono troppo alti?
 
-Il valore dell'azione viene utilizzato per determinare il pool di dadi iniziale del lancio.
+Il valore dell'azione viene utilizzato per determinare il pool di dadi iniziale del tiro.
 
 > \#### Opposizione Attiva
 >
-> In Charge, i PNG non tirano per le loro azioni. I PNG riescono automaticamente nelle loro azioni a meno che i giocatori non tentino di intervenire. In questo caso, un lancio di azione fa due cose contemporaneamente: **risolve l'azione del PG così come quelle dei PNG coinvolti**. Ciò incoraggia i giocatori a partecipare attivamente all'azione e ad essere pro
+> In Charge, i PNG non tirano per le loro azioni. I PNG riescono automaticamente nelle loro azioni a meno che i giocatori non tentino di intervenire. In questo caso, un tiro d'azione fa due cose contemporaneamente: **risolve l'azione del PG così come quelle dei PNG coinvolti**. Ciò incoraggia i giocatori a partecipare attivamente all'azione e ad essere pro
 
 attivi, invece di restare passivi.
 >
-> Il lancio di azione ci dice i risultati e le conseguenze di un'azione contemporaneamente.
+> Il tiro d'azione ci dice i risultati e le conseguenze di un'azione contemporaneamente.
 >
 > Con un **6**, il PG vince e ottiene ciò che desiderava. Con un **4 o 5**, sia il PG che il PNG hanno un effetto sul risultato. Con un **1-3**, il PNG vince e l'esito comporta una conseguenza per il PG.
 
@@ -473,21 +473,21 @@ Il rischio può essere **basso**, **moderato** o **alto**.
 - Quando il rischio è **moderato**, la situazione è pericolosa. Se fallisci, ci saranno ripercussioni.
 - Quando il rischio è **alto**, le probabilità sono contro di te. Tentare di andare contro di esse potrebbe avere pesanti conseguenze.
 
-Di default, un lancio di azione ha un rischio **moderato**. Non tireresti se non ci fosse alcun rischio coinvolto.
+Di default, un tiro d'azione ha un rischio **moderato**. Non tireresti se non ci fosse alcun rischio coinvolto.
 
 Il GM utilizza il contesto narrativo per determinare quale rischio scegliere.
 
-L'azione che viene utilizzata è un altro elemento che potrebbe influenzare il **rischio** di un lancio - cercare di convincere un mercante di cattivo umore potrebbe comportare un rischio **alto** se si usa la "Persuasione". "Creare legami", d'altra parte, potrebbe metterti in una posizione a **basso rischio**, considerando la situazione.
+L'azione che viene utilizzata è un altro elemento che potrebbe influenzare il **rischio** di un tiro - cercare di convincere un mercante di cattivo umore potrebbe comportare un rischio **alto** se si usa la "Persuasione". "Creare legami", d'altra parte, potrebbe metterti in una posizione a **basso rischio**, considerando la situazione.
 
 Il rischio aiuta a determinare come appare il fallimento.
 
 ## 3. Il GM stabilisce l'Effetto
 
-Il rischio non è l'unico elemento che aiuta a determinare il risultato finale di un lancio. Anche in una situazione a **rischio elevato**, riuscire in un lancio potrebbe comunque avere un grande **effetto** sulla narrazione.
+Il rischio non è l'unico elemento che aiuta a determinare il risultato finale di un tiro. Anche in una situazione a **rischio elevato**, riuscire in un tiro potrebbe comunque avere un grande **effetto** sulla narrazione.
 
 In Charge, ci sono 3 possibili valutazioni dell'effetto: **grande**, **standard** e **limitato**. Nella maggior parte degli scenari comuni, se stai lanciando per superare qualcosa, probabilmente stai cercando di ottenere un effetto **standard**. Il GM è responsabile di fornirti queste informazioni.
 
-Se una pesante porta ti impedisce il passaggio, potresti usare "Destrezza" per scassinare la serratura. Questo potrebbe generare un **effetto standard**, poiché richiederà del tempo, ma il rischio del lancio sarebbe **basso**. Potresti anche provare a usare "Ingegno" e sfondare la porta con un esplosivo. Questo potrebbe creare un **grande effetto**, ma potrebbe essere una situazione a **rischio elevato** poiché potrebbe attirare molta attenzione indesiderata.
+Se una pesante porta ti impedisce il passaggio, potresti usare "Destrezza" per scassinare la serratura. Questo potrebbe generare un **effetto standard**, poiché richiederà del tempo, ma il rischio del tiro sarebbe **basso**. Potresti anche provare a usare "Ingegno" e sfondare la porta con un esplosivo. Questo potrebbe creare un **grande effetto**, ma potrebbe essere una situazione a **rischio elevato** poiché potrebbe attirare molta attenzione indesiderata.
 
 La valutazione dell'effetto aiuta a determinare come appare il successo.
 
@@ -511,11 +511,11 @@ La valutazione dell'effetto aiuta a determinare come appare il successo.
 > | **Moderato** | **Standard** | 2           |
 > | **Basso**    | **Limitato** | 1           |
 >
-> Quando un lancio ha successo, si utilizza la **valutazione dell'effetto** per determinare quante porzioni avanzi su orologi di progresso, quante informazioni il personaggio ottiene da un'indagine, ecc.
+> Quando un tiro ha successo, si utilizza la **valutazione dell'effetto** per determinare quante porzioni avanzi su orologi di progresso, quante informazioni il personaggio ottiene da un'indagine, ecc.
 >
-> Quando un lancio crea una conseguenza, si utilizza la **valutazione del rischio** per determinare quante porzioni avanzi su orologi di pericolo, quanta tensione subisce un personaggio quando viene ferito, ecc.
+> Quando un tiro crea una conseguenza, si utilizza la **valutazione del rischio** per determinare quante porzioni avanzi su orologi di pericolo, quanta tensione subisce un personaggio quando viene ferito, ecc.
 >
-> Sebbene di solito sia il GM a stabilire le valutazioni iniziali, l'intero tavolo dovrebbe partecipare alla discussione per assicurarsi che tutti gli aspetti della finzione siano presi in considerazione prima di effettuare un lancio di azione.
+> Sebbene di solito sia il GM a stabilire le valutazioni iniziali, l'intero tavolo dovrebbe partecipare alla discussione per assicurarsi che tutti gli aspetti della finzione siano presi in considerazione prima di effettuare un tiro d'azione.
 >
 > Maggiori informazioni sugli orologi in [**Meccaniche » Orologi**](meccaniche#orologi)
 
@@ -525,7 +525,7 @@ Anche se le probabilità sono contro di loro, il tuo personaggio ha ancora carte
 
 Il giocatore può decidere se vuole equiparare le probabilità aggiungendo dadi bonus al proprio pool.
 
-Di solito si possono ottenere due dadi bonus per il lancio di azione.
+Di solito si possono ottenere due dadi bonus per il tiro d'azione.
 
 Per un dado bonus, puoi ottenere l'aiuto di un compagno di squadra. Consumano **1 slancio**, spiegano come ti aiutano e ti danno un dado extra da **1d6**.
 
@@ -555,7 +555,7 @@ Puoi anche equilibrare le probabilità utilizzando **uno** dei seguenti metodi.
 
 > \#### Utilizzare una risorsa
 >
-> Le risorse sono una regola opzionale disponibile in [Extra&nbsp;»&nbsp;Extra delle risorse](extra-delle-risorse) che fornisce un modo aggiuntivo per equilibrare le probabilità.
+> Le risorse sono una regola opzionale disponibile in [Extra&nbsp;»&nbsp;Extra delle risorse](#extra-risorse--extraextra-delle-risorse) che fornisce un modo aggiuntivo per equilibrare le probabilità.
 
 ## Riepilogo
 
@@ -1792,7 +1792,7 @@ Ora che hai letto il gioco dall'inizio alla fine, potresti chiederti cosa devi f
 
 Potresti sentirti abbastanza sicuro da parlare con un gruppo di amici e iniziare subito il tuo gioco di Charge. Se è così, fantastico!
 
-Forse ti è piaciuto ciò che hai letto, ma vuoi personalizzarlo per adattarlo a uno stile specifico. In tal caso, puoi rileggere il capitolo su [modificare il gioco](#modificare-il-giococome-modificare) per avere delle linee guida su cosa puoi modificare e come farlo. Puoi anche rileggere la sezione sugli [extra](what-are-extras) che contiene modifiche create dalla community che puoi utilizzare nel tuo gioco! Puoi anche inviare i tuoi stessi extra sulla [community di Charge su Itch.io](https://itch.io/category/1543442/new-topic) per ottenere feedback dalla community.
+Forse ti è piaciuto ciò che hai letto, ma vuoi personalizzarlo per adattarlo a uno stile specifico. In tal caso, puoi rileggere il capitolo su [modificare il gioco](#modificare-il-giococome-modificare) per avere delle linee guida su cosa puoi modificare e come farlo. Puoi anche rileggere la sezione sugli [extra](what-are-extra) che contiene modifiche create dalla community che puoi utilizzare nel tuo gioco! Puoi anche inviare i tuoi stessi extra sulla [community di Charge su Itch.io](https://itch.io/category/1543442/new-topic) per ottenere feedback dalla community.
 
 Se ciò che hai letto ti ha ispirato a creare il tuo gioco **Powered by Charge**, dai un'occhiata all'[SRD di Charge](/en/srds/fari-rpgs/charge-srd) come punto di partenza.
 
@@ -1938,4 +1938,1417 @@ Se vuoi, puoi includere anche le seguenti immagini nel tuo gioco per indicare ch
 | Attachments  | Connections   |            |         | Allegati        |
 | Asset        | Atout         |            |         | Risorsa         |
 | Quick Charge | Charge Rapide |            |         | Ricarica rapida |
+
+# Cosa sono gli Extra | Extra
+
+Il contenuto del capitolo precedente conteneva tutte le regole di base necessarie per giocare a Charge. Con questo, sei completamente attrezzato per divertirti giocando sia una semplice partita singola che una campagna che si estende per un intero anno.
+
+Ora, questo prossimo capitolo riguarda gli **Extra**.
+
+Gli Extra sono meccaniche aggiuntive che puoi aggiungere ai tuoi giochi per imitare determinati tipi di gameplay o personalizzare il gioco secondo i tuoi gusti.
+
+## Creare un Extra
+
+Charge è un gioco aperto, il che significa che chiunque può proporre degli extra aggiuntivi da aggiungere al gioco.
+
+Per farlo, invia la tua idea sulla [Community Board di Charge](https://itch.io/category/1543442/new-topic) utilizzando il tag **extra-submission**.
+
+Abbiamo un gruppo di volontari che lo valuteranno e forniranno feedback, commenti e suggerimenti.
+
+Una volta che l'extra viene approvato dalla comunità, puoi inviare un messaggio a RPDeshaies per includerlo nel gioco.
+
+Puoi contattare RP su Discord (RPDeshaies#4116) o su [Twitter](https://twitter.com/RPDeshaies).
+
+Sebbene i documenti in formato markdown siano preferiti, accetteremo e considereremo anche altri tipi di documenti come documenti di Google, documenti di Word, PDF e idee pubblicate direttamente sulla Community Board!
+
+Per rendere Charge il più omogeneo possibile, di seguito trovi un template in markdown che puoi utilizzare per progettare il tuo extra.
+
+Non vediamo l'ora di vedere cosa creerai!
+
+```
+\# {Nome dell'Extra} | Extra
+
+{Breve descrizione}
+
+\- Di {nome dell'autore}
+
+——
+
+{Descrizione dettagliata dell'extra e come dovrebbe essere utilizzato}
+
+\## Regola {Nome dell'Extra}
+
+{La parte principale del documento che spiega come utilizzare l'extra e tutte le sue regole}
+
+\#### Esempio
+
+_Esempio di un gioco che utilizza l'extra_
+
+\## Crediti
+
+- {credito #1}
+- {credito #2}
+
+\## Riassunto
+
+{Versione abbreviata dell'extra da utilizzare come riferimento rapido}
+
+\*\*
+```
+
+# Extra: Risorse | Extra
+
+Un extra di Charge RPG per rendere interessante la scoperta degli oggetti
+
+\- Di René-Pier Deshaies
+
+---
+
+Le Risorse sono un extra che puoi utilizzare come alternativa per **sforzarti** o **aggiungere tensione** a una scena per ottenere un dado bonus quando effettui un tiro d'azione.
+
+## Regola Risorse di Bottino
+
+La Risorsa di Bottino è una meccanica aggiuntiva che ti dà la possibilità di trovare bottino prezioso che avrà un impatto meccanico sul gioco quando saccheggi un luogo.
+
+Dopo che un conflitto tra più parti viene risolto, o quando la tensione generale in una scena si riduce, puoi effettuare un **tiro della fortuna** di **1d6** per trovare bottino o per cercare un luogo.
+
+- Con un **6**, crei **1 asset**.
+- Con un **66**, crei **2 asset**.
+
+Prendi nota di questo asset nella tua scheda del personaggio e usalo al momento opportuno per ottenere un extra di **1d6** o un **effetto aumentato** su un tiro d'azione.
+
+> \#### Tiro del Bottino
+>
+> - Tira **1d6**.
+>   - Con un risultato da 1 a 5: non succede nulla.
+>   - Con un 6: crei un asset.
+>   - Con un critico (66): crei due asset.
+> - Se è stato creato un asset, prendi nota di esso nel foglio del personaggio di qualcuno.
+
+### Regola Risorse di Favore
+
+È sempre sorprendente quando un giocatore si immerge completamente nel proprio personaggio o ha un'idea fantastica che è troppo brillante per essere ignorata.
+
+Per rendere quei momenti ancora più speciali, il GM può premiare quel giocatore con una **risorsa**.
+
+In pratica, il GM dice: è stato fantastico, ecco **1d6** o un **effetto aumentato** da utilizzare in futuro per un tiro.
+
+# Extra: Solo | Extra
+
+Un extra di Charge RPG per rendere le lotte impari più fantastiche
+
+\- Di Valdy
+
+---
+
+A volte vuoi giocare una partita con un solo personaggio giocante, e in altri momenti sei da solo o la tua squadra è stata eliminata.
+
+Questo extra è per questi momenti.
+
+## La Regola dell'Ultimo Restante
+
+Quando sei da solo, sei **l'ultimo restante**.
+
+Se accade, **sforzarti** costerà solo **1 slancio per ogni sforzo**.
+
+### Perché usarlo?
+
+Questo è pensato per quei momenti in cui sei da solo, sei l'ultima speranza e poi trovi una nuova energai che ti consente di superare le insormontabili difficoltà che ti circondano.
+
+### Considerazioni di design
+
+Tendo a fare giochi uno contro uno (un GM e un giocatore) e Charge si basa sul fatto di guadagnare e spendere Slancio.
+
+Quasi tutte le meccaniche che riguardano la spesa di Slancio si basano sul fatto di avere qualcun altro a disposizione per aiutarti. Quindi, riducendo il costo di Sforzarsi, si consente un flusso più elevato di Slancio, il che è più equo dato che nessuno può aiutarsi reciprocamente.
+
+Quindi, in breve:
+
+- Se sei da solo, hai meno opzioni per essere fantastico.
+- Quindi riduciamo il costo delle opzioni rimanenti.
+- Questo consente alle situazioni da solista di essere altrettanto fantastiche.
+
+# Extra: Allegato | Extra
+
+Un extra di Charge RPG per focalizzare maggiormente su determinati dettagli dei personaggi.
+
+\- Di René-Pier Deshaies, Nugat & Keita Creation
+
+---
+
+L'Extra Allegato è un extra che puoi utilizzare per rendere più importanti alcuni aspetti dei tuoi personaggi nel gioco.
+
+## Regola Extra Allegato
+
+I personaggi sono definiti utilizzando **dettagli** per rappresentare chi sono, come sono e a chi sono legati. Per impostazione predefinita, i dettagli non hanno alcun utilizzo meccanico nel gioco se
+
+ non quello di fornire libertà narrativa.
+
+Se vuoi che alcuni di questi dettagli siano più importanti nel tuo gioco, puoi considerarli come **allegati**.
+
+Un **allegato** può essere un importante pezzo di equipaggiamento (una spada, uno scudo, un bastone, un libro, un'armatura), una relazione (un alleato, un legame) o persino un famiglio.
+
+Un **allegato** è un **dettaglio** del personaggio che puoi scegliere di perdere temporaneamente per resistere a una **conseguenza** imminente.
+
+Questo viene chiamato "rompere" l'**allegato** e annulla immediatamente la **conseguenza**. Ciò significa che il giocatore non deve effettuare un **tiro risolutezza**.
+
+Tuttavia, ciò può essere fatto solo quando ha senso narrativamente e quell'**allegato** particolare non può essere utilizzato finché non si prende il tempo per ripararlo o riacquistarlo.
+
+Poiché possono essere utilizzati per annullare completamente le conseguenze, i personaggi hanno solo tra **1-2 allegati** ciascuno.
+
+> \#### Esempio
+>
+> _Il personaggio di Jean-Loup è circondato da un'orda di mostri mentre è dentro il suo Mech. Ha appena fallito un tiro d'azione **disperato** che farà avanzare di 3 segmenti l'orologio dello stress del suo personaggio._
+>
+> _Per evitare ciò, Jean-Loup propone di rompere il suo allegato **Nucleo del Reattore del Mech** per innescare un'esplosione, uccidere alcuni mostri e dare al suo personaggio l'opportunità di fuggire._
+>
+> _Il GM accetta e chiede a Jean-Loup di avviare un nuovo orologio di progresso del progetto se vuole richiedere un nuovo nucleo in futuro_.
+
+## Recupero di un Allegato
+
+Come i **dettagli** del personaggio, gli allegati forniscono autorizzazioni narrative ai personaggi. Quando vengono rotti, queste autorizzazioni narrative vengono perse.
+
+Per riacquistare o riparare un allegato, il PG deve avviare un **orologio di progresso del progetto** e tenerlo tracciato sul proprio foglio del personaggio.
+
+L'orologio inizia con 4 segmenti, ma può avere più segmenti se l'allegato è complicato da riparare, se è stato gravemente danneggiato o se è difficile da riottenere.
+
+Per progredire nel progetto, un personaggio può effettuare un **tiro d'azione** per riparare un allegato "rotto" solo quando ha il tempo appropriato.
+
+Il numero di tiri d'azione effettuati dovrebbe essere collegato narrativamente al tempo di inattività del personaggio. Restare svegli tutta la notte accanto a un falò potrebbe richiedere un solo tiro, ma se il personaggio ha una settimana libera potrebbe effettuare tre o più tiri.
+
+A seconda di ciò che viene riparato, il giocatore potrebbe dover effettuare diversi **tiri d'azione** con conseguenze diverse per il recupero.
+
+> \#### Esempio
+>
+> _L'allegato **Spada delle Fiamme** del personaggio di Aria è stato rotto in battaglia._
+>
+> _Aria decide di effettuare un **tiro d'azione** per riparare l'allegato durante una pausa nel viaggio._
+>
+> _Aria ottiene un risultato di 5 e il GM gli dice che ha completato metà del progetto di riparazione dell'allegato. Mancano ancora due tiri d'azione per completare il recupero._
+
+### Note di design
+
+L'extra Allegato fornisce ai giocatori un modo per sacrificare momentaneamente qualcosa di importante per evitare conseguenze negative. Ciò aggiunge una scelta tattica al gioco e crea momenti di tensione narrativa.
+
+Tuttavia, è importante mantenere un equilibrio tra la meccanica degli allegati e il flusso generale del gioco. Se un personaggio può recuperare troppo facilmente un allegato rotto, potrebbe rendere il gioco meno interessante. Pertanto, è consigliabile limitare il numero di allegati che un personaggio può avere e imporre requisiti narrativi per il loro recupero.
+
+# Extra: del Mondo | Extra
+
+Un Extra di Charge RPG per rendere il mondo più vivo
+
+- Di René-Pier Deshaies
+
+---
+
+L'Extra del Mondo è una meccanica aggiuntiva che risulta molto utile se desideri creare un gioco personalizzato basato su Charge che sia unico nel suo genere.
+
+Questo extra richiede anche che il GM utilizzi un mazzo standard di carte da gioco.
+
+## Regola dell'Extra del Mondo
+
+Durante le sessioni, i PG affronteranno missioni per raggiungere gli obiettivi. Torneranno quindi alla loro sede per fare il resoconto, riposarsi e recuperare.
+
+All'inizio di una campagna, o **ogni volta che i PG tornano alla loro sede**, il GM pesca **3 carte** "aggancio" da un mazzo standard di carte da gioco.
+
+- La prima carta ci dice qualcosa riguardo a [Tema \#1].
+- La seconda carta ci dice qualcosa riguardo a [Tema \#2].
+- La terza carta dice al GM qual è la prossima missione dei PG.
+
+Il GM può utilizzare questi ganci per creare filoni narrativi che i PG possono esplorare e dare vita al mondo di gioco.
+
+> \#### Note di design
+>
+> Modifica i temi per adattarli all'ambientazione del tuo gioco.
+>
+> - Un gioco incentrato sull'equipaggio di una nave spaziale che cerca di sbarcare il lunario potrebbe avere: **La Nave** / **L'Equipaggio** / **Il Prossimo Lavoro**.
+> - Un gioco incentrato su una banda di ladri potrebbe avere: **La Banda** / **Le Altre Fazioni** / **Il Prossimo Colpo**.
+> - Un gioco sui supereroi che combattono il crimine in una metropoli potrebbe avere: **La Città** / **Le Notizie** / **Il Prossimo Crimine**
+
+<details open>
+	<summary>
+   **1ª Carta: [Tema #1]**
+	</summary>
+- **Asso**: [spunto]
+- **2**: [spunto]
+- **3**: [spunto]
+- **4**: [spunto]
+- **5**: [spunto]
+- **6**: [spunto]
+- **7**: [spunto]
+- **8**: [spunto]
+- **9**: [spunto]
+- **10**: [spunto]
+- **Fante**: [spunto]
+- **Regina**: [spunto]
+- **Re**: [spunto]
+</details>
+
+<details>
+	<summary>
+   **2ª Carta: [Tema #2]**
+	</summary>
+- **Asso**: [spunto]
+- **2**: [spunto]
+- **3**: [spunto]
+- **4**: [spunto]
+- **5**: [spunto]
+- **6**: [spunto]
+- **7**: [spunto]
+- **8**: [spunto]
+- **9**: [spunto]
+- **10**: [spunto]
+- **Fante**: [spunto]
+- **Regina**: [spunto]
+- **Re**: [spunto]
+</details>
+
+<details>
+	<summary>
+   **3ª Carta: La Missione**
+	</summary>
+- **Asso**: [spunto]
+- **2**: [spunto]
+- **3**: [spunto]
+- **4**: [spunto]
+- **5**: [spunto]
+- **6**: [spunto]
+
+
+- **7**: [spunto]
+- **8**: [spunto]
+- **9**: [spunto]
+- **10**: [spunto]
+- **Fante**: [spunto]
+- **Regina**: [spunto]
+- **Re**: [spunto]
+</details>
+
+Una volta che sono state pescate le 3 carte, il GM utilizza le indicazioni delle prime due per spiegare cosa è successo mentre i PG erano assenti. I PG possono poi dedicare del tempo all'esplorazione di tali filoni come meglio ritengono.
+
+Quando i PG sono pronti per la loro prossima missione, il GM effettua un **tiro di missione**.
+
+Per farlo, il GM guarda le 3 carte che ha pescato e costruisce un gruppo di dadi di **1d6** per ogni carta rossa (<span style="color:red">♥ ♦</span>).
+
+Se non ci sono carte rosse, si tirano **2d6** e si seleziona il numero più basso.
+
+Il risultato di questo tiro ci dice quale sarà il **rischio** iniziale in cui i PG si troveranno all'inizio della loro prossima missione.
+
+- Con un risultato di **1-3**, i PG iniziano in una situazione di **alto rischio**.
+- Con un risultato di **4-5**, i PG iniziano in una situazione di **rischio moderato**.
+- Con un risultato di **6**, i PG iniziano in una situazione di **basso rischio**.
+- Con un risultato di **66**, i PG iniziano in una situazione di **basso rischio** e ottengono un beneficio aggiuntivo.
+
+Il GM presenta la missione ai PG e loro decidono come affrontare la situazione.
+
+Una volta decisa la strategia, il GM passa alla prima scena della missione utilizzando il risultato del tiro di missione per descrivere il livello di rischio attuale dei PG.
+
+Una volta che la missione è finita, i PG tornano alla loro sede e il ciclo ricomincia.
+
+> \#### Esempio
+>
+> _I PG sono appena tornati alla loro nave spaziale dopo aver compiuto un colpo molto riuscito. Mentre tornano, il GM pesca 3 carte da un mazzo di carte._
+>
+> _Il GM quindi legge i 3 spunti associati alle carte:_
+>
+> - _**L'IA**: L'IA della nave ha appena scoperto l'ironia. (**Carta Rossa**)_
+> - _**La Nave**: Non ci sono più tubi di cibo in cucina. (**Carta Nera**)_
+> - _**Il Prossimo Colpo**: È stata appena emessa una taglia su un gruppo di pirati pazzi nei pressi della fascia asteroidale. (**Carta Rossa**)_
+>
+> _Il GM rivela gradualmente questi ganci narrativi ai giocatori mentre interagiscono con la loro nave._
+>
+> _Quando i PG sono pronti per iniziare la loro prossima missione, il GM tira **2d6** (uno per ogni carta rossa). Esce un **4**, quindi la missione inizierà con una situazione di **rischio moderato**._
+>
+> _Il GM pensa quindi a un modo per complicare la taglia
+
+ sui pirati. Decide che quando i PG arriveranno, ci sarà già un'altra squadra di malviventi lì che cercherà di catturare la taglia._
+
+> \## Riepilogo
+>
+> Quando i PG tornano alla loro sede, il GM pesca 3 carte da un mazzo standard di carte da gioco.
+>
+> Ogni carta fornisce un nuovo spunto di storia al GM per rendere il mondo più vivo.
+>
+> Per determinare come inizierà la prossima missione dei PG, si tirano **1d6** per ogni carta rossa pescata. Il risultato di questo tiro ci dice qual è il livello iniziale di **rischio** in cui i PG si troveranno all'inizio della loro prossima missione.
+>
+> - Con un risultato di **1-3**, i PG iniziano in una situazione di **alto rischio**.
+> - Con un risultato di **4-5**, i PG iniziano in una situazione di **rischio moderato**.
+> - Con un risultato di **6**, i PG iniziano in una situazione di **basso rischio**.
+> - Con un risultato di **66**, i PG iniziano in una situazione di **basso rischio** e ottengono un beneficio aggiuntivo.
+
+# Extra: Charge Rapido | Extra
+
+Un extra di Charge RPG che semplifica il gioco per ridurre il "tempo di preparazione"
+
+- Di René-Pier Deshaies
+
+---
+
+Charge Rapido è un extra che semplifica le regole di base di Charge per renderlo più facile da imparare e giocare.
+
+Puoi usarlo per una singola partita veloce, per introdurre Charge a nuovi giocatori, o semplicemente perché preferisci regole più snelle.
+
+Alcuni testi sono stati copiati dal resto del gioco per rendere questo Extra autonomo, ma ecco un breve riassunto delle modifiche per i veterani di Charge che leggono:
+
+- Ci sono solo 2 dettagli del personaggio: il **concetto** e l'**aspetto**.
+- L'elenco delle azioni è stato ridotto a 6 azioni. All'inizio della creazione del personaggio, assegnate 4 punti azione tra le seguenti azioni:
+  - **Muscoli**: usi la tua forza per muoverti, superare o distruggere l'ostacolo di fronte a te.
+  - **Finezza**: impieghi una manipolazione agile o una sottile distrazione.
+  - **Muoversi**: ti sposti rapidamente in una nuova posizione o esci dal pericolo.
+  - **Studiare**: scruti i dettagli e interpreti le prove.
+  - **Influenzare**: rassicuri, socializzi o influenzi con gentilezza, astuzia, fascino o argomentazione.
+  - **Concentrarsi**: ti concentri per portare a termine un compito che richiede grande forza mentale.
+- Il valore di **effetto** viene determinato dal risultato del tiro dell'azione:
+  - Un **66** dà un **effetto +3**.
+  - Un **6** dà un **effetto +2**.
+  - Un **4-5** dà un **effetto +1**.
+- Il valore di conseguenza viene determinato dal risultato del tiro dell'azione:
+  - Un **1-3** crea una **conseguenza +2**
+  - Un **4-5** crea una **conseguenza +1**
+- I progressi vengono segnati utilizzando il valore **effetto** del tiro dell'azione.
+- I pericoli vengono segnati utilizzando il valore **conseguenza** del tiro dell'azione.
+- Anche l'orologio dello stress viene segnato utilizzando il valore **conseguenza** del tiro dell'azione.
+
+---
+
+## Charge Rapido
+
+### Creazione del Personaggio
+
+I personaggi sono definiti da tratti descrittivi chiamati **dettagli**. Questi mettono in evidenza chi sono e cosa è importante di loro. Questi dettagli non sono solo informazioni per dare colore al personaggio, ma dovrebbero essere gli aspetti del personaggio a cui prestiamo attenzione nella storia. Sono anche utilizzati come guida per conoscere le diverse libertà narrative che un personaggio ha nella finzione.
+
+Durante la creazione di un nuovo personaggio, annota:
+
+- **Concetto**: una versione sintetica di chi è il personaggio.
+- **Aspetto**: come appare il personaggio, cosa indossa, ecc.
+
+#### Azioni
+
+Quando un PG ha bisogno di superare un ostacolo e c'è un rischio, utilizza una delle sue **azioni**.
+
+Durante la creazione del personaggio, i giocatori assegnano **4 punti azione** tra l'elenco delle azioni seguenti:
+
+Assegna **4 punti azione** a:
+
+- **Muscoli**: usi la tua forza per muoverti, superare o distruggere l'ostacolo di fronte a te.
+- **Finezza**: impieghi una manipolazione agile o una sottile distrazione.
+- **Muoversi**: ti sposti rapidamente in una nuova posizione o esci dal pericolo.
+- **Studiare**: scruti i dettagli e interpreti le prove.
+- **Influenzare**: rassicuri, socializzi o influenzi con gentilezza, astuzia, fascino o argomentazione.
+- **Concentrarsi**: ti concentri per portare a termine un compito che richiede grande forza mentale.
+
+#### Condizione
+
+La condizione di un personaggio viene tenuta traccia utilizzando un orologio suddiviso in 4 segmenti chiamato **orologio dello stress ⨁**.
+
+Quando vengono feriti, l'orologio viene riempito.
+
+Quando i 4 segmenti dell'**orologio dello stress** sono pieni, il PG viene escluso dalla scena e il suo orologio dello stress viene azzerato. Poiché è stato escluso, le scene successive dovrebbero gestire come avverrà il recupero del personaggio nella finzione.
+
+### Tiro dei dadi
+
+Il gioco utilizza dadi a sei facce. Si tirano diversi dadi contemporaneamente, che chiamiamo un gruppo di dadi, e si legge il **risultato più alto**.
+
+- Se il dado più alto è un **6**, è un **successo completo**. Le cose vanno bene. Se si ottiene più di un **6**, è un **successo critico** e si ottiene un ulteriore vantaggio aggiuntivo.
+- Se il dado più alto è un **4 o 5**, è un **successo parziale**. Fai ciò che stavi cercando di fare, ma ci sarà una conseguenza.
+- Se il dado più alto è **1-3**, è un **risultato negativo**. Le cose vanno male. Non raggiungi il tuo obiettivo e subisci una conseguenza.
+
+_Se devi lanciare i dadi ma non ne hai (o ne hai un numero negativo), lancia due dadi e prendi il risultato più basso. Non puoi ottenere un successo critico quando non hai dadi._
+
+La maggior parte delle meccaniche del gioco ruota attorno a questo formato di base.
+
+### Tiri diAzione
+
+Quando c'è una sfida da superare e c'è il rischio di fallire, un giocatore effettua un **tiro d'azione**.
+
+Il numero di dadi da lanciare dipende dall'**azione** che il personaggio sta compiendo.
+
+Il tiro d'azione agisce in modo duplice. Ciò significa che risolve ciò che il PG sta facendo, così come il PNG.
+
+Ecco cosa succede quando un giocatore effettua un tiro d'azione:
+
+#### 1. Il Giocatore Stabilisce il Suo Obiettivo
+
+Il giocatore dichiara il suo obiettivo e quale **azione** sta utilizzando.
+
+#### 2. Il GM Spiega il Rischio
+
+Non lanceresti i dadi se non ci fossero rischi. Quindi il GM dovrebbe spiegare al giocatore in cosa si sta cacciando.
+
+#### 3. Il Giocatore Livella le Probabilità
+
+Il giocatore decide se vuole livellare le probabilità.
+
+Possono:
+
+- **Spingersi al limite**: Consumare **2 slancio** per ottenere **+1d6** o un livello di effetto migliorato.
+- **Aggiungere tensione** alla scena, per ottenere **+1d6**.
+
+Possono anche ricevere l'aiuto di un altro PG per un ulteriore **1d6**.
+
+#### 4. Tiro dei Dadi
+
+Infine, il giocatore lancia i dadi e il gruppo valuta il risultato.
+
+- Con un **66** è un successo critico. Si raggiunge l'obiettivo in modo _eccezionale_ con un **+3 di effetto**
+- Con un **6** è un successo completo. Si raggiunge l'obiettivo con un **+2 di effetto**
+- Con un **4-5** è un successo parziale. Si raggiunge l'obiettivo con un **+1 di effetto**, ma c'è una **+1 di conseguenza**.
+- Con un **1-3** è un esito negativo. Le cose vanno male e c'è una **+1 di conseguenza**.
+
+Se il risultato del dado è superiore a **3**, il PG guadagna **slancio** dall'azione, a meno che non si sia spremuto.
+
+### Slancio
+
+Quando un giocatore effettua un tiro d'azione, quel tiro ha la possibilità di generare **slancio**.
+
+Inizi ogni sessione con **2**, e ne generi di più quando effettui tiri d'azione riusciti.
+
+- Con un **4-5**, guadagni **+1 di slancio**.
+- Con un **6**, guadagni **+2 di slancio**.
+- Con un **66**, guadagni **+3 di slancio**.
+
+I PG consumano il loro **slancio** per potenziare le loro azioni, aiutare un alleato o resistere a una **conseguenza**.
+
+**Quando il slancio viene speso per un tiro, quel tiro non può generare a sua volta slancio.**
+
+### Potenziare i Tiri d'Azione
+
+Se vuoi, puoi aggiungere dadi bonus al tuo tiro d'azione usando **uno** dei seguenti metodi.
+
+#### Spingersi al limite
+
+Quando ti **spingi al limite**, consumi **2 di slancio** per ottenere uno dei seguenti bonus.
+
+- Aggiungi **+1d6** al tuo pool di dadi.
+- Ottieni un livello di effetto **+1** per il tuo tiro.
+- Fai azione anche se sei stato messo fuori gioco.
+
+#### Aggiungi Tensione
+
+Quando **aggiungi tensione** a un tiro d'azione, puoi chiedere al GM _"Come apparirebbe l'aggiunta di tensione qui?"_. Il GM offre quindi una **conseguenza**, come segnare segmenti su un orologio di pericolo, infliggere stress al tuo personaggio o aggiungere più dramma alla narrazione.
+
+Se accetti la **conseguenza**, aggiungi **+1d6** al tuo pool di dadi corrente.
+
+### Lavoro di Squadra
+
+I PG possono aiutarsi a vicenda in modi diversi per assicurarsi che le squadre superino le diverse sfide che li attendono.
+
+#### Aiutare
+
+Quando **aiuti** un PG, consumi **1 di slancio** per dare **+1d6** al loro tiro. Nel farlo, ti esponi anche a un possibile pericolo.
+
+#### Protezione
+
+Quando proteggi un PG, intervieni per affrontare una conseguenza che altrimenti affronterebbero loro. Descrivi come intervieni e subisci tu stesso la conseguenza per loro.
+
+Puoi effettuare un **tiro risolutezza** per cercare di ridurre o annullare la conseguenza.
+
+#### Preparare
+
+Quando esegui un'azione di preparazione, effettui un **tiro d'azione** per avere un effetto indiretto su un ostacolo. Se la tua azione ha il risultato desiderato, ogni membro del team che segue la tua manovra ottiene un livello di effetto **+1** per il loro tiro.
+
+Scegli il beneficio in base alla natura della tua azione di preparazione.
+
+### Tiro risolutezza
+
+Se un personaggio subisce una **conseguenza** che, come giocatore, non ti piace, puoi cercare di resistere ad essa.
+
+Lo fai chiamando un **tiro risolutezza** per vedere quanto bene resisti alla conseguenza.
+
+Costruisci un pool di d6 aggiungendo **+1d6** per ogni carica di slancio che sei disposto a consumare per il tiro.
+
+Una volta deciso quante cariche vuoi consumare, lancia e interpreta i risultati:
+
+- Con un **1-3**, la **conseguenza** si verifica comunque.
+- Con un **4-5**, la **conseguenza** viene ridotta.
+- Con un **6**, la **conseguenza** viene evitata.
+- Con un **66**, la **conseguenza** viene evitata e ottieni qualche altro beneficio.
+
+### Orologi
+
+Gli orologi sono cerchi divisi in 4, 6 o 8 segmenti.
+
+Usali per tenere traccia di situazioni, pericoli o progressi nel tempo.
+
+Quando qualcosa riempie tutti i segmenti dell'orologio, succede qualcosa di significativo.
+
+#### Orologio del Pericolo
+
+L'orologio del pericolo è un modo per misurare la minaccia che un gruppo di PNG rappresenta per i PG.
+
+Quando il pericolo interviene e il GM lancia i dadi per loro, usano l'orologio del pericolo per risolvere il loro comportamento.
+
+#### Orologio di Recupero
+
+L'orologio di recupero tiene traccia del recupero di un PG che è stato escluso dalla scena.
+
+Al termine di una scena, i PG possono lanciare i dadi per vedere quanto sono riusciti a recuperare durante il tempo trascorso.
+
+# Extra: Magia | Extra
+
+Un Extra di Charge RPG per guidarti su come introdurre la magia nel tuo gioco
+
+- Di Nugat
+
+---
+
+Questo extra è pensato per emulare la magia a basso livello, quindi potrebbe non essere il migliore da usare in ambientazioni ad alto potere o in ambientazioni in cui la magia è ovunque.
+
+## Tarare la Magia
+
+Innanzitutto, devi decidere **quale azione utilizzare**, anche se non sei limitato nel numero di azioni che puoi selezionare nello stesso contesto o per un singolo incantesimo:
+
+La magia è fatta di rituali che richiedono molto tempo per raccogliere una certa quantità di potere magico? Allora hai bisogno di **Concentrarsi**.
+
+La magia richiede movimenti accurati o persino danze che devi eseguire perfettamente? Ciò richiederebbe una certa quantità di **Finezza**.
+
+La magia è fatta di alchimia e incantesimi? Questo suona come **Armeggiare**.
+
+La magia è qualcosa che si basa su un linguaggio runico che devi decifrare, arie che devi conoscere a memoria o disegni complessi? Spero tu sia bravo nello **Studiare** (ma la **Concentrarsi** potrebbe funzionare, specialmente se hai un libro in mano!).
+
+Usi l'ipnosi o il Kototama (magia giapponese)? Potrebbe essere **Influeanzare** o **Comandare**.
+
+Forse devi usare il tuo **Legare** con un dio specifico per richiamare i loro poteri particolari.
+
+Sii creativo con la magia! Forse un incantesimo richiede più azioni, o forse un incantesimo può essere lanciato in modi diversi.
+
+> _Per il suo gioco specifico sui maghi con libri e incantesimi, Alice ha deciso che la magia può essere utilizzata in due modi: il personaggio può **Concentrarsi** sulla lettura del libro, oppure può semplicemente ricordare uno **Studiare** precedente se il personaggio non ha il libro a portata di mano. Ma per un rituale per evocare un essere da un altro mondo, ha deciso che l'incantesimo richiede un orologio da riempire. La metà deve essere riempita con **Focalizzazione** mentre il personaggio recita incantesimi dal libro, ma l'altra metà deve essere riempita con **ComandareConcentrarsi**, poiché devono vincolare l'essere alla loro volontà._
+
+## Il Costo della Magia
+
+A seconda del tono del tuo gioco, la magia può avere costi diversi e avere effetti diversi:
+
+Per il costo, la magia potrebbe richiedere:
+
+- Una certa quantità di **slancio**.
+- Tempo (richiede un **orologio** da riempire).
+- Rischio (ti mette in una determinata **posizione** di default).
+- Pericolo (un **orologio** per segnare le conseguenze che è presente nelle **complicazioni** del tuo personaggio nella scheda).
+- Materiali (non c'è bisogno di tenere traccia di un inventario, usa il buon senso).
+- Requisiti per il lancio (di notte; sul posto; con un tomo degli incantesimi).
+- Limiti di lancio (una volta al giorno; una volta per sessione; una volta nell'intera campagna).
+- Svantaggi (creare danni collaterali; causare stress).
+- Effetti a lungo termine sul mago (ad esempio, potrebbe avere un impatto sulla loro salute o potrebbe corromperli [se qualcuno crea un Extra di corruzione, aggiungilo qui]).
+
+Assicurati solo che l'effetto che stai dando alla magia si adatti al costo, in modo che i tuoi giocatori siano sempre tentati di usarla.
+
+> _Per il rituale di evocazione precedente, Alice decide che dovrebbe essere un processo che richiede tempo e molta attenzione. Decide che l'incantesimo è un orologio a otto segmenti, e che ogni segmento rappresenta un'ora di gioco in cui il personaggio deve concludere il rituale. Ovviamente, richiederà anche una stanza vuota interamente dedicata all'evocazione. Se il personaggio fallisce in qualsiasi momento, Alice potrebbe far fallire l'intero incantesimo, ma decide qualcos'altro: per ogni conseguenza, segna un segmento da un orologio a quattro segmenti. Quando è pieno, l'essere viene evocato, ma sarà ostile al giocatore che lo ha evocato._
+
+## Gli Effetti della Magia
+
+### Magia con Utilizzi Multipli e Oggetti Magici
+
+Quando crei un oggetto magico o quando usi una magia che può essere utilizzata più volte nello stesso lancio, probabilmente dovresti definire dei limiti per l'incantesimo:
+
+- Utilizza l'Extra [Allegato](#extra-allegato) per un oggetto protettivo.
+- Utilizza un orologio di "carica magica" che si esaurisce con l'uso (può o non può essere ripristinato dal mago) che può essere tracciato nella scheda del personaggio, utilizzando **progetti**.
+- Per entrambi gli oggetti sopra citati, puoi utilizzare le regole di riparazione e ripristino di [Keita Creation](https://keitacreates.itch.io/repairs-and-restorations).
+- Rendi l'incantesimo molto più difficile da lanciare e più pericoloso per utilizzi successivi nella stessa scena.
+- Fai sì che ulteriori utilizzi dell'effetto abbiano un costo (vedi sopra).
+- Per un oggetto, permetti al personaggio che lo indossa di tirare per l'incantesimo al posto del mago (dai loro il permesso narrativo di fare qualcosa).
+- Puoi trattare l'oggetto come una [Risorsa](#extra-risorse) per incantesimi con effetto ritardato.
+- Puoi anche trattarli come una [Risorsa](#extra-risorse) per incantesimi con utilizzi multipli utilizzando un orologio, sia con effetto fisso, sia con effetti diversi a seconda del numero di segmenti segnati (vedi sotto).
+
+### L'effetto della magia
+
+Utilizza il valore dell'effetto dell'incantesimo o i segmenti vuoti (se l'incantesimo è un orologio) per determinarne l'effetto. Quando segni gli orologi, segui le normali regole. Se l'incantesimo è destinato ad aiutare un alleato o ostacolare il nemico, si applica un bonus (solo ai tiri in cui l'effetto potrebbe essere rilevante):
+
+Un incantesimo con effetto **limitato** (1 segmento) avrà solo un piccolo impatto su ciò che stai facendo: fornisce solo un effetto migliore o una posizione migliore.
+
+Un incantesimo con effetto **normale** (2 segmenti) è più potente: ti dà un d6 extra quando tiri.
+
+Un incantesimo con effetto **grande** (3 segmenti) è potente: ti offre sia un effetto o una posizione migliore, sia un d6 extra quando tiri.
+
+I successi critici sugli incantesimi aumentano l'effetto di un livello per ogni d6 aggiuntivo oltre il primo. Un successo critico su un incantesimo che aveva già un effetto **grande** può avere due effetti: o fornisce un effetto, una posizione migliore e un d6 extra, o consente semplicemente al personaggio di riuscire automaticamente in un tiro in cui si applica l'effetto (in questo caso, il valore dell'effetto rimane lo stesso).
+
+> _L'essere è stato evocato con successo, ed è ora rappresentato da un post-it con un nome e un orologio. Decide che lo spirito è uno spirito **normale** che può essere comandato in qualsiasi momento dallo stregone per fornire un d6 extra quando si tira un dado quando avrebbe senso che lo spirito possa agire per conto del personaggio. Poiché agisce al posto del personaggio, Alice decide che lo spirito ha un proprio orologio di stress da segnare sulle conseguenze._
+>
+> _Ma poiché questo è un effetto potente, ha anche un svantaggio potente: utilizzare lo spirito è gravoso sia per il corpo che per la mente, e ogni utilizzo dello spirito segna un segmento dell'orologio delle condizioni del personaggio. Inoltre, non appena il personaggio viene eliminato, lo spirito si libera dell'incantesimo e diventa ostile al gruppo._
+
+# Extra: Cicatrici | Extra
+
+Questo extra introduce un nuovo tipo di **dettaglio** che cambia permanentemente il tuo personaggio quando la barra dello stress si riempie.
+
+\- Di Krister Svanlund
+
+---
+
+_AVVISO: Questo extra tratta argomenti di danni corporei grafici e affronta temi associati alla salute mentale._
+
+Questo extra è destinato a sostituire la semplice regola predefinita di _"Quando la tua barra dello stress raggiunge **4 segmenti completi**, la svuoti e sei messo fuori scena"_ in modo che mettersi in situazioni rischiose abbia un effetto permanente effettivo.
+
+I giochi che possono trarre vantaggio da queste regole sono principalmente quelli che mirano a un tono più cupo, in cui l'eroe non si riprende immediatamente, ma viene invece costretto a confrontarsi con le conseguenze delle sue azioni.
+
+Questo extra aggiunge alcuni concetti alla base di Charge RPG, in particolare:
+
+- **cicatrici** - Un nuovo tipo di **dettaglio** del personaggio che indica un cambiamento permanente al tuo personaggio, sia fisico che mentale.
+- **uscire di scena** - L'atto di lasciare i tuoi amici a gestire un conflitto per evitare conseguenze più gravi per te.
+- essere **temprati** - Gli aspetti benefici di avere un **dettaglio** di **cicatrice**; ti consente di sopportare più stress in determinate circostanze.
+
+---
+
+> \## Avviso sulle cicatrici
+
+> _Gli argomenti di questo Extra hanno un rapporto complicato sia con la vita reale che con i tropi nei media popolari. Pertanto, quando usi queste regole, ricorda che la cultura popolare in generale non ha trattato le disabilità gentilmente, ma che abbiamo un'opportunità fantastica di cambiarlo collettivamente. Queste regole non sono destinate a rendere il tuo personaggio inutilizzabile, ma a creare un registro permanente sul tuo foglio del personaggio e su come interpreti il tuo personaggio delle avventure che hai vissuto. Ma ricorda sempre di prestare attenzione e ascoltare ciò che gli altri con cui condividi il tavolo hanno da dire al riguardo, e rispetta sempre chi vuole che tu rimanga lontano da determinate condizioni o disabilità._
+>
+> _Queste regole ti danno la possibilità di abbracciare i cambiamenti ai tuoi personaggi e mostrare come ciò non li rende meno competenti, anche se hanno difficoltà a causa delle cicatrici che hanno. Lo scopo di ciò non è causare una spirale di morte, ma far sì che il mondo abbia un'impressione sul personaggio simile a come i personaggi hanno un'impressione sul mondo._
+
+## Regola delle cicatrici
+
+Quando la tua barra dello stress raggiunge **4 segmenti completi**, non la svuoti, ma invece aggiungi una **cicatrice** ai dettagli del tuo personaggio e aggiorni la condizione in qualcosa che rappresenta la tua **incapacità**. Quando ti riprendi dall'essere incapace, che sia rice
+
+Un personaggio incapacitato non può accumulare altre **cicatrici**, ma ulteriori danni al corpo possono cambiare la natura della **cicatrice**, ad esempio una bruciatura che si estende di più, o invece di avere una cicatrice profonda, si può ottenere una rete intricata di cicatrici profonde.
+
+> \### Sovrapposizione di cicatrici
+>
+> _In alcuni casi, le **cicatrici** finiscono per sovrapporsi a ciò che colpiscono, come perdere il braccio sinistro dopo aver lasciato la mano sinistra, e in quei casi, è del tutto accettabile unire quelle **cicatrici** in una sola cicatrice. Se una **cicatrice** non cambia nulla nel tuo personaggio, non ha alcuna utilità sul foglio del personaggio._
+
+Ricorda di aggiornare anche il tuo aspetto se necessario quando aggiungi **cicatrici**.
+
+> \### Impostazione opzionale: Sanguinamento
+>
+> _Per alcuni giochi, una **cicatrice** fresca dovrebbe richiedere qualche tipo di **azione** da parte di un altro personaggio per far tornare in gioco il personaggio cicatrizzato. Questo può essere "convincere a desistere", "fermare il sanguinamento" o "prendersi cura delle ustioni". Questa regola, in particolare, potrebbe essere eccessiva per alcuni gruppi, quindi assicurati di includerla solo con il consenso di tutti, come tutte le regole che riguardano il danno corporeo o mentale._
+
+### Definizione di una cicatrice
+
+Una **cicatrice** è un dettaglio del personaggio basato sulla **condizione** che hai ottenuto riempiendo l'indicatore dello stress. Similmente alle condizioni, le **cicatrici** fisiche e mentali non sono tenute separate ma sono registrate come una lista unica di dettagli. La parte importante è che la **cicatrice** non è la **condizione** stessa, ma ciò che rimane dopo un certo periodo di tempo.
+
+> \##### Esempi di cicatrici
+>
+> - "una cicatrice profonda sull'addome"
+> - "mano sinistra e braccio mancanti"
+> - "pensieri intrusivi sull'occhio senza palpebra cicatrizzato di Gazh".
+
+Come per le **condizioni**, alcune **cicatrici** possono limitare le tue libertà narrative. _Ad esempio, di solito non puoi impugnare due armi se hai solo una mano._
+
+### Essere temprati
+
+Quando hai una **cicatrice**, significa anche che sei **temprato** in qualche misura. Ciò significa che ogni volta che una delle tue **cicatrici** causa problemi reali a te o ai tuoi amici, puoi **cancellare una tacca** dell'indicatore dello stress consumando **1 slancio**. Ciò che viene definito come "problemi reali" spetta al GM, ma dovrebbe essere conseguente allo scopo del tuo personaggio o del gruppo.
+
+> \#### Esempi di problemi reali
+>
+> - Essere cacciato fuori dal piccolo paese perché le cicatrici da ustione sono considerate un segno di malvagità.
+> - Dimenticare la mano mancante e usarla per cercare di afferrare l'arma lanciata verso di te.
+> - Rannicchiarsi per paura, incapace di venire in aiuto dei tuoi amici, sentendo suonare le campane maledette.
+
+> \#### Nota sulle cicatrici come sketch comico
+>
+> _Una nota importante è che le **cicatrici** che ti causano "problemi" non sono intese per scopi comici. Questo varierà naturalmente tra i gruppi, ma ricorda di trattare le **cicatrici** con lo stesso rispetto di qualsiasi altro dettaglio del personaggio._
+
+### Impostazione opzionale: Compensazione
+
+In alcuni casi, e per certi ambienti, può avere senso consentire in qualche modo di "compensare" una **cicatrice**. Questo non la rimuove o la annulla, ma compensa in parte la perdita di abilità. Esempi di ciò possono essere l'acquisto di una protesi meccanica, un innesto cutaneo o semplicemente una terapia. Ciò non impedisce di beneficiare dell'essere **temprati**, ma riduce le probabilità che la **cicatrice** causi problemi.
+
+_Un problema di equilibrio importante da tenere presente per il GM è che una **compensazione** non dovrebbe, di default, consentire al personaggio con la **cicatrice** di fare tutto ciò che un personaggio senza cicatrice può fare, né dovrebbe essere considerata un punto debole del personaggio. Tuttavia, può essere utilizzata come obiettivo in-game per un miglioramento futuro, a seconda del tipo di ambientazione e tono._
+
+### Rinunciare
+
+_Questa regola potrebbe non essere adatta a tutti i gruppi. Non utilizzarla se rischia di creare conflitti interpersonali tra i giocatori. Lo scopo della regola è quello di consentire ai giocatori una certa autonomia nel decidere se prendere o meno una **cicatrice**. Se lasciare i propri amici in difficoltà non è visto come **un costo**, questa regola non è adatta al vostro gruppo._
+
+Man mano che ti avvicini a riempire l'indicatore dello stress, hai l'opzione di **rinunciare** anziché subire una **conseguenza** che riempirebbe il tuo indicatore dello stress. Fai ciò comunicando al GM, prima di effettuare l'azione finale che rischia di riempire il tuo indicatore dello stress, che desideri **rinunciare**. Questo significa che narrerai come il risultato dell'azione ti fa lasciare la scena o ti lascia **incapacitato**, e non potrai riunirti al gruppo nella stessa scena. Se ciò comporta lasciare almeno un amico in difficoltà, potrai cancellare 2 tacche del tuo indicatore dello stress.
+
+> \#### Esempio: Rinunciare
+>
+> _Il personaggio del giocatore 1 ha 3 punti stress, con la condizione "sopraffatto e colpito alla spalla destra"._
+>
+> _**GM:** Il Bruto si precipita verso di te mentre i proiettili volano nell'aria, sembra che voglia buttarti contro il muro alle tue spalle, ti trovi in una **posizione disperata**._
+>
+> _**Giocatore 1:** Ok, quindi voglio **muovermi** per evitarlo, ma dato che ho 3 punti stress voglio anche **rinunciare**._
+>
+> _**GM:** Sì, certo, va bene. Hai un **effetto standard** per quello, ma questo lascia <Giocatore 2> in una situazione abbastanza difficile ora che te ne vai e lui si ritrova a dover affrontare sia il Bruto che il Taglia. Come lasci il combattimento?_
+>
+> _**Giocatore 1:** [Tirando i dadi] Ok, in realtà riesco a riuscire a **muovermi** senza complicazioni, quindi mi sposto e uso il mio effetto per infliggere 2 punti stress al Bruto quando si schianta contro il muro. Ma l'unico modo per schivare è buttarmi oltre il bordo a destra e cadere nel fiume sottostante, dove vengo trascinato via._
+>
+> _**GM:** Ok, cancella 2 tacche dal tuo indicatore dello stress e potrai tornare quando la lotta sarà finita._
+
+### Impostazione opzionale: Iniziare il gioco con cicatrici
+
+Le **cicatrici** rappresentano la storia del personaggio incisa nel suo corpo, nella sua mente e nell'anima. Per questo motivo, **non** c'è l'opzione di prendere **cicatrici** per ottenere abilità extra, punti azione o simili. Se vuoi che il tuo personaggio abbia **cicatrici** all'inizio, deve esserci una storia ad essa associata. Una storia che li ha plasmati fondamentalmente in ciò che sono all'inizio del gioco. Idealmente, ogni **cicatrice** dovrebbe avere una storia che potrebbe essere raccontata attorno al fuoco di un accampamento, anche le **cicatrici** aggiunte durante il gioco.
+
+Tuttavia, naturalmente, non tutte le cicatrici devono essere **cicatrici** nel senso meccanico, una cicatrice puramente decorativa fa parte dell'aspetto e della personalità del personaggio.
+
+> \### Esempio di prendere una cicatrice
+>
+> _Il personaggio del giocatore 2 ha subito solo 1 punto stress finora ed è "affannato"._
+>
+> _**GM:** Il Taglia si è rialzato e mentre pulisci la visiera del tuo casco, lo vedi avvicinarsi a te._
+>
+> _**Giocatore 2:** Ok, ma ho visto che <Giocatore 1> è saltato oltre la ringhiera, giusto? Quindi comincio a circondare il Taglia per vedere se riesco a guardare giù e vedere se <Giocatore 1> è sopravvissuto._
+>
+> _**GM:** Certamente, ma ciò significherà anche avvicinarsi al Bruto, anche se sai che è piuttosto inattento e, al momento,
+
+ combatte contro <Giocatore 3>. Vuoi rischiare?_
+>
+> _**Giocatore 2:** Assolutamente! Ecco come me la cavo. Voglio provare a **osservare** il Bruto senza fargli accorgere che sto avvicinandomi. Ma in caso di fallimento, voglio anche **prendere una cicatrice** dal suo attacco. Ho solo 1 punto stress, quindi non posso permettermi di riempire l'indicatore._
+>
+> _**GM:** Capito. Bene, tiriamo i dadi per vedere come te la cavi con l'osservazione e, in caso di fallimento, determiniamo anche la **cicatrice** che otterrai._
+
+Ricorda che le **cicatrici** sono un dettaglio narrativo importante e dovrebbero essere trattate come tali. Ogni **cicatrice** dovrebbe avere una storia e un impatto sulla vita del personaggio. Assicurati di discutere con il tuo GM come le **cicatrici** possono influenzare il gioco e come possono essere incorporate in modo significativo nella trama e nelle interazioni del personaggio.
+
+# Extra: Obiettivi | Extra
+
+**Un modo alternativo di pensare alla progressione in Charge**
+
+\- Di othelarian
+
+---
+
+A volte è più facile capire come un personaggio progredisce dichiarando degli obiettivi e vedere se riesce a raggiungerli. Qui, caro lettore, troverai un modo per simulare questo.
+
+## Le Mie Parole, I Miei Obiettivi
+
+### Cos'è un Obiettivo?
+
+Un **obiettivo** è qualcosa che un personaggio desidera realizzare, come una missione o una ricerca. È anche un modo per definire ciò che il personaggio deve fare, a cosa si sta preparando.
+
+Un personaggio può avere un singolo **obiettivo** importante o più piccoli obiettivi. Questi possono essere stabiliti durante la creazione del personaggio o emergere durante il gioco.
+
+Quando un giocatore definisce un **obiettivo** per il proprio personaggio, deve pensare a due cose:
+
+- Il nome dell'**obiettivo**
+- La difficoltà dell'**obiettivo**
+
+Il nome deve essere sufficientemente dettagliato per tutti, lasciando poco spazio per dubbi sulla progressione dell'**obiettivo**.
+
+La difficoltà può essere **facile**, **media** o **difficile**.
+
+### Avanzamento di un Obiettivo
+
+Un **obiettivo** ha un orologio associato con 8 segmenti (vedi le opzioni successive per ulteriori idee su questo punto). Quando un personaggio progredisce verso uno dei propri **obiettivi**, è il momento di segnare i segmenti, a seconda della difficoltà dell'**obiettivo**:
+
+| Difficoltà | Numero di segmenti segnati |
+| ---------- | ------------------------- |
+| Facile     | 3                         |
+| Media      | 2                         |
+| Difficile  | 1                         |
+
+Nota: per seguire la progressione classica di Charge, una buona linea guida è richiedere il progresso alla fine di una sessione.
+
+### Completamento di un Obiettivo
+
+Quando l'orologio di un **obiettivo** è completo, l'**obiettivo** è completo e il personaggio riceve un certo numero di **punti talento** in base alla difficoltà.
+
+| Difficoltà | Numero di punti talento ottenuti |
+| ---------- | ------------------------------- |
+| Facile     | 1                               |
+| Media      | 2                               |
+| Difficile  | 3                               |
+
+Il personaggio può applicare immediatamente i suoi nuovi **punti talento**, ma devono essere tematici per l'**obiettivo**. Ad esempio, potrebbe non essere una buona scelta mettere un punto in Muscoli se l'**obiettivo** è "scrivere una ricetta delicata con i fiori come ingrediente principale".
+
+## Tiro per Avanzare
+
+Invece di segnare automaticamente un certo numero di segmenti quando un **obiettivo** progredisce, è possibile tirare i dadi per vedere se avanza anche parzialmente o meno.
+
+Poiché Charge è un gioco narrativo nel suo cuore, per determinare il gruppo di dadi da usare segui questa linea guida:
+
+- Il personaggio ha corso un rischio solo per far avanzare il proprio **obiettivo**?
+- Lavorare sull'**obiettivo** ha influenzato il personaggio (relazione con le condizioni, ecc.)?
+
+Se è complicato, ecco una regola rapida e semplice: _usa 2 dadi_.
+
+Il numero di segmenti segnati dipende dal risultato e dalla difficoltà.
+
+| Risultato | Nome            | Cosa significa                                          |
+| --------- | --------------- | ------------------------------------------------------ |
+| 1-3       | Esito Negativo  | Nessun segmento segnato                                |
+| 4-5       | Successo Parziale | -1 segmento segnato (quindi nessun segno per **facile**) |
+| 6         | Successo Completo | Segna normalmente i segmenti                            |
+| 66        | Successo Critico | +1 segmento segnato (quindi 4 segmenti per **facile**)  |
+
+## Tiro per Risolvere
+
+Un'altra opzione è tirare i dadi per risolvere l'**obiettivo**. Le due idee alla base del tiro per risolvere sono:
+
+- Aggiungere un modo per creare più narrazione attorno alla risoluzione dell'**obiettivo**
+- Autorizzare un giocatore a testare la propria fortuna e cercare di completare un **obiettivo** in anticipo
+
+Il tiro è simile a un Tiro d'Azione, con il numero di dadi lanciati correlato allo stato dell'orologio dell'**obiettivo**:
+
+| Stato dell'orologio         | Numero di segmenti segnati | equivalente in punti azione |
+| -------------------------- | ------------------------- | -------------------------- |
+| Meno di 1/4 dell'orologio   | 0-2                       | Nessun tiro, è troppo presto |
+| Tra 1/4 e 1/2              | 3-4                       | Come avere **0** punto      |
+| Tra 1/2 e 3/4              | 5-6                       | 1 punto                    |
+| Più di 3/4                 | 7                         | 2 punti                    |
+| Orologio completo          | 8                         | 3 punti                    |
+
+Nota: "numero di segmenti segnati" è per un orologio con 8 segmenti.
+
+È ora di scoprire come leggere il risultato:
+
+| Risultato | Cosa accade                                                |
+| --------- | ---------------------------------------------------------- |
+| 1-3       | L'**obiettivo** è fallito, è una sconfitta                  |
+| 4-5       | Successo parziale, un punto talento in meno o subire una conseguenza |
+| 6         | Successo! Prendi i tuoi punti talento!                      |
+| 66        | Successo critico! Prendi un punto talento in più di quanto previsto! |
+
+## Cambiare l'Orologio
+
+È assolutamente possibile cambiare l'orologio predefinito per accelerare la frequenza con cui i giocatori ottengono obiettivi intermedi. Prima di farlo, è una buona idea rileggere il [capitolo sull'orologio](https://fari.games/en/srds/fari-rpgs/charge-rpg/clocks).
+
+Inoltre, se desideri rendere la progressione del personaggio più difficile, prova un nuovo orologio: **l'orologio a 12 segmenti**!
+
+## Crediti
+
+L'idea originale proviene dai "vows" di [Ironsworn](https://ironswornrpg.com). Gli **obiettivi** sono un'umile adattamento di essi per Charge.
+
+Un ringraziamento speciale a LynnJones per aver migliorato la leggibilità, a RP per i preziosi feedback per renderlo più in linea con Charge e a therabidbanana per la guida sulla progressione.
+
+# Extra: Gruppi | Extra
+
+Un Extra per Charge che aggiunge struttura narrativa e vantaggi meccanici al gruppo di personaggi rappresentati dai giocatori.
+
+\- Di David Haslem
+
+<iframe frameborder="0" src="https://itch.io/embed/1351580?bg_color=ffffff&amp;fg_color=222222&amp;link_color=8b5abb&amp;border_color=7c6685" width="552" height="167"><a href="https://therabidbanana.itch.io/charge-gruppo-extra">Charge gruppo Extra di therabidbanana</a></iframe>
+
+## Panoramica
+
+Il gruppo di giocatori in questo extra è chiamato **gruppo**. Questo gruppo ha una **scheda del gruppo** separata che tiene traccia dei **dettagli** su come sono percepiti dal mondo circostante, oltre a mantenere orologi di **pericolo** e **progresso** a livello di gruppo.
+
+La **scheda del gruppo** può rappresentare cose come la loro "sede" o "nave". Può anche essere utilizzata per rappresentare le relazioni con fazioni importanti o PNG specifici.
+
+> \#### Esempio
+>
+> Il gruppo di gioco vuole raccontare la storia di una piccola banda di combattenti della resistenza che desidera ribellarsi contro un malvagio impero spaziale. Decidono di voler iniziare la loro storia con una nave spaziale prototipo rubata e poco altro. Hanno alcune idee per i personaggi e sanno che vogliono iniziare in una stazione spaziale isolata.
+
+### Dettagli del Gruppo
+
+La **scheda del gruppo** tiene traccia dei **dettagli** sul gruppo, in modo simile alle schede dei personaggi che hanno **dettagli** sul personaggio. Come con la scheda del personaggio, questi dettagli possono offrire libertà narrative per consentire al gruppo di compiere determinate azioni. Inoltre, questi dettagli hanno una **disposizione** che può essere positiva, negativa o neutra. La **disposizione** influisce su qualsiasi tiro correlato al dettaglio sulla **scheda del gruppo**.
+
+I **dettagli di supporto** vengono raccolti in quattro categorie, riassunte in quattro **dettagli** più ampi chiamati **concetti chiave**. Se la maggior parte dei dettagli sotto il **concetto chiave** è positiva (o negativa), la **disposizione** del **concetto chiave** diventa positiva (o negativa). La **disposizione** del **concetto chiave** funziona allo stesso modo dei **dettagli di supporto**, ma su una scala più ampia, influenzando tutti i tiri correlati alla categoria.
+
+> \#### Esempio
+>
+> Il gruppo decide quanto segue per iniziare la loro **scheda del gruppo** per rappresentare la storia che hanno creato:
+>
+> Autorità, rappresentante l'impero malvagio, con un **concetto chiave** di "Nemici dell'Impero Kabraxiano", e due **dettagli di supporto** negativi di "spina nel fianco del governatore regionale" e "registrazione falsificata dell'astronave".
+>
+> Risorse, con un **concetto chiave** di "gruppo di combattenti determinati a lottare" e un **dettaglio di supporto** positivo di "astronave di ultima generazione 'liberata' di recente".
+>
+> Alleati, con un **concetto chiave** di "nessuno ama l'Impero", un **dettaglio di supporto** positivo di "Maven, proprietario di un bar amichevole verso i ribelli" e un **dettaglio di supporto** neutro di "lavoratori del molo stanchi dei soldati dell'Impero che li maltrattano".
+>
+> Avversari, con un **concetto chiave** di "i nemici dei miei nemici sono i miei amici?" e un **dettaglio di supporto** neutro di "Jebralt, il losco trafficante di armi".
+>
+> Poiché tutti questi **concetti chiave** sono ancora neutrali nella **disposizione**, il gruppo riceverà vantaggi o svantaggi solo nei tiri quando si tratta dei **dettagli di supporto** specifici elencati. L'Autorità diventerà negativa se ottiene un altro **dettaglio di supporto** negativo: il team dovrà mantenere un profilo basso e occuparsi di quella "registrazione falsificata dell'astronave" se vogliono evitare di trovarsi in situazioni **disperate** ogni volta che tirano contro l'Impero.
+
+### Orologi di Pericolo e Progresso del gruppo
+
+Oltre ai **concetti chiave** e ai loro **dettagli di supporto** correlati, la **scheda del gruppo** ha anche un orologio di **pericolo** e uno di **progresso**.
+
+Se un tiro d'azione produce una **conseguenza**, il GM può valutare di segnare l'orologio di **pericolo** sulla **scheda del gruppo** per rappresentare una complicazione che potrebbe influenzare il gruppo in seguito. Questo orologio tiene traccia di una posizione generalmente deteriorata nella società: perdita di risorse, avversari che diventano più ostili o alleanze che cambiano. Allo stesso modo, l'orologio di **progresso** è disponibile quando avvengono eventi significativi durante una sessione che potrebbero migliorare la posizione del gruppo.
+
+Quando uno di questi orologi si riempie, vengono azzerati e uno dei **dettagli di supporto** cambia. Se l'orologio di **pericolo** si riempie, questo cambiamento è generalmente peggiorativo. Se l'orologio di **progresso** si riempie, il cambiamento è generalmente positivo.
+
+### Come la Scheda del gruppo Influenza i Tiri
+
+I dettagli sulla scheda del gruppo possono offrire un supporto meccanico oltre al loro impatto narrativo.
+
+Quando i **concetti chiave** o i **dettagli di supporto** hanno una disposizione positiva, i tiri relativi ad essi possono ricevere un bonus all'**effetto** o alla **posizione**. Una disposizione negativa influenza i tiri in modo simile.
+
+In caso di necessità, i segni sull'orologio di progresso possono essere utilizzati come sostituto dello **slancio**.
+
+## Concetti e Dettagli
+
+> \#### Note di design
+>
+> I **Concetti chiave** e i **Dettagli di supporto** possono essere un modo per i progettisti di giochi per guidare i tipi di storie che hanno senso nel loro scenario. Le categorie fornite di seguito sono intese come punto di partenza generico che può essere personalizzato per adattarsi al contesto - rinominarle è una facile personalizzazione per creare l'atmosfera giusta!
+>
+> Ulteriori strutture possono essere aggiunte ai dettagli di supporto per sottolineare i punti chiave dell'ambientazione, ad esempio, chiedendo ai giocatori di scegliere un avversario e un alleato specifici da un elenco di forze mondiali disponibili.
+>
+> Le posizioni di partenza di questi dettagli chiave possono contribuire a guidare ulteriormente una storia su cui il gruppo di giocatori può costruire. Un equipaggio che cerca il suo primo grande colpo potrebbe non avere molte risorse o alleati, ma probabilmente non è abbastanza grande da essere nell'obiettivo di nessuno come avversario. Un gruppo di resistenza contro un regime repressivo potrebbe partire da una posizione terribile nei confronti dell'autorità, ma avere un elenco più ampio di alleati su cui fare affidamento.
+
+Sia i **dettagli di supporto** che i **concetti chiave** sono **dettagli** come descritto nelle [regole di creazione del personaggio](https://fari.games/en/srds/fari-rpgs/charge-rpg/creating-your-character#details) di Charge. I **dettagli di supporto** dovrebbero essere persone, luoghi o cose specifiche, come specifiche **forze mondiali**, mentre i **concetti chiave** sono più estesi.
+
+Come per la creazione del personaggio, i **dettagli** sulla **scheda del gruppo** sono fatti sul gruppo che possono essere utilizzati per raccontare storie. Offrono anche libertà narrativa, dando potenzialmente ai giocatori il permesso di compiere determinate azioni. Sebbene il GM abbia l'ultima parola, l'intero gruppo dovrebbe avere la possibilità di contribuire allo sviluppo e alla decisione di questi dettagli durante la creazione dei personaggi. Come i dettagli del personaggio, ci sarà anche la possibilità di cambiarli nel tempo attraverso il gioco.
+
+### Ingrandimento e riduzione
+
+Ogni **concetto chiave** è un **dettaglio** che si concentra ampiamente sulla posizione del **gruppo** in una categoria importante. Dal punto di vista narrativo, si allargano e offrono una visione più ampia del quadro generale. I **concetti chiave** sono ampi - creano un valore predefinito per tutto ciò che riguarda quella categoria che non è già un **dettaglio di supporto**.
+
+I **dettagli di supporto** aggiungono dettagli ai **concetti chiave** concentrandosi su persone, luoghi o cose specifiche legate al gruppo in qualche modo (ad esempio, una relazione con una specifica **forza mondiale**).
+
+I quattro **concetti chiave** descrivono la pos
+
+izione del gruppo nelle seguenti categorie:
+
+- **Risorse** - Rappresenta le risorse disponibili del gruppo, incluse le finanze e qualsiasi equipaggiamento disponibile.
+- **Alleati** - Rappresenta gli alleati del gruppo, che potrebbero essere contatti chiave specifici o intere organizzazioni pronte a sostenere il gruppo.
+- **Avversari** - Rappresenta gli avversari del gruppo, che potrebbero essere nemici potenti specifici o un'intera civiltà decisa alla loro distruzione.
+- **Autorità** - Rappresenta la relazione del gruppo con l'autorità, quanto gli appartiene o quanto l'autorità (o coloro che ne fanno parte) gradisce (o disprezza) il gruppo.
+
+Sono disponibili esempi per ogni **concetto chiave** e relativi **dettagli di supporto** più avanti in questo documento.
+
+### Disposizioni
+
+I **dettagli di supporto** hanno una disposizione positiva (buona per i giocatori, +1 al concetto chiave), o una disposizione neutra (+0 al concetto chiave), o una disposizione negativa (cattiva per i giocatori, -1 al concetto chiave). Queste disposizioni possono essere utilizzate per modificare la **posizione** di un tiro. La **disposizione** può alterare il valore di conseguenza di una **posizione** e potrebbe essere utilizzata direttamente dal GM per stabilire la **posizione** di un tiro quando ha senso.
+
+| Disposizione | Posizione predefinita | Valutazione delle conseguenze                        |
+| ------------ | --------------------- | ---------------------------------------------------- |
+| Positiva (+) | Controllata           | -1 nella valutazione delle conseguenze               |
+| Neutra (0)   | Rischiosa             | Nessuna modifica nella valutazione delle conseguenze |
+| Negativa (-) | Disperata             | +1 nella valutazione delle conseguenze               |
+
+La collezione di **dettagli di supporto** per un **concetto chiave** può essere convertita in un punteggio numerico compreso tra -4 e +4. Il **concetto chiave** generale viene considerato neutro fino a quando la _maggioranza_ dei **dettagli di supporto** è negativa (punteggio inferiore a -2) o positiva (punteggio superiore a 2) - cambiando la **disposizione** del **concetto chiave** per adattarsi. Quando il **concetto chiave** cambia disposizione, dovrebbe essere riscritto per rappresentare il cambiamento di fortuna del gruppo.
+
+Nei casi in cui i **dettagli di supporto** o i **concetti chiave** hanno disposizioni contrastanti che potrebbero influenzare un tiro, si annulleranno a vicenda fino a ottenere una disposizione neutra.
+
+### Creazione del Gruppo
+
+All'inizio di una campagna, il gruppo dovrebbe iniziare con ogni **concetto chiave** a -1, 0 o +1, con uno o due **dettagli di supporto** scritti per ogni concetto. Questo evita che il gruppo di gioco debba pianificare troppo all'inizio e offre spazio per espandersi man mano che la storia si sviluppa. Questo può essere spinto ulteriormente per creare equilibri interessanti che si adattino alla storia che il gruppo di gioco desidera raccontare.
+
+### Altri Esempi
+
+#### 1. Risorse
+
+Questo rappresenta le risorse disponibili del gruppo, incluse le finanze e qualsiasi equipaggiamento disponibile. Un **concetto chiave** positivo potrebbe essere qualcosa come "un'organizzazione ben finanziata e attrezzata", mentre uno negativo potrebbe essere qualcosa come "un gruppo disorganizzato sempre in ritardo con l'affitto e alla ricerca di un grande colpo".
+
+**Dettagli di supporto** Positivi (+)
+
+I **dettagli di supporto** positivi per le risorse potrebbero includere una nave di lusso con l'ultima attrezzatura, l'accesso a grandi conti bancari o una scorta segreta di monete d'oro.
+
+**Dettagli di supporto** Neutrali (0)
+
+I **dettagli di supporto** neutrali per le risorse potrebbero essere equipaggiamenti o risorse che comportano svantaggi: il gruppo potrebbe avere una nave che ha costantemente bisogno di riparazioni o avere accesso a un prestito che sicuramente avrà delle condizioni da rispettare se il gruppo cerca di usarlo.
+
+**Dettagli di supporto** Negativi (-)
+
+I **dettagli di supporto** negativi per le risorse potrebbero essere un grosso prestito che il gruppo non riesce mai a saldare completamente o una nave in rovina che costa più di quanto valga per ripararla.
+
+#### 2. Autorità
+
+Questo rappresenta ciò che le persone in posizioni di potere pensano del gruppo o, a seconda del gioco, quanto potere ha il gruppo. Un **concetto chiave** positivo potrebbe essere qualcosa come "leader di un fiorente impero commerciale", mentre uno negativo potrebbe essere qualcosa come "considerati nemici del regno".
+
+**Dettagli di supporto** Positivi (+)
+
+I **dettagli di supporto** positivi per l'autorità potrebbero includere un gruppo di combattenti per la libertà pronti a seguire il vostro comando o essere i risolutori di problemi preferiti del re.
+
+**Dettagli di supporto** Neutrali (0)
+
+I **dettagli di supporto** neutrali per l'autorità potrebbero essere un burocrate facilmente corrompibile disposto a chiudere un occhio per ora o un decreto legale che potrebbe causare problemi al gruppo.
+
+**Dettagli di supporto** Negativi (-)
+
+I **dettagli di supporto** negativi per l'autorità potrebbero essere il capitano della guardia che vuole catturarvi o una taglia sulla testa di tutti per il loro ultimo crimine.
+
+#### 3. Alleati
+
+Questo rappresenta le persone che potrebbero essere disposte ad aiutare il gruppo o che hanno motivo di essere collegati al gruppo in qualche modo. Anche se di solito suona in modo positivo, **disposizioni** negative potrebbero essere utilizzate per rappresentare obblighi o relazioni che si sono deteriorate. Un **concetto chiave** positivo potrebbe essere qualcosa come "molti potenti alleati", mentre uno negativo potrebbe essere qualcosa come "tutti si aspettano il nostro aiuto che lo meritino o meno".
+
+**Dettagli di supporto** Positivi (+)
+
+I **dettagli di supporto** positivi per gli alleati potrebbero essere persone o gruppi che sono amichevoli verso il gruppo e hanno i mezzi per essere utili.
+
+**Dettagli di supporto** Neutrali (0)
+
+I **dettagli di supporto** neutrali per gli alleati potrebbero essere persone disposte ad aiutare ma che non hanno i mezzi necessari o forse un gruppo che non ha ancora deciso se il gruppo meriti di essere aiutato.
+
+**Dettagli di supporto** Negativi (-)
+
+I **dettagli di supporto** negativi per gli alleati potrebbero essere persone alle quali il gruppo è legato ma che causano più problemi al gruppo di quanto valgano, o relazioni spezzate.
+
+#### 4. Avversari
+
+Questo rappresenta persone o gruppi contrari al gruppo o condizioni ostili e imminente pericolo. Anche se di solito ha un'accezione negativa, **disposizioni** che si inclinano verso il positivo potrebbero rappresentare una competizione amichevole o forze della natura che possono essere considerate sia amiche che nemiche. Un **concetto chiave** positivo potrebbe essere qualcosa come "con amici come questi, chi ha bisogno di nemici?", mentre uno negativo potrebbe essere qualcosa come "inseguiti da praticamente tutti".
+
+**Dettagli di supporto** Positivi (+)
+
+I **dettagli di supporto** positivi per gli avversari potrebbero essere persone o gruppi che potrebbero comunque aiutare il gruppo se fosse in pericolo mortale, nemici giurati che sono tragicamente inefficaci nel loro lavoro o nemici che non si sono ancora resi conto che il gruppo esiste.
+
+**Dettagli di supporto** Neutrali (0)
+
+I **dettagli di supporto** neutrali per gli avversari potrebbero essere nemici che hanno cose più importanti da fare e considerano il gruppo al di sotto di loro o potrebbero essere potenti tempeste di sabbia del deserto che possono essere sfruttate a vantaggio del gruppo se riescono a sopravvivere.
+
+**Dettagli di supporto** Negativi (-)
+
+I **dettagli di supporto** negativi per gli avversari potrebbero includere nemici potenti che hanno giurato di distruggere il gruppo o una imminente catastrofe rappresentata da un asteroide in arrivo.
+
+## Pericolo e Progresso
+
+> \#### Note di design
+>
+> Il ritmo con cui i **dettagli di supporto** del gruppo cambiano può influenzare l'atmosfera del gioco, specialmente nei giochi in cui sono previsti vantaggi meccanici per la costruzione di **dettagli di supporto** positivi. Di default, il ritmo previsto è in media di non più di un dettaglio che cambia per sessione.
+
+La **scheda del gruppo** contiene due contatori che si scontrano tra loro, uno che trascina il gruppo verso il basso e l'altro che lo spinge verso l'alto. Di default, entrambi questi contatori hanno otto segmenti.
+
+### Avanzare l'orologio del Pericolo
+
+Quando i PG compiono azioni rischiose o addirittura disperate, ci saranno momenti in cui tali azioni comporteranno grandi conseguenze. Quando ciò accade, il gruppo può valutare se applicare quella conseguenza al **contatore del pericolo** nella scheda del gruppo. Poiché ciò ha implicazioni a lungo termine, questa opzione non dovrebbe essere presa alla leggera: un paio di volte per sessione potrebbe essere una buona regola generale. Segnare l'orologio del **pericolo** come conseguenza aggiunge segmenti pari al valore della conseguenza.
+
+> \#### Esempio
+>
+> Il gruppo è su una navicella spaziale inseguito da diverse autorità (**dettaglio di supporto** "registrazione falsificata della navicella spaziale"). Devono fuggire rapidamente e senza problemi per portare l'equipaggiamento medico a un amico morente. Si trovano in una situazione disperata: il loro pilota tira un 5, indicando un successo con una conseguenza. Il gruppo di gioco suggerisce che riescano a fuggire ma hanno spinto la loro nave ai limiti (**dettaglio di supporto** "navicella spaziale all'avanguardia"). Il GM accetta: possono prendere la conseguenza sulla loro **scheda del gruppo** invece di mettere a rischio la vita del loro amico.
+
+### Riempire l'orologio del Pericolo
+
+Quando l'orologio del pericolo si riempie, i giocatori dovrebbero decidere, in base agli eventi recenti, ciò che ha più senso nella trama:
+
+- Aggiungere un nuovo **dettaglio di supporto** - la **disposizione** di questo dettaglio dovrebbe in genere partire da **neutrale**. Nota che i **dettagli di supporto** dovrebbero essere tutti dettagli specifici e unici che si ricollegano alla finzione e che si prevede che riemergeranno.
+- Abbassare la **disposizione** di un **dettaglio di supporto** esistente (passando da **positivo** a **neutrale** a **negativo**).
+- Rimuovere o sostituire un **dettaglio di supporto** neutrale esistente. Se tutti gli spazi pertinenti sono occupati o negativi, considera se gli eventi recenti potrebbero aver completamente soppiantato un **dettaglio di supporto** esistente. Questo potrebbe essere adatto per elementi della storia che hanno svolto il loro scopo o che non hanno avuto un ruolo significativo.
+- Creare una nuova minaccia immediata: il GM espone un pericolo e minaccia i giocatori con un **dettaglio di supporto** negativo _a meno che_ non completino una missione per prevenirlo.
+
+> \#### Esempio
+>
+> l'orologio del pericolo si riempie a causa dello sforzo imposto ai motori della navicella spaziale per raggiungere un amico morente.
+>
+> Il gruppo decide che ha più senso abbassare il **dettaglio di supporto** delle Risorse "navicella all'avanguardia" (+) a "navicella danneggiata" (0).
+
+### Avanzare l'orologio del Progresso
+
+Di norma, ai giocatori dovrebbe essere data la possibilità di far avanzare l'orologio del progresso un paio di volte per sessione, sia come risultato del completamento di un progetto sia come ricompensa per il completamento con successo di una missione.
+
+> \#### Esempio
+>
+> Il salvataggio di una persona bisognosa ha completato un arco narrativo per i giocatori. Il GM concede loro un obiettivo raggiunto e due progressi sulla **scheda del gruppo**. Un giocatore ha un progetto a lungo termine per trovare alleati e tira con successo durante il tempo libero, aggiungendo altri due progressi.
+
+### Consumare il Progresso
+
+I segmenti del contatore del progresso possono essere usati come una riserva condivisa di slancio. I giocatori possono decidere di sacrificare i loro obiettivi a lungo termine per un impulso a breve termine e spendere i segmenti del contatore del progresso riempiti come slancio, su base uno a uno.
+
+> \#### Esempio
+>
+> Il gruppo sta scappando da un nemico nella loro navicella spaziale. Non è ancora completamente riparata (**dettaglio di supporto** "navicella danneggiata" (0)), ma hanno lavorato per raggiungere quell'obiettivo. Il pilota dice che dovranno dare tutto quello che hanno - il meccanico bestemmia tra i denti e acconsente - cancellano un progresso dal contatore del progresso come slancio per permettere al meccanico di aiutare e aggiungere un dado extra al tiro del pilota.
+
+### Riempire l'Orologio del Progresso
+
+Quando l'orologio del progresso si riempie, i giocatori dovrebbero decidere, in base agli eventi recenti, ciò che ha più senso nella trama:
+
+- Aggiungere un nuovo **dettaglio di supporto** - la **disposizione** di questo dettaglio dovrebbe in genere partire da **neutrale**. Nota che i **dettagli di supporto** dovrebbero essere tutti dettagli specifici e unici che si ricollegano alla finzione. Questa è un'ottima occasione per promuovere PNG a personaggi ricorrenti o sfruttare elementi interessanti della storia.
+- Potenziare la **disposizione** di un **dettaglio di supporto** esistente (passando da **negativo** a **neutrale** a **positivo**).
+- Rimuovere o sostituire un **dettaglio di supporto** neutrale esistente. Se tutti gli spazi pertinenti sono occupati o positivi, considera se gli eventi recenti potrebbero aver completamente soppiantato un **dettaglio di supporto** esistente. Questo potrebbe essere adatto per elementi della storia che hanno svolto il loro scopo o che non hanno avuto un ruolo significativo.
+- Creare una nuova opportunità immediata: il GM espone un'opportunità e offre ai giocatori un **dettaglio di supporto** positivo _se_ completano una missione per ottenerlo.
+
+> \#### Esempio
+>
+> Il gruppo è tornato al punto di partenza nello spazioporto e ha raccolto abbastanza progressi per riempire l'orologio del progresso. Decidono collettivamente che vogliono sbarazzarsi del bersaglio alle loro spalle. Scelgono di migliorare il **dettaglio di supporto** dell'Autorità "registrazione falsificata della navicella spaziale" (-) e lo riscrivono come "navicella rinnovata nasconde il suo passato rubato" (0). Non si sono completamente sbarazzati dell'origine misteriosa della navicella, ma non li metterà più in svantaggio.
+
+## Utilizzi per i Dettagli del Gruppo
+
+> \#### Note del Designer
+>
+> Alcuni giochi possono scegliere tra le seguenti opzioni: sebbene non aggiungano una grande quantità di complessità, utilizzare l'intero set di regole offre ai giocatori molte opzioni aggiuntive per superare le situazioni difficili.
+
+### I Dettagli Influenzano la Posizione
+
+Quando si affronta una situazione che riguarda direttamente un **dettaglio di supporto** o che si riferisce più ampiamente a un **concetto chiave**, la **disposizione** del **dettaglio** (positiva o negativa) può influenzare la **posizione** del tiro. Nei casi in cui i **dettagli di supporto** o i **concetti chiave** hanno **disposizioni** contrastanti che potrebbero influire su un tiro, si annullano reciprocamente.
+
+### Effetto Migliorato
+
+Quando si affronta una situazione in cui un **dettaglio di supporto** o un **concetto chiave** potrebbero essere un vantaggio utile, i giocatori possono optare per un effetto +1 invece di una posizione migliorata. Quale opzione viene utilizzata deve essere deciso prima del tiro.
+
+### Perdere Progresso tramite l'Aggiunta di Tensione
+
+Il progresso verso il miglioramento dei dettagli può essere consumato come slancio. Portando avanti questo concetto - se ha senso, i giocatori potrebbero suggerire di declassare la **disposizione** di un dettaglio di supporto come conseguenza per **aggiungere tensione** se non hanno progressi da risparmiare.
+
+## Taratura
+
+Queste regole possono essere adattate in diversi modi. Di seguito sono riportati alcuni modi per modificarle per adattarle meglio al modo in cui il gruppo di gioco desidera utilizzarle.
+
+### Nessuna Lancetta
+
+Invece di tenere traccia del progresso e del pericolo su lancette astratte, il gruppo potrebbe decidere di aggiornare il **foglio del gruppo** ogni volta che ha senso narrativamente. Invece di tenere traccia di lancette aggiuntive, i giocatori possono decidere di aggiornare i dettagli.
+
+Questo funziona meglio con le regole extra di "Attachment" (per assorbire le conseguenze) e "Perdere Progresso tramite l'Aggiunta di Tensione" (per offrire vantaggi ai tiri). I giocatori possono utilizzare progetti a lungo termine per migliorare direttamente i dettagli specifici sul **foglio del gruppo**.
+
+### Più Lancette
+
+Il progresso e il pericolo vengono tenuti come lancette astratte per evitare l'onere dell'aggiornamento di una varietà di complicazioni e progetti sul **foglio del gruppo**. Se il gruppo di gioco desidera avere collegamenti narrativi più diretti con miglioramenti e complicazioni, può tenerli tracciati individualmente come lancette e seguire le stesse regole per il pericolo e il progresso: danneggiare i **dettagli di supporto** con conseguenze e intraprendere progetti per migliorare gli altri.
+
+### Disposizione DettagliataAllegati
+
+Per evitare di complicare troppo le cose, la **disposizione** è positiva, negativa o neutra. Sarebbe possibile consentire una gamma di valori per la **disposizione** (ad esempio da -4 a +4) per consentire una maggiore sfumatura ai **dettagli di supporto** specifici. Se si utilizza questo approccio, probabilmente si vorrà permettere ai giocatori di ottenere progressi e pericolo più rapidamente e considerare solo >+2 / <-2 come "positivo" / "negativo" ai fini del cambiamento di effetto o posizione nei tiri.
+
+### Nessuna Disposizione Neutra
+
+I **dettagli di supporto** neutrali sono spesso una combinazione di tratti positivi e negativi e non hanno un impatto diretto sui tiri. Si potrebbe evitare di usarli completamente:
+
+1. Eliminando i **dettagli di supporto** negativi anziché migliorarli a **neutrali**.
+2. Eliminando i **dettagli di supporto** positivi anziché declassarli a **neutrali**.
+3. Aggiungendo nuovi dettagli dai contatori di **progresso** e **pericolo** direttamente come positivi e negativi, rispettivamente, o presentando opportunità e minacce che aggiungeranno **dettagli di supporto** in base a come il gruppo reagisce.
+
+## Combinazione con altre Regole
+
+### Extra di Allegati
+
+Per alcuni dettagli di supporto potrebbe avere senso subire danni direttamente a un dettaglio di supporto anziché segnare una conseguenza sul contatore di pericolo del gruppo. In questo caso, potresti eliminare completamente il contatore di pericolo e infliggere direttamente danni ai dettagli sul **foglio del gruppo**.
+
+### Forze del Mondo
+
+Un modo semplice per i giochi Powered by Charge di semplificare il riempimento del **foglio del gruppo** è definire alcune forze del mondo e consentire ai giocatori di sceglierne alcune come alleati o avversari.
+
+### Extra del Mondo
+
+L'extra del Mondo offre opzioni per aiutare il GM a pianificare la prossima missione. Una delle tre carte pescate potrebbe fare riferimento a un **dettaglio di supporto** specifico per collegare l'avventura alla finzione esistente trovata nel **foglio del gruppo**.
+
+Per collegarsi a un **concetto chiave** specifico, i Cuori sono Alleati, i Quadri sono Risorse, le Picche sono Avversari e i Fiori sono Autorità.
+
+### Extra degli Obiettivi
+
+Il progresso sul **foglio del gruppo** potrebbe avvenire quando vengono completati traguardi o progetti a lungo termine. Gli obiettivi sono un altro modo per offrire progressi ai giocatori, consentendo loro di concentrarsi su **dettagli di supporto** specifici da potenziare. In questo caso, non dovrebbero essere disponibili più di alcuni obiettivi contemporaneamente.
+
+> \## Riassunto
+>
+> I **dettagli di supporto** sono dettagli a livello di gruppo che offrono libertà narrativa e modificano la posizione o l'effetto (se sono **positivi** o **negativi**). Si riferiscono a persone, gruppi, luoghi o risorse specifiche che hanno un peso narrativo per il gruppo.
+>
+> I **concetti chiave** sono 4 dettagli di livello superiore in cui sono raggruppati i **dettagli di supporto**. Avere tre o più **dettagli di supporto** positivi (o negativi) rende il **concetto chiave** positivo (o negativo) e può modificare le posizioni di tutti i tiri correlati a quella categoria.
+>
+> I **dettagli di supporto** possono essere potenziati o declassati in base al riempimento dei contatori di **progresso** e **pericolo**, rispettivamente. Il contatore di **pericolo** potrebbe essere riempito come conseguenza, mentre il contatore di **progresso** viene riempito ad ogni traguardo e come risultato dei **progetti a lungo termine**. I segni sul contatore di **progresso** possono essere consumati come slancio su base uno a uno.
+
+# Extra: Livello di Minaccia | Extr
+
+**Un modo alternativo di concepire l'avversità in Charge**
+
+\- Di othelarian
+
+<iframe frameborder="0" src="https://itch.io/embed/1349986" width="552" height="167"><a href="https://othelarian.itch.io/charge-extra-threat-level">Charge Extra: Livello di Minaccia di Othy</a></iframe>
+
+A volte, i nemici sono così specifici che hanno un effetto speciale sui personaggi, ostacolando la loro capacità di reagire.
+
+Il Livello di Minaccia è un extra che riguarda come l'avversità può influenzare le azioni dei personaggi.
+
+## Cos'è u?
+
+Il **Livello di Minaccia** è un modo per rappresentare un tipo speciale di opposizione che influenza la capacità dei personaggi senza modificare la loro posizione. Può essere visto come un modo passivo per alterare le possibilità di successo dei personaggi.
+
+## Come si definisce un Livello di Minaccia?
+
+Un Livello di Minaccia ha due componenti principali:
+
+- Una fonte definita del **Livello di Minaccia**
+- Una valutazione associata alla fonte
+
+La fonte deve essere chiaramente identificata in modo che non vi sia spazio per l'interpretazione dei giocatori. Inoltre, la fonte deve definire come genera il **Livello di Minaccia**.
+
+> \#### Esempio di Livello di Minaccia: la nebbia
+>
+> La **nebbia** avvolge i personaggi con la sua consistenza umida, sovrastando ogni loro movimento, ostacolando la loro percezione e intorpidendo la loro destrezza.
+>
+> Una **nebbia** densa è una minaccia semplice, con una valutazione di 1, sufficiente per influenzare leggermente i personaggi.
+> Una **nebbia** velenosa può essere letale, e non solo un impedimento. La protezione necessaria per sopravviverle è motivo sufficiente per elevare il **Livello di Minaccia** a 2.
+
+> \#### Esempio di Livello di Minaccia: l'incantatore
+>
+> Più di un semplice cacciatore di streghe, l'**incantatore** è un vero problema per un gruppo di avventurieri intrepidi, affliggendoli con maledizioni che li rallentano.
+>
+> Gli incantesimi creati dagli **incantatori** possono essere considerati un **Livello di Minaccia** applicato a un singolo personaggio o all'intero gruppo, a seconda del potere dell'**incantatore**.
+
+### C'è un limite alla valutazione del Livello di Minaccia?
+
+Dipende dal gruppo, ma un buon intervallo potrebbe essere compreso tra 1 e 3. Tieni presente che una valutazione più alta significa una maggiore possibilità di annullare completamente il tiro di un personaggio e farlo fallire in modo molto evidente.
+
+## Tirare con i dadi del Livello di Minaccia
+
+Ora che il **Livello di Minaccia** è definito chiaramente, vediamo come influisce sulle meccaniche.
+
+Quando un giocatore fa un tiro e la minaccia può essere legata a una ragione per cui quel tiro potrebbe essere influenzato (ad esempio, la percezione con l'esempio della nebbia), il giocatore tira anche il numero di dadi corrispondente alla valutazione del **Livello di Minaccia** contemporaneamente.
+
+Chiamiamo il gruppo di dadi del personaggio "pool d'azione" e il tiro dei dadi del **Livello di Minaccia** "pool della minaccia".
+
+Una volta tirati i due gruppi di dadi, ogni dado del pool della minaccia annulla **un singolo dado dello stesso valore** nel pool d'azione.
+
+Ad esempio:
+
+> \#### Esempio #1
+>
+> Il pool d'azione contiene 2d6 e, poiché il **Livello di Minaccia** ha una valutazione di 3, il pool della minaccia è composto da 3d6 (supponiamo una nebbia velenosa (2) con una piccola maledizione dall'incantatore (1)).
+>
+> Quindi, il giocatore tira il pool d'azione e ottiene un 3 e un 5.
+> Allo stesso tempo, tira i dadi della minaccia e ottiene un 2, un 3 e un 6.
+> Poiché sia il pool della minaccia che il pool d'azione contengono un 3, il 3 del pool d'azione viene annullato.
+>
+> Il risultato è 5.
+
+> \#### Esempio #2
+>
+> Come nell'esempio #1, il pool d'azione contiene 2d6 e, con una valutazione di 3, il pool della minaccia è composto da 3d6.
+> Con il pool d'azione, il giocatore ottiene un 3 e un 5.
+> Ma questa volta, per il pool della minaccia, il giocatore ottiene un 2, un 3 e un 5.
+> Poiché sia il pool della minaccia che il pool d'azione contengono un 3 e un 5, tutto il pool d'azione viene annullato.
+>
+> Il risultato è 0, un fallimento critico!
+
+## Modificarlo per renderlo più pericoloso
+
+Un modo per personalizzare questo sistema è renderlo un po' più impattante. Si può fare in questo modo: ogni 6 del pool della minaccia annulla automaticamente uno dei dadi di valore più alto del pool d'azione, indipendentemente dal suo valore.
+
+> \#### Esempio #3, con questa modifica
+>
+> Il pool d'azione contiene 3d6 e, poiché il **Livello di Minaccia** ha una valutazione di 2, il pool della minaccia è composto da 2d6 (solo la nebbia velenosa in questo caso).
+>
+> Il giocatore ottiene un 2, un 3 e un 5 nel pool d'azione e un 3 e un 6 nel pool della minaccia.
+> Il 3 del pool della minaccia annulla il 3 del pool d'azione e il 6 del pool della minaccia annulla il 5 (il dado di valore più alto del pool del personaggio).
+>
+> Il risultato è 2.
+
+Un altro modo per modificare questa meccanica potrebbe essere che ogni dado del pool della minaccia annulla un dado del pool d'azione che è uguale o inferiore.
+
+> \#### Esempio #3, più severo
+>
+> Il pool d'azione contiene 3d6 e, poiché il **Livello di Minaccia** ha una valutazione di 2, il pool della minaccia è composto da 2d6.
+>
+> Il giocatore ottiene un 2, un 3 e un 5 nel pool d'azione e un 4 e un 6 nel pool della minaccia.
+> Dal pool della minaccia sul pool d'azione, il 6 annulla il 5 e il 4 annulla il 3.
+>
+> Il risultato è 2.
+
+## Il GM tira la minaccia
+
+Invece di far tirare ai giocatori il pool della minaccia, può essere il GM a tirarlo. In tal caso, può farlo contemporaneamente o dopo il tiro del giocatore per aggiungere un po' di intensità.
+
+> \## Riassunto
+>
+> Un **Livello di Minaccia** è una fonte di minaccia con una valutazione associata. Questa valutazione si traduce in un pool di dadi. Ogni dado del pool della minaccia annulla un dado dello stesso valore nel pool d'azione.
+
+## Crediti
+
+Questo extra è un'ispirazione diretta di Neon City Overdrive.
+
+Corretto e migliorato da RP Deshaies e David Haslem.
+
+# Extra: Riserva di Risorse | Extra
+
+Un meta-extra per il gioco di ruolo Charge RPG che ti aiuta a creare il tuo extra **Risorse**.
+
+\- Di Logan Bowyer
+
+---
+
+Questo meta-extra ti aiuta a creare un extra **Risorse** per completare il **Slancio** e perfezionare il tuo stile di gioco.
+
+## Regola del Riserva di Risorse
+
+1. Il primo passo è determinare che tipo di risorsa si adatta al tuo genere. Stai giocando a un gioco del vecchio West che utilizza **Grinta**? Il tuo gioco si svolge in un college di magia dove sarebbe più appropriato utilizzare **Mana**?
+
+> È importante limitare il numero di **Riserva di Risorse** che crei in modo da non dare ai giocatori troppo da tenere traccia.
+
+2. Successivamente, determina se la risorsa è _Condivisa_ o _Personale_. Qualcosa come i **Fondi di Spedizione** potrebbe appartenere al gruppo, mentre qualcosa come la **Batteria** del tuo Android potrebbe essere personale. Come regola generale, o tutti i giocatori hanno un pool personale, o nessuno lo ha. Nota che non tutti i giocatori devono utilizzare lo stesso pool personale.
+
+> Potresti anche determinare se la risorsa può essere _presi_ o _donata_, come sifonare le **Riserve di Carburante** da un serbatoio.
+
+3. Chiediti, come i tuoi giocatori la otterranno e quanto ne otterranno? Il tuo Cowboy guadagna un punto di **Grinta** ogni volta che subisce un danno? Forse il tuo Android ha un pannello solare che usa per ricaricarsi. Ci sono più modi per ottenerla, come bere una pozione di **Mana** o riposare per otto ore?
+
+> Vuoi che ottenerla richieda un tiro, come presentare una proposta di finanziamento all'università per ottenere i **Fondi di Spedizione** usando un tiro di **Persuasione**? Se sì, quanto vuoi che i tuoi giocatori ottengano? Una buona regola generale è permettere ai giocatori di tirare per le risorse con le loro migliori azioni e ricompensare un singolo punto di risorsa con un successo parziale, due punti con un successo completo e tre punti con un successo travolgente. Se i giocatori sentono di non avere abbastanza risorse o di non poterne ottenere abbastanza, inizieranno ad accumularle e non le utilizzeranno mai.
+
+4. Molto importante, cosa succede quando i tuoi giocatori la consumano? Forse il tuo Cowboy può spendere 2 punti di **Grinta** per ignorare una conseguenza per un turno. Cosa succede se il **Mana** viene usato per alimentare un'azione speciale come **Bruciare** o **Trasmutare**? Le **Riserve di Carburante** del tuo serbatoio possono essere usate nel tuo lanciafiamme?
+
+> La tua risorsa sostituisce una meccanica esistente? Forse al tuo gruppo non piace tenere traccia degli oggetti e spendere i **Fondi di Spedizione** permette loro di avere ciò di cui hanno bisogno.
+
+5. Quando i tuoi giocatori possono riguadagnarla? Forse i **Fondi di Spedizione** possono essere ripristinati solo tra una spedizione e l'altra. E se alcuni tesori che trovi possono essere venduti e convertiti in **Fondi di Spedizione**? Qual è il tasso di conversione? Un mago può bere più di una pozione di **Mana** al giorno o gli provoca una _malattia da mana_?
+
+> Vuoi che i tuoi giocatori possano conservare una risorsa? Forse ottenere un successo completo in un'azione di **Trasmutazione** non consuma **Mana**. Questa è una buona idea per aiutare i tuoi giocatori a gestire meglio le loro risorse se non possono riguadagnarle immediatamente. D'altra parte, forse i tuoi giocatori stanno accumulando una risorsa. Una buona soluzione potrebbe essere far scadere tutto o parte del **Riserva di Risorse** dopo che viene soddisfatta una determinata condizione.
+
+6. Infine, è importante specificare se il tuo **Risorse** ha qualificatori speciali. Abbiamo già toccato alcune idee, come ad esempio come i **Fondi di Spedizione** possono sostituire la gestione degli oggetti. Cosa succede se ogni punto di **Mana** ti permette di aggiungere un d6 al tuo pool di dadi per l'azione di **Trasmutazione**? Dovresti limitare i tiri a 3d6 (3 punti di **Mana**)?
+
+> Ti senti generoso? I tiri di dadi del Fato possono essere usati per distribuire **Risorse** in momenti opportuni. Forse un benefattore misterioso ha scelto di donare alla tua prossima spedizione (1 punto per ogni successo completo su un tiro di 3d6). Oppure, cosa succederebbe se il tuo Android trovasse una batteria di scorta con 4 cariche?
+
+---
+
+Ecco alcuni degli esempi di cui abbiamo già parlato in maggiore dettaglio insieme a un nuovo esempio:
+
+> \#### Esempio di Grinta
+>
+> Ogni Cowboy ha un pool personale di **Grinta**. Ogni volta che subisci un danno, guadagni 1 punto di **Grinta**. Spendi 2 punti di **Grinta** per ignorare le restrizioni narrative di una conseguenza per 1 turno, riflettendo il tuo carattere da "sorreggiti e reagisci".
+
+> \#### Esempio di Fondi di Spedizione
+>
+> Tutti nel gruppo collaborano per redigere una **Proposta di Finanziamento Universitario** tirando **Persuasione**. Per ogni successo parziale guadagna 1 punto in un pool di risorse condivise chiamato **Fondi di Spedizione**. Per ogni successo completo ne guadagna 2. Per ogni successo travolgente ne guadagna 3. Spenso 1 punto ogni volta che un'azione richiede un oggetto specifico, notevole o unico. I **Fondi di Spedizione** possono essere ripristinati solo tra una spedizione e l'altra.
+
+> \#### Esempio di Mutageno
+>
+> I folli scienziati possono **Smanettare** durante il loro tempo libero per creare un **Mutageno**. I **Mutageni** sono legati a una firma biologica e possono influenzare solo la creatura per cui sono stati creati. Consumare un **Mutageno** cambia permanentemente la tua costituzione biologica, consentendoti di spostare due punti azione e rendendo le dosi successive fatali. Creare un **Mutageno** richiede un catalizzatore estremamente raro e unico per ogni individuo.
+
+> \#### Esempio di Mana
+>
+> Ogni Mago guadagna 4 punti di **Mana** dopo 8 ore di riposo ininterrotto. Il **Mana** può essere usato per alimentare la tua azione di **Magia**. Per ogni punto di **Mana** che spendi in quel turno, aggiungi un d6 al tuo pool di dadi per l'azione di **Magia**. I tiri sono limitati a 3d6. Le pozioni di **Mana** possono essere consumate durante il tuo turno per ripristinare 2 punti di **Mana**. Consumare più di una pozione di mana tra un riposo e l'altro provoca la conseguenza _Malattia da Mana_, che causa forti mal di testa e nausea finché non si riposa per 8 ore ininterrotte.
+
+---
+
+> \### Riassumendo
+>
+> - Dai un nome alla tua **Risorsa**. Evita di crearne troppe.
+>
+> - Determina se è _condivisa_ o _personale_. Può essere _presa_ o _donata_?
+>
+> - Chiediti come i tuoi giocatori la ottengono. Richiede un tiro? Possono ottenerne abbastanza da non sentire il bisogno di accumularla?
+>
+> - Capisci per cosa viene utilizzata. Sostituisce una meccanica esistente?
+>
+> - Quando i tuoi giocatori possono riguadagnarla? Possono conservarla? O scadrà?
+>
+> - Non avere paura di aggiungere qualificatori speciali.
+
+# Extra: Economia | Extra
+
+**Una forma astratta di interazione economica che modella un sistema di mercato fluttuante**
+
+\- Di Dylan Greene
+
+Questa è una versione generica del sistema Marketplace e Shard che ho progettato per No_Stalgia. È destinato a essere una forma astratta di interazione economica che modella un sistema di mercato fluttuante. In No_Stalgia, interagire con il Marketplace è una funzione di gioco centrale, che combinata con le regole di hacking porta a un'economia altamente sfruttabile. Potrebbe essere tentante includere questo extra per essere esaustivi, ma ricorda che dovrebbe aggiungere qualcosa a ciò che stai progettando.
+
+## L'Orologio di Mercato
+
+Quando i giocatori comprano e vendono merci sul mercato, devono effettuare un tiro di mercato. Ogni tiro di mercato parte da 1d6, ma l'economia sale e scende durante il giorno, il che potrebbe aggiungere o rimuovere dadi dal tiro. I giocatori possono anche spendere denaro per aggiungere 1d6 al tiro per ogni soldo speso.
+
+- Vuoto: Equilibrio
+- Un segmento: Basso (+1d6 quando si compra, -1d6 quando si vende)
+- Due segmenti: Alto (-1d6 quando si compra, +1d6 quando si vende)
+- Tre segmenti: Basso (+1d6 quando si compra, -1d6 quando si vende)
+- Orologio pieno: Alto (-1d6 quando si compra, +1d6 quando si vende)
+
+L'orologio di mercato avanza automaticamente di un segmento ad ogni scena e si resetta automaticamente dopo essere stato riempito.
+
+## Denaro
+
+Il denaro è rappresentato su una scala da dieci punti che è astratta per il gioco. Questo è molto simile a come Blades in the Dark gestisce il denaro. Progetta punti di prezzo a 1, 2, 4, 6, 8 e 10. Una merce molto basica come il salario medio di una settimana può rappresentare 1, mentre spese enormi come la proprietà possono rappresentare 10.
+
+È utile concettualizzare i tuoi livelli di prezzi in base a ciò che i giocatori dovranno fare per guadagnare quella quantità di denaro. Ad esempio, il tuo livello di denaro di base 1 potrebbe essere una borsa di monete d'oro in un gioco di alta fantasia che sarebbe una semplice ricompensa di una missione. Al contrario, per guadagnare 10 denari sarebbe necessario fare molti favori per un regno o acquisire un tesoro estremamente prezioso.
+
+# Extra: Equipaggiamento Narrativo | Extra
+
+Un Extra di Charge RPG per rendere importante l'equipaggiamento che possiedi
+
+\- Di Groov
+
+---
+
+L'Equipaggiamento Narrativo è un Extra che consente a un personaggio di utilizzare il proprio equipaggiamento per ottenere un dado bonus durante un **tiro d'azione** o per evitare il peggio di una **conseguenza**.
+
+## Regola dell'Equipaggiamento
+
+L'equipaggiamento è una meccanica che ti consente di portare un certo numero di oggetti in una scena per avere un impatto meccanico e narrativo.
+
+Quando lasci la tua base o il tuo nascondiglio per l'equipaggiamento, decidi la tua **dotazione** e hai un numero di oggetti significativi in base a ciò che scegli. Se desideri una **dotazione normale**, puoi dichiarare fino a 4 oggetti; con una **dotazione pesante**, ne hai fino a 8, anche se i personaggi con una dotazione pesante sono più lenti e si distinguono in mezzo alla folla.
+
+## Dichiarare l'Equipaggiamento
+
+Non decidi quali oggetti fanno parte della tua **dotazione** prima di partire. Invece, **dichiari** di avere un oggetto al momento opportuno purché abbia senso narrativo in base ai tuoi **dettagli**. Quando lo fai, puoi anche spendere 1 **slancio** e scegliere se quell'oggetto sarà **equipaggiamento di supporto** o **equipaggiamento difensivo** per ottenere il beneficio meccanico indicato di seguito. Una volta dichiarato, annota l'equipaggiamento sul tuo foglio del personaggio. L'oggetto è comunque in tuo possesso, se non viene perso o consumato, ma non fornisce ulteriori vantaggi meccanici.
+
+Puoi ancora spingerti oltre i tuoi limiti o essere assistito quando **dichiari** l'equipaggiamento.
+
+L'**equipaggiamento di supporto** può includere un coltello particolarmente pericoloso, una mappa locale o qualsiasi altra cosa possa aiutare in una situazione specifica. Quando dichiari di avere un **equipaggiamento di supporto**, puoi effettuare un **tiro d'azione** con **+1d6** oppure scegliere di aumentare il tuo **livello di effetto**.
+
+L'**equipaggiamento difensivo** rappresenta una preparazione difensiva che il personaggio potrebbe aver fatto, come indossare un'armatura rinforzata o portare uno scudo. Quando dichiari di avere **equipaggiamento difensivo**, riduci lo **stress** subito di un numero di "slot" di **dotazione** che sei disposto a usare per questo oggetto. Puoi ottenere questo beneficio solo una volta se hai una **dotazione normale** o due volte se hai una **dotazione pesante**.
+
+> \#### Esempio
+>
+> _Il personaggio di Jaden, Oza, un ladro goblin, sta cercando di scalare un muro per entrare nella residenza di un nobile. Per aiutarsi a superare l'ostacolo, dichiara di avere un rampino, spendendo 1 carica di slancio e aggiungendo +1d6 al suo tiro d'azione. Jaden segna sul suo foglio che Oza ha un rampino, quindi se ne avesse bisogno in futuro, potrà tirarlo fuori di nuovo (anche se non otterrà il bonus +1d6). Dopo essere atterrato dall'altro lato del muro, Oza si trova faccia a faccia con un mercenario paziente, che lo pugnala al petto. Invece di subire due stress, Jaden dichiara che Oza indossava una corazza rinforzata per sicurezza, segnando un altro slancio e altri due slot di equipaggiamento nella sua dotazione._
+
+> \## Note per il Game Master
+>
+> Se il tuo gioco si concentra di più sull'equipaggiamento, potresti voler consentire il beneficio meccanico quando si dichiara un oggetto gratuitamente, ma tieni presente che ciò renderà i personaggi decisamente più potenti. In alternativa, puoi ridurre la **dotazione** a 3 e 6 rispettivamente, dando ai giocatori una decisione difficile da prendere quando vogliono mettere in risalto il loro equipaggiamento.
+>
+> Come GM, non dimenticare che puoi sempre cambiare il modo in cui descrivi meccanicamente le cose nel tuo gioco. Ad esempio, invece di equipaggiamento, questo potrebbe rappresentare magia residua o energia della batteria.
+
+## Crediti
+
+- Questo sistema è adattato da Blades in the Dark di Groov per l'uso con Charge RPG
+
+> \## Riassunto
+>
+> - Scegli una **dotazione normale** (4 slot) o una **dotazione pesante** (8 slot)
+> - **Dichiara** l'equipaggiamento e spendi 1 **slancio** per un **equipaggiamento di supporto** o **equipaggiamento difensivo**
+> - L'**equipaggiamento di supporto** aggiunge **+1d6** o migliora il **livello di effetto** in un **tiro d'azione**
+> - L'**equipaggiamento difensivo** previene lo **stress** pari al numero di slot di equipaggiamento utilizzati. Puoi farlo solo una volta con una **dotazione normale** o due volte con una **dotazione pesante**
+> - **L'equipaggiamento fornisce sempre libertà narrativa**
 
