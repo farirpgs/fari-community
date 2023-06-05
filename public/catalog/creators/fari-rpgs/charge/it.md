@@ -1,4 +1,4 @@
-# Introduzioni | Potenzia la tua narrazione
+# Introduzione | Potenzia la tua narrazione
 
 ![Charge](https://gyazo.com/5b8633befdb6fe3f894bdabaedac4001.png)
 
@@ -42,9 +42,9 @@ Ciò significa che puoi:
 - Fornire nuovi Extra
 - Contribuire a migliorare la qualità e la fruibilità del gioco attraverso la correzione di bozze o la traduzione, ecc.
 
-Se contribuisci a questo progetto in qualsiasi modo, il tuo nome verrà aggiunto ai [crediti](/en/srds/fari-rpgs/charge-rpg/credits) del gioco. Se hai progettato un Extra specifico per il gioco, il tuo nome verrà anche inserito nei crediti.
+Se contribuisci a questo progetto in qualsiasi modo, il tuo nome verrà aggiunto ai [crediti](#crediti) del gioco. Se hai progettato un Extra specifico per il gioco, il tuo nome verrà anche inserito nei crediti.
 
-Sebbene Charge accetti donazioni, queste donazioni saranno reinvestite direttamente nel gioco tramite la commissionazione di opere d'arte ufficiali, il pagamento dell'editing, ecc.
+Sebbene Charge accetti donazioni, queste donazioni saranno reinvestite direttamente nel gioco tramite la commissione di illustrazioni ufficiali, il pagamento dell'editing, ecc.
 
 Se desideri contribuire a Charge, unisciti al [server Discord della Fari Community](https://farirpgs.com/discord) o visita i [Charge Community Forums](https://fari-rpgs.itch.io/charge-rpg/community) su Itch.
 
@@ -188,7 +188,7 @@ Poi, aspetta pazientemente fino alla prossima sessione. E mentre aspetti, ricord
 
 Come giocatore, crei un **personaggio**.
 
-Il tuo personaggio è definito da determinati tratti e legato a certi elementi del mondo in cui vive. Influencerà il mondo intorno a lui con le sue **azioni**. Se le sue azioni non sono completamente riuscite, ciò porterà a **conseguenze** che potrebbero infliggere **stress** o peggiorare le sue **condizioni**.
+Il tuo personaggio è definito da determinati tratti e legato a certi elementi del mondo in cui vive. Influenzerà il mondo intorno a lui con le sue **azioni**. Se le sue azioni non sono completamente riuscite, ciò porterà a **conseguenze** che potrebbero infliggere **stress** o peggiorare le sue **condizioni**.
 
 I **dettagli** dei tuoi personaggi sono un ottimo modo per rendere i tuoi personaggi unici nella finzione, ma Charge utilizza i **talenti** per conferire benefici meccanici ai personaggi quando effettuano un **tiro d'azione**.
 
@@ -198,7 +198,7 @@ Puoi trovare ciascuno di questi termini nella scheda del personaggio, ma vediamo
 
 I personaggi sono definiti da tratti descrittivi chiamati **dettagli**. Ogni personaggio di solito ne ha tra 2 e 5 per evidenziare chi sono e cosa è importante di loro. Questi dettagli non sono solo informazioni che danno colore al personaggio, ma dovrebbero essere gli aspetti del personaggio a cui prestiamo attenzione nella storia. Vengono anche utilizzati come guida per conoscere le diverse libertà narrative che un personaggio ha nella finzione.
 
-![](https://gyazo.com/e4ac2539a73b8650b7aee2ca20661371.png)
+![](./images/details_ita.png)
 
 ### Concetto
 
@@ -262,7 +262,7 @@ Le 12 azioni sono raggruppate in 3 categorie chiamate **Attributi**. Ci sono **F
 
 ### Le 12 Azioni
 
-![12 Azioni](https://gyazo.com/70ccecc40690c43a0948cd05db0c0d80.png)
+![12 Azioni](./images/actions_ita.png)
 
 #### Fisico
 
@@ -306,7 +306,7 @@ Quando **Legare**, rassicuri e socializzi con amici e contatti.
 
 > Potresti ottenere risorse, informazioni, persone o luoghi. Potresti fare una buona impressione o conquistare qualcuno con il tuo fascino, stile o empatia. Potresti cercare di manipolare i tuoi amici con la pressione sociale (ma **Influenzare** potrebbe essere migliore).
 
-Quando **Comandare**, otteni un'obbedienza rapida con abilità e rispetto.
+Quando **Comandare**, ottieni un'obbedienza rapida con abilità e rispetto.
 
 > Potresti intimidire o minacciare per ottenere ciò che desideri. Potresti chiedere a una piccola milizia di prepararsi. Potresti ordinare ai tuoi non morti di sacrificarsi per te. Potresti chiedere al tuo famiglio di cercare qualcosa in una stanza (ma **Legare** potrebbe essere migliore).
 
@@ -332,7 +332,7 @@ Lo **slancio** di un personaggio è una misura che rappresenta l'impatto del tuo
 
 All'inizio di ogni sessione, inizi con 2 cariche di slancio e le consumi per potenziare i tuoi tiri d'azione o aiutare i tuoi compagni di squadra.
 
-![](https://gyazo.com/e0aac9468c6a2a2932e59da933c64e21.png)
+![](./images/momentum_ita.png)
 
 ## Stress e Condizioni
 
@@ -344,7 +344,7 @@ Quando rimani ferito, accumuli una certa quantità di **stress**, e ogni stress 
 
 Ogni volta che il tuo personaggio subisce stress, devi aggiornare la **condizione** del personaggio e scrivere una breve **dettaglio** che descriva lo stato in cui si trova il tuo personaggio.
 
-![Condizione](https://gyazo.com/468a4a981adfbc795ef328b3b95e798a.png)
+![Condizione](./images/condition_ita.png)
 
 > \### Un'annotazione sugli Orologi
 >
@@ -370,7 +370,7 @@ I **talenti** sono un modo per far progredire i personaggi nel corso di una camp
 
 Col passare del tempo, i personaggi ottengono nuovi **punti talento**, che fanno avanzare il loro albero dei talenti.
 
-![](https://gyazo.com/6cab207e891b02249a7f96c66694010a.png)
+![](./images/talents_ita.png)
 
 Ogni punto nell'albero dei talenti ti offre un nuovo **punto d'azione** o un **bonus situazionale**.
 
@@ -384,7 +384,7 @@ Quando la tua campagna raggiunge un punto di svolta significativo, puoi leggere 
 
 La sezione **Progetti e Complicazioni** del foglio del personaggio è qualcosa che il GM e i giocatori utilizzano per tenere traccia di progetti a lungo termine o pericoli in continua evoluzione che si estendono su più sessioni.
 
-![](https://gyazo.com/cc0d601c9fc82fbfe8a433ac3fdc303d.png)
+![](./images/project-complications_ita.png)
 
 Non è necessario sapere come utilizzarlo immediatamente, quindi per saperne di più al riguardo, consulta [**Meccaniche&nbsp;»&nbsp;Progetti e Complicazioni**](progetti-e-complicazioni).
 
@@ -677,7 +677,7 @@ Se un PG cerca di acchiappare un nemico e ottiene un **4-5**, non dire che il ne
 
 <br/>
 
-> \#### Ho un'idea per una Consequenza!
+> \#### Ho un'idea per una Conseguenza!
 >
 > Se qualcuno al tavolo ha un'idea per una buona conseguenza, ascoltali!
 >
@@ -935,7 +935,7 @@ Quindi l'unico modo per recuperare dallo **stress** è nella finzione. Puoi ripo
 
 Man mano che il tuo personaggio migliora, devi anche aggiornare la tua **condizione** per rappresentare lo stato attuale del tuo personaggio.
 
-Non utilizziamo i dadi per supportare questa meccanica perché non riteniamo che la fortuna dovrebbe _generalmente_ influire sul processo di guarigione. Naturalmente, ci sono momenti in cui potrebbe farlo. Se vuoi, puoi utilizzare la meccanica del [Tiro della Fortuna](fortune-roll) per risolvere questo tipo di situazione.
+Non utilizziamo i dadi per supportare questa meccanica perché non riteniamo che la fortuna dovrebbe _generalmente_ influire sul processo di guarigione. Naturalmente, ci sono momenti in cui potrebbe farlo. Se vuoi, puoi utilizzare la meccanica del [Tiro della Fortuna](#tiro-della-fortuna--meccaniche) per risolvere questo tipo di situazione.
 
 ## Riepilogo
 
@@ -947,9 +947,7 @@ Non utilizziamo i dadi per supportare questa meccanica perché non riteniamo che
 
 # Tiro della Fortuna | Meccaniche
 
-[![Immagine di KELLEPICS da pixabay.com](https://gyazo.com/66adea5dff68c16c02527472648c8110.png
-
-)](https://pixabay.com/photos/city-sunset-planet-mars-heaven-5312660/)
+[![Immagine di KELLEPICS da pixabay.com](https://gyazo.com/66adea5dff68c16c02527472648c8110.png)](https://pixabay.com/photos/city-sunset-planet-mars-heaven-5312660/)
 
 **_Il futuro è in costante flusso._**
 
@@ -1031,7 +1029,7 @@ Tu scegli il beneficio, in base alla natura della tua azione di preparazione.
 >
 > ——
 >
-> _Prima li distraigo. Poi devi correre via. Va bene?_
+> _Prima li distraggo. Poi devi correre via. Va bene?_
 
 Questo è un ottimo modo per contribuire a un'operazione quando non hai una buona valutazione nell'azione in questione. Un'azione di preparazione intelligente ti consente di aiutare il team in modo indiretto, sia nel momento presente che tramite un **flashback**. Più azioni di seguito possono approfittare della tua preparazione purché abbia senso nella fiction.
 
@@ -1049,7 +1047,7 @@ Questo dà loro una possibilità di combattere.
 
 Un **orologio** è un cerchio **diviso in 4, 6 o 8 segmenti**. Disegna un orologio quando devi tenere traccia di uno sforzo continuo contro un ostacolo che non può essere risolto con un semplice tiro d'azione.
 
-Vuoi intrufolarti in una zona restritta? Crea un orologio per tenere traccia del livello di allarme delle guardie di pattuglia. Quando i PG subiscono conseguenze da successi parziali o fallimenti nei tiri, riempi i segmenti dell'orologio finché l'allarme non viene lanciato.
+Vuoi intrufolarti in una zona vietata? Crea un orologio per tenere traccia del livello di allarme delle guardie di pattuglia. Quando i PG subiscono conseguenze da successi parziali o fallimenti nei tiri, riempi i segmenti dell'orologio finché l'allarme non viene lanciato.
 
 In generale, più complesso è il problema, più segmenti dovrebbe avere l'orologio.
 
@@ -1623,7 +1621,7 @@ Le parole sono importanti. Quando scelte con cura, aiutano a trasmettere un sign
 
 Charge viene fornito con un set predefinito di azioni generiche. Poiché sono generiche, potrebbero non adattarsi necessariamente all'ambientazione scelta.
 
-Se alcune di queste parole sembrano inadeguate, rinominalle.
+Se alcune di queste parole sembrano inadeguate, rinominale.
 
 Sostituisci **Armeggiare** con **Artigianato** o **Hacking**. O sostituisci **Influenzare** con **Negoziare** o **Dibattere**.
 
@@ -1687,9 +1685,7 @@ Le condizioni di un PG fungono da meccanismo di ritmo per i combattimenti, ma an
 
 ### Modificare l'Orologio dello Stress
 
-Se i personaggi nel tuo mondo dovrebbero essere
-
- più o meno resistenti, cambia il numero di segmenti nell'orologio dello stress.
+Se i personaggi nel tuo mondo dovrebbero essere più o meno resistenti, cambia il numero di segmenti nell'orologio dello stress.
 
 Questa è una modifica semplice che ha un grande impatto sulle sfide in gioco.
 
@@ -1847,22 +1843,22 @@ Se vuoi, puoi includere anche le seguenti immagini nel tuo gioco per indicare ch
 	<img style="background: #000" src="https://gyazo.com/3f66d3276513deef1cdb7c200c098689.png" width="300px" style="margin-bottom: 1rem"/>
 </div>
 
-### Scheda del Personaggio Charge con Talenti iniziali
+### Charge Scheda del Personaggio con Talenti iniziali
 
 <details>
 	<summary>
-		Charge Character Sheet (Starting Talent).pdf
+		Charge Scheda Personaggio (Talenti Iniziali).pdf
 	</summary>
-	<object data="/catalog/creators/fari-rpgs/charge/downloads/charge-character-sheet_starting-talent.pdf" type="application/pdf" width="100%" height="700px">
-		<embed src="/catalog/creators/fari-rpgs/charge/downloads/charge-character-sheet_starting-talent.pdf">
-			<p>This browser does not support PDFs. Please download the PDF to view it: <a href="/catalog/creators/fari-rpgs/charge/downloads/charge-character-sheet_starting-talent.pdf">Download PDF</a>.</p>
+	<object data="/catalog/creators/fari-rpgs/charge/downloads/charge-scheda-personaggio.pdf" type="application/pdf" width="100%" height="700px">
+		<embed src="/catalog/creators/fari-rpgs/charge/downloads/charge-scheda-personaggio_talenti-iniziali.pdf">
+			<p>Questo browser non supporta i PDF. Scaricare il PDF per visualizzarlo: <a href="/catalog/creators/fari-rpgs/charge/downloads/charge-scheda-personaggio_talenti-iniziali.pdf">Download PDF</a>.</p>
 		</embed>
 	</object>
 </details>
 
 ## Templates
 
-- [Affinity Publisher](/catalog/creators/fari-rpgs/charge/downloads/charge-character-sheet.aftemplate)
+- [Affinity Publisher](/catalog/creators/fari-rpgs/charge/downloads/charge-scheda-personaggio.aftemplate)
 
 
 # Glossario | Conclusioni
@@ -1937,7 +1933,7 @@ Se vuoi, puoi includere anche le seguenti immagini nel tuo gioco per indicare ch
 | ------------ | ------------- | ---------- | ------- | --------------- |
 | Attachments  | Connections   |            |         | Allegati        |
 | Asset        | Atout         |            |         | Risorsa         |
-| Quick Charge | Charge Rapide |            |         | Ricarica rapida |
+| Quick Charge | Charge Rapide |            |         | Charge Rapido |
 
 # Cosa sono gli Extra | Extra
 
@@ -2079,9 +2075,7 @@ L'Extra Allegato è un extra che puoi utilizzare per rendere più importanti alc
 
 ## Regola Extra Allegato
 
-I personaggi sono definiti utilizzando **dettagli** per rappresentare chi sono, come sono e a chi sono legati. Per impostazione predefinita, i dettagli non hanno alcun utilizzo meccanico nel gioco se
-
- non quello di fornire libertà narrativa.
+I personaggi sono definiti utilizzando **dettagli** per rappresentare chi sono, come sono e a chi sono legati. Per impostazione predefinita, i dettagli non hanno alcun utilizzo meccanico nel gioco se non quello di fornire libertà narrativa.
 
 Se vuoi che alcuni di questi dettagli siano più importanti nel tuo gioco, puoi considerarli come **allegati**.
 
@@ -2257,9 +2251,7 @@ Una volta che la missione è finita, i PG tornano alla loro sede e il ciclo rico
 >
 > _Quando i PG sono pronti per iniziare la loro prossima missione, il GM tira **2d6** (uno per ogni carta rossa). Esce un **4**, quindi la missione inizierà con una situazione di **rischio moderato**._
 >
-> _Il GM pensa quindi a un modo per complicare la taglia
-
- sui pirati. Decide che quando i PG arriveranno, ci sarà già un'altra squadra di malviventi lì che cercherà di catturare la taglia._
+> _Il GM pensa quindi a un modo per complicare la taglia sui pirati. Decide che quando i PG arriveranno, ci sarà già un'altra squadra di malviventi lì che cercherà di catturare la taglia._
 
 > \## Riepilogo
 >
@@ -3107,7 +3099,7 @@ A volte, i nemici sono così specifici che hanno un effetto speciale sui persona
 
 Il Livello di Minaccia è un extra che riguarda come l'avversità può influenzare le azioni dei personaggi.
 
-## Cos'è u?
+## Cos'è un Livello di Minaccia?
 
 Il **Livello di Minaccia** è un modo per rappresentare un tipo speciale di opposizione che influenza la capacità dei personaggi senza modificare la loro posizione. Può essere visto come un modo passivo per alterare le possibilità di successo dei personaggi.
 
