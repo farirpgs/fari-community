@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+ width="30" height="30"
+ viewBox="0 0 30 30"
+ id="svg5" version="1.1"
+ xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+<rect
+ style="fill:#ffffff;stroke:#8e1716;stroke-width:2.5"
+ x="0.5" y="0.5"
+ width="29.0" height="29.0"
+ ry="3.75" />
+<circle style="fill:#8e1716" cx="22.5" cy="7.5" r="2.727272727272727" /><circle style="fill:#8e1716" cx="7.5" cy="22.5" r="2.727272727272727" /></svg>

@@ -1,0 +1,5 @@
+- http://localhost:3000/creators/ryan-macklin/projects/mythender/what-you-need-to-play
+   - Inline `code` not rendering correctly in "> blockquotes"; see Mythender Persona sheet, Bonds sheet, Blight card.
+   - "- list items" are bolded unexpecteds. See Bonds sheet and Blight card
+http://localhost:3000/creators/ryan-macklin/projects/mythender/creating-your-mythender
+   - Inline `code` not rendering correctly in "Coming Up With Your Weapons" (Second paragraph), as well as Choosing Your Bonds.

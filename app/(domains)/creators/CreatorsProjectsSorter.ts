@@ -29,6 +29,8 @@ export const CreatorsProjectSorter = {
       "grove system",
       "harmony drive",
       "hints and hijinx",
+      "mark-of-the-odd",
+      "cairn",
     ];
     const currentDateOfTheMonth = new Date().getDate();
     const shuffledFariRecommendedProjects = shuffleWithSeed(
