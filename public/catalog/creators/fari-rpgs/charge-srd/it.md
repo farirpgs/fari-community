@@ -86,7 +86,7 @@ Quando crei un nuovo personaggio, scrivi sulla tua scheda del personaggio i suoi
 - **_Aspetto_**: come appare il personaggio, cosa indossa, ecc.
 - **_Legami_**: 1-3 relazioni che il personaggio ha con determinate persone o organizzazioni nel mondo.
 
-> #### Note di design: hackerare i dettagli
+> #### Note di design: modificare i dettagli
 >
 > Un modo semplice per personalizzare Charge è modificare i _dettagli_ predefiniti dei personaggi.
 > Sono un modo semplice ma efficace per rafforzare ciò che è narrativamente importante nel tuo ambiente.
@@ -100,7 +100,7 @@ Quando crei un nuovo personaggio, scrivi sulla tua scheda del personaggio i suoi
 
 Quando un PG deve superare un ostacolo e c'è un rischio, usa una delle sue _azioni_.
 
-**Alla creazione del personaggio, assegna 7 pallini azione** tra i seguenti elenchi di azioni:
+**Alla creazione del personaggio, assegna 7 punti azione** tra i seguenti elenchi di azioni:
 
 - **Muscoli**: usi la tua forza per spostare, superare o distruggere l'ostacolo davanti a te.
 - **Muoversi**: ti sposti rapidamente in una nuova posizione o esci dal pericolo.
@@ -115,9 +115,9 @@ Quando un PG deve superare un ostacolo e c'è un rischio, usa una delle sue _azi
 - **Concentrarsi**: ti concentri per portare a termine un compito che richiede una grande forza d'animo.
 - **Influenzare**: influenzi con l'astuzia, il fascino o la discussione.
 
-All'inizio del gioco, una singola azione non può avere più di **2 pallini azione**.
+All'inizio del gioco, una singola azione non può avere più di **2 punti azione**.
 
-> #### Note di design: hackerare le azioni
+> #### Note di design: modificare le azioni
 >
 > Le parole sono importanti, quindi dovresti cambiare l'elenco delle azioni predefinito per adattarlo meglio all'estetica del tuo gioco.
 >
@@ -162,7 +162,7 @@ Un talento fornisce un nuovo _punto azione_ da investire nelle azioni di un pers
 
 All'inizio del gioco, **i personaggi iniziano con zero talenti**. Otterranno quelle abilità speciali quando raggiungeranno determinati traguardi nella storia.
 
-> #### Nota del designer: hackerare i Talenti
+> #### Nota del designer: modificare i Talenti
 >
 > La scheda del personaggio predefinita in Charge ha un _albero dei talenti_ contenente 13 _talenti_. Detto questo, non pensiamo necessariamente che dovresti fare lo stesso per il tuo gioco.
 >
@@ -365,11 +365,11 @@ Dopo aver deciso quante cariche vuoi consumare, tira e interpreta i risultati:
 - Con **6**, la conseguenza è **evitata**.
 - Con un **66**, la conseguenza è **evitata**, e il **rischio del tuo prossimo lancio è ridotto**.
 
-> #### Note di design: hackerare il tiro risolutezza
+> #### Note di design: modificare il tiro risolutezza
 >
 > I tiri risolutezza fungono da meccanismo per i giocatori per resistere e dire "no, non credo" quando succede qualcosa di brutto al loro personaggio.
 >
-> Ci sono due cose importanti che dovresti considerare se vuoi hackerare questa meccanica. Primo, come resistere a una conseguenza. In secondo luogo, quale dovrebbe essere il costo per cercare di resistere a una conseguenza.
+> Ci sono due cose importanti che dovresti considerare se vuoi modificare questa meccanica. Primo, come resistere a una conseguenza. In secondo luogo, quale dovrebbe essere il costo per cercare di resistere a una conseguenza.
 >
 > Di default, cerchi di resistere spendendo slancio per costruire una riserva risolutezza nella speranza di ridurre o addirittura annullare una conseguenza in arrivo. In questo caso, il costo viene pagato in _slancio_ poiché non potrai spendere di più in seguito per _spingerti_ o _assistere_ un alleato.
 >
@@ -405,7 +405,7 @@ Man mano che l'orologio dello stress si riempie, devi anche **aggiornare la _con
 
 Quando le 4 sezioni dello l'_orologio di stress_ sono pieni, il PG viene **portato fuori per la scena* *e il suo orologio di stress viene azzerato. Poiché sono state tolte, le scene successive dovrebbero gestire il modo in cui avverrà la guarigione del personaggio nella finzione.
 
-> #### Note di design: hackerare la salute
+> #### Note di design: modificare la Salute
 >
 > La Salute in Charge è una risorsa sacrificabile. Ha un _orologio_ che viene ticchettato quando sei stressato, ed è collegato a un _dettaglio_ che indica la nuova condizione del PC quando l'orologio è pieno.
 >
@@ -441,7 +441,7 @@ Un `talento` fornisce un nuovo `punto azione` da investire nelle `azioni` di un 
 
 Quando un giocatore ottiene un `talento situazionale`, deve decidere su una situazione specifica che attiva il talento. Il giocatore sceglie ciò che ritiene funzioni meglio per il proprio personaggio e annota le proprie decisioni riempiendo gli spazi vuoti sulla scheda del personaggio. Per ispirazione guarda ciò che è già stato stabilito nel mondo e scegli qualcosa che faccia brillare il tuo personaggio.
 
-> #### Note di design: hackerare la progressione
+> #### Note di design: modificare la progressione
 >
 > Più tempo ci vuole per raggiungere una `pietra miliare`, più tempo ci vorrà perché i personaggi diventino più forti.
 >
