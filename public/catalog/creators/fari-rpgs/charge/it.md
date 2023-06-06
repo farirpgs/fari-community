@@ -184,7 +184,7 @@ Ricordati di essere empatico verso gli orari e le responsabilità delle persone.
 
 Poi, aspetta pazientemente fino alla prossima sessione. E mentre aspetti, ricorda e lodati per i momenti fantastici che sono accaduti nell'ultima sessione.
 
-## Creazione del tuo personaggio | Creazione del personaggio
+# Creazione del tuo personaggio | Creazione del personaggio
 
 Come giocatore, crei un **personaggio**.
 
@@ -266,55 +266,55 @@ Le 12 azioni sono raggruppate in 3 categorie chiamate **Attributi**. Ci sono **F
 
 #### Fisico
 
-Quando **Muscoli**, usi la tua forza per muoverti, superare o distruggere l'ostacolo di fronte a te.
+Quando usi **Muscoli**, usi la tua forza per muoverti, superare o distruggere l'ostacolo di fronte a te.
 
 > Potresti sollevare, colpire, afferrare, tagliare e squarciare. Potresti lottare con un animale selvaggio. Potresti far esplodere una porta. Potresti cercare di combattere in un duello formale (ma **Finezza** potrebbe essere migliore).
 
-Quando **Finezza**, impieghi manipolazione agile o sottile distrazione.
+Quando usi **Finezza**, impieghi manipolazione agile o sottile distrazione.
 
 > Potresti rubare qualcosa dalla tasca di qualcuno. Potresti hackerare un sistema di sicurezza. Potresti guidare i comandi di una nave. Potresti cercare di aprire una serratura (ma **Armeggiare** potrebbe essere migliore).
 
-Quando **Muoversi**, ti sposti rapidamente in una nuova posizione o ti metti al sicuro.
+Quando usi **Muoversi**, ti sposti rapidamente in una nuova posizione o ti metti al sicuro.
 
 > Potresti arrampicarti, nuotare, correre o saltare. Potresti sfuggire alla guardia. Potresti saltare sopra una buca con le punte. Potresti cercare di seminare qualcuno alle calcagna (ma **Furtività** potrebbe essere migliore).
 
-Quando **Furtività**, attraversi abilmente e silenziosamente.
+Quando usi **Furtività**, attraversi abilmente e silenziosamente.
 
 > Potresti passare di nascosto davanti a una guardia o nasconderti nell'ombra. Potresti cercare di pugnalare alle spalle un soldato in piena battaglia (ma **Muscoli** potrebbe essere migliore).
 
 #### Acume
 
-Quando **Sparare**, segui attentamente e spari a un bersaglio.
+Quando usi **Sparare**, segui attentamente e spari a un bersaglio.
 
 > Potresti sparare a un nemico a lunga distanza. Potresti lanciare una palla di fuoco per incendiare il campo di battaglia. Potresti puntare i cannoni laser della nave. Potresti cercare di gettare abilmente una freccette in un gioco da bar (ma **Finezza** potrebbe essere migliore).
 
-Quando **Armeggiare**, capisci, crei o ripari meccanismi o organismi complessi.
+Quando usi **Armeggiare**, capisci, crei o ripari meccanismi o organismi complessi.
 
 > Potresti creare un nuovo dispositivo o modificare un oggetto esistente. Potresti curare una frattura. Potresti cercare di usare la tua competenza tecnica per controllare un veicolo (ma **Finezza** potrebbe essere migliore).
 
-Quando **Studiare**, osservi attentamente i dettagli e interpreti le prove.
+Quando usi **Studiare**, osservi attentamente i dettagli e interpreti le prove.
 
 > Potresti raccogliere informazioni da documenti, giornali e libri. Potresti analizzare attentamente una persona per individuare bugie o veri sentimenti. Potresti cercare di esaminare gli eventi per comprendere una situazione urgente (ma **Notare** potrebbe essere migliore).
 
-Quando **Notare**, osservi la situazione e prevedi gli esiti.
+Quando usi **Notare**, osservi la situazione e prevedi gli esiti.
 
 > Potresti cogliere dettagli importanti sul momento. Potresti anticipare il pericolo prima che accada. Potresti cercare di capire cosa sta rendendo qualcuno malato (ma **Studiare** potrebbe essere migliore).
 
 #### Determinazione
 
-Quando **Legare**, rassicuri e socializzi con amici e contatti.
+Quando usi **Legare**, rassicuri e socializzi con amici e contatti.
 
 > Potresti ottenere risorse, informazioni, persone o luoghi. Potresti fare una buona impressione o conquistare qualcuno con il tuo fascino, stile o empatia. Potresti cercare di manipolare i tuoi amici con la pressione sociale (ma **Influenzare** potrebbe essere migliore).
 
-Quando **Comandare**, ottieni un'obbedienza rapida con abilità e rispetto.
+Quando usi **Comandare**, ottieni un'obbedienza rapida con abilità e rispetto.
 
 > Potresti intimidire o minacciare per ottenere ciò che desideri. Potresti chiedere a una piccola milizia di prepararsi. Potresti ordinare ai tuoi non morti di sacrificarsi per te. Potresti chiedere al tuo famiglio di cercare qualcosa in una stanza (ma **Legare** potrebbe essere migliore).
 
-Quando **Concentrarsi**, ti concentri per portare a termine un compito che richiede una grande forza mentale.
+Quando usi **Concentrarsi**, ti concentri per portare a termine un compito che richiede una grande forza mentale.
 
 > Potresti meditare per entrare nel mondo degli spiriti. Potresti concentrarti per vincere una partita a scacchi. Potresti entrare in trance per completare un rituale importante. Potresti cercare di prestare attenzione più approfondita ai tuoi dintorni oltre a ciò che è visibile (ma **Notare** potrebbe essere migliore).
 
-Quando **Influenzi**, persuadi con astuzia, fascino o argomenti.
+Quando usi **Influenzare**, persuadi con astuzia, fascino o argomenti.
 
 > Potresti mentire in modo convincente. Potresti persuadere qualcuno a fare ciò che desideri. Potresti sostenere un caso convincente che non lascia spazio a una chiara confutazione. Potresti cercare di ingannare le persone per ottenere affetto o obbedienza (ma **Legare** o **Comandare** potrebbero essere migliori).
 
@@ -382,7 +382,7 @@ Quando la tua campagna raggiunge un punto di svolta significativo, puoi leggere 
 
 ## Progetti e Complicazioni
 
-La sezione **Progetti e Complicazioni** del foglio del personaggio è qualcosa che il GM e i giocatori utilizzano per tenere traccia di progetti a lungo termine o pericoli in continua evoluzione che si estendono su più sessioni.
+La sezione **Progetti e Complicazioni** della scheda del personaggio è qualcosa che il GM e i giocatori utilizzano per tenere traccia di progetti a lungo termine o pericoli in continua evoluzione che si estendono su più sessioni.
 
 ![](./images/project-complications_ita.png)
 
@@ -390,7 +390,7 @@ Non è necessario sapere come utilizzarlo immediatamente, quindi per saperne di 
 
 ## Riepilogo del Personaggio
 
-Questo copre le basi su come creare un personaggio per Slancio.
+Questo copre le basi su come creare un personaggio per Charge.
 
 Ora esamineremo tutte le meccaniche utilizzate nel gioco che servono a risolvere gli elementi sconosciuti nella narrazione.
 
@@ -405,7 +405,7 @@ Ora esamineremo tutte le meccaniche utilizzate nel gioco che servono a risolvere
 
 # Fiction First | Meccaniche
 
-[![Immagine di Yuri_B su pixabay.com](https://gyazo.com/d6e7b317330d9dd554970cc75543ea7e.png)](https://pixabay.com/illustrations/painting-knight-night-oil-paints-3995999/)
+![Immagine di Yuri_B su pixabay.com](https://gyazo.com/d6e7b317330d9dd554970cc75543ea7e.png)](https://pixabay.com/illustrations/painting-knight-night-oil-paints-3995999/)
 
 **Charge è un gioco "fiction first".**
 
