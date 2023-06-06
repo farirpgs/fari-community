@@ -14,13 +14,13 @@ Charge è un gioco di ruolo da tavolo **gratuito**, **aperto** e **generico**.
 
 ## Dash
 
-Per iniziare il più velocemente possibile con Charge, dai un'occhiata alla sua versione condensata: **Dash**, disponibile gratuitamente su [itch.io](https://fari-rpgs.itch.io/dash) e su [Fari Games](/en/srds/fari-games/dash).
+Per iniziare il più velocemente possibile con Charge, dai un'occhiata alla sua versione condensata: **Dash**, disponibile gratuitamente su [itch.io](https://fari-rpgs.itch.io/dash-it) e su [Fari Community](https://fari.community/creators/fari-rpgs/projects/dash.it).
 
 <iframe frameborder="0" src="https://itch.io/embed/1444306" width="100%" max-width="552" height="167"><a href="https://fari-rpgs.itch.io/dash">Dash - Un gioco condensato di Charge di Fari RPGs (René-Pier Deshaies)</a></iframe>
 
 ## Charge SRD
 
-Per ulteriori dettagli su come progettare giochi utilizzando Charge, consulta il Charge SRD disponibile anche su [itch.io](https://fari-rpgs.itch.io/charge-srd) e su [Fari Games](/en/srds/fari-rpgs/charge-srd).
+Per ulteriori dettagli su come progettare giochi utilizzando Charge, consulta il Charge SRD disponibile anche su [itch.io](https://fari-rpgs.itch.io/charge-srd) e su [Fari Community](https://fari.community/creators/fari-rpgs/projects/charge-srd.it).
 
 <iframe frameborder="0" src="https://itch.io/embed/1243992" width="100%" max-width="552" height="167"><a href="https://fari-rpgs.itch.io/charge-srd">Charge SRD di Fari RPGs (René-Pier Deshaies)</a></iframe>
 
@@ -54,7 +54,7 @@ Ora, costruiamo insieme qualcosa di incredibile.
 
 - [Informazioni sulla licenza](/en/srds/fari-rpgs/charge-rpg/licencing)
 - [Pagina di Charge su Itch](https://fari-rpgs.itch.io/charge-rpg)
-- [Charge SRD](/en/srds/fari-rpgs/charge-srd)
+- [Charge SRD](https://fari.community/creators/fari-rpgs/projects/charge-srd.it)
 - [Server Discord di Fari](https://farirpgs.com/discord)
 - [Charge Community Forums](https://fari-rpgs.itch.io/charge-rpg/community)
 - [Scheda riassuntiva di Charge](/en/srds/fari-rpgs/charge-rpg/in-a-nutshell)
