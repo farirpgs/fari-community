@@ -3087,7 +3087,7 @@ Il progresso sul **foglio del gruppo** potrebbe avvenire quando vengono completa
 >
 > I **dettagli di supporto** possono essere potenziati o declassati in base al riempimento dei contatori di **progresso** e **pericolo**, rispettivamente. Il contatore di **pericolo** potrebbe essere riempito come conseguenza, mentre il contatore di **progresso** viene riempito ad ogni traguardo e come risultato dei **progetti a lungo termine**. I segni sul contatore di **progresso** possono essere consumati come slancio su base uno a uno.
 
-# Extra: Livello di Minaccia | Extr
+# Extra: Livello di Minaccia | Extra
 
 **Un modo alternativo di concepire l'avversità in Charge**
 
