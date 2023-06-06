@@ -14,11 +14,13 @@ Charge è un gioco di ruolo da tavolo **gratuito**, **aperto** e **generico**.
 
 ## Dash
 
+
 Per iniziare il più velocemente possibile con Charge, dai un'occhiata alla sua versione condensata: **Dash**, disponibile gratuitamente su [itch.io](https://fari-rpgs.itch.io/dash-it) e su [Fari Community](https://fari.community/creators/fari-rpgs/projects/dash.it).
 
 <iframe frameborder="0" src="https://itch.io/embed/1444306" width="100%" max-width="552" height="167"><a href="https://fari-rpgs.itch.io/dash">Dash - Un gioco condensato di Charge di Fari RPGs (René-Pier Deshaies)</a></iframe>
 
 ## Charge SRD
+
 
 Per ulteriori dettagli su come progettare giochi utilizzando Charge, consulta il Charge SRD disponibile anche su [itch.io](https://fari-rpgs.itch.io/charge-srd) e su [Fari Community](https://fari.community/creators/fari-rpgs/projects/charge-srd.it).
 
@@ -74,6 +76,7 @@ Desidero ringraziare velocemente i miei amici che mi hanno aiutato a rendere que
 </ul>
 
 # Obiettivi | Potenzia la tua narrazione
+
 
 ![Immagine di KELLEPICS da pixabay.com](https://pixabay.com/illustrations/fantasy-sun-sea-dragon-flying-4033001/)
 
@@ -183,6 +186,7 @@ Se non ti senti al sicuro al tavolo, è del tutto normale abbandonare il gioco e
 Ricordati di essere empatico verso gli orari e le responsabilità delle persone. Alcune persone hanno figli, animali domestici, lavori e altre cose che rendono molto difficile pianificare le sessioni. Arriva in orario e sfrutta il tempo di gioco che puoi ottenere.
 
 Poi, aspetta pazientemente fino alla prossima sessione. E mentre aspetti, ricorda e lodati per i momenti fantastici che sono accaduti nell'ultima sessione.
+
 
 # Creazione del tuo personaggio | Creazione del personaggio
 
@@ -382,6 +386,7 @@ Quando la tua campagna raggiunge un punto di svolta significativo, puoi leggere 
 
 ## Progetti e Complicazioni
 
+
 La sezione **Progetti e Complicazioni** della scheda del personaggio è qualcosa che il GM e i giocatori utilizzano per tenere traccia di progetti a lungo termine o pericoli in continua evoluzione che si estendono su più sessioni.
 
 ![Progetti & Complicazioni](./images/project-complications_ita.png)
@@ -389,6 +394,7 @@ La sezione **Progetti e Complicazioni** della scheda del personaggio è qualcosa
 Non è necessario sapere come utilizzarlo immediatamente, quindi per saperne di più al riguardo, consulta [**Meccaniche&nbsp;»&nbsp;Progetti e Complicazioni**](progetti-e-complicazioni).
 
 ## Riepilogo del Personaggio
+
 
 Questo copre le basi su come creare un personaggio per Charge.
 
@@ -404,6 +410,7 @@ Ora esamineremo tutte le meccaniche utilizzate nel gioco che servono a risolvere
 > - Orologi per **progetti e complicazioni** per tenere traccia di sforzi che si estendono su più sessioni.
 
 # Fiction First | Meccaniche
+
 
 ![Immagine di Yuri_B su pixabay.com](https://pixabay.com/illustrations/painting-knight-night-oil-paints-3995999/)
 
@@ -434,6 +441,7 @@ Il gioco utilizza dadi a sei facce. Si tirano diversi dadi contemporaneamente, c
 La maggior parte delle meccaniche del gioco si basa su questo formato di base.
 
 # Tiro d'Azione | Meccaniche
+
 
 ![Immagine di KELLEPICS su pixabay.com](https://pixabay.com/photos/fantasy-city-landscape-architecture-3898554/)
 
@@ -583,6 +591,7 @@ Ora, facciamo un riepilogo di quanto accade quando effettui un tiro d'azione.
 
 # Conseguenze| Meccaniche
 
+
 ![Immagine di KELLEPICS da pixabay.com](https://pixabay.com/photos/fantasy-city-castle-light-heaven-4382262/)
 
 **_A volte le cose vanno per il verso giusto. Altre volte..._**
@@ -706,6 +715,7 @@ Anche con le meccaniche di sicurezza in atto, gli incidenti possono accadere. Ec
 > - **Peggioramento della Condizione**: prendi **1 stress** per ogni valutazione delle conseguenze sulla condizione.
 
 # Tiro Risolutezza | Meccaniche
+
 
 ![Immagine di KELLEPICS da pixabay.com](https://pixabay.com/illustrations/fantasy-battle-warrior-fire-falcon-3721894/)
 
@@ -864,6 +874,7 @@ Non utilizziamo i dadi per supportare questa meccanica perché non riteniamo che
 > - Quando ti riposi, riduci il profilo o cerchi cure mediche, svuota da 1 a 4 segmenti dal tuo orologio dello **stress** e aggiorna la tua **condizione**.
 
 # Tiro della Fortuna | Meccaniche
+
 
 ![Immagine di KELLEPICS da pixabay.com](https://pixabay.com/photos/city-sunset-planet-mars-heaven-5312660/)
 
@@ -1144,6 +1155,7 @@ Un **traguardo** avviene **alla fine di un grande evento** nella storia. Questo 
 
 Un **talento** fornisce un nuovo **punto azione** da investire nelle **azioni** del personaggio, o un nuovo **talento situazionale** che offre un aumento temporaneo al personaggio in circostanze specifiche.
 
+
 Quando un giocatore ottiene un **talento situazionale**, deve decidere una situazione specifica che attiva il talento. Il giocatore sceglie ciò che ritiene sia meglio per il proprio personaggio e annota le proprie decisioni riempiendo gli spazi vuoti sulla propria scheda del personaggio. Per ispirazione, guarda ciò che è già stato stabilito nel mondo di gioco e scegli qualcosa che faccia brillare il tuo personaggio.
 
 Il GM probabilmente sentirà quando è il momento di un traguardo, ma come giocatore puoi sempre ricordare al GM "_Ehi, sembrava un evento importante nella storia, potrebbe essere un traguardo?_".
@@ -1379,6 +1391,7 @@ Questo capitolo ripercorre i punti più importanti del libro in un breve riassun
 > Scegli una delle seguenti opzioni:
 >
 > - L'**effetto** del tiro viene ridotto.
+
 > - Si verifica una **complicazione** narrativa (puoi tener traccia di questa sulla scheda del personaggio).
 > - L'opportunità è persa e il PG deve provare un nuovo approccio.
 > - Il **rischio** aumenta.
@@ -2017,8 +2030,9 @@ Prendi nota di questo asset nella tua scheda del personaggio e usalo al momento 
 >   - Con un risultato da 1 a 5: non succede nulla.
 >   - Con un 6: crei un asset.
 >   - Con un critico (66): crei due asset.
-> - Se è stato creato un asset, prendi nota di esso nella scheda del personaggio di qualcuno.
 
+> - Se è stato creato un asset, prendi nota di esso nella scheda del personaggio di qualcuno.
+=
 ### Regola Risorse di Favore
 
 È sempre sorprendente quando un giocatore si immerge completamente nel proprio personaggio o ha un'idea fantastica che è troppo brillante per essere ignorata.
@@ -2100,6 +2114,7 @@ Poiché possono essere utilizzati per annullare completamente le conseguenze, i 
 Come i **dettagli** del personaggio, gli allegati forniscono autorizzazioni narrative ai personaggi. Quando vengono rotti, queste autorizzazioni narrative vengono perse.
 
 Per riacquistare o riparare un allegato, il PG deve avviare un **orologio di progresso del progetto** e tenerlo tracciato sulla propria scheda del personaggio.
+=======
 
 L'orologio inizia con 4 segmenti, ma può avere più segmenti se l'allegato è complicato da riparare, se è stato gravemente danneggiato o se è difficile da riottenere.
 
@@ -3043,6 +3058,10 @@ Questo funziona meglio con le regole extra di "Attachment" (per assorbire le con
 
 Il progresso e il pericolo vengono tenuti come lancette astratte per evitare l'onere dell'aggiornamento di una varietà di complicazioni e progetti sulla **scheda del gruppo**. Se il gruppo di gioco desidera avere collegamenti narrativi più diretti con miglioramenti e complicazioni, può tenerli tracciati individualmente come lancette e seguire le stesse regole per il pericolo e il progresso: danneggiare i **dettagli di supporto** con conseguenze e intraprendere progetti per migliorare gli altri.
 
+Invece di tenere traccia del progresso e del pericolo su lancette astratte, il gruppo potrebbe decidere di aggiornare il **foglio del gruppo** ogni volta che ha senso narrativamente. Invece di tenere traccia di lancette aggiuntive, i giocatori possono decidere di aggiornare i dettagli.
+
+Questo funziona meglio con le regole extra di "Attachment" (per assorbire le conseguenze) e "Perdere Progresso tramite l'Aggiunta di Tensione" (per offrire vantaggi ai tiri). I giocatori possono utilizzare progetti a lungo termine per migliorare direttamente i dettagli specifici sul **foglio del gruppo**.
+
 ### Disposizione DettagliataAllegati
 
 Per evitare di complicare troppo le cose, la **disposizione** è positiva, negativa o neutra. Sarebbe possibile consentire una gamma di valori per la **disposizione** (ad esempio da -4 a +4) per consentire una maggiore sfumatura ai **dettagli di supporto** specifici. Se si utilizza questo approccio, probabilmente si vorrà permettere ai giocatori di ottenere progressi e pericolo più rapidamente e considerare solo >+2 / <-2 come "positivo" / "negativo" ai fini del cambiamento di effetto o posizione nei tiri.
@@ -3309,6 +3328,7 @@ L'equipaggiamento è una meccanica che ti consente di portare un certo numero di
 Quando lasci la tua base o il tuo nascondiglio per l'equipaggiamento, decidi la tua **dotazione** e hai un numero di oggetti significativi in base a ciò che scegli. Se desideri una **dotazione normale**, puoi dichiarare fino a 4 oggetti; con una **dotazione pesante**, ne hai fino a 8, anche se i personaggi con una dotazione pesante sono più lenti e si distinguono in mezzo alla folla.
 
 ## Dichiarare l'Equipaggiamento
+
 
 Non decidi quali oggetti fanno parte della tua **dotazione** prima di partire. Invece, **dichiari** di avere un oggetto al momento opportuno purché abbia senso narrativo in base ai tuoi **dettagli**. Quando lo fai, puoi anche spendere 1 **slancio** e scegliere se quell'oggetto sarà **equipaggiamento di supporto** o **equipaggiamento difensivo** per ottenere il beneficio meccanico indicato di seguito. Una volta dichiarato, annota l'equipaggiamento sulla tua scheda del personaggio. L'oggetto è comunque in tuo possesso, se non viene perso o consumato, ma non fornisce ulteriori vantaggi meccanici.
 
