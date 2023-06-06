@@ -1132,7 +1132,7 @@ Man mano che il tempo avanza, i personaggi si evolvono e diventano più versatil
 
 ### Sessioni
 
-Alla fine di ogni **sessione\***, ogni giocatore può guardare il proprio foglio del personaggio e **aggiornare i dettagli** del proprio personaggio\*\***.
+Alla fine di ogni **sessione\***, ogni giocatore può guardare la propria scheda del personaggio e **aggiornare i dettagli** del proprio personaggio\*\***.
 
 Puoi approfittare di questa opportunità per aggiornare i loro **legami**, **aspetto** o persino il loro **concetto** se è successo qualcosa di importante nell'ultima sessione.
 
@@ -1144,7 +1144,7 @@ Un **traguardo** avviene **alla fine di un grande evento** nella storia. Questo 
 
 Un **talento** fornisce un nuovo **punto azione** da investire nelle **azioni** del personaggio, o un nuovo **talento situazionale** che offre un aumento temporaneo al personaggio in circostanze specifiche.
 
-Quando un giocatore ottiene un **talento situazionale**, deve decidere una situazione specifica che attiva il talento. Il giocatore sceglie ciò che ritiene sia meglio per il proprio personaggio e annota le proprie decisioni riempiendo gli spazi vuoti sul proprio foglio del personaggio. Per ispirazione, guarda ciò che è già stato stabilito nel mondo di gioco e scegli qualcosa che faccia brillare il tuo personaggio.
+Quando un giocatore ottiene un **talento situazionale**, deve decidere una situazione specifica che attiva il talento. Il giocatore sceglie ciò che ritiene sia meglio per il proprio personaggio e annota le proprie decisioni riempiendo gli spazi vuoti sulla propria scheda del personaggio. Per ispirazione, guarda ciò che è già stato stabilito nel mondo di gioco e scegli qualcosa che faccia brillare il tuo personaggio.
 
 Il GM probabilmente sentirà quando è il momento di un traguardo, ma come giocatore puoi sempre ricordare al GM "_Ehi, sembrava un evento importante nella storia, potrebbe essere un traguardo?_".
 
@@ -1196,7 +1196,7 @@ Più avanti nella campagna, quando si verifica un traguardo, allora puoi pensare
 
 # Progetti e Complicazioni | Meccaniche
 
-Il foglio del personaggio di Charge ha una sezione denominata **Progetti e Complicazioni** che contiene un insieme di **orologi** vuoti.
+La scheda del personaggio di Charge ha una sezione denominata **Progetti e Complicazioni** che contiene un insieme di **orologi** vuoti.
 
 Questi orologi rappresentano progetti a lungo termine o pericoli in continua evoluzione sui quali il personaggio lavorerà o che esperimenterà durante più sessioni.
 
@@ -1206,7 +1206,7 @@ Forse il tuo personaggio sta accumulando denaro per poter permettersi qualcosa d
 
 In ogni caso, una volta per sessione, se la narrazione lo consente, un personaggio può effettuare un tiro d'azione per lavorare su questi obiettivi a lungo termine. Il giocatore collabora con il GM per descrivere quale azione sta intraprendendo per far avanzare il proprio obiettivo e stabilire l'**effetto** e il **rischio** del tiro.
 
-Questi progetti sono monitorati utilizzando **orologi di progresso** sul foglio del personaggio. Il punteggio di **effetto** del tiro determina quanto progredisce il progetto quando il personaggio ci lavora.
+Questi progetti sono monitorati utilizzando **orologi di progresso** sulla scheda del personaggio. Il punteggio di **effetto** del tiro determina quanto progredisce il progetto quando il personaggio ci lavora.
 
 Al completamento di un progetto, il PG ottiene ciò per cui stava lavorando. La risoluzione di tale progetto crea un nuovo filo narrativo spiegato dal GM. Questo filo è qualcosa che il gruppo può decidere di perseguire o meno.
 
@@ -1214,7 +1214,7 @@ Al completamento di un progetto, il PG ottiene ciò per cui stava lavorando. La 
 
 Forse il dipartimento di polizia sta iniziando a rendersi conto che mancano pezzi nel deposito prove, o forse stai attirando sempre più attenzione su di te e sulla tua squadra dopo gli ultimi lavori.
 
-Quando si verifica una **complicazione** come risultato di una **conseguenza** di un tiro d'azione, il GM può dire al giocatore di avviare o avanzare un **orologio del pericolo** sul foglio del personaggio.
+Quando si verifica una **complicazione** come risultato di una **conseguenza** di un tiro d'azione, il GM può dire al giocatore di avviare o avanzare un **orologio del pericolo** sulla scheda del personaggio.
 
 Queste complicazioni non sono legate alla scena. Invece, sono legate al personaggio o al gruppo nel suo complesso.
 
@@ -1379,7 +1379,7 @@ Questo capitolo ripercorre i punti più importanti del libro in un breve riassun
 > Scegli una delle seguenti opzioni:
 >
 > - L'**effetto** del tiro viene ridotto.
-> - Si verifica una **complicazione** narrativa (puoi tener traccia di questa sul foglio del personaggio).
+> - Si verifica una **complicazione** narrativa (puoi tener traccia di questa sulla scheda del personaggio).
 > - L'opportunità è persa e il PG deve provare un nuovo approccio.
 > - Il **rischio** aumenta.
 > - Il PG subisce **stress**:
@@ -1737,7 +1737,7 @@ Con un po' di preparazione, il game master può creare un set di libretti tra cu
 
 ## Ricetta per Libretti
 
-Ecco una ricetta su come creare un libretto per Charge utilizzando il foglio di personaggio predefinito come base.
+Ecco una ricetta su come creare un libretto per Charge utilizzando la scheda di personaggio predefinito come base.
 
 ### Dettagli
 
@@ -1747,7 +1747,7 @@ Lascia vuota la casella **aspetto** per consentire al giocatore di compilarla. S
 
 ### Azioni
 
-Ogni libretto dovrebbe avere 3 punti azione preassegnati sul foglio di personaggio predefinito. Ciò aiuta il giocatore a capire in cosa questo tipo di personaggio eccelle di default.
+Ogni libretto dovrebbe avere 3 punti azione preassegnati sulla scheda di personaggio predefinita. Ciò aiuta il giocatore a capire in cosa questo tipo di personaggio eccelle di default.
 
 Ciò lascia 4 punti azione che possono assegnare dove vogliono per personalizzare l'implementazione del libretto.
 
@@ -2017,7 +2017,7 @@ Prendi nota di questo asset nella tua scheda del personaggio e usalo al momento 
 >   - Con un risultato da 1 a 5: non succede nulla.
 >   - Con un 6: crei un asset.
 >   - Con un critico (66): crei due asset.
-> - Se è stato creato un asset, prendi nota di esso nel foglio del personaggio di qualcuno.
+> - Se è stato creato un asset, prendi nota di esso nella scheda del personaggio di qualcuno.
 
 ### Regola Risorse di Favore
 
@@ -2099,7 +2099,7 @@ Poiché possono essere utilizzati per annullare completamente le conseguenze, i 
 
 Come i **dettagli** del personaggio, gli allegati forniscono autorizzazioni narrative ai personaggi. Quando vengono rotti, queste autorizzazioni narrative vengono perse.
 
-Per riacquistare o riparare un allegato, il PG deve avviare un **orologio di progresso del progetto** e tenerlo tracciato sul proprio foglio del personaggio.
+Per riacquistare o riparare un allegato, il PG deve avviare un **orologio di progresso del progetto** e tenerlo tracciato sulla propria scheda del personaggio.
 
 L'orologio inizia con 4 segmenti, ma può avere più segmenti se l'allegato è complicato da riparare, se è stato gravemente danneggiato o se è difficile da riottenere.
 
@@ -2577,7 +2577,7 @@ Questo extra aggiunge alcuni concetti alla base di Charge RPG, in particolare:
 
 > \## Avviso sulle cicatrici
 
-> _Gli argomenti di questo Extra hanno un rapporto complicato sia con la vita reale che con i tropi nei media popolari. Pertanto, quando usi queste regole, ricorda che la cultura popolare in generale non ha trattato le disabilità gentilmente, ma che abbiamo un'opportunità fantastica di cambiarlo collettivamente. Queste regole non sono destinate a rendere il tuo personaggio inutilizzabile, ma a creare un registro permanente sul tuo foglio del personaggio e su come interpreti il tuo personaggio delle avventure che hai vissuto. Ma ricorda sempre di prestare attenzione e ascoltare ciò che gli altri con cui condividi il tavolo hanno da dire al riguardo, e rispetta sempre chi vuole che tu rimanga lontano da determinate condizioni o disabilità._
+> _Gli argomenti di questo Extra hanno un rapporto complicato sia con la vita reale che con i tropi nei media popolari. Pertanto, quando usi queste regole, ricorda che la cultura popolare in generale non ha trattato le disabilità gentilmente, ma che abbiamo un'opportunità fantastica di cambiarlo collettivamente. Queste regole non sono destinate a rendere il tuo personaggio inutilizzabile, ma a creare un registro permanente sulla tua scheda del personaggio e su come interpreti il tuo personaggio delle avventure che hai vissuto. Ma ricorda sempre di prestare attenzione e ascoltare ciò che gli altri con cui condividi il tavolo hanno da dire al riguardo, e rispetta sempre chi vuole che tu rimanga lontano da determinate condizioni o disabilità._
 >
 > _Queste regole ti danno la possibilità di abbracciare i cambiamenti ai tuoi personaggi e mostrare come ciò non li rende meno competenti, anche se hanno difficoltà a causa delle cicatrici che hanno. Lo scopo di ciò non è causare una spirale di morte, ma far sì che il mondo abbia un'impressione sul personaggio simile a come i personaggi hanno un'impressione sul mondo._
 
@@ -2589,7 +2589,7 @@ Un personaggio incapacitato non può accumulare altre **cicatrici**, ma ulterior
 
 > \### Sovrapposizione di cicatrici
 >
-> _In alcuni casi, le **cicatrici** finiscono per sovrapporsi a ciò che colpiscono, come perdere il braccio sinistro dopo aver lasciato la mano sinistra, e in quei casi, è del tutto accettabile unire quelle **cicatrici** in una sola cicatrice. Se una **cicatrice** non cambia nulla nel tuo personaggio, non ha alcuna utilità sul foglio del personaggio._
+> _In alcuni casi, le **cicatrici** finiscono per sovrapporsi a ciò che colpiscono, come perdere il braccio sinistro dopo aver lasciato la mano sinistra, e in quei casi, è del tutto accettabile unire quelle **cicatrici** in una sola cicatrice. Se una **cicatrice** non cambia nulla nel tuo personaggio, non ha alcuna utilità sulla scheda del personaggio._
 
 Ricorda di aggiornare anche il tuo aspetto se necessario quando aggiungi **cicatrici**.
 
@@ -2858,9 +2858,7 @@ Ogni **concetto chiave** è un **dettaglio** che si concentra ampiamente sulla p
 
 I **dettagli di supporto** aggiungono dettagli ai **concetti chiave** concentrandosi su persone, luoghi o cose specifiche legate al gruppo in qualche modo (ad esempio, una relazione con una specifica **forza mondiale**).
 
-I quattro **concetti chiave** descrivono la pos
-
-izione del gruppo nelle seguenti categorie:
+I quattro **concetti chiave** descrivono la posizione del gruppo nelle seguenti categorie:
 
 - **Risorse** - Rappresenta le risorse disponibili del gruppo, incluse le finanze e qualsiasi equipaggiamento disponibile.
 - **Alleati** - Rappresenta gli alleati del gruppo, che potrebbero essere contatti chiave specifici o intere organizzazioni pronte a sostenere il gruppo.
@@ -3037,13 +3035,13 @@ Queste regole possono essere adattate in diversi modi. Di seguito sono riportati
 
 ### Nessuna Lancetta
 
-Invece di tenere traccia del progresso e del pericolo su lancette astratte, il gruppo potrebbe decidere di aggiornare il **foglio del gruppo** ogni volta che ha senso narrativamente. Invece di tenere traccia di lancette aggiuntive, i giocatori possono decidere di aggiornare i dettagli.
+Invece di tenere traccia del progresso e del pericolo su lancette astratte, il gruppo potrebbe decidere di aggiornare la **scheda del gruppo** ogni volta che ha senso narrativamente. Invece di tenere traccia di lancette aggiuntive, i giocatori possono decidere di aggiornare i dettagli.
 
-Questo funziona meglio con le regole extra di "Attachment" (per assorbire le conseguenze) e "Perdere Progresso tramite l'Aggiunta di Tensione" (per offrire vantaggi ai tiri). I giocatori possono utilizzare progetti a lungo termine per migliorare direttamente i dettagli specifici sul **foglio del gruppo**.
+Questo funziona meglio con le regole extra di "Attachment" (per assorbire le conseguenze) e "Perdere Progresso tramite l'Aggiunta di Tensione" (per offrire vantaggi ai tiri). I giocatori possono utilizzare progetti a lungo termine per migliorare direttamente i dettagli specifici sulla **scheda del gruppo**.
 
 ### Più Lancette
 
-Il progresso e il pericolo vengono tenuti come lancette astratte per evitare l'onere dell'aggiornamento di una varietà di complicazioni e progetti sul **foglio del gruppo**. Se il gruppo di gioco desidera avere collegamenti narrativi più diretti con miglioramenti e complicazioni, può tenerli tracciati individualmente come lancette e seguire le stesse regole per il pericolo e il progresso: danneggiare i **dettagli di supporto** con conseguenze e intraprendere progetti per migliorare gli altri.
+Il progresso e il pericolo vengono tenuti come lancette astratte per evitare l'onere dell'aggiornamento di una varietà di complicazioni e progetti sulla **scheda del gruppo**. Se il gruppo di gioco desidera avere collegamenti narrativi più diretti con miglioramenti e complicazioni, può tenerli tracciati individualmente come lancette e seguire le stesse regole per il pericolo e il progresso: danneggiare i **dettagli di supporto** con conseguenze e intraprendere progetti per migliorare gli altri.
 
 ### Disposizione DettagliataAllegati
 
@@ -3061,21 +3059,21 @@ I **dettagli di supporto** neutrali sono spesso una combinazione di tratti posit
 
 ### Extra di Allegati
 
-Per alcuni dettagli di supporto potrebbe avere senso subire danni direttamente a un dettaglio di supporto anziché segnare una conseguenza sul contatore di pericolo del gruppo. In questo caso, potresti eliminare completamente il contatore di pericolo e infliggere direttamente danni ai dettagli sul **foglio del gruppo**.
+Per alcuni dettagli di supporto potrebbe avere senso subire danni direttamente a un dettaglio di supporto anziché segnare una conseguenza sul contatore di pericolo del gruppo. In questo caso, potresti eliminare completamente il contatore di pericolo e infliggere direttamente danni ai dettagli sulla **scheda del gruppo**.
 
 ### Forze del Mondo
 
-Un modo semplice per i giochi Powered by Charge di semplificare il riempimento del **foglio del gruppo** è definire alcune forze del mondo e consentire ai giocatori di sceglierne alcune come alleati o avversari.
+Un modo semplice per i giochi Powered by Charge di semplificare il riempimento della **scheda del gruppo** è definire alcune forze del mondo e consentire ai giocatori di sceglierne alcune come alleati o avversari.
 
 ### Extra del Mondo
 
-L'extra del Mondo offre opzioni per aiutare il GM a pianificare la prossima missione. Una delle tre carte pescate potrebbe fare riferimento a un **dettaglio di supporto** specifico per collegare l'avventura alla finzione esistente trovata nel **foglio del gruppo**.
+L'extra del Mondo offre opzioni per aiutare il GM a pianificare la prossima missione. Una delle tre carte pescate potrebbe fare riferimento a un **dettaglio di supporto** specifico per collegare l'avventura alla finzione esistente trovata nella **scheda del gruppo**.
 
 Per collegarsi a un **concetto chiave** specifico, i Cuori sono Alleati, i Quadri sono Risorse, le Picche sono Avversari e i Fiori sono Autorità.
 
 ### Extra degli Obiettivi
 
-Il progresso sul **foglio del gruppo** potrebbe avvenire quando vengono completati traguardi o progetti a lungo termine. Gli obiettivi sono un altro modo per offrire progressi ai giocatori, consentendo loro di concentrarsi su **dettagli di supporto** specifici da potenziare. In questo caso, non dovrebbero essere disponibili più di alcuni obiettivi contemporaneamente.
+Il progresso sulla **scheda del gruppo** potrebbe avvenire quando vengono completati traguardi o progetti a lungo termine. Gli obiettivi sono un altro modo per offrire progressi ai giocatori, consentendo loro di concentrarsi su **dettagli di supporto** specifici da potenziare. In questo caso, non dovrebbero essere disponibili più di alcuni obiettivi contemporaneamente.
 
 > \## Riassunto
 >
@@ -3312,7 +3310,7 @@ Quando lasci la tua base o il tuo nascondiglio per l'equipaggiamento, decidi la 
 
 ## Dichiarare l'Equipaggiamento
 
-Non decidi quali oggetti fanno parte della tua **dotazione** prima di partire. Invece, **dichiari** di avere un oggetto al momento opportuno purché abbia senso narrativo in base ai tuoi **dettagli**. Quando lo fai, puoi anche spendere 1 **slancio** e scegliere se quell'oggetto sarà **equipaggiamento di supporto** o **equipaggiamento difensivo** per ottenere il beneficio meccanico indicato di seguito. Una volta dichiarato, annota l'equipaggiamento sul tuo foglio del personaggio. L'oggetto è comunque in tuo possesso, se non viene perso o consumato, ma non fornisce ulteriori vantaggi meccanici.
+Non decidi quali oggetti fanno parte della tua **dotazione** prima di partire. Invece, **dichiari** di avere un oggetto al momento opportuno purché abbia senso narrativo in base ai tuoi **dettagli**. Quando lo fai, puoi anche spendere 1 **slancio** e scegliere se quell'oggetto sarà **equipaggiamento di supporto** o **equipaggiamento difensivo** per ottenere il beneficio meccanico indicato di seguito. Una volta dichiarato, annota l'equipaggiamento sulla tua scheda del personaggio. L'oggetto è comunque in tuo possesso, se non viene perso o consumato, ma non fornisce ulteriori vantaggi meccanici.
 
 Puoi ancora spingerti oltre i tuoi limiti o essere assistito quando **dichiari** l'equipaggiamento.
 
@@ -3322,7 +3320,7 @@ L'**equipaggiamento difensivo** rappresenta una preparazione difensiva che il pe
 
 > \#### Esempio
 >
-> _Il personaggio di Jaden, Oza, un ladro goblin, sta cercando di scalare un muro per entrare nella residenza di un nobile. Per aiutarsi a superare l'ostacolo, dichiara di avere un rampino, spendendo 1 carica di slancio e aggiungendo +1d6 al suo tiro d'azione. Jaden segna sul suo foglio che Oza ha un rampino, quindi se ne avesse bisogno in futuro, potrà tirarlo fuori di nuovo (anche se non otterrà il bonus +1d6). Dopo essere atterrato dall'altro lato del muro, Oza si trova faccia a faccia con un mercenario paziente, che lo pugnala al petto. Invece di subire due stress, Jaden dichiara che Oza indossava una corazza rinforzata per sicurezza, segnando un altro slancio e altri due slot di equipaggiamento nella sua dotazione._
+> _Il personaggio di Jaden, Oza, un ladro goblin, sta cercando di scalare un muro per entrare nella residenza di un nobile. Per aiutarsi a superare l'ostacolo, dichiara di avere un rampino, spendendo 1 carica di slancio e aggiungendo +1d6 al suo tiro d'azione. Jaden segna sulla sua scheda che Oza ha un rampino, quindi se ne avesse bisogno in futuro, potrà tirarlo fuori di nuovo (anche se non otterrà il bonus +1d6). Dopo essere atterrato dall'altro lato del muro, Oza si trova faccia a faccia con un mercenario paziente, che lo pugnala al petto. Invece di subire due stress, Jaden dichiara che Oza indossava una corazza rinforzata per sicurezza, segnando un altro slancio e altri due slot di equipaggiamento nella sua dotazione._
 
 > \## Note per il Game Master
 >
