@@ -75,7 +75,7 @@ Desidero ringraziare velocemente i miei amici che mi hanno aiutato a rendere que
 
 # Obiettivi | Potenzia la tua narrazione
 
-[![Immagine di KELLEPICS da pixabay.com](https://gyazo.com/4e66d10b4b1784cc27093097134aaa35.png)](https://pixabay.com/illustrations/fantasy-sun-sea-dragon-flying-4033001/)
+![Immagine di KELLEPICS da pixabay.com](https://pixabay.com/illustrations/fantasy-sun-sea-dragon-flying-4033001/)
 
 Ci sono migliaia di ottimi giochi di ruolo da tavolo là fuori. Alcuni sono generici, come Charge, mentre altri sono realizzati con un contesto molto specifico in mente. In quest'ultimo caso, le meccaniche sono spesso create per rafforzare il contesto.
 
@@ -198,7 +198,7 @@ Puoi trovare ciascuno di questi termini nella scheda del personaggio, ma vediamo
 
 I personaggi sono definiti da tratti descrittivi chiamati **dettagli**. Ogni personaggio di solito ne ha tra 2 e 5 per evidenziare chi sono e cosa è importante di loro. Questi dettagli non sono solo informazioni che danno colore al personaggio, ma dovrebbero essere gli aspetti del personaggio a cui prestiamo attenzione nella storia. Vengono anche utilizzati come guida per conoscere le diverse libertà narrative che un personaggio ha nella finzione.
 
-![](./images/details_ita.png)
+![Dettagli](./images/details_ita.png)
 
 ### Concetto
 
@@ -332,7 +332,7 @@ Lo **slancio** di un personaggio è una misura che rappresenta l'impatto del tuo
 
 All'inizio di ogni sessione, inizi con 2 cariche di slancio e le consumi per potenziare i tuoi tiri d'azione o aiutare i tuoi compagni di squadra.
 
-![](./images/momentum_ita.png)
+![Slancio](./images/momentum_ita.png)
 
 ## Stress e Condizioni
 
@@ -370,7 +370,7 @@ I **talenti** sono un modo per far progredire i personaggi nel corso di una camp
 
 Col passare del tempo, i personaggi ottengono nuovi **punti talento**, che fanno avanzare il loro albero dei talenti.
 
-![](./images/talents_ita.png)
+![Talenti](./images/talents_ita.png)
 
 Ogni punto nell'albero dei talenti ti offre un nuovo **punto d'azione** o un **bonus situazionale**.
 
@@ -384,7 +384,7 @@ Quando la tua campagna raggiunge un punto di svolta significativo, puoi leggere 
 
 La sezione **Progetti e Complicazioni** della scheda del personaggio è qualcosa che il GM e i giocatori utilizzano per tenere traccia di progetti a lungo termine o pericoli in continua evoluzione che si estendono su più sessioni.
 
-![](./images/project-complications_ita.png)
+![Progetti & Complicazioni](./images/project-complications_ita.png)
 
 Non è necessario sapere come utilizzarlo immediatamente, quindi per saperne di più al riguardo, consulta [**Meccaniche&nbsp;»&nbsp;Progetti e Complicazioni**](progetti-e-complicazioni).
 
@@ -405,7 +405,7 @@ Ora esamineremo tutte le meccaniche utilizzate nel gioco che servono a risolvere
 
 # Fiction First | Meccaniche
 
-![Immagine di Yuri_B su pixabay.com](https://gyazo.com/d6e7b317330d9dd554970cc75543ea7e.png)](https://pixabay.com/illustrations/painting-knight-night-oil-paints-3995999/)
+![Immagine di Yuri_B su pixabay.com](https://pixabay.com/illustrations/painting-knight-night-oil-paints-3995999/)
 
 **Charge è un gioco "fiction first".**
 
@@ -435,7 +435,7 @@ La maggior parte delle meccaniche del gioco si basa su questo formato di base.
 
 # Tiro d'Azione | Meccaniche
 
-[![Immagine di KELLEPICS su pixabay.com](https://gyazo.com/a2bbeb6748035e90162096c3e0a9680a.png)](https://pixabay.com/photos/fantasy-city-landscape-architecture-3898554/)
+![Immagine di KELLEPICS su pixabay.com](https://pixabay.com/photos/fantasy-city-landscape-architecture-3898554/)
 
 **_Ho un brutto presentimento..._**
 
@@ -583,7 +583,7 @@ Ora, facciamo un riepilogo di quanto accade quando effettui un tiro d'azione.
 
 # Conseguenze| Meccaniche
 
-[![Immagine di KELLEPICS da pixabay.com](https://gyazo.com/7b40cf4934bebc8628bd3696c4e3b92c.png)](https://pixabay.com/photos/fantasy-city-castle-light-heaven-4382262/)
+![Immagine di KELLEPICS da pixabay.com](https://pixabay.com/photos/fantasy-city-castle-light-heaven-4382262/)
 
 **_A volte le cose vanno per il verso giusto. Altre volte..._**
 
@@ -707,7 +707,7 @@ Anche con le meccaniche di sicurezza in atto, gli incidenti possono accadere. Ec
 
 # Tiro Risolutezza | Meccaniche
 
-[![Immagine di KELLEPICS da pixabay.com](https://gyazo.com/3c9ae5d526da51b44be1e7953077be51.png)](https://pixabay.com/illustrations/fantasy-battle-warrior-fire-falcon-3721894/)
+![Immagine di KELLEPICS da pixabay.com](https://pixabay.com/illustrations/fantasy-battle-warrior-fire-falcon-3721894/)
 
 **_Non mentre io ci sono! (sei pieno di determinazione)_**
 
@@ -827,7 +827,7 @@ Ad esempio, se vuoi enfatizzare il fatto che la vita è difficile e le risorse s
 
 # Recupero | Meccaniche
 
-[![Immagine di KELLEPICS da pixabay.com](https://gyazo.com/152570ee1895591ed40e267ac4eb35c1.png)](https://pixabay.com/photos/city-planet-futuristic-earth-5312500/)
+![Immagine di KELLEPICS da pixabay.com](https://pixabay.com/photos/city-planet-futuristic-earth-5312500/)
 
 **_Ora, respira..._**
 
@@ -865,9 +865,7 @@ Non utilizziamo i dadi per supportare questa meccanica perché non riteniamo che
 
 # Tiro della Fortuna | Meccaniche
 
-[![Immagine di KELLEPICS da pixabay.com](https://gyazo.com/66adea5dff68c16c02527472648c8110.png
-
-)](https://pixabay.com/photos/city-sunset-planet-mars-heaven-5312660/)
+![Immagine di KELLEPICS da pixabay.com](https://pixabay.com/photos/city-sunset-planet-mars-heaven-5312660/)
 
 **_Il futuro è in costante flusso._**
 
@@ -909,7 +907,7 @@ Non pensarci troppo, perché questa regola non dovrebbe ostacolare il gioco. Que
 
 # Recupero | Meccaniche
 
-[![Immagine di KELLEPICS da pixabay.com](https://gyazo.com/152570ee1895591ed40e267ac4eb35c1.png)](https://pixabay.com/photos/city-planet-futuristic-earth-5312500/)
+![Immagine di KELLEPICS da pixabay.com](https://pixabay.com/photos/city-planet-futuristic-earth-5312500/)
 
 **_Ora, respira..._**
 
@@ -947,7 +945,7 @@ Non utilizziamo i dadi per supportare questa meccanica perché non riteniamo che
 
 # Tiro della Fortuna | Meccaniche
 
-[![Immagine di KELLEPICS da pixabay.com](https://gyazo.com/66adea5dff68c16c02527472648c8110.png)](https://pixabay.com/photos/city-sunset-planet-mars-heaven-5312660/)
+![Immagine di KELLEPICS da pixabay.com](https://pixabay.com/photos/city-sunset-planet-mars-heaven-5312660/)
 
 **_Il futuro è in costante flusso._**
 
@@ -991,7 +989,7 @@ Non pensarci troppo, perché questa regola non dovrebbe ostacolare il gioco. Que
 
 # Lavoro di Squadra | Meccaniche
 
-[![Immagine di KELLEPICS da pixabay.com](https://gyazo.com/3cdd5a6bc018b408a461740f0f4451a1.png)](https://pixabay.com/photos/fantasy-moon-people-night-dream-6203763/)
+![Immagine di KELLEPICS da pixabay.com](https://pixabay.com/photos/fantasy-moon-people-night-dream-6203763/)
 
 **_È pericoloso andare da soli, prendi questo!_**
 
@@ -1043,7 +1041,7 @@ Questo dà loro una possibilità di combattere.
 
 # Orologi | Meccaniche
 
-[![Immagine di KELLEPICS da pixabay.com](https://gyazo.com/635caaef063a8652b3ce86a0ad3eeb7a.png)](https://pixabay.com/photos/fantasy-clock-time-light-magic-3517206/)
+![Immagine di KELLEPICS da pixabay.com](https://pixabay.com/photos/fantasy-clock-time-light-magic-3517206/)
 
 Un **orologio** è un cerchio **diviso in 4, 6 o 8 segmenti**. Disegna un orologio quando devi tenere traccia di uno sforzo continuo contro un ostacolo che non può essere risolto con un semplice tiro d'azione.
 
@@ -1122,7 +1120,7 @@ Ecco un paio di esempi di come gli orologi potrebbero essere usati per rappresen
 
 # Progressione | Meccaniche
 
-[![Immagine di KELLEPICS da pixabay.com](https://gyazo.com/8aeb209f8442ddf2ed9dab425bd9b603.png)](https://pixabay.com/photos/cave-fantastic-light-nature-6481713/)
+![Immagine di KELLEPICS da pixabay.com]((https://pixabay.com/photos/cave-fantastic-light-nature-6481713/)
 
 **_È qualcosa che non dimenticherò mai._**
 
@@ -1174,7 +1172,7 @@ Ottenere un nuovo talento sarà come un soffio di aria fresca. Non renderà i tu
 >
 > Ciò darà loro un vantaggio in determinate situazioni, senza rompere l'equilibrio del gioco.
 >
-> C'è un [foglio del personaggio adattato](character-sheet) per iniziare.
+> C'è una [scheda del personaggio adattata](#scheda-personaggi) per iniziare.
 
 ### Talenti Situazionali
 
