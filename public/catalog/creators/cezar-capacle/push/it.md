@@ -1,6 +1,6 @@
 # Panoramica
 
-## La versione di 5 minuti
+## La versione da 5 minuti
 
 Va bene, so che un libro completo per un SRD può sembrare intimidatorio, quindi andiamo dritti al punto. Se non hai il tempo o l'energia di leggere l'intera cosa, ecco un inizio veloce.
 
@@ -8,11 +8,11 @@ Va bene, so che un libro completo per un SRD può sembrare intimidatorio, quindi
 
 1. Crea il tuo **Slogan**, un breve paragrafo che parla del mondo, dei suoi conflitti e dei protagonisti.
 2. Elenca i **Temi** del tuo gioco e aggiungi uno **strumento di sicurezza**.
-3. Crea un insieme di **Caratteristiche** tra cui i giocatori potranno scegliere per creare i loro **Personaggi**.
+3. Crea un insieme di **Tratti** tra cui i giocatori potranno scegliere per creare i loro **Personaggi**.
 4. Pensate a una **Missione** che includa:
-   1. Una **Missione**, l'incidente che richiede un'azione immediata.
+   1. Un **Obiettivo**, l'incidente che richiede un'azione immediata.
    2. Una **Matrice**, una tabella di 36 spunti con momenti che potrebbero verificarsi durante l'avventura.
-   3. Un **Agenda**, una lista di 6 obiettivi che esprimono i comportamenti che desideri premiare ai giocatori.
+   3. Un'**Agenda**, una lista di 6 obiettivi che esprimono i comportamenti che desideri premiare ai giocatori.
 5. Mettilo tutto in due pagine e hai finito!
 
 ### Come gestire un gioco basato su Push
@@ -30,7 +30,7 @@ Va bene, so che un libro completo per un SRD può sembrare intimidatorio, quindi
 
 Questo è l'essenziale. L'intero libro è dedicato a spiegare tutti i termini in **grassetto** sopra, offrendo consigli e orientamenti su come utilizzare questo sistema per creare e giocare ai propri giochi. Buon divertimento!
 
-## Cos'è Push
+## Cos'è Push?
 
 Push è un sistema di gioco di ruolo leggero e basato sulla storia, progettato per avventure cooperative e ricche d'azione. È un motore adatto a qualsiasi genere, che puoi utilizzare per creare i tuoi giochi su personaggi straordinari che intraprendono pericolose missioni in mondi fantastici.
 
@@ -343,7 +343,7 @@ Dopo che i giocatori hanno scelto i loro tratti, sono invitati a condividere la 
 
 I giochi basati su Push sono orientati alle missioni. Ciò significa che quando crei il tuo gioco, stai effettivamente creando avventure compilando la **Scheda della Missione**. Non c'è costruzione del mondo (e del design di gioco, in realtà) al di fuori delle missioni e dei personaggi. Vediamo come farlo.
 
-### L'obiettivo
+### L'Obiettivo
 
 La prima cosa di cui hai bisogno per la tua Missione è l'obiettivo. Pensa a un evento iniziale che richiede un'azione immediata, in modo che i personaggi vengano messi in movimento. Se hai bisogno di aiuto, prova a seguire la struttura qui sotto. Inizia con questa frase:
 
@@ -450,7 +450,7 @@ In questo capitolo, presenterò indicazioni su come un gruppo di giocatori potre
 
 Essendo un sistema senza GM, sono convinto che si benefici di un ciclo di gioco strutturato. Poiché non c'è un'autorità singola che risponda a ciò che accade successivamente, il gruppo può semplicemente seguire i passaggi in ordine e far progredire la storia da soli. Ecco come funziona.
 
-### 1. Tira sulla matrice
+### 1. Tirare sulla matrice
 
 Dopo che i giocatori hanno familiarizzato con la presentazione del gioco e lo scopo della Missione (e hanno preparato i loro personaggi), iniziano a giocare scegliendo un giocatore che tira 2d6 sulla Matrice per ottenere uno spunto casuale. Lo leggono ad alta voce e il gruppo discute insieme ciò che pensano che significhi, dipingendo la scena a tratti ampi.
 
@@ -488,7 +488,7 @@ I giocatori possono combinare diverse sfide (risolvere un enigma durante una lot
 >
 >   _La luce disorientante delle pareti perlacee_
 
-### 3. Descrivere la scena
+### 3. Inquadrare la scena
 
 Ora è il momento di dare vita a questa scena. I giocatori possono scegliere un elemento (o tirare 2d6) dalla tabella qui sotto da aggiungere alla descrizione della scena.
 
