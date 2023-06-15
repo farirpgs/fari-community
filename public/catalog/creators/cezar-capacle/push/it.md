@@ -191,6 +191,14 @@ In termini di design di gioco, la capacità di determinare quando una sfida è f
 
 Senza numeri che ti dicono quando una sfida sia finita, non c'è bisogno di prolungare una scena dopo che ha offerto ciò che ti aspettavi da essa, e non c'è neanche bisogno di interrompere bruscamente una scena che stai ancora apprezzando. E puoi sempre ricorrere all'Oracolo se non riesci a decidere.
 
+### Una Domanda Binaria
+
+Bene, ora che hai deciso che non hai la risposta e vuoi chiederla all'Oracolo, devi formulare una domanda del tipo Sì o No. A dire il vero, la maggior parte delle volte, questo è già il tipo di domanda che faresti normalmente. "Posso...", "È...", "Ho...", "C'è...", "Faccio...", sono tutte domande con risposta affermativa o negativa che costituiscono la maggior parte delle richieste dei giocatori.
+
+Se hai una domanda aperta (di solito quelle che iniziano con Come, Quando, Dove, Chi, Cosa e Perché), devi riformularla. "Dov'è il castello?" diventa "Il castello è vicino?". "Come sono vestiti" diventa "Indossano abiti eleganti?".
+
+Come si vede, è necessario formulare almeno un'ipotesi per una domanda aperta e poi verificare se è vera usando l'Oracolo. Se giochi in gruppo, è un buon momento per invitare i vostri amici a collaborare. Non dovresti però dedicarci troppo tempo. La prima idea che ti viene in mente di solito è la migliore. L'unica cosa di cui devi essere sicuro è che sei veramente interessato a entrambi i risultati, altrimenti non avrebbe senso chiedere all'Oracolo.
+
 ### Probabilità
 
 Ora che hai la tua domanda, devi decidere se la risposta più probabile sia Sì o No. Non è sempre ovvio, ma di nuovo, non devi pensarci troppo. Segui il tuo istinto. Se ritieni che entrambe le risposte siano altrettanto plausibili, scegli quella che ti emoziona di più come risposta probabile.
@@ -297,9 +305,9 @@ I tratti in Push sono organizzati in **categorie**. Quando crei il tuo gioco, ti
 
 **ESPERIENZA:** cose che hai vissuto. Include addestramento, studi, occupazioni, professioni, eventi di vita, viaggi intrapresi, scelte fatte, sfide affrontate, abilità acquisite, decisioni prese, colpi di destino.
 
-**MARCHIO:** cose che emergono. Include particolarità, modi di fare, credenze, istinti, valori, tratti di personalità, aspetto fisico.
+**SEGNO:** cose che emergono. Include particolarità, modi di fare, credenze, istinti, valori, tratti di personalità, aspetto fisico.
 
-**FASCINO:** cose che tieni a cuore. Include artefatti, gadget, armi, armature, veicoli, cavalcature, gingilli, abiti, animali domestici, famigli, compagni animali.
+**AMULETO:** cose che tieni a cuore. Include artefatti, gadget, armi, armature, veicoli, cavalcature, gingilli, abiti, animali domestici, famigli, compagni animali.
 
 **LEGAME:** cose a cui sei legato. Include missioni, obblighi, legami familiari, affiliazioni, debiti, obiettivi personali.
 
@@ -326,7 +334,7 @@ Includerei anche queste tre istruzioni per i giocatori sulla scelta dei tratti:
 | Forza dell'orso        | Signore di Quaruna        | Discepolo della Lingua d'Argento     |
 | Occhi viola di Sohria  | Il popolo di Ferro        | Portatore di arenaria                |
 
-| MARCHIO                                                    | FASCINO                   | LEGAME                                   |
+| SEGNO                                                    | AMULETO                   | LEGAME                                   |
 | ---------------------------------------------------------- | ------------------------- | ---------------------------------------- |
 | Una poesia per ogni occasione                              | Un falco di neve          | La Gilda del Mare Nero                   |
 | Una tazza di tè Nuna risolve la maggior parte dei problemi | La Spada di Zaffiro       | Ripristinare la Fede dell'Albero Perduto |
