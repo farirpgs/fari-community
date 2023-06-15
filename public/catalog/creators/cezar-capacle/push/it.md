@@ -1,6 +1,6 @@
 # Panoramica
 
-## La versione di 5 minuti
+## La versione da 5 minuti
 
 Va bene, so che un libro completo per un SRD può sembrare intimidatorio, quindi andiamo dritti al punto. Se non hai il tempo o l'energia di leggere l'intera cosa, ecco un inizio veloce.
 
@@ -8,11 +8,11 @@ Va bene, so che un libro completo per un SRD può sembrare intimidatorio, quindi
 
 1. Crea il tuo **Slogan**, un breve paragrafo che parla del mondo, dei suoi conflitti e dei protagonisti.
 2. Elenca i **Temi** del tuo gioco e aggiungi uno **strumento di sicurezza**.
-3. Crea un insieme di **Caratteristiche** tra cui i giocatori potranno scegliere per creare i loro **Personaggi**.
+3. Crea un insieme di **Tratti** tra cui i giocatori potranno scegliere per creare i loro **Personaggi**.
 4. Pensate a una **Missione** che includa:
-   1. Una **Missione**, l'incidente che richiede un'azione immediata.
+   1. Un **Obiettivo**, l'incidente che richiede un'azione immediata.
    2. Una **Matrice**, una tabella di 36 spunti con momenti che potrebbero verificarsi durante l'avventura.
-   3. Un **Agenda**, una lista di 6 obiettivi che esprimono i comportamenti che desideri premiare ai giocatori.
+   3. Un'**Agenda**, una lista di 6 obiettivi che esprimono i comportamenti che desideri premiare ai giocatori.
 5. Mettilo tutto in due pagine e hai finito!
 
 ### Come gestire un gioco basato su Push
@@ -30,7 +30,7 @@ Va bene, so che un libro completo per un SRD può sembrare intimidatorio, quindi
 
 Questo è l'essenziale. L'intero libro è dedicato a spiegare tutti i termini in **grassetto** sopra, offrendo consigli e orientamenti su come utilizzare questo sistema per creare e giocare ai propri giochi. Buon divertimento!
 
-## Cos'è Push
+## Cos'è Push?
 
 Push è un sistema di gioco di ruolo leggero e basato sulla storia, progettato per avventure cooperative e ricche d'azione. È un motore adatto a qualsiasi genere, che puoi utilizzare per creare i tuoi giochi su personaggi straordinari che intraprendono pericolose missioni in mondi fantastici.
 
@@ -54,8 +54,8 @@ I giochi basati su Push richiederanno:
 - **Gioco cooperativo:** Push non ha un Game Master. Tutti i giocatori condividono la responsabilità di portare la storia alla vita, si alternano nel centro dell'attenzione, aggiungono sfumature al mondo e ai suoi abitanti, fanno domande e danno risposte, e mantengono lo spazio di gioco un ambiente divertente e sicuro. Il gioco si basa sul consenso. Quando non si riesce a raggiungere un accordo o una domanda urgente non ha una risposta ovvia, c'è l'Oracolo che salva la situazione.
 - **Senza statistiche:** Non ci sono statistiche nel gioco. Personaggi, nemici, armi, oggetti, denaro. Nulla ha un numero o una meccanica associata. I tiri dei dadi sono influenzati solo dalla fortuna e dalla presa di rischi, e i dadi influenzano solo la finzione. Non ci sono risorse da tenere traccia.
 - **Narrativa emergente:** I giochi basati su Push non offrono una trama precostruita del mondo. Invece, il design incentrato sulla missione fornisce ai giocatori spunti evocativi su cui agire. L'ambientazione emerge attraverso persone, luoghi, oggetti ed eventi. Attraverso l'interazione tra personaggi e situazioni, i giocatori costruiscono un mondo proprio con il framework fornito.
-- **Immaginazione in primo piano:** Push non utilizza griglie, righelli o definizioni prescrittive delle abilità e delle sfide. Si incoraggia i giocatori a trovare usi creativi delle caratteristiche dei loro personaggi e a utilizzare l'immaginazione per determinare liberamente quanto lontano, quanto veloce e quanto difficile sono le cose in una determinata circostanza.
-- **I dadi comportano dramma:** Tirare i dadi è _sempre un'opzione, mai un obbligo_. Quando lo fai, il sistema si orienta fortemente verso successi parziali. Ma anche un fallimento non è mai un vicolo cieco. "Nulla" non accade mai. Le circostanze cambiano dopo ogni lancio.
+- **Prima l'immaginazione:** Push non utilizza griglie, righelli o definizioni prescrittive delle abilità e delle sfide. Si incoraggia i giocatori a trovare usi creativi delle caratteristiche dei loro personaggi e a utilizzare l'immaginazione per determinare liberamente quanto lontano, quanto veloce e quanto difficile sono le cose in una determinata circostanza.
+- **I dadi portano dramma:** Tirare i dadi è _sempre un'opzione, mai un obbligo_. Quando lo fai, il sistema si orienta fortemente verso successi parziali. Ma anche un fallimento non è mai un vicolo cieco. "Nulla" non accade mai. Le circostanze cambiano dopo ogni tiro.
 - **Protagonisti competenti:** i personaggi sono i protagonisti dell'avventura. Come tali, sono unici e capaci di influenzare il corso della loro storia. E non muoiono a meno che il giocatore non lo decida.
 
 ### Che cos'è questo documento?
@@ -92,7 +92,7 @@ Non ce ne sono. Il tiro di base non è influenzato da abilità, talenti, capacit
 
 ### Drammaticamente interessante
 
-La regola centrale stabilisce che dovresti tirare \*quando il tuo personaggio tenta qualcosa che **ritieni dramaticamente interessante**.\* Nota che questa è una definizione volutamente vaga e personale. Tu, il giocatore, decidi quando tirare. Non è mai _necessario_ tirare, ma potresti _volerlo_. Non deve essere un'azione rischiosa o ad alto rischio. Se sei entusiasta di tirare per un'azione, fallo. I dadi non ti puniranno, almeno non meccanicamente. A causa di come funzionano, quando usi i dadi, stai invitando il dramma nella scena.
+La regola centrale stabilisce che dovresti tirare *quando il tuo personaggio tenta qualcosa che **ritieni dramaticamente interessante**.* Nota che questa è una definizione volutamente vaga e personale. Tu, il giocatore, decidi quando tirare. Non è mai _necessario_ tirare, ma potresti _volerlo_. Non deve essere un'azione rischiosa o ad alto rischio. Se sei entusiasta di tirare per un'azione, fallo. I dadi non ti puniranno, almeno non meccanicamente. A causa di come funzionano, quando usi i dadi, stai invitando il dramma nella scena.
 
 D'altra parte, se non ti senti coinvolto nelle possibili conseguenze sorprendenti di un'azione, semplicemente non tirare. Nel caso in cui non sia sicuro se dovresti o non dovresti tirare, consulta gli altri giocatori o l'Oracolo.
 
@@ -191,6 +191,14 @@ In termini di design di gioco, la capacità di determinare quando una sfida è f
 
 Senza numeri che ti dicono quando una sfida sia finita, non c'è bisogno di prolungare una scena dopo che ha offerto ciò che ti aspettavi da essa, e non c'è neanche bisogno di interrompere bruscamente una scena che stai ancora apprezzando. E puoi sempre ricorrere all'Oracolo se non riesci a decidere.
 
+### Una Domanda Sì o No
+
+Bene, ora che hai deciso che non hai la risposta e vuoi chiederla all'Oracolo, devi formulare una domanda del tipo Sì o No. A dire il vero, la maggior parte delle volte, questo è già il tipo di domanda che faresti normalmente. "Posso...", "È...", "Ho...", "C'è...", "Faccio...", sono tutte domande con risposta affermativa o negativa che costituiscono la maggior parte delle richieste dei giocatori.
+
+Se hai una domanda aperta (di solito quelle che iniziano con Come, Quando, Dove, Chi, Cosa e Perché), devi riformularla. "Dov'è il castello?" diventa "Il castello è vicino?". "Come sono vestiti" diventa "Indossano abiti eleganti?".
+
+Come si vede, è necessario formulare almeno un'ipotesi per una domanda aperta e poi verificare se è vera usando l'Oracolo. Se giochi in gruppo, è un buon momento per invitare i vostri amici a collaborare. Non dovresti però dedicarci troppo tempo. La prima idea che ti viene in mente di solito è la migliore. L'unica cosa di cui devi essere sicuro è che sei veramente interessato a entrambi i risultati, altrimenti non avrebbe senso chiedere all'Oracolo.
+
 ### Probabilità
 
 Ora che hai la tua domanda, devi decidere se la risposta più probabile sia Sì o No. Non è sempre ovvio, ma di nuovo, non devi pensarci troppo. Segui il tuo istinto. Se ritieni che entrambe le risposte siano altrettanto plausibili, scegli quella che ti emoziona di più come risposta probabile.
@@ -266,7 +274,7 @@ Anche con un paio di frasi, puoi implicare fazioni, eventi storici e un punto di
 
 Con la tua idea pronta, dedica del tempo a elencare i temi principali che si incontreranno durante il gioco. Ciò serve a due scopi principali:
 
-- **Guida per te.** Nei prossimi passaggi, quando stai definendo ulteriormente gli aspetti del mondo, puoi tornare alla tua lista ogni volta che devi verificare se gli elementi che hai aggiunto sono allineati ai temi che hai immaginato per il gioco. Se non lo sono, apporta le opportune modifiche (sia agli elementi che ai temi).
+- **Una guida per te.** Nei prossimi passaggi, quando stai definendo ulteriormente gli aspetti del mondo, puoi tornare alla tua lista ogni volta che devi verificare se gli elementi che hai aggiunto sono allineati ai temi che hai immaginato per il gioco. Se non lo sono, apporta le opportune modifiche (sia agli elementi che ai temi).
 - **Uno strumento di sicurezza per i giocatori.** Una presentazione iniziale dei temi aiuta i potenziali giocatori a decidere se quel gioco fa per loro. In questa sezione del tuo gioco, ti consiglio anche di introdurre uno strumento di sicurezza a tua scelta. Il mio preferito è il [Script Change RPG Toolbox di Beau Jágr Sheldon (itch.io)](https://thoughty.itch.io/script-change). Ma sentiti libero di suggerirne altri o crearne uno tuo. Assicurati solo di includerne uno.
 
 La tua lista di temi non deve essere esaustiva, ma dovrebbe coprire i principali e i più sensibili. Ti consiglio anche di includere ciò che il gioco non tratta e le cose che ti aspetti che i giocatori non utilizzino nel tuo gioco.
@@ -278,7 +286,7 @@ La tua lista di temi non deve essere esaustiva, ma dovrebbe coprire i principali
 > - Battaglie (violenza moderata)
 > - Riti magici
 > - Occultismo
-> - Orrore moderato
+> - Blando Orrore
 >
 > Ho anche incluso un link a Script Change e la seguente premessa:
 > _Questo non è un gioco incentrato sul "uccidere mostri e prendere il loro bottino". Gli unici nemici sono la progenie di Korlax, il mago. Tutte le specie che incontri attraverso le terre di Danoria appartengono a quel mondo e sono intelligenti, anche se la tua prospettiva limitata potrebbe non comprendere le loro ragioni. I personaggi sono eroi con una nobile causa, nonostante i loro difetti._
@@ -293,13 +301,13 @@ I tratti in Push sono organizzati in **categorie**. Quando crei il tuo gioco, ti
 
 **DONO:** cose con cui sei nato. Include talenti, abilità innate, eredità, discendenza, poteri e magie acquisite alla nascita, singolarità.
 
-**EDUCAZIONE:** cose con cui sei cresciuto. Include background culturali, profezie su di te, etnie, specie fantasy e aliene, stato sociale, famiglie.
+**FORMAZIONE:** cose con cui sei cresciuto. Include background culturali, profezie su di te, etnie, specie fantasy e aliene, stato sociale, famiglie.
 
 **ESPERIENZA:** cose che hai vissuto. Include addestramento, studi, occupazioni, professioni, eventi di vita, viaggi intrapresi, scelte fatte, sfide affrontate, abilità acquisite, decisioni prese, colpi di destino.
 
-**MARCHIO:** cose che emergono. Include particolarità, modi di fare, credenze, istinti, valori, tratti di personalità, aspetto fisico.
+**SEGNO:** cose che emergono. Include particolarità, modi di fare, credenze, istinti, valori, tratti di personalità, aspetto fisico.
 
-**FASCINO:** cose che tieni a cuore. Include artefatti, gadget, armi, armature, veicoli, cavalcature, gingilli, abiti, animali domestici, famigli, compagni animali.
+**PORTAFORTUNA:** cose che tieni a cuore. Include artefatti, gadget, armi, armature, veicoli, cavalcature, gingilli, abiti, animali domestici, famigli, compagni animali.
 
 **LEGAME:** cose a cui sei legato. Include missioni, obblighi, legami familiari, affiliazioni, debiti, obiettivi personali.
 
@@ -310,30 +318,30 @@ Più importante della quantità, però, è la qualità dei tratti. Ricorda che t
 Includerei anche queste tre istruzioni per i giocatori sulla scelta dei tratti:
 
 - **Scegli. Tira. Crea.** Dai un'occhiata breve ai tratti disponibili e scegli quello che ti colpisce di più. Se non riesci a decidere, tiralo a sorte. Se nessuna opzione ti interessa, crea il tuo tratto e condividilo con il gruppo per la convalida.
-- **Un tratto per giocatore.** I personaggi sono unici, quindi due giocatori non dovrebbero scegliere lo stesso tratto. Se più di un giocatore è interessato allo stesso tratto, inventate delle variazioni (ad esempio, uno sceglie "Tigre della Tempesta", l'altro crea "Il Leone Fiammeggiante", e tutti sono felici).
-- **Colmare le lacune.** I giocatori sono invitati a condividere la propria interpretazione dei tratti con il gruppo. Inventate storie. Crea collegamenti tra i personaggi attraverso i tratti. Discutete di come vedono i tratti emergere nel gioco.
+- **Un giocatore per tratto.** I personaggi sono unici, quindi due giocatori non dovrebbero scegliere lo stesso tratto. Se più di un giocatore è interessato allo stesso tratto, inventate delle variazioni (ad esempio, uno sceglie "Tigre della Tempesta", l'altro crea "Il Leone Fiammeggiante", e tutti sono felici).
+- **Colma le lacune.** I giocatori sono invitati a condividere la propria interpretazione dei tratti con il gruppo. Inventate storie. Crea collegamenti tra i personaggi attraverso i tratti. Discutete di come vedono i tratti emergere nel gioco.
 
 > Reliquie di Danoria sarà un gioco più breve, quindi inventerò sei tratti per ogni categoria. Vediamo:
 
 #### Tabella 02 - Tratti dei Personaggi
 
-| DONO                   | EDUCAZIONE                | ESPERIENZA                           |
+| DONO                   | FORMAZIONE                | ESPERIENZA                           |
 | ---------------------- | ------------------------- | ------------------------------------ |
-| Sussurri di fuoco      | Cresciuto dai Lupi Lunari | Danzatore di spade                   |
+| Sussurratore di fuoco      | Cresciuto dai Lupi Lunari | Danzatore di spade                   |
 | Benedetto dalle stelle | L'ultimo Mohtaka          | Veterano della guerra di Zyox        |
 | Anima antica           | Gli elfi alati            | Portatore di tempeste                |
-| Uno con la notte       | Toccato dal drago         | Sopravvissuto al Deserto di Diamante |
-| Forza dell'orso        | Signore di Quaruna        | Discepolo della Lingua d'Argento     |
+| Tuttuno con la notte       | Toccato dal drago         | Sopravvissuto al Deserto di Diamante |
+| Forza orsina        | Signore di Quaruna        | Discepolo della Lingua d'Argento     |
 | Occhi viola di Sohria  | Il popolo di Ferro        | Portatore di arenaria                |
 
-| MARCHIO                                                    | FASCINO                   | LEGAME                                   |
+| SEGNO                                                    | PORTAFORTUNA                   | LEGAME                                   |
 | ---------------------------------------------------------- | ------------------------- | ---------------------------------------- |
-| Una poesia per ogni occasione                              | Un falco di neve          | La Gilda del Mare Nero                   |
+| Una poesia per ogni occasione                              | Un falco delle nevi          | La Gilda del Mare Nero                   |
 | Una tazza di tè Nuna risolve la maggior parte dei problemi | La Spada di Zaffiro       | Ripristinare la Fede dell'Albero Perduto |
-| Porta sempre con sé un pugnale nascosto                    | Il Rotolo del Cambiamento | Trovare mia vera madre                   |
+| Porta sempre con sé un pugnale nascosto                    | La Pergamena del Mutaforma | Trovare mia vera madre                   |
 | La verità è sopravvalutata                                 | Un dente di drago bianco  | Abbattere La Tempesta                    |
 | Riflessi di un gatto d'argento                             | L'Amuleto di Jonaris      | Il Popolo Dimenticato                    |
-| Non si toglie mai il cappuccio                             | Un orologio di nuvole     | Recuperare la Prima Canzone              |
+| Non si toglie mai il cappuccio                             | Un mantello di nuvole     | Recuperare la Prima Canzone              |
 
 E questo è tutto ciò che devi definire riguardo ai personaggi! Niente punti ferita, danni delle armi, classe di armatura, attributi, abilità o altro. Ricorda ai giocatori che i personaggi hanno tutto l'equipaggiamento e le provviste comuni di cui hanno bisogno per vivere le loro avventure. I giochi basati su Push non si concentrano sulla sopravvivenza o sulla gestione delle risorse. La scarsità può essere un elemento della trama nel tuo gioco (ad esempio, per un gruppo di saccheggiatori in un mondo post-apocalittico), ma non è un meccanismo di gioco. Ricorda, puoi enfatizzare i temi del tuo gioco attraverso la **lista delle complicazioni**. La corruzione magica, gli eventi che frantumano la mente, la perdita di abilità, l'esaurimento: tutti gli ostacoli del tuo mondo possono essere rappresentati attraverso le indicazioni narrative offerte dalla lista di conseguenze che personalizzi.
 
@@ -343,9 +351,9 @@ Dopo che i giocatori hanno scelto i loro tratti, sono invitati a condividere la 
 
 I giochi basati su Push sono orientati alle missioni. Ciò significa che quando crei il tuo gioco, stai effettivamente creando avventure compilando la **Scheda della Missione**. Non c'è costruzione del mondo (e del design di gioco, in realtà) al di fuori delle missioni e dei personaggi. Vediamo come farlo.
 
-### L'obiettivo
+### L'Obiettivo
 
-La prima cosa di cui hai bisogno per la tua Missione è l'obiettivo. Pensa a un evento iniziale che richiede un'azione immediata, in modo che i personaggi vengano messi in movimento. Se hai bisogno di aiuto, prova a seguire la struttura qui sotto. Inizia con questa frase:
+La prima cosa di cui hai bisogno per la tua Missione è l'**Obiettivo**. Pensa a un evento iniziale che richiede un'azione immediata, in modo che i personaggi vengano messi in movimento. Se hai bisogno di aiuto, prova a seguire la struttura qui sotto. Inizia con questa frase:
 
 ```
 Un nemico vuole A + B, quindi devi A + B altrimenti C + B
@@ -360,7 +368,7 @@ Ora puoi tirare 1d6 o scegliere dalla tabella qui sotto per ogni voce.
 | 1. Trovare (esplorare, scoprire)         | 1. Entità (persona, fazione, creatura)      | 1. Perdita (fallimento, costo)           |
 | 2. Distruggere (sconfiggere, rovesciare) | 2. Conoscenza (informazione, segreto, idea) | 2. Dominio (oppressione, influenza)      |
 | 3. Proteggere (difendere, salvare)       | 3. Valore (reputazione, potere, ricchezza)  | 3. Distruzione (rovinare, estinzione)    |
-| 4. Conquistare (captare, dominare)       | 4. Luogo (percorso, comunità, luogo)        | 4. Danno (morte, sabotaggio)             |
+| 4. Conquistare (catturare, dominare)       | 4. Luogo (percorso, comunità, luogo)        | 4. Danno (morte, sabotaggio)             |
 | 5. Superare (sopravvivere, fuggire)      | 5. Risorsa (oggetto, ingrediente, elemento) | 5. Cambiamento (cambiamento, corruzione) |
 | 6. Catturare (recuperare, imprigionare)  | 6. Evento (fenomeno, incidente, leggenda)   | 6. Contesa (disturbo, conflitto)         |
 
@@ -386,7 +394,7 @@ In termini pratici, questi spunti possono essere:
 | ------- | ---------- | -------- |
 | OGGETTI | PERSONE    | EVENTI   |
 | NEMICI  | AMBIENTI   | SCOPERTE |
-| LUOGHI  | SENSAZIONI | ESSENZE  |
+| LUOGHI  | SENSAZIONI | CREATURE  |
 
 Dovresti creare spunti sufficientemente evocativi in modo che i giocatori si impegnino a viverli, ma che non siano troppo prescrittivi al punto da non lasciare spazio all'interpretazione e all'espansione dei giocatori stessi. Un buon spunto si trova in quel punto dolce tra il vago e il preciso. E poiché vengono selezionati casualmente, non dovresti aspettarti che si presentino in un ordine specifico.
 
@@ -450,7 +458,7 @@ In questo capitolo, presenterò indicazioni su come un gruppo di giocatori potre
 
 Essendo un sistema senza GM, sono convinto che si benefici di un ciclo di gioco strutturato. Poiché non c'è un'autorità singola che risponda a ciò che accade successivamente, il gruppo può semplicemente seguire i passaggi in ordine e far progredire la storia da soli. Ecco come funziona.
 
-### 1. Tira sulla matrice
+### 1. Tirare sulla matrice
 
 Dopo che i giocatori hanno familiarizzato con la presentazione del gioco e lo scopo della Missione (e hanno preparato i loro personaggi), iniziano a giocare scegliendo un giocatore che tira 2d6 sulla Matrice per ottenere uno spunto casuale. Lo leggono ad alta voce e il gruppo discute insieme ciò che pensano che significhi, dipingendo la scena a tratti ampi.
 
@@ -488,7 +496,7 @@ I giocatori possono combinare diverse sfide (risolvere un enigma durante una lot
 >
 >   _La luce disorientante delle pareti perlacee_
 
-### 3. Descrivere la scena
+### 3. Inquadrare la scena
 
 Ora è il momento di dare vita a questa scena. I giocatori possono scegliere un elemento (o tirare 2d6) dalla tabella qui sotto da aggiungere alla descrizione della scena.
 
