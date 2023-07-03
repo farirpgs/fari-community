@@ -1817,7 +1817,7 @@ Grazie, e buon divertimento con le tue storie!
 
 | Nome                           | Ruolo                                    | Discord         | Twitter                                  | Itch                                  |
 | ------------------------------ | ---------------------------------------- | --------------- | ---------------------------------------- | ------------------------------------- |
-| **René-Pier Deshaies-Gélinas** | autore originale, mantenitore principale | RPDeshaies#4116 | [Link](https://twitter.com/RPDeshaies)   | [Link](https://fari-rpgs.itch.io/)    |
+| **René-Pier Deshaies-Gélinas** | autore originale, mantenitore principale | rpdeshaies | [Link](https://twitter.com/RPDeshaies)   | [Link](https://fari-rpgs.itch.io/)    |
 | **Alexandre L. Lescarbeau**    | consulente                               |                 |                                          |                                       |
 | **Valdy**                      | contributore extra                       | 5-142857#7577   |                                          |                                       |
 | **Nugat**                      | contributore extra                       |                 |                                          |                                       |

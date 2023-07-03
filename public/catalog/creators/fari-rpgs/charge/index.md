@@ -1722,7 +1722,7 @@ Thank you, and go power your storytelling!
 
 | Name                           | Role                             | Discord                    | Twitter                                    | Itch                                    |
 | ------------------------------ | -------------------------------- | -------------------------- | ------------------------------------------ | --------------------------------------- |
-| **René-Pier Deshaies-Gélinas** | original author, core maintainer | RPDeshaies#4116            | [Link](https://twitter.com/RPDeshaies)     | [Link](https://fari-rpgs.itch.io/)      |
+| **René-Pier Deshaies-Gélinas** | original author, core maintainer | rpdeshaies            | [Link](https://twitter.com/RPDeshaies)     | [Link](https://fari-rpgs.itch.io/)      |
 | **Alexandre L. Lescarbeau**    | sounding board                   |                            |                                            |                                         |
 | **Valdy**                      | extra contributor                | 5-142857#7577              |                                            |                                         |
 | **Nugat**                      | extra contributor                |                            |                                            |                                         |

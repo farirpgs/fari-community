@@ -520,7 +520,7 @@ Are you interested in contributing to Fari ? Here is what you can do
 
 1. [Create a template](managing-characters)
 2. Export it from the **Characters** menu using the Share button
-3. Send it to **RPDeshaies#4116** [on Discord](https://discord.com/invite/vMAJFjUraA)
+3. Send it to **rpdeshaies** [on Discord](https://discord.com/invite/vMAJFjUraA)
 
 And that's about it!
 
