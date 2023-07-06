@@ -41,7 +41,7 @@ Write down 4 tags, then split 10 six-sided dice (d6) between them. Tags can’t 
 
 > ### Final Thoughts
 >
-> That's the game! All the extra buttons and levers past this point help you to make the game your own. Before you're loose in the while blue yonder, I just wanted to thank all the creators out there. Keep making art and inspiring others. Special thanks to the Fari Games discord server for ideas, feedback, and just being all-around great people. Cheers!
+> That's the game! All the extra buttons and levers past this point help you to make the game your own. Before you're loose in the while blue yonder, I just wanted to thank all the creators out there. Keep making art and inspiring others. Special thanks to the Fari Community discord server for ideas, feedback, and just being all-around great people. Cheers!
 
 # Tag Extras
 

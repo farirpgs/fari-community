@@ -20,7 +20,7 @@ The objective of Personae is to facilitate rewarding, enjoyable roleplaying game
 
 # Before We Start
 
-_Credit to Fari RPGs - Breathless RPG SRD - https://fari.games/en/srds/fari-rpgs/breathless-srd_
+_Credit to Fari RPGs - Breathless RPG SRD - https://fari.community/creators/fari-rpgs/projects/breathless_
 
 Before starting it is highly recommended that the group define lines, both within and outside the fiction, that should not be crossed. Feel encouraged at any time to pause or rewind the game if something uncomfortable happens during a session. Everyone should always be mindful that everyone else is comfortable with the direction of the story.
 

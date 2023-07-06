@@ -546,7 +546,7 @@ Ecco un paio di suggerimenti e trucchi che dovresti leggere prima di iniziare a 
 >
 > Gli extra sono meccaniche aggiuntive che puoi modificare nei tuoi giochi per adattarli a un genere o uno stile specifico.
 >
-> Puoi vedere l'elenco completo degli extra [qui](/en/srds/fari-rpgs/charge-rpg/what-are-extras) ma questo SRD contiene un paio di extra pre-condensati che puoi usare così come sono.
+> Puoi vedere l'elenco completo degli extra [qui](/creators/fari-rpgs/projects/charge/what-are-extras) ma questo SRD contiene un paio di extra pre-condensati che puoi usare così come sono.
 
 # Mondo | Extra
 

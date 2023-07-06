@@ -555,7 +555,7 @@ Voici quelques trucs et astuces que vous devriez lire avant de commencer à joue
 >
 > Les suppléments sont des mécanismes additionnels que vous pouvez hacker dans vos jeux pour les adapter à un genre ou à un style spécifique.
 >
-> Vous pouvez voir la liste complète des suppléments [ici](/en/srds/fari-rpgs/charge-rpg/what-are-extras) mais ce DRS contient quelques suppléments pré-condensés que vous pouvez utiliser tels quels.
+> Vous pouvez voir la liste complète des suppléments [ici](/creators/fari-rpgs/projects/charge/what-are-extras) mais ce DRS contient quelques suppléments pré-condensés que vous pouvez utiliser tels quels.
 
 # Suppléments d'Univers | Suppléments
 

@@ -54,12 +54,12 @@ Ora, costruiamo insieme qualcosa di incredibile.
 
 ## Link utili
 
-- [Informazioni sulla licenza](/en/srds/fari-rpgs/charge-rpg/licencing)
+- [Informazioni sulla licenza](/creators/fari-rpgs/projects/charge/licencing)
 - [Pagina di Charge su Itch](https://fari-rpgs.itch.io/charge-rpg)
 - [Charge SRD](https://fari.community/creators/fari-rpgs/projects/charge-srd.it)
 - [Server Discord di Fari](https://farirpgs.com/discord)
 - [Charge Community Forums](https://fari-rpgs.itch.io/charge-rpg/community)
-- [Scheda riassuntiva di Charge](/en/srds/fari-rpgs/charge-rpg/in-a-nutshell)
+- [Scheda riassuntiva di Charge](/creators/fari-rpgs/projects/charge/in-a-nutshell)
 
 ## Ringraziamenti
 
@@ -2789,7 +2789,7 @@ Nota: "numero di segmenti segnati" è per un orologio con 8 segmenti.
 
 ## Cambiare l'Orologio
 
-È assolutamente possibile cambiare l'orologio predefinito per accelerare la frequenza con cui i giocatori ottengono obiettivi intermedi. Prima di farlo, è una buona idea rileggere il [capitolo sull'orologio](https://fari.games/en/srds/fari-rpgs/charge-rpg/clocks).
+È assolutamente possibile cambiare l'orologio predefinito per accelerare la frequenza con cui i giocatori ottengono obiettivi intermedi. Prima di farlo, è una buona idea rileggere il [capitolo sull'orologio](https://fari.games/creators/fari-rpgs/projects/charge/clocks).
 
 Inoltre, se desideri rendere la progressione del personaggio più difficile, prova un nuovo orologio: **l'orologio a 12 segmenti**!
 
@@ -2863,7 +2863,7 @@ In caso di necessità, i segni sull'orologio di progresso possono essere utilizz
 >
 > Le posizioni di partenza di questi dettagli chiave possono contribuire a guidare ulteriormente una storia su cui il gruppo di giocatori può costruire. Un equipaggio che cerca il suo primo grande colpo potrebbe non avere molte risorse o alleati, ma probabilmente non è abbastanza grande da essere nell'obiettivo di nessuno come avversario. Un gruppo di resistenza contro un regime repressivo potrebbe partire da una posizione terribile nei confronti dell'autorità, ma avere un elenco più ampio di alleati su cui fare affidamento.
 
-Sia i **dettagli di supporto** che i **concetti chiave** sono **dettagli** come descritto nelle [regole di creazione del personaggio](https://fari.games/en/srds/fari-rpgs/charge-rpg/creating-your-character#details) di Charge. I **dettagli di supporto** dovrebbero essere persone, luoghi o cose specifiche, come specifiche **forze mondiali**, mentre i **concetti chiave** sono più estesi.
+Sia i **dettagli di supporto** che i **concetti chiave** sono **dettagli** come descritto nelle [regole di creazione del personaggio](https://fari.games/creators/fari-rpgs/projects/charge/creating-your-character#details) di Charge. I **dettagli di supporto** dovrebbero essere persone, luoghi o cose specifiche, come specifiche **forze mondiali**, mentre i **concetti chiave** sono più estesi.
 
 Come per la creazione del personaggio, i **dettagli** sulla **scheda del gruppo** sono fatti sul gruppo che possono essere utilizzati per raccontare storie. Offrono anche libertà narrativa, dando potenzialmente ai giocatori il permesso di compiere determinate azioni. Sebbene il GM abbia l'ultima parola, l'intero gruppo dovrebbe avere la possibilità di contribuire allo sviluppo e alla decisione di questi dettagli durante la creazione dei personaggi. Come i dettagli del personaggio, ci sarà anche la possibilità di cambiarli nel tempo attraverso il gioco.
 
