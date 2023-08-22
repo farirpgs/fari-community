@@ -6,10 +6,9 @@ export default function getData(): ICreatorData {
     links: {
       Website: "https://ttrpgs.com",
       Itch: "https://bindrpg.itch.io/",
-      Mastodon: "https://dice.camp/@malin"
-      Git: "https://gitlab.com/bindrpg/"
+      Mastodon: "https://dice.camp/@malin",
+      Git: "https://gitlab.com/bindrpg/",
     },
-    description:
-      "Open source proponent. If you love something, set it free.",
+    description: "Open source proponent. If you love something, set it free.",
   };
 }
