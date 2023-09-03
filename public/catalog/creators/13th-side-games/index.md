@@ -33,6 +33,159 @@ The Murk best operates like your favorite show or movie.  One person will take t
 **Actor**: Narrates and acts on their character.  Is compelling, and feeds on other Actors and the Director.  Enables others to shine, and prepares for their moments with excitement.
 
 
+# 3DX System
+
+## Terms of Mechanics
+
+Below are a list of often used terms when dealing with The Murk RPG.  
+
+### Character Sheet Terms
+
+- Body - The Attribute covering physicality of a character.
+
+- Mind - The Attribute covering mental capacity, education, and information.
+
+- Spirit - The Attribute covering spiritual wholeness, willfulness.
+
+- Initiative - The Attribute covering speed of mind and body.
+
+- Faith - The Attribute of a Faithful's ability to talk with their God.
+
+- Esoteria - The trained Attribute of a Esoterist in using magic.
+
+- Wealth -  The Attribute for buying and finding items.
+
+- Injury - A temporary score used to track potential damage in a scene.
+
+- Suffering - A longterm penalty to living that is associated with great stress or injury.
+
+### Game Terms
+
+- Attribute - The basic makeup of a character's mechanics.
+
+- Difficulty Rating - The number associated with the difficulty of a specific task.
+
+- Potential - A currency used to empower and reward players.
+
+- Roll-off - A competitive roll used when in direct contest with other players.
+
+- Magnitude - The potency of an Esoteric Spell 
+
+- Power - The amount of connectivity to a god in numeric value
+
+
+## Basic Roll
+
+The Murk uses a 3DX system with 2 dice nearly always being D6s and the third being a **Attribute** die based on the type of roll and the character's skillset.  
+
+These dice are totalled along with any flat bonuses given, and then compared to a **Difficulty Rating**.  
+
+If the roll's **Total** meets or **Exceeds** the **Difficulty Rating**, that roll is deemed a success and the intent is accomplished.
+
+A number of things can add or subtract from rolls, namely **Equipment**, **Suffering**, and **Potential**.
+
+
+## Rolling Philosophy
+
+The system aims to provide mechanics that can address most inquiries, while ensuring that the system serves the purpose of storytelling rather than overpowering it. Therefore, many of our mechanics are intentionally designed to be straightforward, following a set of essential principles that foster enjoyable and seamless gameplay.  Here are some guidelines that all play can be expected to follow. 
+
+**Roll for Consequences, not Results**
+
+We assume that individuals are reasonably proficient in carrying out everyday tasks in normal circumstances. If you're a skilled marksman, it's expected that you can shoot a gun accurately at a firing range for leisure. Professional drivers don't need to roll dice to remember which pedal is the brake and which is the gas. In fact, in a typical life, there are rarely challenges to one's basic skills.
+
+However, the characters in the Murk don't lead ordinary lives. While their skills are significant, what truly matters is the outcome of their failures. The Game Master (GM) should only request a dice roll if there are consequences tied to a potential failure. These consequences can range from minor setbacks to game-changing developments in the story. The ultimate goal is to advance a captivating narrative, and no gaming table wants to get caught up in skill checks that bear no impact on the story or its characters.
+
+**Let it Ride**
+
+In order to maintain a smooth and engaging gameplay experience, we avoid getting stuck in a cycle of repetitive skill checks. We don't want sessions to become weighed down by a series of sneak checks for every guard encountered, or multiple driving checks for each turn while evading adversaries. That's where the "Let it Ride" rule comes into play. According to this rule, there should be no need for repeated skill checks unless the situation undergoes a significant change. This means that, for a single scene, most skills will only be rolled once outside of combat, ensuring a more fluid and immersive storytelling experience.
+
+**Embrace the Rule of Cool**
+
+In The Murk, we value the concept of "cool" moments that can push the boundaries of the rules in a fun and exciting way. While the characters in the game may not possess immense power, allowing players to occasionally stretch the rules to create memorable and enjoyable experiences often leads to the most thrilling parts of a session. If something is fun and cool, we encourage you to let it play out, embracing the spirit of adventure and imagination that makes The Murk truly special.
+
+## Making Attribute Rolls
+
+With the exception of **Injury Rolls** and Active Abilities, every roll made in The Murk will be a designated Attribute Roll.  This means the following dice will be used.
+
+- 2 six sided dice
+- 1 attribute die equivalent to the attribute the action requires rolled
+
+This will be totalled, and then any flat bonuses or penalties will be added to determine success or complication.
+
+## Potential
+
+Potential is a currency that is leveraged by players when the chips are down and something needs to occur.  Potential can be saved up and stored during an episode, or spent as it comes.  
+
+Actors spend **Potential** doing a number of things
+
+- For every 1 **Potential** spent on a roll, add 1 to the roll unless otherwise noted.
+- Every Archetype has active abilities that require spending a number of **Potential** to activate.
+- Those using Faith can exchange **Potential** for **Power** in a 1 to 1 trade during a scene.
+- Those using Esoteria can leverage **Potential** to shield them from the effects of Backlash.
+
+### Gaining and Losing Potential
+
+Characters can gain **Potential** in a number of ways.
+
+- The GM can reward Potential in relation to a complication they have presented to a Character.
+	- This is often based on a Trait and will be accompanied by a **Severity** die based on the difficulty
+- The Character gains 1 Potential when their **Attribute** die rolls higher than a 6 on any 3DX roll
+- The Character gains X Potential when the d6s of the 3D6 roll are tied, X being the result of their **Attribute** die roll.
+
+Characters can lose **Potential** in the following ways.
+
+- Rolling a 1 on the Character's **Attribute** die during a 3DX roll causes the loss of 1 Potential
+
+
+# Conjuring Esoteria
+
+Esoteria functions as an **Attribute Roll** with additional steps after it completes. 
+
+## Casting Spells
+
+Magic is intended to be dynamic, narrative, and unnatural. For these reasons The Murk refrains from providing explicit spells and capabilities outside a few key areas. There are thousands of Esoteria symbols so when describing magic, the Paragon can use whatever flourish or description they wish to dress the effects of their spells in.
+
+Esoteria is cast using an Esoteria Attribute Roll.  First the Actor describes the intent of the casting, and is given both a **Difficulty Rating** and **Magnitude** they would need to accomplish this.  Upon making the check success is determined as normal rules, then **Backlash** is applied.
+
+**Weapon damage is often set as the Magnitude of a spell for the purpose of attacks**
+
+## Backlash
+
+Esoterists are quite literally channelling stolen(or given) power from the Gods into their mortal frames.  As such they must make an **Attribute Only** roll of their Esoteria VS the Magnitude and absorb Stress equal to the difference.  
+
+**Potential** can be used before the roll to gain a bonus on the roll.
+
+## Rituals
+
+Those possessing the latent Esoteric skill can use it to alter reality as they see fit.  All that is required is a keen mind, a clear ritual, and a near limitless tolerance to sacrifice the things around you for the goal you have in mind.  This functions as an extentsion of normal casting.  A ritual effectively enables the Esoterist to make their Backlash rolls in small parts, taking multiple scenes to complete a great and powerful spell.
+
+**For every scene a Esoterist uses a ritual, they may divide up their Backlash by 3 and roll those pieces individually**
+
+
+
+## Calling on Faith
+
+Compared to Esoteria, Faith is relatively simple, yet significantly more complex at activation.  As part of any **Scene** where there is downtime, a Faithful may pray to their god.  
+
+During the prayer, they roll a **Faith Attribute Roll** with a **starting DR of 8+ any Sins since last Prayer**  
+
+If successful, they are awarded **Power** in points equal to the difference.  
+
+They may use these points at any time to perform **Miracles**
+
+### Miracles
+
+The Faithful may perform a Miracle by doing 2 things.
+
+1. State the intent of the miracle.
+2. Stating the Creed they are fulfilling for their god by doing this miracle - or -note which sin they are punishing.
+3. Select the amount of Power they wish to use.
+4. The Director then assigns a DR for the miracle
+
+They then take a number of their Faith Dice equal to this Power value and roll.  
+
+All Power used is used regardless of success or not.
+
 # Units of Time in Game
 
 In The Murk, time is not measured in traditional units or hours. Instead, we emphasize the exciting and engaging aspects of your characters' lives, skipping the mundane details of everyday existence. The goal is to create a gameplay experience that resembles a gripping novel or a well-paced TV show. To achieve this, we use the terms Epic, Story, Scene, and Moment to capture the essence of significant events without delving too deeply into timekeeping minutiae. This approach allows us to focus on the most compelling aspects of the game, keeping the momentum and immersion at its peak.
@@ -65,111 +218,8 @@ It's important to note that very few scenes strictly adhere to a single type, an
 
 A **Moment** is just what it sounds like, a brief split second in real life.  It's the cut of a camera to a person talking, fighting, or doing any 1 action.  Moments are used in all types of Scenes.
 
-
-# 3DX System
-
-## Terms of Mechanics
-
-### Character Sheet Terms
-
-- Body - The Attribute covering physicality of a character.
-
-- Mind - The Attribute covering mental capacity, education, and information.
-
-- Spirit - The Attribute covering spiritual wholeness, willfulness.
-
-- Initiative - The Attribute covering speed of mind and body.
-
-- Faith - The Attribute of a Faithful's ability to talk with their God.
-
-- Esoteria - The trained Attribute of a Esoterist in using magic.
-
-- Wealth -  The Attribute for buying and finding items.
-
-- Injury - A temporary score used to track potential damage in a scene.
-
-- Suffering - A longterm penalty to living that is associated with great stress or injury.
-
-### Game Terms
-
-- Attribute - The basic makeup of a character's mechanics.
-
-- Difficulty Rating - The number associated with the difficulty of a specific task.
-
-- Potential - A currency used to empower and reward players.
-
-- Roll-off - A competitive roll used when in direct contest with other players.
-
-
-## Basic Roll
-
-The Murk uses a 3DX system with 2 dice nearly always being D6s and the third being a **Attribute** die based on the type of roll and the character's skillset.  
-
-These dice are totalled along with any flat bonuses given, and then compared to a **Difficulty Rating**.  
-
-If the roll's **Total** meets or **Exceeds** the **Difficulty Rating**, that roll is deemed a success and the intent is accomplished.
-
-A number of things can add or subtract from rolls, namely **Equipment**, **Suffering**, and **Potential**.
-
-
-## Rolling Philosophy
-
-The system aims to provide mechanics that can address most inquiries, while ensuring that the system serves the purpose of storytelling rather than overpowering it. Therefore, many of our mechanics are intentionally designed to be straightforward, following a set of essential principles that foster enjoyable and seamless gameplay.  Here are some guidelines that all play can be expected to follow. 
-
-**Roll for Consequences, not Results**
-
-We assume that individuals are reasonably proficient in carrying out everyday tasks in normal circumstances. If you're a skilled marksman, it's expected that you can shoot a gun accurately at a firing range for leisure. Professional drivers don't need to roll dice to remember which pedal is the brake and which is the gas. In fact, in a typical life, there are rarely challenges to one's basic skills.
-
-However, the characters in the Murk don't lead ordinary lives. While their skills are significant, what truly matters is the outcome of their failures. The Game Master (GM) should only request a dice roll if there are consequences tied to a potential failure. These consequences can range from minor setbacks to game-changing developments in the story. The ultimate goal is to advance a captivating narrative, and no gaming table wants to get caught up in skill checks that bear no impact on the story or its characters.
-
-**Let it Ride**
-
-In order to maintain a smooth and engaging gameplay experience, we avoid getting stuck in a cycle of repetitive skill checks. We don't want sessions to become weighed down by a series of sneak checks for every guard encountered, or multiple driving checks for each turn while evading adversaries. That's where the "Let it Ride" rule comes into play. According to this rule, there should be no need for repeated skill checks unless the situation undergoes a significant change. This means that, for a single scene, most skills will only be rolled once outside of combat, ensuring a more fluid and immersive storytelling experience.
-
-**Embrace the Rule of Cool**
-
-In The Murk, we value the concept of "cool" moments that can push the boundaries of the rules in a fun and exciting way. While the characters in the game may not possess immense power, allowing players to occasionally stretch the rules to create memorable and enjoyable experiences often leads to the most thrilling parts of a session. If something is fun and cool, we encourage you to let it play out, embracing the spirit of adventure and imagination that makes The Murk truly special.
-
-## Potential
-
-Potential is a currency that is leveraged by players when the chips are down and something needs to occur.  Potential can be saved up and stored during an episode, or spent as it comes.  
-
-Actors spend **Potential** doing a number of things
-
-- For every 1 **Potential** spent on a roll, add 1 to the roll unless otherwise noted.
-- Every Archetype has active abilities that require spending a number of **Potential** to activate.
-- Those using Faith can exchange **Potential** for **Power** in a 1 to 1 trade during a scene.
-- Those using Esoteria can leverage **Potential** to shield them from the effects of Backlash.
-
-### Gaining and Losing Potential
-
-Characters can gain **Potential** in a number of ways.
-
-- The GM can reward **Potential** in relation to a complication they have presented to a Character.
-	- This is often based on a Trait and will be accompanied by a **Severity** die based on the difficulty
-- The Character gains 1 **Potential** when their **Attribute** die rolls higher than a 6 on any 3DX roll
-- The Character gains X **Potential** when the d6s of the 3D6 roll are tied, X being the result of their **Attribute** die roll.
-
-
-
-## Making Attribute Rolls
-## Other Rolls
-
-# Conjuring Esoteria
-## Casting Spells
-
-Magic is intended to be dynamic, narrative, and unnatural. For these reasons The Murk refrains from providing explicit spells and capabilities outside a few key areas. There are thousands of Esoteria symbols so when describing magic, the Paragon can use whatever flourish or description they wish to dress the effects of their spells in.
-Where magic engages other systems is where rules begin to play a part in shaping their effects. For more information, see Esoteria and Mechanics.
-
-## Rituals
-
-Those possessing the latent Esoteric skill can use it to alter reality as they see fit.  All that is required is a keen mind, a clear ritual, and a near limitless tolerance to sacrifice the things around you for the goal you have in mind.  This functions as an extentsion of normal casting.  A ritual 
-
-
-
-# Calling on Faith
-
 # Combat
+
 ## Determining Initiative
 
 Initiative in a conflict Scene is established by each participant in a scene making a roll to determine their Initiative Score. The turn order is then determined by the individual with the highest number, granting them the first opportunity to act. As the Moment concludes, Initiative is recalculated by rolling again and adding it to the previous Initiative, thereby setting the turn order for the next Moment.
@@ -179,13 +229,90 @@ Initiative in a conflict Scene is established by each participant in a scene mak
 Outpacing happens when one Actor has an Initiative that exceeds another Actor's by five or more. In this situation, the Actor with the higher Initiative gains an advantage, receiving an additional +2 on checks against the opposing Actor for every 5 point increment they are above.
 
 ## Determining Distances
+
+Distances play a crucial role in determining the impact of various elements on individuals. To maintain a streamlined gameplay experience without excessive calculations, we utilize a set of distance descriptors that effectively capture the necessary information. These descriptors categorize all distances into five distinct categories.
+
+- Close represents proximity in melee combat and intimate conversations, indicating a range that is within arm's reach.
+
+- Near signifies distances suitable for yelling and throwing objects like an ax, typically encompassing an area of around 30 feet.
+
+- Far denotes ranges relevant to archery and sweeping hand gestures, covering distances of approximately 250 feet.
+
+- Very far encompasses distances where individuals' features are barely discernible and long-range weaponry like rifles come into play, typically within 500 feet.
+
+- Distant refers to distances where only vague shapes of people are visible, offering little detail. This range extends to around 1000 feet.
+
 ## In Melee
+
+When in close proximity during a combat scene characters are immediately drawn into a Melee when attacking or Attacked. 
+
+In a Melee characters engage in a Roll-off each Moment.  The winner applying damage equal to the difference in Rolls plus their weapon damage.
+
+When engaging multiple foes, the character must make a Roll-off vs the highest roll from the group of foes.  Damaging a group always starts at the lowest Attribute die and ends with the highest.
+
+**Instead of damaging their foes, Characters can choose to escape the Melee and move to the Near distance**
+
+*Melee happens before shootouts and Duels of Magic*
+
 ## Shootouts
-## Duels of Magic and Faith
-## Entering the Fray
+
+When in Near or greater proximity during a combat scene characters, and holding ranged weapons, Characters can choose to engage in a shootout. 
+
+In a Shootout characters engage in a Roll-off each Moment.  The winner applying damage equal to the difference in Rolls plus their weapon damage.
+
+When engaging multiple foes, the character must make a Roll-off vs the highest roll from the group of foes.  Damaging a group always starts at the lowest Attribute die and ends with the highest.
+
+**Characters can leave a shootout by getting Close or hunkering down and taking no actions**
+
+*Shootouts happen after Melees but before duels of Magic*
+
+## Contest of Powers
+
+When in Near or greater proximity during a combat scene characters who posess Esoteria or Faith can choose to engage in a Contest of Powers. 
+
+In a Duel of Powers characters engage in a Roll-off each Moment.  The winner applying damage equal to their total roll.  
+
+*Faithful must spend 1 Power per moment to Contest*
+
+*Esoterists must take 5 strain each moment to continue the Contest*
+
+When engaging multiple foes, the character must make a Roll-off vs the highest roll from the group of foes.  Damaging a group always starts at the lowest Attribute die and ends with the highest.
+
+**Characters can leave a Contest of Power by getting Close or hunkering down and taking no actions**
+
+*Contests of Power happen at the end of the round*
+
+## Into the Fray
+
+People outside Melees, Shootouts, and Contests can often help determine the results.  Make an Attribute check for every action you wish to perform outside these mechanics. 
+
+## Social and Spiritual Conflict
+
+Engaging in Social or Direct Spiritual combat mirrors Physical combat, commencing with defined objectives for each participant. Each Actor involved in a social situation can opt to attack or defend by utilizing various social or spiritual skills. Through Roll-offs and immersive role-playing, the participants strive to achieve their goals. The winner applying damage equal to their total roll.
+
+### Losing an Argument or Contest
+
+Alternatively, instead of incurring a rank of Suffering, an Actor may choose to concede the argument and allow their opponent's objective to prevail.
 
 # Damage, Death, and Recovery
+
 ## Resisting and Dealing Damage
+
+Every weapon and ability has an associated damage rating.  This rating is applied when a hit is achieved or a Roll-off is won.  
+
+Often damage is applied to the Damage track, but special weapons or even social combat will apply damage to the Strain or Exhaustion tracks.
+
+A base Weapon's Damage is 7 but can vary greatly on quality and size.  A cannon does more damage than a dagger, but the greatest magical dagger may be able to outshine a cannon.  
+
+*See Quality Tiers for more information*
+
+### Armor
+
+Armor is designed to add bonus dice to your Injury Tracks.  Most Armor is physical and applied to your Damage dice pool, but others can be Strain or Exhaustion based.  
+
+Armor always uses the associated Attribute die for the Attribute.
+
+
 ## The Injury Tracks
 
 The well-being of characters is intricately tied to their Core Attributes. Three Injury tracks exist, each influenced by these attributes. These tracks are independently monitored and reset at the beginning of each new scene. When damage is inflicted on a track, a corresponding roll must be made. Throughout the scene, whenever damage occurs, a reroll of the new total is required.  Injury tracks are based on core attributes for the dice type, and rank for the total number of dice.
@@ -208,6 +335,12 @@ Success in these rolls signifies that no lasting effects occur. However, failure
 ## Death and Retirement
 ## Recovery
 
+# Equipment
+## Quality Tiers
+## Weapons
+## Armor
+## Gear
+## Prosthetics
 
 # Archetypes
 ## Soldier
@@ -216,18 +349,6 @@ Success in these rolls signifies that no lasting effects occur. However, failure
 ## Dillentante
 ## Scum
 
-
-# Company Types
-## Mercenaries
-## Crime 
-## Investigators 
-
-
-
-# Free Company Creation
-## Concepts
-## Picking a Type
-## Details
 
 # Character Creation
 ## Overview
