@@ -23,8 +23,6 @@ The Murk's setting is just as important as the rules it plays by.  The Gods, his
 
 ## Introduction
 
----
-
 The world, once vibrant and full of promise, now stands on the precipice of failure and decay. It is a gradual decline that may span centuries, but the eventual outcome seems inevitable: humanity, without some extraordinary salvation, will wither away, fading into oblivion, leaving behind nothing but a distant memory.
 
 Amidst this impending catastrophe, the Princes and their Councils are not oblivious to the looming doom. Some among them tirelessly dedicate their efforts towards salvaging whatever remnants of hope and prosperity they can for their people. These noble souls toil day and night, driven by a desperate desire to stave off the encroaching darkness. However, not all are burdened by such noble intentions; there are those who indulge in reckless hedonism, engaging in lavish feasts and orgies, seeking fleeting pleasures as a means to distract themselves from the grim reality that surrounds them.
@@ -1050,6 +1048,36 @@ Seeking Guidance and Mentorship: A follower may seek guidance from spiritual lea
 **Continued Devotion and Practice:** Atonement is an ongoing process that requires dedication and perseverance. Followers are encouraged to deepen their spiritual practice, engage in regular prayer, meditation, and acts of worship, allowing their faith to guide their actions and decisions.
 
 It's important to note that atonement within The Penitent Choir is not a mere ritual or external act but a deeply personal and transformative journey. The process of atonement involves sincere internal reflection, genuine remorse, and active efforts towards positive change, both individually and within the community.
+
+# Esoteria
+# Creatures of Tellus
+
+# Novemgrod, Setting the Stage
+## Nobles, Bereft of Nobility
+## The Cries of Salvation
+## Towers and Magisters
+## Woe of the Commons
+## Rising Opportunists
+## What Lies Ahead?
+## Notable Faces
+### Prince Ruvan
+### The High Magister Valeska
+### Victor Volkov
+### Erika Stein
+### Elsbeth Von Bergmann
+## Notable Factions
+### The Black Veil
+### The Bannerless
+### The Circle
+### Temnovus
+## Notable Locations
+### The Forges
+### The Mist Cliffs
+### St. Vikal's Cathedrals
+## Exploring Novemgrod
+## Exploring the Murk
+
+
 
 # The Game | The Murk SRD
 
