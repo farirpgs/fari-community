@@ -1,6 +1,6 @@
 # What is The Murk | The Murk
 
-> "I remember that day, that damned fog rushed forward across no man's land.  I remember getting my mask on just in time.  Even then, you could still hear the whispers admist the muffled cries of those around you.  Who will forgive us?  Who can forgive us?"
+> *"I remember that day, that damned fog rushed forward across no man's land.  I remember getting my mask on just in time.  Even then, you could still hear the whispers admist the muffled cries of those around you.  Who will forgive us?  Who can forgive us?"*
 
 **The Murk** is a tabletop role playing game of grim adventure, horror and drama, set in the World of Tellus, a place rocked by a cataclysmic event a generation ago.
 
@@ -12,12 +12,18 @@ You will find all Breathless related resources like the game's official SRD whic
 
 ![The Murk SRD](https://gyazo.com/fc802122e934a8c058f228e83492187b)
 
-This is the The Murk SRD. A free and open licensed version of The Murk that contains all the rules and design guidelines for you to make your own game in The Murk.
+This is the The Murk SRD. A free and open licensed version of The Murk that contains all the rules, information and design guidelines for you to make your own game in The Murk.
 
 
 # The World of The Murk
 
+## Why Include Setting in an SRD?
+
+The Murk's setting is just as important as the rules it plays by.  The Gods, history, and the reasons magic work in the ways it does is tied inexorably to the world it exists in.  As such, The Murk is not setting agnostic and in an effort to make sure *everyone* is able to pick up and play, the introductory information is presented here.
+
 ## Introduction
+
+---
 
 The world, once vibrant and full of promise, now stands on the precipice of failure and decay. It is a gradual decline that may span centuries, but the eventual outcome seems inevitable: humanity, without some extraordinary salvation, will wither away, fading into oblivion, leaving behind nothing but a distant memory.
 
@@ -31,15 +37,18 @@ However, amidst the struggles of the ruling elite, the common folk find themselv
 
 Such is the backdrop against which the tale of The Murk unfolds—a haunting narrative that chronicles the fate of those who have survived a world that has been reduced to ruins. It is a world that has witnessed the pinnacle of human achievement, only to descend into the abyss of despair and desolation.
 
+
+---
+
 The promise of a brave new world, envisioned by those who dedicated centuries of arduous work, relentless study, ceaseless effort, and unyielding progress, now seems like a cruel mockery of their endeavors. A priest of Le Vides, speaking in the year 5 After The Black Day, encapsulates the collective disillusionment: "How can this ruin be the reward for such pursuit?" The Vardan Empire, once a formidable bastion of power and unity, now stands fractured and fragmented. The central authority of the emperor, the might of his legions, and the sanctity of his laws have all faded into the annals of memory, mere vestiges of a bygone era.
 
-In the wake of the empire's disintegration, the various principalities vie for supremacy, engaging in bitter power struggles among themselves, yet momentarily uniting only in the face of existential threats that threaten their very existence
-.
-Beyond their borders, the enigmatic Far Lands, watching with unknowing intent, bide their time, sharpening their knives, and gradually encroaching upon the weakened territories, waiting for the opportune moment to strike the final blow. The common populace, caught in the ebb and flow of political turmoil, suffers as the centralization of power diminishes, leading to the concentration of education and resources in the hands of a privileged few, further exacerbating the stagnation and inequality that plague the land.
+In the wake of the empire's disintegration, the various principalities vie for supremacy, engaging in bitter power struggles among themselves, yet momentarily uniting only in the face of existential threats that threaten their very existence.
 
 Amidst this desolation, a glimmer of hope once shone through the industrialization of magic—an innovation that brought a flicker of light to the beleaguered Empire. The fusion of Esoteria, the mystical arts, with assembly techniques created a revolutionary capacity to sustain, shelter, and arm a large population within the confines of relatively small territories. This newfound growth in production served as a boon for over a century, rekindling a sense of optimism and rejuvenation within the old Empire. Many anticipated that this resurgence would pave the way for a grand unification, a harmonious gathering of all former subjects under a banner of collective prosperity.
 
 However, instead of achieving the long-awaited unity, this industrialized magic inadvertently became a bane, a catalyst that crippled the region. The Great War erupted, waged relentlessly between the bickering principalities and the encroaching Far Lands, their alliances in a constant state of flux. The heartland of the Vardan lands became the epicenter of this devastating conflict. Then, in an event shrouded in mystery, known simply as "The The Black Day," the Vardan homeland succumbed to an unimaginable magical catastrophe of cataclysmic proportions.
+
+---
 
 The details of the event remain cloaked in uncertainty, the truth obscured by the swirling fog of history. No one can definitively say what transpired or who was responsible for the The Black Day that befell the battle-scarred land. However, the Battle of Doria, a pivotal moment in the war, ended in eerie silence, followed by a cataclysmic explosion. From the aftermath of this detonation emerged a sinister sea of black fog, stretching for miles into the sky, mercilessly swallowing all life within its malevolent embrace. Thus, "The Murk" was born, an ominous testament to the irreversible destruction that had befallen the Vardan homeland.
 
@@ -763,6 +772,19 @@ The Murk best operates like your favorite show or movie.  One person will take t
 > ### Designer Notes
 >
 > Adventure Frames have been designed especially for Breathless games. Since no plot survives an encounter with the players, Adventure Frames focus on goals, scene descriptors, and complications. This leaves a lot of space for the GM to change the story on the fly, and just glue things back together when necessary.
+
+## Company Creation
+### Company Concepts
+### 
+
+## Character Creation
+### Overview
+### Character Concept and Details
+### Starting Traits
+### Selecting Your Archtype
+### Equipment
+### Faith and Esoteria
+### Final Details
 
 ## Attribution
 
