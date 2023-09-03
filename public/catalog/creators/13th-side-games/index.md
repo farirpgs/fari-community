@@ -15,6 +15,166 @@ You will find all Breathless related resources like the game's official SRD whic
 This is the The Murk SRD. A free and open licensed version of The Murk that contains all the rules, information and design guidelines for you to make your own game in The Murk.
 
 
+# The Game | The Murk SRD
+
+
+## Before We Start
+
+Content Warning: [...]
+
+Before you start, define lines that should not be crossed. Pause or rewind the game if something uncomfortable happens during a session. Always make sure everyone is comfortable with the direction of the story.
+
+## Playing The Game
+
+The Murk best operates like your favorite show or movie.  One person will take the role of the "Director" and the rest of the people shall play "Actors"
+
+**Director**: Frames the story, provides the scenery and conflict for your Actors to shine on.  Is compelling and draws Actors in with great scenes, controls the table to drive the plot forward.
+
+**Actor**: Narrates and acts on their character.  Is compelling, and feeds on other Actors and the Director.  Enables others to shine, and prepares for their moments with excitement.
+
+
+# Units of Time in Game
+
+In The Murk, time is not measured in traditional units or hours. Instead, we emphasize the exciting and engaging aspects of your characters' lives, skipping the mundane details of everyday existence. The goal is to create a gameplay experience that resembles a gripping novel or a well-paced TV show. To achieve this, we use the terms Epic, Story, Scene, and Moment to capture the essence of significant events without delving too deeply into timekeeping minutiae. This approach allows us to focus on the most compelling aspects of the game, keeping the momentum and immersion at its peak.
+
+## Season
+
+An Season refers to a grand narrative encompassing a collection of interconnected stories, all centered around the same characters, themes, and experiences. Within an Season, multiple Stories unfold, shaping both the world and the characters involved. Just like the legendary tales of Gilgamesh, Beowulf, and The Odyssey, an Season comprises numerous individual stories that come together to provide a comprehensive and cohesive understanding of the events and adventures within its realm.
+
+## Episode
+
+Within an Season, there are multiple Episodes, each comprising a complete plot with a beginning, middle, and end. These Episodes encapsulate various adventures and quests, such as storming a castle to rescue a noble, exploring haunted tunnels, or unraveling the secrets of a deceased Magister. Each Episode is further divided into Scenes, which contribute to the progressing plot within the group and throughout the world. At the conclusion of each Episode, the characters are given the opportunity to reflect on their experiences, contemplate life, and hopefully undergo personal growth.
+
+## Scene
+
+Scenes encompass the various settings and events that players encounter and navigate throughout the game. They can range from a battle in a narrow corridor, to attending the wedding of the mayor's son, to engaging in a conversation with your greatest adversary. Scenes can be diverse and multi-faceted, but they are typically categorized into different types:
+
+- Combat scenes involve intense struggles where life or death hangs in the balance.
+
+- Social scenes revolve around navigating specific situations, where your actions and words have the power to shape the world around you.
+
+- Skill scenes require expertise and problem-solving, such as crafting a peculiar artifact or stealthily infiltrating an ancient manor.
+
+- Paranormal scenes explore the effects of Esoteria and Faith, involving encounters with supernatural creatures and abilities.
+
+- Reflection scenes provide an opportunity for the party to rest, regroup, and engage in internal discussions about their recent experiences.
+
+It's important to note that very few scenes strictly adhere to a single type, and often blend and evolve as the scene progresses.
+
+## Moment
+
+
+
+
+# 3DX System
+## Rolling Dice
+
+The system aims to provide mechanics that can address most inquiries, while ensuring that the system serves the purpose of storytelling rather than overpowering it. Therefore, many of our mechanics are intentionally designed to be straightforward, following a set of essential principles that foster enjoyable and seamless gameplay.  Here are some guidelines that all play can be expected to follow. 
+
+**Roll for Consequences, not Results**
+
+We assume that individuals are reasonably proficient in carrying out everyday tasks in normal circumstances. If you're a skilled marksman, it's expected that you can shoot a gun accurately at a firing range for leisure. Professional drivers don't need to roll dice to remember which pedal is the brake and which is the gas. In fact, in a typical life, there are rarely challenges to one's basic skills.
+
+However, the characters in the Murk don't lead ordinary lives. While their skills are significant, what truly matters is the outcome of their failures. The Game Master (GM) should only request a dice roll if there are consequences tied to a potential failure. These consequences can range from minor setbacks to game-changing developments in the story. The ultimate goal is to advance a captivating narrative, and no gaming table wants to get caught up in skill checks that bear no impact on the story or its characters.
+
+**Let it Ride**
+
+In order to maintain a smooth and engaging gameplay experience, we avoid getting stuck in a cycle of repetitive skill checks. We don't want sessions to become weighed down by a series of sneak checks for every guard encountered, or multiple driving checks for each turn while evading adversaries. That's where the "Let it Ride" rule comes into play. According to this rule, there should be no need for repeated skill checks unless the situation undergoes a significant change. This means that, for a single scene, most skills will only be rolled once outside of combat, ensuring a more fluid and immersive storytelling experience.
+
+**Embrace the Rule of Cool**
+
+In The Murk, we value the concept of "cool" moments that can push the boundaries of the rules in a fun and exciting way. While the characters in the game may not possess immense power, allowing players to occasionally stretch the rules to create memorable and enjoyable experiences often leads to the most thrilling parts of a session. If something is fun and cool, we encourage you to let it play out, embracing the spirit of adventure and imagination that makes The Murk truly special.
+
+## Murk Points
+### Gaining and Losing Murk Points
+## Making Attribute Rolls
+## Other Rolls
+
+# Conjuring Esoteria
+## Casting Spells
+
+Magic is intended to be dynamic, narrative, and unnatural. For these reasons The Murk refrains from providing explicit spells and capabilities outside a few key areas. There are thousands of Esoteria symbols so when describing magic, the Paragon can use whatever flourish or description they wish to dress the effects of their spells in.
+Where magic engages other systems is where rules begin to play a part in shaping their effects. For more information, see Esoteria and Mechanics.
+
+## Rituals
+
+Those possessing the latent Esoteric skill can use it to alter reality as they see fit.  All that is required is a keen mind, a clear ritual, and a near limitless tolerance to sacrifice the things around you for the goal you have in mind.  This functions as an extentsion of normal casting.  A ritual 
+
+
+
+# Calling on Faith
+
+# Combat
+## Determining Initiative
+
+Initiative in a conflict Scene is established by each participant in a scene making a roll to determine their Initiative Score. The turn order is then determined by the individual with the highest number, granting them the first opportunity to act. As the Moment concludes, Initiative is recalculated by rolling again and adding it to the previous Initiative, thereby setting the turn order for the next Moment.
+
+### Outpacing
+
+Outpacing happens when one Actor has an Initiative that exceeds another Actor's by five or more. In this situation, the Actor with the higher Initiative gains an advantage, receiving an additional +2 on checks against the opposing Actor for every 5 point increment they are above.
+
+## Determining Distances
+## In Melee
+## Shootouts
+## Duels of Magic and Faith
+## Entering the Fray
+
+# Damage, Death, and Recovery
+## Resisting and Dealing Damage
+## The Injury Tracks
+
+The well-being of characters is intricately tied to their Core Attributes. Three Injury tracks exist, each influenced by these attributes. These tracks are independently monitored and reset at the beginning of each new scene. When damage is inflicted on a track, a corresponding roll must be made. Throughout the scene, whenever damage occurs, a reroll of the new total is required.  Injury tracks are based on core attributes for the dice type, and rank for the total number of dice.
+
+The three Injury Dice Types are as follows:
+
+- Damage - Equal to Body Dice
+
+- Strain - Equal to Mind Dice
+
+- Exhaustion - Equal to Spirit Dice
+
+The Total number of Dice for each Injury Track is 2+Rank
+
+These rolls 'explode' meaning the highest value of each die results in an additional die being rolled and added to the total.
+
+Success in these rolls signifies that no lasting effects occur. However, failure to meet the track number results in a state of Suffering. The total ranks of Suffering incurred reduce the effectiveness of all core attributes accordingly.
+
+## Suffering
+## Death and Retirement
+## Recovery
+
+
+# Archetypes
+## Soldier
+## Acolyte
+## Initiate
+## Dillentante
+## Scum
+
+#Company Types
+## Mercenaries
+## Crime 
+## Investigators 
+
+
+
+# Free Company Creation
+## Concepts
+## Picking a Type
+## Details
+
+# Character Creation
+## Overview
+## Character Concept and Details
+## Starting Traits
+## Selecting Your Archetype
+## Equipment
+## Final Details
+
+
+
+
+
 # The World of The Murk
 
 ## Why Include Setting in an SRD?
@@ -1050,9 +1210,24 @@ Seeking Guidance and Mentorship: A follower may seek guidance from spiritual lea
 It's important to note that atonement within The Penitent Choir is not a mere ritual or external act but a deeply personal and transformative journey. The process of atonement involves sincere internal reflection, genuine remorse, and active efforts towards positive change, both individually and within the community.
 
 # Esoteria
-# Creatures of Tellus
+An aspiring Magister or novice Esoteria practitioner is a scholar of the arcane arts. Through the meticulous study of formulas, the utilization of reagents, and the strength of their determination, they tap into invisible and intangible forces that hold true existence. By drawing upon these forces and channeling them into the realm of Tellus, they become conduits, shaping and manipulating them to suit their desires. This power they wield bears resemblance to the divine power harnessed by the Gods themselves, thus highlighting the perpetual tension between the devout followers and those who question the necessity of divine entities in the world.
+
+## Daemons and Others
+
+Magisters of all bents and talents often find it useful to conjure up Daemons to do their bidding.  These beings are not brought from another plane to our knowledge, but are conjured straight from the mind of the Magister, taking on the form and temperment chosen at the time of creation.  
+
+That is not to say that all Daemons are just husks bound to their Magister's will.  In fact the more potent the summoned Daemon, the greater the struggle to maintain control.  Daemons of sufficient strength do break free from their masters, living strange lives in forms of their alteration, for unknown periods of time before dissappating. 
+
 
 # Novemgrod, Setting the Stage
+
+The Mist Cliffs of Novemgrod stand as a testament to the resilience and ingenuity of its inhabitants. Situated on the western edge of the Eastern Shelf, this once-thriving city found itself on the precipice of oblivion when the Murk engulfed its surroundings, leaving only two sides exposed to the enigmatic mist. In the wake of such a devastating catastrophe, the survival of Novemgrod hinged upon the unwavering dedication of the builder's guilds.
+Faced with the imminent threat of dissolution, the skilled craftsmen and women of Novemgrod's builder's guilds rallied together, laboring tirelessly for weeks on end. Their collective efforts were focused on salvaging what remained of the city, fortifying its structures, and shoring up the foundations against the encroaching mist. It was through their unwavering determination and unwavering spirit that Novemgrod managed to withstand the relentless onslaught of the Murk, emerging as a beacon of hope amidst the chaos.
+While the city may have lost many of its historical quarters to the relentless advance of the mist, fragments of its glorious past still linger. Among the remnants, the legendary Palatine Regium, an ancient stronghold and castle dating back to the bygone era of the Imperium, stands as a proud testament to Novemgrod's storied history. This architectural marvel, though weathered by time and the encroaching mist, stands as a poignant symbol of the city's enduring spirit.
+The transformation brought about by the Murktide has given rise to a unique and awe-inspiring architectural landscape within Novemgrod. The clash between the absurdist architecture, born out of necessity and the urgency of rebuilding, and the few remaining ancient spires creates a surreal juxtaposition. The cityscape becomes a tapestry of grandiose impressions and resolute desperation, where the ingenuity of the builders merges with the echoes of a glorious past.
+The shifting nature of the Murktide imposes a constant challenge upon the inhabitants of Novemgrod. As the mist ebbs and flows, several teams of dedicated workers swiftly move to fortify and reinforce the foundations of the western plazas. Their tireless efforts, undertaken with a sense of urgency and purpose, are essential in safeguarding the city against the relentless onslaught of the encroaching mist. With each shift of the Murktide, the fate of Novemgrod hangs in the balance, and the resilience of its people is put to the test.
+In the face of adversity, Novemgrod stands as a testament to the indomitable human spirit and the unwavering determination to forge a future amidst the encroaching darkness. The Mist Cliffs, with their mixture of survivalist architecture and ancient remnants, serve as a haunting reminder of the fragility of existence and the relentless march of time. Yet, within the mist-shrouded city, a glimmer of hope persists, as the people of Novemgrod continue to defy the odds and write their own tale of resilience and survival in the shadow of the Murk.
+
 ## Nobles, Bereft of Nobility
 ## The Cries of Salvation
 ## Towers and Magisters
@@ -1077,151 +1252,5 @@ It's important to note that atonement within The Penitent Choir is not a mere ri
 ## Exploring Novemgrod
 ## Exploring the Murk
 
-
-
-# The Game | The Murk SRD
-
-
-## Before We Start
-
-Content Warning: [...]
-
-Before you start, define lines that should not be crossed. Pause or rewind the game if something uncomfortable happens during a session. Always make sure everyone is comfortable with the direction of the story.
-
-## Playing The Game
-
-The Murk best operates like your favorite show or movie.  One person will take the role of the "Director" and the rest of the people shall play "Actors"
-
-**Director**: Frames the story, provides the scenery and conflict for your Actors to shine on.  Is compelling and draws Actors in with great scenes, controls the table to drive the plot forward.
-
-**Actor**: Narrates and acts on their character.  Is compelling, and feeds on other Actors and the Director.  Enables others to shine, and prepares for their moments with excitement.
-
-
-# Units of Time in Game
-
-In The Murk, time is not measured in traditional units or hours. Instead, we emphasize the exciting and engaging aspects of your characters' lives, skipping the mundane details of everyday existence. The goal is to create a gameplay experience that resembles a gripping novel or a well-paced TV show. To achieve this, we use the terms Epic, Story, Scene, and Moment to capture the essence of significant events without delving too deeply into timekeeping minutiae. This approach allows us to focus on the most compelling aspects of the game, keeping the momentum and immersion at its peak.
-
-## Season
-
-An Season refers to a grand narrative encompassing a collection of interconnected stories, all centered around the same characters, themes, and experiences. Within an Season, multiple Stories unfold, shaping both the world and the characters involved. Just like the legendary tales of Gilgamesh, Beowulf, and The Odyssey, an Season comprises numerous individual stories that come together to provide a comprehensive and cohesive understanding of the events and adventures within its realm.
-
-## Episode
-
-Within an Season, there are multiple Episodes, each comprising a complete plot with a beginning, middle, and end. These Episodes encapsulate various adventures and quests, such as storming a castle to rescue a noble, exploring haunted tunnels, or unraveling the secrets of a deceased Magister. Each Episode is further divided into Scenes, which contribute to the progressing plot within the group and throughout the world. At the conclusion of each Episode, the characters are given the opportunity to reflect on their experiences, contemplate life, and hopefully undergo personal growth.
-
-## Scene
-
-Scenes encompass the various settings and events that players encounter and navigate throughout the game. They can range from a battle in a narrow corridor, to attending the wedding of the mayor's son, to engaging in a conversation with your greatest adversary. Scenes can be diverse and multi-faceted, but they are typically categorized into different types:
-
-- Combat scenes involve intense struggles where life or death hangs in the balance.
-
-- Social scenes revolve around navigating specific situations, where your actions and words have the power to shape the world around you.
-
-- Skill scenes require expertise and problem-solving, such as crafting a peculiar artifact or stealthily infiltrating an ancient manor.
-
-- Paranormal scenes explore the effects of Esoteria and Faith, involving encounters with supernatural creatures and abilities.
-
-- Reflection scenes provide an opportunity for the party to rest, regroup, and engage in internal discussions about their recent experiences.
-
-It's important to note that very few scenes strictly adhere to a single type, and often blend and evolve as the scene progresses.
-
-## Moment
-
-
-
-
-# 3DX System
-## Rolling Dice
-
-The system aims to provide mechanics that can address most inquiries, while ensuring that the system serves the purpose of storytelling rather than overpowering it. Therefore, many of our mechanics are intentionally designed to be straightforward, following a set of essential principles that foster enjoyable and seamless gameplay.  Here are some guidelines that all play can be expected to follow. 
-
-**Roll for Consequences, not Results**
-
-We assume that individuals are reasonably proficient in carrying out everyday tasks in normal circumstances. If you're a skilled marksman, it's expected that you can shoot a gun accurately at a firing range for leisure. Professional drivers don't need to roll dice to remember which pedal is the brake and which is the gas. In fact, in a typical life, there are rarely challenges to one's basic skills.
-
-However, the characters in the Murk don't lead ordinary lives. While their skills are significant, what truly matters is the outcome of their failures. The Game Master (GM) should only request a dice roll if there are consequences tied to a potential failure. These consequences can range from minor setbacks to game-changing developments in the story. The ultimate goal is to advance a captivating narrative, and no gaming table wants to get caught up in skill checks that bear no impact on the story or its characters.
-
-**Let it Ride**
-
-In order to maintain a smooth and engaging gameplay experience, we avoid getting stuck in a cycle of repetitive skill checks. We don't want sessions to become weighed down by a series of sneak checks for every guard encountered, or multiple driving checks for each turn while evading adversaries. That's where the "Let it Ride" rule comes into play. According to this rule, there should be no need for repeated skill checks unless the situation undergoes a significant change. This means that, for a single scene, most skills will only be rolled once outside of combat, ensuring a more fluid and immersive storytelling experience.
-
-**Embrace the Rule of Cool**
-
-In The Murk, we value the concept of "cool" moments that can push the boundaries of the rules in a fun and exciting way. While the characters in the game may not possess immense power, allowing players to occasionally stretch the rules to create memorable and enjoyable experiences often leads to the most thrilling parts of a session. If something is fun and cool, we encourage you to let it play out, embracing the spirit of adventure and imagination that makes The Murk truly special.
-
-## Murk Points
-### Gaining and Losing Murk Points
-## Making Attribute Rolls
-## Other Rolls
-
-# Conjuring Esoteria
-# Calling on Faith
-
-# Combat
-## Determining Initiative
-
-Initiative in a conflict Scene is established by each participant in a scene making a roll to determine their Initiative Score. The turn order is then determined by the individual with the highest number, granting them the first opportunity to act. As the Moment concludes, Initiative is recalculated by rolling again and adding it to the previous Initiative, thereby setting the turn order for the next Moment.
-
-### Outpacing
-
-Outpacing happens when one Actor has an Initiative that exceeds another Actor's by five or more. In this situation, the Actor with the higher Initiative gains an advantage, receiving an additional +2 on checks against the opposing Actor for every 5 point increment they are above.
-
-## Determining Distances
-## In Melee
-## Shootouts
-## Duels of Magic and Faith
-## Entering the Fray
-
-# Damage, Death, and Recovery
-## Resisting and Dealing Damage
-## The Injury Tracks
-
-The well-being of characters is intricately tied to their Core Attributes. Three Injury tracks exist, each influenced by these attributes. These tracks are independently monitored and reset at the beginning of each new scene. When damage is inflicted on a track, a corresponding roll must be made. Throughout the scene, whenever damage occurs, a reroll of the new total is required.  Injury tracks are based on core attributes for the dice type, and rank for the total number of dice.
-
-The three Injury Dice Types are as follows:
-
-- Damage - Equal to Body Dice
-
-- Strain - Equal to Mind Dice
-
-- Exhaustion - Equal to Spirit Dice
-
-The Total number of Dice for each Injury Track is 2+Rank
-
-These rolls 'explode' meaning the highest value of each die results in an additional die being rolled and added to the total.
-
-Success in these rolls signifies that no lasting effects occur. However, failure to meet the track number results in a state of Suffering. The total ranks of Suffering incurred reduce the effectiveness of all core attributes accordingly.
-
-## Suffering
-## Death and Retirement
-## Recovery
-
-
-# Archetypes
-## Soldier
-## Acolyte
-## Initiate
-## Dillentante
-## Scum
-
-#Company Types
-## Mercenaries
-## Crime 
-## Investigators 
-
-
-
-# Free Company Creation
-## Concepts
-## Picking a Type
-## Details
-
-# Character Creation
-## Overview
-## Character Concept and Details
-## Starting Traits
-## Selecting Your Archetype
-## Equipment
-## Final Details
 
 
