@@ -63,11 +63,56 @@ It's important to note that very few scenes strictly adhere to a single type, an
 
 ## Moment
 
-
+A **Moment** is just what it sounds like, a brief split second in real life.  It's the cut of a camera to a person talking, fighting, or doing any 1 action.  Moments are used in all types of Scenes.
 
 
 # 3DX System
-## Rolling Dice
+
+## Terms of Mechanics
+
+### Character Sheet Terms
+
+- Body - The Attribute covering physicality of a character.
+
+- Mind - The Attribute covering mental capacity, education, and information.
+
+- Spirit - The Attribute covering spiritual wholeness, willfulness.
+
+- Initiative - The Attribute covering speed of mind and body.
+
+- Faith - The Attribute of a Faithful's ability to talk with their God.
+
+- Esoteria - The trained Attribute of a Esoterist in using magic.
+
+- Wealth -  The Attribute for buying and finding items.
+
+- Injury - A temporary score used to track potential damage in a scene.
+
+- Suffering - A longterm penalty to living that is associated with great stress or injury.
+
+### Game Terms
+
+- Attribute - The basic makeup of a character's mechanics.
+
+- Difficulty Rating - The number associated with the difficulty of a specific task.
+
+- Potential - A currency used to empower and reward players.
+
+- Roll-off - A competitive roll used when in direct contest with other players.
+
+
+## Basic Roll
+
+The Murk uses a 3DX system with 2 dice nearly always being D6s and the third being a **Attribute** die based on the type of roll and the character's skillset.  
+
+These dice are totalled along with any flat bonuses given, and then compared to a **Difficulty Rating**.  
+
+If the roll's **Total** meets or **Exceeds** the **Difficulty Rating**, that roll is deemed a success and the intent is accomplished.
+
+A number of things can add or subtract from rolls, namely **Equipment**, **Suffering**, and **Potential**.
+
+
+## Rolling Philosophy
 
 The system aims to provide mechanics that can address most inquiries, while ensuring that the system serves the purpose of storytelling rather than overpowering it. Therefore, many of our mechanics are intentionally designed to be straightforward, following a set of essential principles that foster enjoyable and seamless gameplay.  Here are some guidelines that all play can be expected to follow. 
 
@@ -85,8 +130,28 @@ In order to maintain a smooth and engaging gameplay experience, we avoid getting
 
 In The Murk, we value the concept of "cool" moments that can push the boundaries of the rules in a fun and exciting way. While the characters in the game may not possess immense power, allowing players to occasionally stretch the rules to create memorable and enjoyable experiences often leads to the most thrilling parts of a session. If something is fun and cool, we encourage you to let it play out, embracing the spirit of adventure and imagination that makes The Murk truly special.
 
-## Murk Points
-### Gaining and Losing Murk Points
+## Potential
+
+Potential is a currency that is leveraged by players when the chips are down and something needs to occur.  Potential can be saved up and stored during an episode, or spent as it comes.  
+
+Actors spend **Potential** doing a number of things
+
+- For every 1 **Potential** spent on a roll, add 1 to the roll unless otherwise noted.
+- Every Archetype has active abilities that require spending a number of **Potential** to activate.
+- Those using Faith can exchange **Potential** for **Power** in a 1 to 1 trade during a scene.
+- Those using Esoteria can leverage **Potential** to shield them from the effects of Backlash.
+
+### Gaining and Losing Potential
+
+Characters can gain **Potential** in a number of ways.
+
+- The GM can reward **Potential** in relation to a complication they have presented to a Character.
+	- This is often based on a Trait and will be accompanied by a **Severity** die based on the difficulty
+- The Character gains 1 **Potential** when their **Attribute** die rolls higher than a 6 on any 3DX roll
+- The Character gains X **Potential** when the d6s of the 3D6 roll are tied, X being the result of their **Attribute** die roll.
+
+
+
 ## Making Attribute Rolls
 ## Other Rolls
 
@@ -133,11 +198,11 @@ The three Injury Dice Types are as follows:
 
 - Exhaustion - Equal to Spirit Dice
 
-The Total number of Dice for each Injury Track is 2+Rank
+***The Total number of Dice for each Injury Track is 2+Rank***
 
-These rolls 'explode' meaning the highest value of each die results in an additional die being rolled and added to the total.
+**These rolls 'explode' meaning the highest value of each die results in an additional die being rolled and added to the total.**
 
-Success in these rolls signifies that no lasting effects occur. However, failure to meet the track number results in a state of Suffering. The total ranks of Suffering incurred reduce the effectiveness of all core attributes accordingly.
+Success in these rolls signifies that no lasting effects occur. However, failure to meet the track number results in a rank of Suffering. The total ranks of Suffering incurred reduce the effectiveness of all core attributes accordingly.
 
 ## Suffering
 ## Death and Retirement
@@ -151,7 +216,8 @@ Success in these rolls signifies that no lasting effects occur. However, failure
 ## Dillentante
 ## Scum
 
-#Company Types
+
+# Company Types
 ## Mercenaries
 ## Crime 
 ## Investigators 
