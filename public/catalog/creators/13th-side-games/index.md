@@ -331,7 +331,7 @@ Ruthenia's political structure is characterized by a system where the nobles, kn
 
 At the heart of Ruthen culture lies the spirit of resilience and endurance. The people are stern and resolute, weathering the trials and tribulations that life throws their way. It is through this perseverance that the Ruthen people produce great works of writing, capturing the essence of their experiences and the soul of their nation. Some notable authors within the Ruthen literary tradition include:
 
--Ivana Morozova - Renowned for her introspective and evocative poetry collection, "Whispers of the Frozen Land."
+-Ruvana Morozova - Renowned for her introspective and evocative poetry collection, "Whispers of the Frozen Land."
 -Aleksander Petrovich - A master of historical fiction, his epic novel "The Chronicles of Rus" chronicles the turbulent events of Ruthen history.
 -Natalya Dragunova - Known for her thought-provoking literary essays and insightful social commentary in her book "Reflections of the Silent Steppes."
 
@@ -1222,35 +1222,291 @@ That is not to say that all Daemons are just husks bound to their Magister's wil
 # Novemgrod, Setting the Stage
 
 The Mist Cliffs of Novemgrod stand as a testament to the resilience and ingenuity of its inhabitants. Situated on the western edge of the Eastern Shelf, this once-thriving city found itself on the precipice of oblivion when the Murk engulfed its surroundings, leaving only two sides exposed to the enigmatic mist. In the wake of such a devastating catastrophe, the survival of Novemgrod hinged upon the unwavering dedication of the builder's guilds.
+
 Faced with the imminent threat of dissolution, the skilled craftsmen and women of Novemgrod's builder's guilds rallied together, laboring tirelessly for weeks on end. Their collective efforts were focused on salvaging what remained of the city, fortifying its structures, and shoring up the foundations against the encroaching mist. It was through their unwavering determination and unwavering spirit that Novemgrod managed to withstand the relentless onslaught of the Murk, emerging as a beacon of hope amidst the chaos.
+
 While the city may have lost many of its historical quarters to the relentless advance of the mist, fragments of its glorious past still linger. Among the remnants, the legendary Palatine Regium, an ancient stronghold and castle dating back to the bygone era of the Imperium, stands as a proud testament to Novemgrod's storied history. This architectural marvel, though weathered by time and the encroaching mist, stands as a poignant symbol of the city's enduring spirit.
+
 The transformation brought about by the Murktide has given rise to a unique and awe-inspiring architectural landscape within Novemgrod. The clash between the absurdist architecture, born out of necessity and the urgency of rebuilding, and the few remaining ancient spires creates a surreal juxtaposition. The cityscape becomes a tapestry of grandiose impressions and resolute desperation, where the ingenuity of the builders merges with the echoes of a glorious past.
+
 The shifting nature of the Murktide imposes a constant challenge upon the inhabitants of Novemgrod. As the mist ebbs and flows, several teams of dedicated workers swiftly move to fortify and reinforce the foundations of the western plazas. Their tireless efforts, undertaken with a sense of urgency and purpose, are essential in safeguarding the city against the relentless onslaught of the encroaching mist. With each shift of the Murktide, the fate of Novemgrod hangs in the balance, and the resilience of its people is put to the test.
+
 In the face of adversity, Novemgrod stands as a testament to the indomitable human spirit and the unwavering determination to forge a future amidst the encroaching darkness. The Mist Cliffs, with their mixture of survivalist architecture and ancient remnants, serve as a haunting reminder of the fragility of existence and the relentless march of time. Yet, within the mist-shrouded city, a glimmer of hope persists, as the people of Novemgrod continue to defy the odds and write their own tale of resilience and survival in the shadow of the Murk.
 
 ## Nobles, Bereft of Nobility
+
+Destined to be an unlikely ruler, Ruvan's path to becoming the Grand Prince was fraught with challenges and disapproval. His own uncle, Milov, held disdain for him throughout his life, belittling him with harsh words of being too soft and ignorant of the world. These disparaging remarks echoed in Ruvan's ears during his formative years, a constant reminder of his perceived inadequacies.
+
+The shadow of comparison loomed over Ruvan, particularly in relation to his cousin Rikov, a valiant prince known for his prowess in battle. Rikov, two years Ruvan's senior, possessed the qualities of bravery and physical prowess that were esteemed in their society. While the two shared a genuine friendship outside the confines of court, Rikov never truly grasped the depths of Ruvan's bookish and delicate nature. As fate would have it, Ruvan's path seemed destined for a life of administration, a role befitting his scholarly inclinations.
+
+However, the onset of The War changed everything. Milov and Rikov departed Novemgrod, leaving Ruvan to govern in their absence as they rallied their armies and Magisters to confront the impending threat from the West. Tragically, they never returned, leaving Ruvan to inherit a shattered homeland and the weighty responsibility of rebuilding in the shadow of his heroic family.
+
+Despite his youth, Ruvan proved to be a wise and discerning ruler. Surrounded by knowledgeable advisors, he exhibited a disregard for the corrupt machinations of the Councils, instead prioritizing the welfare of his subjects. In essence, he embodied the ideals of an enlightened despot, although at times, his determination and inclination towards micromanagement led him down a path of stubbornness. Trusting only a select few among his fellow nobles, Ruvan maintained a cautious proximity to them, aware that a palace coup could be brewing at any moment. While he appeared physically frail, his gaze betrayed a profound insight that seemed to transcend the mortal realm.
+
+In times of need, Ruvan sought the counsel of High Magister Valeska, a relationship built on politeness and friendship. Their interactions served a mutual purpose: the Magister relied on Ruvan for survival, while he sought her guidance in matters of esoteric knowledge. Perhaps something deeper existed between them, a connection that surpassed their respective stations, but the constraints of their roles prevented any further union. Nonetheless, they conversed as kindred spirits, individuals left behind by their more formidable and foolish predecessors, navigating a world that demanded their wisdom and resilience.
+
 ## The Cries of Salvation
+
+The echoes of diverse faiths resound through the bustling streets of Novemgrod, a metropolitan center within a larger cosmopolitan region. Within this vibrant tapestry of beliefs, different religions coexist and collaborate while simultaneously engaging in a constant competition for the souls of the populace. It is important to note that these overlapping faiths do not necessarily exclude one another, and grand acts of charity, benevolence, and even "miracles" performed by rival clergy are not uncommon occurrences, each seeking to capture the attention and devotion of the masses.
+
+Generally speaking, the interfaith rivalry remains peaceful, though not always entirely fair. Instances where a miracle is thwarted by a servant of a competing faith may elicit indignation and scorn, yet rarely does this verbal conflict escalate into physical violence. However, an exception to this norm exists in the form of secretive cults that emerge to worship and draw power from the enigmatic Murk and its enigmatic inhabitants. Whispers of nocturnal rituals at the edge of the city persist, though the identities of those involved are veiled in mystery. Furthermore, certain gods are deemed unwelcome in the light of day, such as the ominous Charred One and the enigmatic Apatur. Despite lacking an overt following on paper, intrigue and suffering continue to afflict the city, leaving a lingering sense of unease.
+
+With the exception of the aforementioned cases, the majority of faiths denounce The Murk and its creators, the Magisters. Prior to The War, religious leaders perceived themselves as the sole guardians against the growing power of the Magisters and their imposing Spires. They criticized those who dabbled in Esoteria, viewing their practices as audacious attempts to breach the divine realm and attain godhood themselves.
+
+The calamitous downfall of the Magisters and the subsequent Cataclysm only served to validate the concerns of the faiths. As a result, anyone practicing Esoteria is often met with censure within religious circles, if not outright excommunication, rendering them social outcasts. It is only due to the Magisters' indispensable role in maintaining the vast sea of mist that envelops the city that they have been spared from the torches of religious fervor thus far, for their continued involvement remains a necessity, albeit a begrudging one.
+
 ## Towers and Magisters
+
+Perched upon the smoldering remnants of a city she once cherished in her youth, High Magister Valeska II finds herself entangled in a web of complex emotions and daunting responsibilities. Born into poverty as the daughter of a humble practitioner of rudimentary Esoteria, Valeska embarked on a relentless ascent through the ranks of the Magisterial order, fueled by her unwavering determination and meticulous approach.
+
+Despite achieving the esteemed status of Magister and unlocking the coveted Sixth Seal, Valeska encountered an insurmountable barrier that prevented her from ascending to the ranks of the nobility. The entrenched power of the old bloodlines that permeated the spires conspired against this newcomer, obstructing any path to upward mobility for the Novus Homo. However, fate intervened, and three fortuitous circumstances saved Valeska from a life of mediocrity.
+
+Firstly, her exceptional aptitude for Esoteria set her apart as one of the most gifted practitioners of her generation, affording her unparalleled access to the arcane arts. This remarkable talent, combined with her sharp political acumen, caught the attention of Grand Prince Milov of Novemgrod. 
+
+Recognizing her unique blend of cunning and raw power, Milov interceded on her behalf, beseeching the Council to grant her opportunities commensurate with her abilities. Moreover, it was the Council's prejudiced rejection and disdain for the "outsider" that inadvertently spared Valeska's life.
+
+Elevated to a position within the Council, Valeska found herself unwittingly excluded from their grand plan to secure victory in The War. She wept bitter tears upon realizing she would not share in the glory of their triumph. However, the tides of fortune shifted abruptly with The Calamity, turning her perceived loss into both a hollow victory and an inescapable burden.
+
+As the blame for the catastrophe fell squarely upon the shoulders of the Council, the populace directed their ire towards Valeska, the now High Magister. Were it not for the intervention of Prince Ruvan, she would have likely faced condemnation and punishment, consigned to the unforgiving depths of The Murk as retribution for the council's egregious hubris.
+
+Now, Valeska presides over a decaying system, perched atop a fragile throne of authority. Her loyal Magisters toil tirelessly, their efforts dedicated to upholding the weakening wards and safeguarding the remnants of the city and its beleaguered inhabitants. Yet, concealed both within the city's boundaries and amidst the alabaster walls of The Spire, clandestine movements fester, plotting to enact a radical transformation of the prevailing regime. The burden resting upon Valeska's shoulders is immeasurable, for all bear witness to the Council's role in precipitating the great Calamity, and no act can absolve them of their collective guilt.
+
 ## Woe of the Commons
+
+The soldier, the farmer, and the factory worker—these stalwart individuals have weathered the trials and tribulations of the past three decades with a resilient determination. Their unwavering resolve to forge a better life for themselves and their loved ones has been met with relentless obstacles imposed by higher powers. In the eyes of princes and high priests, the lives of ten common people hold little significance when weighed against the grand struggles of nations and souls. What price must be paid for the happiness of orphans and the destitute amidst the machinations of power?
+
+Nevertheless, they persist, day in and day out, toiling ceaselessly, brick by brick, as the unsung architects of a new world. It is they who bear the burden of rebuilding, even when their efforts are exploited by their superiors, for whom their plight often goes unnoticed. Blinded by their entourage of counselors, princes fail to perceive the struggles of the common folk. While the churches offer assistance, they exact a spiritual toll, demanding adherence to rituals and beliefs. In the aftermath of the war, many have lost faith, although their deep-seated superstitions remain entrenched. The mention of Esoteria—the forbidden realm of forbidden knowledge—is deemed taboo at most dinner tables, alongside the contentious topic of politics. Both subjects have claimed the lives of their sons, brothers, and fathers, and the resentments borne from these losses shall remain until death claims them.
+
+Yet amidst their collective hardships, a flickering ember of hope endures within their hearts. They cherish the noble aspirations that reside within them, safeguarding their dreams even as they harbor skepticism. Their spirits may be wounded, but the indomitable spirit of resilience remains, a testament to their unwavering determination to preserve their dignity and seek justice. For within the unyielding resolve of these unsung heroes lies the potential for change, a silent rebellion against the forces that have sought to subjugate them. Though their voices may not always be heard, their silent struggle continues, a testament to the enduring strength of the human spirit in the face of adversity.
+
 ## Rising Opportunists
+
+Driven to the brink by the absence of legal avenues for survival and upward mobility, a significant portion of the lower classes finds solace in the embrace of criminality. Organized crime syndicates and gangs weave their intricate webs of influence, entrenching themselves within the fabric of almost every neighborhood in the sprawling expanse of major cities. Astonishingly, a few of these criminal entities have even been granted official recognition by the ruling elite, trading the semblance of legitimacy in exchange for maintaining a semblance of order within the city's confines.
+
+Simultaneously, another contingent of society seeks refuge in the realm of Freelancery, gravitating towards the ranks of mercenary companies or even forming their own. Comprising veterans of The War, these groups are veiled in the guise of professional soldiers but often bear an uncanny resemblance to hired brigands. When challenges emerge that cannot be openly addressed by the Princes or their courtiers, they reluctantly turn to these costly yet expendable factions, entrusting them with the delicate task of resolving matters discreetly, away from the prying eyes of the public.
+
+The rise of these alternative paths is a testament to the fraying social fabric and the erosion of trust in traditional systems of governance. Faced with limited opportunities for legal advancement or fair treatment, individuals from the lower echelons of society have been compelled to venture into the shadowy realms of organized crime or embrace the precarious life of a hired sword. Their choices reflect a profound disillusionment with the prevailing social order, where the rule of law fails to provide equitable opportunities and those in power turn a blind eye to the struggles of the marginalized. It is a stark reminder of the systemic inequalities that continue to plague the realm, pushing its inhabitants to seek unconventional means of survival and justice in a world that has failed them.
+
 ## What Lies Ahead?
+
+The future of Novemgrod hangs precariously in the balance, as uncertainty shrouds the city in an aura of mystery and apprehension. Whispers of clandestine cults, their dark rituals concealed in the cloak of night, permeate the outskirts, adding an air of eerie intrigue to the already tumultuous atmosphere. Meanwhile, the diligent delvers, braving the treacherous remnants of the fallen city, unearth cryptic artifacts and relics that hint at forgotten secrets and hidden truths.
+
+Both the Prince and the High Magister, the pillars of authority in Novemgrod, cling to power with a tenuous grip, unaware of the fragility of their positions. Their threads of control are worn thin, susceptible to unforeseen forces that lurk in the shadows, poised to unravel the very fabric of their rule. The Prince, burdened with the weight of his family's heroic legacy, faces the constant struggle to assert his authority and navigate the intricate webs of court intrigue. Meanwhile, the High Magister, Valeska, finds herself in a position of immense responsibility, burdened not only by the crumbling remnants of a broken system but also by the knowledge of the Council's complicity in the calamity that befell the city.
+
+In this climate of uncertainty and vulnerability, the destiny of Novemgrod hangs in the balance. Will the secrets whispered in the dark bring about salvation or damnation? Can the delvers' discoveries hold the key to uncovering the city's hidden past and shaping its future? As the Prince and the High Magister teeter on the edge of their authority, unaware of the forces conspiring against them, the threads that bind Novemgrod's fate together grow ever thinner. The outcome of these tangled events remains elusive, leaving the city and its inhabitants teetering on the precipice of a destiny yet to be revealed.
+
 ## Notable Faces
+
 ### Prince Ruvan
+
+Prince Ruvan, a figure marked by both resilience and vulnerability, carries a backstory that weaves together strands of longing, determination, and unexpected grace. Born into the noble lineage of Novemgrod, Ruvan's path to power was riddled with challenges and insecurities. His early years were shadowed by the disapproval of his uncle, Milov, who dismissed him as "soft" and lacking worldly knowledge. This constant comparison to his brave and esteemed cousin, Rikov, only deepened Ruvan's feelings of inadequacy.
+
+Physically, Ruvan stands at an average height, his frame stocky and strong from soldiering these last decades. His fair complexion bears the faint remnants of childhood illnesses and adult hardships, which left him marked and scarred in appearance. Yet behind his seemingly frail exterior lies a gaze that reveals an otherworldly insight, hinting at a depth of wisdom and resilience that surpasses his 40 years.
+
+Despite his physical limitations, Ruvan possesses an insatiable thirst for knowledge and a penchant for intellectual pursuits. While his cousin Rikov thrived in the realm of battle, Ruvan found solace within the pages of philosophy and fiction. He immersed himself in the works of great thinkers, seeking refuge in the realms of imagination and introspection.
+
+When The War erupted, fate thrust Ruvan into an unforeseen role. Milov and Rikov, the pillars of his family, entrusted him with the responsibility of leading Novemgrod while they amassed their armies. However, their absence would become permanent, leaving Ruvan to inherit the shattered remains of his home and the daunting task of rebuilding in the shadow of his heroic lineage.
+
+In the face of adversity, Ruvan proved himself a wise and compassionate ruler. He surrounded himself with knowledgeable advisors, valuing their counsel over the corrupt machinations of the Councils. Despite his youthful appearance, Ruvan exhibited a tenacious resolve, venturing into the realm of micromanagement to ensure the well-being of his subjects.
+
+To seek guidance in matters of esoteric nature, Ruvan often sought the company of High Magister Valeska. Their meetings were characterized by a polite and amicable demeanor, borne out of the mutual understanding that their fates were intertwined. The unspoken connection between them, though stifled by their respective stations, hinted at a shared sense of being abandoned by their predecessors and a shared longing for redemption.
+
+Amidst the turmoil that plagues Novemgrod, Ruvan remains a beacon of hope and resilience for his people. His frailty belies a profound strength of character, and his unwavering determination to navigate the treacherous currents of power and rebuild a shattered world fuels the whispers of a brighter future in the hearts of his subjects.
+
 ### The High Magister Valeska
+
+High Magister Valeska, a figure shrouded in enigma and tempered by adversity, bears a backstory that intertwines elements of resilience, ambition, and a deep connection to the arcane arts. From humble beginnings, Valeska's journey into the realm of magic was both an escape and a means to transcend her circumstances.
+
+Born into a modest family in the outskirts of Novemgrod, Valeska's early years were marked by poverty and struggle. Her father, a rudimentary Esoterist, instilled in her a fascination with the mystical and the arcane. It was through her father's guidance and her own innate talent that she discovered her affinity for manipulating the forces of Esoteria.
+
+Valeska's appearance is striking and beguiling, with flowing raven-black hair that cascades down her back like a midnight waterfall. Her piercing, almond-shaped eyes possess an ethereal quality, their vibrant blue hue often shimmering with a hint of secrets and hidden knowledge. Adorned in flowing robes of deep indigo, she carries an aura of both authority and mystery, her presence commanding attention and respect.
+
+In her pursuit of arcane mastery, Valeska dedicated countless hours to honing her skills and unraveling the complexities of Esoteria. Her relentless determination and thirst for knowledge led her to ascend the ranks of the Magisterial order, even in the face of prejudice and opposition from the old bloods that clung to the traditional hierarchy.
+
+However, her ascent was not without its share of sacrifices. As Valeska unlocked the Sixth Seal, a potent symbol of her mastery over Esoteria, she found herself barred from attaining nobility, a privilege reserved for those born into the old bloodlines. This injustice fueled her ambition, driving her to prove herself worthy of recognition and respect.
+
+It was Grand Prince Milov of Novemgrod who recognized Valeska's political acumen and unparalleled magical prowess. He saw in her the ideal combination of cunning and raw power required to navigate the treacherous corridors of power. Impressed by her abilities, he implored the Council to grant her a seat, elevating her to the esteemed position of High Magister.
+
+As High Magister, Valeska stands at the precipice of a creaking and failing system, shouldering the weight of both responsibility and blame. Her days are filled with tireless efforts to keep the wards intact, preserving what remains of the city and its inhabitants. Many within and outside the alabaster walls of The Spire, disillusioned by the actions of the Council and the Spire itself, secretly conspire for regime change, placing Valeska in a precarious position where her every move is scrutinized.
+
+In her private moments, Valeska often retreats to her study, surrounded by ancient tomes and arcane artifacts. There, she delves into the mysteries of forbidden knowledge, seeking insights and solutions to the challenges that beset Novemgrod. Her unwavering dedication to her craft is matched only by her desire to atone for the sins of the Council and find redemption for their hubris that led to The Calamity.
+
+Haunted by the betrayal of her former allies, Valeska treads a delicate path, knowing that the trust of the populace hangs in the balance. She carries within her a burning desire to reshape the city, to forge a future where the mistakes of the past are not repeated, and where her mastery of Esoteria can be channeled toward the betterment of Novemgrod.
+
 ### Victor Volkov
+
+Victor Volkov, widely known as "The Vors," is a formidable figure who holds significant influence over the city of Novemgrod. Born into the underbelly of the city, Victor's upbringing was marked by poverty and violence. As a young man, he quickly learned that survival in this harsh environment required a certain ruthlessness and cunning. With a sharp mind and a natural talent for strategic thinking, Victor rose through the ranks of the criminal underworld, establishing himself as a force to be reckoned with.
+
+In appearance, Victor cuts an imposing figure. Standing tall and broad-shouldered, he exudes an air of authority and confidence. His dark, piercing eyes seem to hold the weight of the secrets he carries, and a permanent five o'clock shadow adds to his mysterious allure. Victor's strong jawline and rugged features give him an aura of rugged charm, though his cold and calculating demeanor serves as a constant reminder of the dangers lurking beneath his charismatic exterior.
+
+Known for his shrewd business acumen, Victor has managed to extend his influence beyond traditional criminal activities. Understanding the power dynamics of Novemgrod, he has taken control of the city's security, effectively becoming the manager of the royal guard. While The Stroidan, his loyal gang, engages in extortion and other illicit activities, Victor ensures that they maintain a delicate balance of power, preventing outright chaos and ensuring relative peace on the streets. Despite his criminal activities, he maintains a certain code of honor within his organization, punishing those who overstep boundaries and providing a sense of security for the citizens who would otherwise be left vulnerable.
+
+Beyond his criminal empire, Victor possesses a keen intellect and a deep understanding of the city's power dynamics. He carefully navigates the complex political landscape, forging alliances and manipulating key players to further his own interests. While his actions may seem self-serving, Victor believes that he is the true guardian of Novemgrod, protecting it from internal and external threats in his own ruthless way.
+
+However, despite his power and influence, Victor remains a mysterious and enigmatic figure. His true motivations and long-term goals are known only to a select few, and his actions often leave those around him questioning their loyalties. His ability to inspire fear and command respect has made him a figure of both admiration and trepidation, and many wonder if there is more to Victor Volkov than meets the eye.
+
 ### Erika Stein
+
+Erika Stein's early years were marked by tragedy and hardship, as she was orphaned by the devastating event known as The Black Day. With the loss of her parents, she found herself alone and vulnerable in a world shattered by chaos. Stripped of her familial support, she was forced to navigate the harsh realities of life in a workcamp, where she witnessed firsthand the cruelty and injustice endured by the less fortunate.
+
+Growing up in the workcamp, Erika became acutely aware of the stark divide between the privileged and the oppressed. The daily struggles, meager living conditions, and backbreaking labor shaped her perception of the world and fueled a burning desire for change. She saw the wealthy elites thriving while the working class toiled endlessly to eke out a meager existence. Determined to challenge this unjust status quo, Erika began to find solace in the collective strength of the laborers around her.
+
+In appearance, Erika is a striking figure with fiery red hair that cascades down her back. Her piercing green eyes reflect a sense of determination and unwavering resolve. Despite the hardships she has faced, her spirit remains unbroken, radiating a contagious energy that draws people to her cause. Erika carries herself with a sense of purpose, often dressed in practical clothing that allows her to move freely and engage in the work of activism.
+
+Despite the difficult circumstances, Erika's resilient spirit remained unbroken. She sought solace in the written word, devouring books and educating herself on social movements and the history of worker's rights. As she grew older, her experiences in the workcamp and her passion for justice drove her to become a fierce advocate for the rights of the working class.
+
+Erika's time in the workcamp instilled in her a deep sense of empathy and solidarity with those who shared her struggles. She became a voice for the voiceless, organizing secret meetings and clandestine discussions to empower her fellow laborers. Through her unwavering determination and natural leadership skills, she rallied others to stand up against their oppressors, even in the face of harsh repercussions.
+
+It was during this formative period that Erika developed her skills as an agitator and learned the art of civil disobedience. She recognized the power of collective action and used her knowledge to strategize and plan acts of resistance, including acts of corporate vandalism aimed at disrupting the operations of the powerful corporations that perpetuated the exploitation of the working class.
+
+Erika's journey from orphanhood to becoming a prominent union agitator and community leader is a testament to her resilience and unwavering commitment to justice. Her experiences in the workcamp not only shaped her understanding of the oppressive systems at play but also fueled her determination to dismantle them. Erika's childhood hardships became the driving force behind her tireless efforts to fight for the rights and dignity of the working class, leaving an indelible mark on the city of Novemgrod.
+
 ### Elsbeth Von Bergmann
+
+Elsbeth was born into the aristocratic Von Bergmann family, renowned for their wealth and influence in the region. However, tragedy struck her at a young age when her parents succumbed to a fatal illness during an outbreak that swept through the city. Left orphaned and alone, Elsbeth's life took a dramatic turn.
+
+Without any close relatives to take her in, Elsbeth was placed under the care of a distant relative who showed little interest in her well-being. Faced with neglect and mistreatment, she found solace in the confines of her family's expansive library. It was within those walls that Elsbeth discovered a love for knowledge and an insatiable thirst for learning.
+
+Despite her circumstances, Elsbeth's natural intelligence and determination shone through. She dedicated herself to her studies, devouring books on a wide range of subjects, from history and philosophy to politics and economics. This thirst for knowledge became her driving force, empowering her to rise above her difficult circumstances.
+
+As Elsbeth grew older, she became increasingly aware of the social and economic disparities that plagued her city. The stark contrast between the opulent lifestyles of the privileged elite and the suffering of the working class fueled a sense of injustice within her. Elsbeth developed a deep empathy for those who struggled to make ends meet and a burning desire to bring about positive change.
+
+In her pursuit of justice, Elsbeth became actively involved in various philanthropic endeavors, dedicating her time and resources to improving the lives of the less fortunate. She established shelters for the homeless, advocated for fair labor practices, and championed educational opportunities for all. Elsbeth's efforts caught the attention of both the working class and the intellectual circles, earning her a reputation as a compassionate and forward-thinking advocate for social reform.
+
+Elsbeth's appearance is striking, with her fair complexion, vibrant blue eyes that hold a hint of determination, and cascading auburn hair that falls gracefully past her shoulders. Her regal poise and confident demeanor reflect her aristocratic heritage, but her warm smile and approachability convey a genuine empathy for others.
+
+Despite her privileged upbringing, Elsbeth remains deeply connected to the struggles of the common people. She is often seen engaging with workers and listening attentively to their concerns, wearing modest attire that reflects her commitment to simplicity and equality. Her personal habits include dedicating time each day to reading and reflecting, finding solace and inspiration in the written word.
+
+Elsbeth's ultimate goal is to bring about lasting social change, to bridge the divide between the classes, and to create a society where opportunities are accessible to all, regardless of their background. Her unwavering determination, compassionate nature, and sharp intellect make her a formidable force in the pursuit of a more just and equitable world.
+
 ## Notable Factions
-### The Black Veil
+
+### The Stroidan
+
+The Stroidan, a notorious criminal network that operates in the shadows of Novemgrod, is a clandestine organization renowned for its intricate web of criminal activities and its iron grip on the city's underworld. Born out of the chaos and lawlessness that followed The Black Day, this network has grown to become a formidable force, exerting its influence on every aspect of the city's criminal landscape.
+
+The Stroidan operates with meticulous precision and unwavering ruthlessness. They have established a vast network of skilled criminals, informants, and corrupt officials who help maintain their stranglehold on the city. Under the cover of darkness, The Stroidan orchestrates a wide range of illicit activities, including smuggling, extortion, drug trafficking, and assassination.
+
+One of the key figures within The Stroidan is Viktor Volkov, a cunning and ruthless crime lord who commands respect and fear from both his subordinates and rival factions. Viktor has established his dominance by capitalizing on the weakened state of the city's law enforcement, as the royal guard has been unable to replenish its ranks. He has taken over the security operations in Novemgrod, providing protection to businesses and residents in exchange for a hefty fee. While his gang may engage in extortion and other criminal acts, they also play a role in maintaining a fragile semblance of order in the city, preventing total anarchy from taking hold.
+
+The Stroidan thrives on secrecy and operates through a complex system of codes, hidden symbols, and covert communication channels. Its members wear black veils or masks, obscuring their identities and adding an air of mystique to their criminal activities. This secrecy allows the organization to evade the prying eyes of the authorities and maintain control over their illicit operations.
+
+Within the criminal network, there are various specialized divisions, each with their own area of expertise. These divisions include skilled thieves, master forgers, talented assassins, and adept hackers. The Stroidan prides itself on recruiting individuals with unique skills and exceptional abilities, ensuring that they have a competitive edge over rival criminal organizations and law enforcement agencies.
+
+While The Stroidan operates primarily for its own gain, it is not uncommon for them to strike deals or form temporary alliances with other criminal groups or corrupt officials to further their influence and protect their interests. They have a reputation for being swift and merciless in dealing with those who betray their trust or attempt to undermine their operations.
+
+The true extent of The Stroidan's influence and power remains a mystery to most, as their activities are shrouded in darkness and secrecy. Their vast network extends far beyond the borders of Novemgrod, infiltrating neighboring cities and regions, making them a force to be reckoned with in the criminal underworld.
+
+The Stroidan represents a constant threat to the fragile stability of Novemgrod, with their activities undermining the efforts of law-abiding citizens and posing challenges to the authorities. The Prince and other key figures in the city must tread carefully, aware that The Stroidan's reach extends into the highest echelons of power. Unmasking and dismantling this criminal network is a formidable task that requires unwavering determination and strategic cunning.
+
 ### The Bannerless
-### The Circle
+
+The Bannerless, born from the ashes of The Great War, was founded as a chaptered organization by veterans who had witnessed the devastating consequences of conflict. Recognizing the need for stability and unity across the warring kingdoms, these brave individuals banded together to form a formidable force dedicated to upholding peace and safeguarding the innocent.
+
+In its early days, the primary objective of The Bannerless was to bridge the divides between the factions and ensure lasting stability. The founding members understood that by uniting the soldiers who had fought on opposite sides, they could foster understanding, heal wounds, and forge a path towards reconciliation. Their aim was to create a new era marked by cooperation and mutual respect.
+
+As the war ended three decades ago, many of the original founders have now passed on the mantle to the next generation. The legacy of The Bannerless runs deep within their bloodlines, and the children of these esteemed veterans have been inducted into the chapters. Guided by the wisdom and experiences of their parents, they continue the noble mission, carrying the torch of unity and justice forward.
+
+Each chapter within The Bannerless possesses a distinct identity, shaped by the city in which it resides. These identities are a reflection of the unique cultures, customs, and challenges that each city faces. However, despite these individual characteristics, all members of The Bannerless welcome one another with open arms. Bonds of brotherhood and sisterhood are forged across cities and regions, fostering a spirit of camaraderie, respect, and shared purpose.
+While the chapters maintain their own local operations and initiatives, they remain united under the banner of The Bannerless. Regular gatherings, training sessions, and exchange programs are held to foster a sense of unity and to ensure that members benefit from the collective knowledge and experiences of their peers.
+
+The Bannerless's strength lies not only in the diverse skills and expertise of its members but also in the solidarity and mutual support they offer one another. Members from different chapters often come together to tackle larger threats that transcend city boundaries, drawing on their collective resources and knowledge to face challenges with a united front.
+
+As The Bannerless continues to evolve and expand, its influence and impact spread across the realms. The organization's commitment to stability, justice, and peace resonates deeply within its members and extends to the communities they serve. With each passing year, The Bannerless's reach extends further, its members standing as beacons of hope and exemplars of unity in a world often marked by division.
+
+Driven by the legacy of the great war, The Bannerless remains dedicated to forging a better future for all. Through their unwavering determination and shared values, they inspire others to overcome strife and seek common ground. As they move forward, embracing the challenges that lie ahead, The Bannerless stands as a testament to the power of unity, collaboration, and the indomitable spirit of those who refuse to let history repeat itself.
+
+### The Foundation
+
+The Foundation, a mysterious organization that resides in the shadows, has garnered its fair share of critics who claim that there is more to it than meets the eye. While publicly presenting themselves as an esteemed group of intellectuals and scholars, their detractors argue that The Foundation conceals a darker agenda beneath its façade of enlightenment.
+
+At the helm of this clandestine organization are a group of disenchanted nobles, who may outwardly serve Prince Ruvan but harbor a deep dissatisfaction with his rule. These individuals, yearning for greater influence and power, find solace within the folds of The Foundation. It is here that they convene, sharing their discontent and plotting their own clandestine endeavors.
+
+Central to The Foundation's operations is their private library, meticulously curated to house a vast collection of Esoteria. This secretive repository serves as a gathering place for the members, granting them exclusive access to ancient and forbidden knowledge. Within the hallowed halls of the library, esoteric texts and artifacts are preserved and studied, delving into the realms of magic, mysticism, and the occult.
+
+However, The Foundation's activities extend beyond the pursuit of esoteric knowledge. While they engage in philanthropic efforts that are seemingly driven by a desire to uplift the community, their true motivations lie in achieving ulterior goals. Behind the veil of charitable endeavors, they strategically deploy their resources and influence to manipulate situations to their advantage. These acts of philanthropy serve as a means to gain favor, influence key individuals, or secure crucial alliances necessary for their hidden agendas.
+The Foundation's true intentions and the extent of their actions remain shrouded in secrecy. Whispers among the populace hint at their involvement in covert operations, political maneuverings, and even darker rituals. Critics allege that The Foundation's pursuit of power and control surpasses their professed commitment to enlightenment and progress.
+
+While some may view The Foundation as a beacon of knowledge and intellectual prowess, others regard it with suspicion and fear. They question the true nature of this organization, wary of the hidden forces that may be at play behind closed doors. As rumors swirl and dissenting voices grow louder, The Foundation's grip on the shadows tightens, concealing their true motives and leaving the populace to wonder what machinations lie beneath their enlightened facade.
+
 ### Temnovus
+
+Deep in the shadows of Novemgrad, a mysterious and clandestine group known as the Temnovus thrives, shrouded in secrecy and darkness. Their members remain elusive and hidden, their identities veiled behind a web of intrigue and anonymity. No one knows for certain who is part of this enigmatic organization, as they operate with utmost discretion, silently moving through the city's corridors undetected.
+
+The Temnovus, driven by an insatiable fascination with the dark, have left their mark upon the city's landscape. From time to time, their symbol emerges, painted in cryptic patterns upon public areas. It serves as a chilling reminder of their presence, an invitation to those who dare to seek the secrets they hold. Yet, it is not only in public displays that their symbol manifests. In the depths of hidden chambers and forsaken corners, the Temnovus conducts their dark rituals, invoking forces beyond comprehension. Authorities stumble upon these eerie symbols, evidence of the Temnovus' sinister practices, fueling speculation and fear.
+
+Rumors abound that the Temnovus worships The Murk, an entity shrouded in mystique and darkness. Some believe that the cult channels the very power of The Murk, drawing upon its enigmatic energy for their own purposes. The Murk's association with chaos and the unknown instills a sense of unease in the hearts of the people, further fueling the suspicion surrounding the Temnovus.
+
+Despite being strictly forbidden in Novemgrad, the allure of the Temnovus persists. The city's authorities have waged a relentless battle to suppress their activities, but their efforts have met limited success. Symbols of the Temnovus continue to materialize in unexpected places, a silent defiance against the established order. And people, unfortunate souls, occasionally vanish without a trace, their disappearances seemingly linked to the enigmatic cult.
+
+In the darkness of night, the Temnovus thrives, weaving its web of secrets and manipulating the unseen forces that dwell within the shadows. Novemgrad remains a city plagued by the lingering presence of this forbidden cult, its symbol a haunting reminder of their existence, and the uncertainty of what lies hidden in the depths of their twisted devotion.
+
 ## Notable Locations
 ### The Forges
+
+Nestled amidst the remnants of the Great War factories, The Forges stand as a testament to the enduring spirit of Novemgrod's workforce. Once bustling centers of mass production, these factories now serve as a combined residential and industrial hub for thousands of workers who call them home.
+
+Within the dilapidated walls of The Forges, a unique system has taken root. Failed magisters, those who couldn't ascend to the noble ranks of their order, find employment as enchanters, infusing specialist items with magical properties. Despite their lack of recognition in the esteemed Magisterial hierarchy, these individuals possess a deep understanding of esoteria and use their skills to create enchantments that give an edge to weapons, armor, and various other survival tools.
+
+The Forges have become a vital source of essential materials necessary for survival in Novemgrod. Workers toil day and night, producing weapons, ammunition, and other supplies needed to protect themselves in the ever-uncertain world beyond the city's walls. The clanging of hammers and the rhythmic pounding of the forge reverberate through the air, serving as a constant reminder of the industriousness that fuels the city's survival.
+
+While the factories themselves may be the lifeblood of the city, they are not under the direct control of the government or the ruling class. Instead, a single committee of wealthy individuals has taken charge of running The Forges. These influential figures, driven by their own self-interest, exploit the labor of the workers for personal gain. They pay exorbitant sums to The Stroidan, a powerful criminal organization, to ensure the populace remains compliant and the factories remain operational.
+
+However, the working conditions within The Forges are far from ideal. The pursuit of profit takes precedence over the safety and well-being of the workers. The factories are plagued by neglect, with outdated equipment and crumbling infrastructure. Industrial accidents are a grim reality, and tragic deaths occur on a weekly basis. Workers risk their lives daily in hazardous environments, where inadequate safety measures and lack of proper training contribute to the alarming rate of accidents.
+
+Despite the dangers, the workers of The Forges continue their labor, driven by necessity and the hope for a better future. Their resilience and determination to provide for their families and survive in a harsh world are unmatched. The industrial district becomes a place of both struggle and camaraderie, where solidarity among the workers is born out of shared hardships.
+
+Within The Forges, whispers of discontent and calls for better working conditions grow louder. Unions and activists emerge, seeking to agitate for change and improve the lives of the workers. Their efforts, however, are met with resistance from the committee and their hired enforcers from The Stroidan, who protect the interests of the wealthy elite at the expense of the workers' well-being.
+
+The Forges, with its sprawling factories and the pervasive presence of The Stroidan, stands as a stark symbol of the harsh realities faced by the working class in Novemgrod. It is a place where hope and desperation intertwine, where lives are lost amidst the clatter of machinery, and where the struggle for survival unfolds against a backdrop of industrial oppression.
+
 ### The Mist Cliffs
+
+Nestled on the outskirts of Novemgrod, the Mist Cliffs stand as a haunting testament to the catastrophic events of the Black Day. As the earth trembled and shifted, a large section of the city plunged several hundred feet into the depths of the Murk, forever altering the landscape. The remnants of revered temples and grand architectural marvels now lay submerged below the ominous line of the Mist Cliffs, their former glory obscured by the murky abyss.
+
+Despite the dangers that lurk within the depths, a brave and intrepid group known as the Divers emerges. These explorers, as the locals call them, accept the treacherous task of descending the Mist Cliffs to retrieve the lost artifacts and remnants of a bygone era. Equipped with specialized gear and harnesses, they navigate the precipitous edges, suspended by cranes that dangle precariously over the chasm. The Divers face constant peril as they maneuver through the swirling mist, their every movement a battle against the unknown.
+
+The Mist Cliffs hold an eerie allure, a place where the boundary between the mortal realm and the Murk becomes blurred. Standing near the edge, one may sense a palpable presence, a ghostly touch that sends shivers down the spine. As the thick mist envelops the surroundings, subtle shapes and shadows emerge from the depths, their forms indiscernible yet undeniably otherworldly. Whispers drift through the air, echoing from unseen sources, their words lost in an incomprehensible language. Only those who have stood at the precipice for too long can attest to the unsettling sensation of being watched by unseen eyes.
+
+The Mist Cliffs serve as a constant reminder of the profound tragedy that befell Novemgrod on the Black Day. Yet, they also beckon to the adventurous souls who are willing to risk their lives in search of lost relics and fragments of history. The mist-clad expanse conceals untold secrets, waiting to be unearthed by the courageous Divers who dare to descend into the depths. As they embark on their perilous journeys, the Mist Cliffs remain a testament to the city's enduring spirit and the enigmatic mysteries that lie within the ever-present embrace of the Murk.
+
 ### St. Vikal's Cathedrals
+
+The St. Vikals Cathedral, once a revered symbol of worship and spirituality in Novemgrod, now stands as a solemn reminder of a bygone era. In the days before the Black Day, Le Vides reigned as a primary deity, his presence deeply woven into the fabric of the city's religious and cultural identity. The grand Cathedral, with its towering spires and intricate carvings, served as a sacred haven where devoted followers sought solace and guidance.
+
+However, on that fateful day, as chaos and destruction descended upon Novemgrod, the priests of Le Vides noticed an unsettling silence in their prayers. The absence of the god's divine presence reverberated not only throughout the city but across the entire realm of Ereb. Speculations abound, with some believing that Le Vides has forsaken the people, while others entertain the possibility of the god's demise amidst the cataclysmic events of the Black Day.
+
+Over the years, the once-vibrant Cathedral gradually fell into disrepair and abandonment. Its hallowed halls, once filled with the harmonious echoes of worship, now bear witness to the footsteps of the desperate and unhinged who seek refuge within its weathered walls. Among them, the Penitient Choir emerged—a faith born from the void left by Le Vides' absence. They took ownership of a portion of the Cathedral, utilizing it for their modest acts of worship, while the remaining areas now serve as a sanctuary for countless refugees displaced by the aftermath of the Black Day.
+
+As one approaches the St. Vikals Cathedral, the grandeur of its Gothic architecture commands attention. The structure rises majestically, its stone façade adorned with intricate gargoyles and stained glass windows that, although faded and cracked, still bear fragments of their former brilliance. The towering spires reach towards the heavens, an enduring testament to the devotion and craftsmanship of the builders who erected this sacred edifice. Inside, the atmosphere is a mixture of reverence and desolation, as the faint scent of incense lingers amidst the echoes of distant footsteps. The flickering candlelight casts dancing shadows upon the worn pews, and the air carries a sense of longing and spiritual yearning that mingles with the heavy weight of uncertainty.
+
 ## Exploring Novemgrod
+
+Novemgrod, in its post-Black Day state, presents a labyrinthine challenge to those who dare to navigate its streets. The city's rebuilding efforts, though commendable, have resulted in a patchwork of confusing thoroughfares. Streets abruptly end at fallen structures, leading to dead ends that bewilder even the most seasoned residents. In this maze of reconstructed chaos, street names have become mere whispers, replaced by the colloquial monikers known only to the locals. Novemgrod, therefore, remains a perplexing and disorienting place for all who venture through its convoluted pathways.
+
+The city is divided into distinct districts, each with its own character and challenges. The Hollowed Quarter, positioned adjacent to the ever-menacing Murk, bears witness to the relentless encroachment of the Murktide during its tumultuous surges. Few individuals permanently reside in these desolate ruins, for it is a place haunted by shadows and uncertainty. However, whispers spread of an underground tunnel network that weaves through the Hollowed Quarter, serving as a lifeline for those who still call this forsaken place their home.
+
+On the precipice of the Mistcliffs lies Cliffwall, a neighborhood defined by its proximity to both the ethereal mists and the city's neglect. It becomes a refuge for those unable to afford a safer abode elsewhere. In this district, peculiar occurrences abound, a result of the confluence between the ever-looming presence of the Murk and the absence of proper security. The denizens of Cliffwall endure a precarious existence, navigating the treacherous boundaries of the unknown.
+
+The Palace District, although stripped of its opulence, still retains a regal air, serving as the enduring symbol of power and authority. While the buildings here have been stripped of their once-ornate gold and precious materials to aid in the city's reconstruction, the district remains a well-organized bastion of governance. It is within these hallowed grounds that Prince Ruvan strives to maintain his grasp on the remnants of his city, making calculated decisions that shape the fate of Novemgrod.
+
+To the west lies WestWard, the pulsating heart of industry and the home of the Forge. This bustling district resonates with the incessant rhythm of hammer upon anvil, as skilled craftsmen and laborers toil ceaselessly to produce the materials essential for survival. The air is thick with smoke, a testament to the tireless efforts undertaken within these industrial grounds. WestWard thrives as a vital cog in the machinery of Novemgrod's resilience.
+
+GreenSide, a verdant suburb, stands as a testament to the city's agricultural prowess. Here, fertile fields stretch out as far as the eye can see, yielding abundant crops that sustain the populace and nourish trade. The district serves as a bustling hub for shipping and receiving, with a particular focus on the agricultural sector. Amidst the bountiful harvests, GreenSide boasts the largest skydock in Novemgrod, facilitating the efficient transportation of goods via airships that dot the sky.
+
+Thus, within the enigmatic tapestry of Novemgrod's districts, a microcosm of contrasting worlds emerges. From the haunting recesses of the Hollowed Quarter to the stoic grandeur of the Palace District, from the clamor of industry in WestWard to the vibrant abundance of GreenSide, Novemgrod's diverse districts reflect the resilience and adaptability of its inhabitants in the face of adversity. Each district contributes its own unique flavor to the city's tapestry, weaving together the story of a once-great metropolis that continues to struggle for survival amidst the encroaching shadows.
+
 ## Exploring the Murk
+
+In the treacherous realm of the Murk, explorers tread a path fraught with constant tension and an overwhelming sense of the unknown. The very essence of the Murk seems to possess an insidious intelligence, manipulating its density to confound and disorient those who dare to venture into its domain. The air they breathe is tainted, carrying a spectral miasma that permeates their senses and gnaws at their sanity. It is a place where reality warps and twists, shrouded in an enigmatic haze that defies comprehension.
+
+The beings rumored to inhabit the Murk are whispered about in hushed tones, their true nature shrouded in mystery. Some say they are spectral apparitions, fleeting shadows that dance at the periphery of vision before vanishing into the depths. Others claim they are monstrous entities, born from the darkest recesses of nightmares, lurking within the murky abyss. Yet, despite the tales and whispers, encounters with these entities remain elusive, leaving explorers to question the veracity of their own perceptions and the true nature of the Murk's inhabitants.
+
+Navigating the ever-changing tide of the Murk requires not only courage but also a keen sense of timing and intuition. Its fluctuations, like the rhythmic ebb and flow of an otherworldly ocean, create an atmosphere of constant suspense. One moment, the Murk may recede, unveiling an ethereal landscape bathed in an eerie luminescence, only to surge forward in the next instant, threatening to engulf all in its tenebrous embrace. These unpredictable shifts of the Murk's boundaries transform the borderlands into a treacherous labyrinth, where one wrong step can plunge explorers into a perilous chasm of uncertainty.
+
+As explorers delve deeper into the Murk, a sense of unease settles in their hearts. It is not just the physical dangers that haunt their every step, but the psychological toll as well. The Murk has a way of whispering to their souls, seducing them with tantalizing secrets or luring them towards unseen perils. Its insidious influence slowly gnaws at their resolve, testing their sanity and resolve as they navigate the unfathomable depths. Only the strongest-willed and most resolute dare to persist in their quest, driven by an insatiable curiosity or a desperate need to unravel the mysteries hidden within the Murk's veiled embrace.
+
+In the ever-shifting expanse of the Murk, where reality intertwines with the unknown, brave souls forge their path, driven by an unyielding determination to discover the truth. They are the Divers, fearless explorers who risk life and sanity in their pursuit of knowledge and revelation. Their tales are whispered in hushed tones, passed down through generations, weaving a tapestry of awe and dread. For within the Murk lies not only darkness and danger, but also the potential for untold discoveries and profound revelations
 
 
 
