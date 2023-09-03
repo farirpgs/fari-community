@@ -56,11 +56,11 @@ Today, the Murk stands as a hauntingly silent gateway into the heart of the old 
 
 In the face of impending doom and the shattered remnants of a once-great civilization, the fate of the world hangs in the balance. Will humanity find the strength and resilience to rise above the ashes and forge a new future, or will they succumb to the inexorable forces of decay and be consigned to the annals of forgotten history? Only time will tell as the tale of The Murk continues to unfold, chronicling the journey of those who dare to navigate the treacherous path that lies ahead.
 
-## Lands of Tellus
+# Lands of Tellus
 
 While Tellus's wonders span far and wide, this supplement zeroes in on the heart of the central continent, particularly within the former territories of the illustrious Vardan Empire and the surrounding nations. While our focus is primarily on the former Empire’s peoples and their lands, it is crucial to note that this supplement does not claim to be an exhaustive compendium of all the peoples and territories that exist within the vast reaches of Tellus.
 
-### Doria: The Legacy of Varranthal
+## Doria: The Legacy of Varranthal
 
 ![The Remnants of Doria](https://gyazo.com/ba68b0b6ad582ebb51c99795ac344d22)
 
@@ -74,7 +74,7 @@ However, the tides of fate took an irreversible turn with the advent of The Blac
 
 Today, the remnants of Doria stand as a haunting testament to the ravages of The Black Day and the enduring impact of the Murk. Varranthal, the capital city that once symbolized the might of the Vardan Empire, now lies silent and lifeless—a ghostly reminder of the nation's former grandeur. The scattered survivors of Doria's fall carry with them the weight of a shattered legacy and the indomitable spirit to rebuild amidst the shadows.
 
-#### Dorians at a Glance
+### Dorians at a Glance
 
 ![A Dorian Family in Exile](https://gyazo.com/48f1b2166d01eb172d28a9b7aea032fd)
 
@@ -104,7 +104,7 @@ Dorian expatriates form tight-knit communities, creating social enclaves that se
 
 This tenacious focus on cultural identity is not only a means of preserving the past but also a testament to the unyielding spirit of the Dorians. It serves as a reminder that, despite the shattered remnants of their once-mighty empire, the essence of Doria endures in the hearts and minds of its people, forging an unbreakable bond that transcends time and adversity.
 
-### Caranth: The Chaos of Freedom
+## Caranth: The Chaos of Freedom
 
 ![The Caranthian Cityscape](https://gyazo.com/c1c4ffbb87d8ac6a5dc425062c0e0f46)
 
@@ -116,7 +116,7 @@ Had it not been for The Black Day, Carantia may have achieved its ambition of co
 
 Seizing the opportunity presented by this upheaval, activists and visionaries within Carantia drove the former kingdom toward a new era as a democracy. Over the past three decades, their efforts have borne fruit, resulting in the establishment of a democratic system. However, the transition has not been without challenges. Political factions now vie for influence and power, while the loss of their expert military force has left Carantia in a precarious and vulnerable position, susceptible to external threats.
 
-#### Caranthians at a Glance
+### Caranthians at a Glance
 
 ![Caranthian Workshop with Apprentices](https://gyazo.com/6db873b132ee7721773013f0752bda70)
 
@@ -137,7 +137,7 @@ One of the hallmarks of Carantian culture is their legendary hospitality. The Ca
 Nestled at the base of a dormant volcano, Carantia is home to magnificent forgeworks that have been honed to perfection over generations. The intense heat and abundant mineral resources provided by the volcanic region have allowed the Carantians to excel in the art of metallurgy and craftsmanship. Skilled blacksmiths and artisans create exquisite weapons, armor, and ornamental pieces that are highly sought after throughout the continent. The glowing furnaces and rhythmic hammering of the forgeworks serve as a testament to Carantia's dedication to the mastery of their craft.
 In the face of shifting fortunes and changing political landscapes, Carantia stands as a resilient land, holding onto its militant traditions, maritime legacy, democratic city-states, legendary hospitality, and the resounding clang of hammers shaping metal at the foot of a majestic volcano.
 
-### Ruthenia: The Edge of Oblivion
+## Ruthenia: The Edge of Oblivion
 
 ![Novemgrod, the City of Mist](https://gyazo.com/f144e6d3442d94923fdb2d92452855fb)
 
@@ -149,7 +149,7 @@ However, the devastating The Black Day and the encroaching Murk took a severe to
 
 In the midst of this tumultuous landscape, the metropolitan cities of Ruthenia continue to shine as beacons of culture and progress, their streets teeming with diversity and intellectual pursuits. Amidst the echoes of past battles and the looming threat of a resurgent Carantania, Ruthenia stands as a testament to the resilience and adaptability of its people.
 
-#### Ruthenians at a Glance
+### Ruthenians at a Glance
 
 ![Ruthenian soldiers waiting at the train station](https://gyazo.com/2a737948bffd95d3d69c967010eb4535)
 
@@ -174,7 +174,7 @@ At the heart of Ruthen culture lies the spirit of resilience and endurance. The 
 
 These authors, among many others, contribute to the rich tapestry of Ruthen literature, capturing the spirit, resilience, and deep-rooted traditions of the Ruthen people. Their works serve as a testament to the enduring cultural legacy that continues to shape the literary landscape of Ruthenia.
 
-### Pytaris
+## Pytaris
 
 ![The Ancient Ruins of Pyta, the old capital](https://gyazo.com/f47a36056712bb04949f03f41c6cf2c6)
 
@@ -184,7 +184,7 @@ Situated between the ever-rivaling powers of Doria and Turcia, Pytharis has been
 
 The Black Day, with its devastating effects, spared much of Pytharis from its direct wrath. This fortunate circumstance granted Pytharis a significant advantage in warding off the encroachments of Turcia, resulting in a fragile balance that has held precariously for the past three decades.
 
-#### Pytarks at a Glance
+### Pytarks at a Glance
 
 ![A family in the Pytar countryside](https://cdn.midjourney.com/05195016-a4d4-467e-81dd-5c32c832e69f/0_1.png)
 
@@ -205,9 +205,9 @@ Ruling over Pytharis are a series of merchant princes, each vying for supremacy 
 The people of Pytharis are renowned for their exceptional skills in dance and entertainment. Gifted with a natural flair for captivating performances, they captivate audiences with their grace, fluidity, and unparalleled artistry. Pytharian dancers and entertainers are highly sought after in noble courts across Tellus, their mesmerizing displays of talent adding a touch of elegance and splendor to grand festivities and celebrations."
 
 
-### The Lands Beyond the Empire
+## The Lands Beyond the Empire
 
-#### Turcia: The Land of Living Gods
+### Turcia: The Land of Living Gods
 
 ![The Bright City of Sahr sees no Conflict with the Old and New](https://cdn.midjourney.com/b51d3ab4-c1c0-49f1-a150-2e21bb94e51f/0_3_384_N.webp) 
 
@@ -227,7 +227,7 @@ In the complex tapestry of beliefs within Turcicus, there exists a cult devoted 
 
 Beyond its religious and political intricacies, the Turci people themselves exhibit a distinct and endearing trait of openness and curiosity about the wider world. They eagerly welcome travelers and storytellers, valuing the exchange of knowledge and experiences. The Turci people's genuine interest prompts them to offer hospitality and often compensate individuals for sharing tales and information, further fostering a culture of dialogue and storytelling within their society.
 
-#### Suomi
+### Suomi
 
 ![A Suomi villiage is often only lived in every 4-6 months of the year](https://cdn.midjourney.com/b6870f28-fc7d-4a3b-8a1b-1d952ef41ad9/0_0_384_N.webp)
 
@@ -252,7 +252,7 @@ Deeply rooted in a communal ethos, the Suomi extend their hospitality to strange
 
 The Suomi people, marked by their sacred mountain rituals, physical prowess, and deep communal ties, embody a profound connection with their gods and the natural world around them. Their unwavering hospitality is an extension of their belief in the interconnectedness of all beings, fostering an atmosphere of camaraderie and shared experiences that have shaped the Suomi into a resilient and noble society.
 
-#### Kemet
+### Kemet
 
 
 Nestled amidst the enigmatic lands of the Black River, Kemet stands as a testament to the ancient heritage that predates the memories of most. Monuments and structures, hallowed by time, bear witness to a glorious past that has influenced and inspired countless empires and kingdoms throughout the ages.
@@ -275,7 +275,7 @@ In spite of their own hardships and destitution, the people of Kemet embody a sp
 
 Within the tapestry of Kemet's existence, a complex interplay of suffering, resilience, and ancient customs unfolds. The apartheid state inflicted by the Dorians casts a shadow over the land, while the people draw strength from their reverence for the Black River and navigate the remnants of long-forgotten temples. The spirit of generosity, despite the hardships faced, remains a guiding principle, even as cultural sensitivities and ancient customs shape the interactions and dynamics within Kemet. The destiny of this ancient kingdom, with its deep-rooted traditions and turbulent history, hangs in the balance as the struggle for liberation and cultural preservation continues to unfold.
 
-#### Beithar
+### Beithar
 
 In the distant northeast reaches of Tellus, sprawling across vast flat plains, the proud Yoruba people make their home. Guided by the ebb and flow of their nomadic lifestyle, they traverse the open grasslands with their majestic herds of horses, seeking fertile pastures and new horizons. The Yoruba suB Continent extends its influence to the neighboring lands that border the remnants of old Doria and the resolute Suomi. These lands have witnessed the Yoruba's alternating fortunes, as rival powers seize the opportunities when the Yoruba are divided and suffer the consequences when they reunite under a formidable Tarkhan.
 
@@ -293,7 +293,7 @@ Integrity and honesty are held in the highest regard among the Yoruba, for their
 
 The Yoruba, with their time-honored memory songs, mastery of horsemanship, prowess in ancient weaponry, and unwavering commitment to truth, stand as a formidable force, both revered and respected within the realm of Tellus. Their rich cultural heritage and unyielding principles continue to guide them, as they navigate the ever-shifting tides of history and strive to shape their own destiny in the vast expanse of the world.
 
-## The Great War and the Black Day
+# The Great War and the Black Day
 
 The Great War erupted with a cataclysmic clash between the formidable nations of Doria and Carantia. Tensions between the two had simmered for years, fueled by territorial disputes, political maneuvering, and a deep-rooted sense of national pride. The spark that ignited the powder keg came in the form of an assassination, an act that would forever alter the course of history.
 
@@ -322,15 +322,23 @@ In the aftermath of the cataclysm, the shattered nations were left reeling, thei
 The world emerged from the crucible of war forever scarred, its nations forever changed. The Great War and the Black Day became indelible chapters in history, serving as a somber reminder of the catastrophic consequences of unchecked conflict, the dangers of escalating technology, and the relentless pursuit of power. The scars of the past would shape the future, as the survivors grappled with the challenges of reconstruction, healing, and the ever-present specter of the Murk that loomed as a reminder of the price paid for their hubris.
 
 
-## Faith and Gods of Tellus
-The Charred One: This deity represents death, fire, hatred, fear, and pain. Their followers seek the destruction and unmaking of all creation, employing manipulation, intrigue, and acts of destruction to fulfill their goals. They find solace in the burned-out cities and ruins, spreading their mad god's will.
-Tursakkaanen: Focused on fate, power, cold, life, and death, the Tursakkaanen emphasize embracing the currents of life and the wisdom offered by their gods. Listeners, their followers, reach beyond the present moment to connect with ancient chants and words, becoming vessels of fate.
-Makru: Revered as the patron deity in many cities, Makru embodies power, life, law, creation, and unity. The followers of Makru are diligent, community-focused individuals who value justice and unification. They are staunch opponents of the Charred One, seeking to protect and preserve Makru's great works.
-Xelas: Representing knowledge, power, creation, light, and unity, Xelas is the younger sibling of Makru. Xelas's followers are characterized by their pursuit of knowledge and inspiration, welcomed in most cities as wise men and advisors. They hold sacred rituals and engage in the accumulation of knowledge, guided by their god.
-Larantas: Known as the Great Tree, Larantas is associated with life, creation, light, earth, and death. The Annirad tribe considers it their living god, and the protectors of the Elder Forest safeguard it. Followers of Larantas undertake pilgrimages to be baptized in its nectar, and their faith is tied to the changing seasons.
-The Penitent Choir: Formed from the remnants of the Church of Le Vides after the The Black Day, the Penitent Choir focuses on life, unity, peace, law, and fate. They believe in atoning for mankind's sins through acts of love and suffering, championing the cause of the neglected and vulnerable.
-Apatur: Embracing power, death, knowledge, hate, and law, Apatur's followers perceive war as essential for progress and growth. They revere conflict as a means of domination and advancement, dedicating themselves to fueling and perpetuating wars.
-### The Charred One
+# Faith and Gods of Tellus
+
+- The Charred One: This deity represents death, fire, hatred, fear, and pain. Their followers seek the destruction and unmaking of all creation, employing manipulation, intrigue, and acts of destruction to fulfill their goals. They find solace in the burned-out cities and ruins, spreading their mad god's will.
+
+- Tursakkaanen: Focused on fate, power, cold, life, and death, the Tursakkaanen emphasize embracing the currents of life and the wisdom offered by their gods. Listeners, their followers, reach beyond the present moment to connect with ancient chants and words, becoming vessels of fate.
+
+- Makru: Revered as the patron deity in many cities, Makru embodies power, life, law, creation, and unity. The followers of Makru are diligent, community-focused individuals who value justice and unification. They are staunch opponents of the Charred One, seeking to protect and preserve Makru's great works.
+
+- Xelas: Representing knowledge, power, creation, light, and unity, Xelas is the younger sibling of Makru. Xelas's followers are characterized by their pursuit of knowledge and inspiration, welcomed in most cities as wise men and advisors. They hold sacred rituals and engage in the accumulation of knowledge, guided by their god.
+
+- Larantas: Known as the Great Tree, Larantas is associated with life, creation, light, earth, and death. The Annirad tribe considers it their living god, and the protectors of the Elder Forest safeguard it. Followers of Larantas undertake pilgrimages to be baptized in its nectar, and their faith is tied to the changing seasons.
+
+- The Penitent Choir: Formed from the remnants of the Church of Le Vides after the The Black Day, the Penitent Choir focuses on life, unity, peace, law, and fate. They believe in atoning for mankind's sins through acts of love and suffering, championing the cause of the neglected and vulnerable.
+
+- Apatur: Embracing power, death, knowledge, hate, and law, Apatur's followers perceive war as essential for progress and growth. They revere conflict as a means of domination and advancement, dedicating themselves to fueling and perpetuating wars.
+
+## The Charred One
 
 **Creeds**
 - All shall be consumed by fire, but the last shall be the arsonists.
@@ -351,7 +359,7 @@ The birth of the Charred One came from the desolation of Gavo, a city ravaged by
 Followers of the Charred One encounter no tolerance for their beliefs within established cities or towns. Instead, they gather in abandoned places, congregating in the shadows before spreading to the farthest reaches of Tellus to fulfill the will of their deranged deity.
 The Charred believe in the ultimate unmaking of all creation, and they employ any means necessary to bring about its destruction. Through manipulation, intrigue, assassination, and incitement of unrest, they seek to ignite the world in chaos. They take particular pleasure in obliterating ancient structures and monuments, for in their destruction, not only the present is ruined but also all potential futures are erased.
 
-#### The Burning Congregation
+### The Burning Congregation
 
 Followers of the Charred One operate in a clandestine and covert manner, reminiscent of terroristic cells or cults. They are driven by their dark devotion to destruction, chaos, and the ultimate annihilation of all creation. Their actions are marked by ruthlessness, secrecy, and a willingness to employ any means necessary to further their cause.
 Acting as agents of terror, the followers of the Charred One execute acts of violence, sabotage, and manipulation to sow fear and chaos within society. They target symbols of stability, authority, and ancient structures, relishing in the destruction that erases not only the present but also all potential futures. Their acts range from arson and assassination to incitement of unrest and manipulation of power dynamics.
@@ -360,7 +368,7 @@ Recruitment efforts primarily occur in abandoned places and hidden gatherings, a
 The recruitment process involves indoctrination through rituals, rites, and teachings that reinforce the notions of destruction, chaos, and the beauty found in annihilation. New members are gradually initiated into the cult's inner circle, where they are assigned mentors to guide them in the dark arts, imparting knowledge of fire manipulation, subterfuge, and the secrets of the Charred One's doctrines.
 Trust and loyalty are paramount among the followers, as betrayal is met with severe consequences. The cult operates with strict secrecy, ensuring that their activities remain hidden from the eyes of authority. Members communicate through encrypted channels and secret symbols, using coded language to avoid detection. This secretive nature ensures that the followers remain elusive, striking fear into the hearts of those who would stand against them.
 
-##### Ranks of The Charred
+#### Ranks of The Charred
 
 Infernal Chosen:
 At the pinnacle of the hierarchy, the Infernal Chosen are the supreme leaders and enigmatic figures of the Charred One's followers. These individuals have undergone a transformation granted by the Charred One, their forms altered by the consuming flames of their devotion. They are shrouded in charred armor, their bodies bearing burning scars and their eyes glowing with an eerie fiery light. The Infernal Chosen possess immense knowledge of the Charred One's rituals and doctrines and wield great influence over the cult-like cells operating under their command.
@@ -373,7 +381,7 @@ Embersworn are the foot soldiers and frontline warriors of the Charred One's fol
 Flamebound:
 The Flamebound are the lowest ranks of the Charred One's followers. They have recently joined the cult and have yet to undergo significant transformations. However, their devotion to the Charred One is unquestionable, and they strive to prove their loyalty and ascend the ranks. Flamebound are tasked with gathering information, reconnaissance, and recruitment of potential followers. They are the entry point into the cult-like cells and are closely monitored by higher-ranking members.
 
-##### Sins and Penances
+#### Sins and Penances
 
 Transgressions
 Betrayal of Secrets: Revealing the hidden rituals, doctrines, or identities of fellow cult members or the inner workings of the Charred One's operations to outsiders is considered a grave transgression. It undermines the cult's secrecy and puts its members at risk.
@@ -393,7 +401,7 @@ Completing a Mission of Destruction: The follower can be assigned a specific mis
 Reaffirming Allegiance through Rituals: Participating in intense and elaborate rituals can serve as acts of atonement. These rituals may involve self-flagellation, enduring pain or hardship, or engaging in acts symbolizing destruction and rebirth. Through these rituals, the follower reinforces their commitment to the Charred One and seeks purification from their past failures.
 It's important to note that forgiveness within the cult of the Charred One is not easily granted. Atonement is a demanding and ongoing process that requires extreme dedication, unwavering loyalty, and a continuous pursuit of destruction. Even if a follower manages to atone for their transgressions, the memory of their past actions may linger, and they may always be viewed with caution and scrutiny by their fellow cult members.
 
-### The Tursakkaanen
+## The Tursakkaanen
 
 **Creeds**
 The world is indifferent, neither cruel nor wonderful. It simply exists, as do we.
@@ -412,7 +420,7 @@ While they do not actively interfere in the affairs of mankind, they exert influ
 The followers of the Tursakkaanen, known as the Listeners, choose to surrender themselves to the currents of fate and the guidance of their own thoughts. They extend their consciousness beyond the present moment, immersing themselves in the ancient chants and sacred utterances of their deities. This communion allows them to become vessels of fate. A Listener often finds themselves in precisely the right place at the right time, although they may endure suffering as a consequence of their serendipity.
 The Listeners are generally welcomed but met with some distrust among people from various corners of the world. Their tendency to also embody the roles of vagabonds, thieves, or humble individuals relegates them to the lower echelons of society within urban areas.
 
-#### The Listeners
+### The Listeners
 
 The followers of the Tursakkaanen, known as the Listeners, operate with a sense of purpose and devotion deeply rooted in their guiding principles. They perceive the world as an indifferent entity and believe in surrendering themselves to the currents of fate. The Listeners act with a certain level of detachment, recognizing that pleasure and pain are inherent aspects of human existence.
 The Listeners lead a nomadic lifestyle, wandering through various lands and rarely gathering outside of Suomi Lands. They can often be seen working closely with tribal leaders in the northern regions, forging alliances and offering their unique insights. However, in other parts of the world, the Listeners may appear as vagabonds, blending into the lower echelons of society.
@@ -421,7 +429,7 @@ The Listeners value introspection and self-discovery, encouraging new members to
 The Listeners prioritize the preservation of their ancient laws, rituals, and wisdom. They rely on oral traditions and sacred chants passed down through generations, keeping their beliefs alive through the recitation of ancient texts and the performance of rituals. Listeners engage in deep communion with their deities, seeking guidance and enlightenment from the voices that resonate within them.
 Overall, the Listeners operate with a sense of humility, embracing their role as vessels of fate. They strive to live in harmony with the world and its natural rhythms, while offering their wisdom and guidance to those who are open to receiving it. The actions of the Listeners are guided by their unique understanding of the interconnectedness of fate, power, cold, life, and death, and their desire to navigate the currents of existence with grace and insight.
 
-##### The 5 Ranks of Nine
+#### The 5 Ranks of Nine
 
 Elder Seers: The Elder Seers are the highest-ranking individuals within the Tursakkaanen hierarchy. They are the most experienced and wise Listeners who have spent a lifetime communing with the Nine and receiving their timeless wisdom. Elder Seers are revered as the ultimate authorities and spiritual leaders among the Listeners.
 Tribal Liaisons: These are Listeners who have earned the trust and respect of the tribal leaders in the northern regions where the Tursakkaanen frequently operate. They act as intermediaries between the Listeners and the tribal communities, facilitating cooperation and mutual understanding. Tribal Liaisons often possess deep knowledge of tribal customs, rituals, and traditions, serving as a bridge between the Tursakkaanen and the indigenous people.
@@ -430,7 +438,7 @@ Ritual Guardians: Ritual Guardians are entrusted with the responsibility of safe
 Seekers of Fate: Seekers of Fate are Listeners who have embarked on a personal journey of self-discovery and enlightenment. They undertake arduous quests and pilgrimages to distant lands, seeking to expand their understanding of the world and strengthen their connection with the Nine. Seekers of Fate often bear distinctive ritualistic tattoos, each with a unique name symbolizing their personal quest or revelation. These tattoos serve as marks of distinction and recognition within the hierarchy.
 It is worth noting that the hierarchy within the Tursakkaanen is fluid and flexible due to their wandering nature and decentralized structure. Authority and influence are often earned through wisdom, experience, and the respect garnered from both the Listeners themselves and the tribal communities with whom they interact. The ritualistic tattoos carried by the Seekers of Fate serve as visual indicators of their station and accomplishments within the hierarchy, symbolizing their spiritual growth and journey toward enlightenment.
 
-##### Sins and Penances
+#### Sins and Penances
 
 Disregarding the Sacred Chants: The Tursakkaanen place great importance on their ancient chants and sacred texts. A follower who deliberately disregards or disrespects these sacred rituals and fails to participate in the communal recitation of the chants commits a significant transgression.
 Rejecting the Guidance of the Nine: The Nine voices that echo within the minds of the Listeners are considered a divine gift and a source of profound wisdom. A follower who intentionally ignores or rejects the guidance and insights offered by these voices goes against the core principles of the Tursakkaanen and commits a transgression.
@@ -451,7 +459,7 @@ Renewed Dedication and Service: To atone for their transgressions, the follower 
 Integration and Redemption: Atonement is a continuous process, and the follower must integrate their lessons and growth into their daily life. By living in accordance with the teachings of the Tursakkaanen and consistently demonstrating positive change, the follower can find redemption and restore their standing within the Tursakkaanen community.
 It should be noted that the specific rituals and practices of atonement may vary within different sects or tribes of the Tursakkaanen. The guidance and support of spiritual leaders and the acceptance of the community are crucial factors in the journey of atonement for a follower of the Tursakkaanen.
 
-### Makru
+## Makru
 
 **Creeds**
 We are the architects of our own reality. The force of will propels us towards our destinies.
@@ -470,7 +478,7 @@ Temples dedicated to Makru abound, meticulously crafted by the priests and follo
 The followers of Makru are renowned for their unwavering diligence and their unwavering commitment to the collective welfare of their communities. While Makru is not known for mercy, he strongly upholds justice and the unification of peoples.
 Makru stands as the great adversary of the Charred One, who seeks to reduce the magnificent works of Makru to ruin. Consequently, Makru's faithful actively seek out and crush any groups aligned with the New God.
 
-#### The WallKeepers
+### The WallKeepers
 
 Followers of Makru operate with a sense of purpose, discipline, and devotion to their god. They view themselves as builders and defenders of order, seeking to bring harmony and structure to the world. Their actions are guided by the principles of power, life, law, creation, and unity.
 Operation: Makru's followers actively engage in the construction and maintenance of sacred structures, such as temples, shrines, and monuments dedicated to their god. They meticulously plan and execute architectural projects with precision, showcasing their craftsmanship and embodying the divine order they revere. Followers may also involve themselves in urban planning, infrastructure development, and other endeavors that contribute to the organization and development of cities.
@@ -480,7 +488,7 @@ Recruitment efforts are carried out through personal interactions, where the vir
 New members are gradually integrated into the community, receiving guidance, mentorship, and instruction in Makru's teachings. They undergo rituals and ceremonies, such as the Sacred Rites of Initiation, where they make solemn vows to uphold the values and principles of Makru. As they progress in their devotion and demonstrate their commitment, they may be assigned specific roles within the church hierarchy or entrusted with important responsibilities related to the construction and maintenance of sacred sites.
 The followers of Makru operate as a collective, united by their shared belief in the power of order and creation. They actively seek to expand their influence by promoting Makru's ideals, showcasing their architectural achievements, and fostering an environment where others can experience the benefits of structure, unity, and divine guidance.
 
-##### Ranks of The Ordered
+#### Ranks of The Ordered
 
 High Architect: The High Architect holds the highest ecclesiastical position within the church of Makru. They are considered the divine representative of Makru on Earth and serve as the intermediary between the mortal realm and the realm of the divine. The High Architect is responsible for guiding and overseeing the spiritual development of the faithful, interpreting the will of Makru, and ensuring the adherence to sacred laws and rituals.
 Council of Sacred Builders: The Council of Sacred Builders is a group of highly esteemed architects and craftsmen who are entrusted with the sacred task of constructing temples, shrines, and other holy structures dedicated to Makru. They possess deep spiritual insight and possess the ability to channel Makru's divine inspiration into their creations. The Council advises the High Architect, preserves the sacred architectural traditions, and oversees the construction and maintenance of sacred sites.
@@ -490,7 +498,7 @@ Master Craftsmen: The Master Craftsmen are highly skilled artisans and craftsmen
 Order of Sentinels: The Order of Sentinels consists of trained warriors and defenders who are entrusted with the task of safeguarding Makru's followers and sacred sites from external threats. They act as the martial arm of the church, ensuring the protection of the faithful, defending the holy places, and upholding the divine justice of Makru. The Sentinels are seen as the embodiment of Makru's strength and unwavering commitment to order and protection.
 In the religious hierarchy of Makru, divine authority and spiritual roles take precedence over secular positions. The emphasis is placed on the sacred nature of the work carried out by the followers of Makru, including the construction of holy structures, the preservation of sacred traditions, the guardianship of sacred sites, and the promotion of divine order and unity. The hierarchy ensures that the faithful have guidance, protection, and spiritual nourishment in their journey of devotion to Makru.
 
-##### Sins and Penances
+#### Sins and Penances
 
 Defiance of Divine Law: A follower of Makru commits a transgression by deliberately disobeying or disregarding the laws and regulations set forth by the god. This includes acts of rebellion, insubordination, or actively working against the established order and hierarchy.
 Destruction of Sacred Structures: Makru's followers hold sacred the buildings and monuments they construct in honor of their god. Any intentional damage, desecration, or destruction of these sacred structures is considered a severe transgression. It undermines the followers' purpose as builders and defenders of order and goes against the principles of creation and unity.
@@ -511,7 +519,7 @@ Renewed Devotion and Obedience: The follower must recommit themselves to the tea
 Personal Growth and Self-Reflection: Atonement involves personal growth and continuous self-reflection. The follower should engage in introspection, seeking to understand the root causes of their transgressions and taking steps to prevent similar mistakes in the future. They should embrace the lessons learned from their past actions and use them as a catalyst for spiritual growth.
 It is important to note that the specific process of atonement may vary within different sects or interpretations of the faith of Makru. The involvement of religious authorities and the exact steps of repentance and reconciliation can be influenced by the hierarchy, traditions, and teachings of the respective religious community.
 
-### Xelas
+## Xelas
 
 **Creeds**
 
@@ -531,7 +539,7 @@ As the Younger of the twin Gods, Xelas resides in his tower, engrossed in contem
 Though Xelas lacks dedicated places of worship, his influence permeates nearly every city, town, and hamlet. As the god of knowledge, his power resides in books, maps, and recorded information. From these sources, new ideas are sparked—ideas that will accompany the souls of humanity upon their passing. Xelas, inquisitive by nature, questions each soul, assimilating their knowledge into his grand collection. Should he be impressed, he may choose to retain the soul within his tower, enlisting their assistance in the pursuit of the Grand Design.
 Followers of Xelas are openly embraced in most cities, as people of knowledge and inspiration are esteemed in every corner of the world. Senior priests often serve as wise men or advisors to kings, princes, and generals, their insights shaped by the divine wisdom of Xelas.
 
-#### The Scrollforgers
+### The Scrollforgers
 
 Followers of Xelas operate as seekers and purveyors of knowledge, driven by their insatiable curiosity and thirst for understanding. They embody the principles of knowledge, power, creation, light, and unity in their actions and interactions with the world. Here's how they operate, act, and recruit new members:
 Knowledge Seekers: Followers of Xelas are lifelong learners who actively seek knowledge through various means. They engage in extensive study, research, and exploration to acquire new insights and expand their understanding of the world. They immerse themselves in books, delve into scientific experiments, explore uncharted territories, and engage in philosophical discussions to gain wisdom and unlock hidden truths.
@@ -542,7 +550,7 @@ Embracing Diversity: Xelas' followers embrace diversity and value the multiplici
 Enlightened Leadership: Xelas' followers often assume leadership roles in academia, research institutions, and intellectual circles. They become respected scholars, mentors, and advisors who guide others in their quest for knowledge and understanding. Their influence extends beyond the confines of the church, as they shape and contribute to the intellectual and cultural development of society.
 Overall, the followers of Xelas operate as a community of intellectual explorers, committed to the acquisition, dissemination, and application of knowledge. They value intellectual curiosity, open-mindedness, and the pursuit of truth, striving to enlighten both themselves and others in their collective journey toward understanding the mysteries of the world.
 
-##### Ranks of The Knowing
+#### Ranks of The Knowing
 
 Archivist of Xelas: At the pinnacle of the church hierarchy stands the Archivist, a chosen individual who has demonstrated exceptional knowledge, wisdom, and dedication to the pursuit of enlightenment. The Archivist is believed to have acquired profound knowledge and experience throughout their lifetime, making them worthy of joining Xelas in tending his great library in the afterlife. They are responsible for safeguarding and expanding the divine collection of knowledge.
 High Scholars: The High Scholars are revered individuals who have displayed exceptional intellectual prowess and a deep understanding of various fields of knowledge. They are scholars, philosophers, and scientists who have made significant contributions to the accumulation of knowledge. High Scholars often serve as advisors to the Archivist and play a vital role in guiding the direction of the church and disseminating knowledge to the followers.
@@ -551,7 +559,7 @@ Explorers and Researchers: These individuals are the adventurers, explorers, sci
 Congregants and Seekers: The followers of Xelas, known as congregants or seekers, are individuals who embrace the principles of knowledge, power, creation, light, and unity. They are encouraged to constantly seek and acquire knowledge through study, research, and contemplation. Congregants vary in their expertise and interests, including scholars, scribes, inventors, artists, and philosophers. They form the backbone of the church and contribute to the collective wisdom of the congregation.
 It is important to note that the hierarchy within the church of Xelas is not solely based on social status or authority but rather on the individual's level of intellectual curiosity, dedication to knowledge acquisition, and contribution to the greater understanding of the world. The emphasis is on the pursuit of knowledge and the transformative power it holds, rather than on rigid structures of power or hierarchy.
 
-##### Sins and Penances
+#### Sins and Penances
 
 While followers of Xelas are driven by their quest for knowledge and enlightenment, they are not immune to transgressions. Here is a list of transgressions a follower could make against Xelas:
 Suppression of Knowledge: Deliberately concealing or suppressing knowledge goes against the core principles of Xelas. It includes withholding important information, censoring or destroying valuable texts, or preventing others from accessing knowledge that could contribute to their intellectual growth.
@@ -573,7 +581,7 @@ Humility and Gratitude: The follower cultivates a sense of humility, recognizing
 Continuing the Journey: A follower understands that atonement is an ongoing process, not a one-time event. They commit themselves to continued personal growth, remaining vigilant against future transgressions, and remaining steadfast in their pursuit of knowledge, enlightenment, and the principles upheld by Xelas.
 It is important to note that the process of atonement may vary among individuals and communities, and the specific actions taken for atonement may be influenced by personal interpretation and cultural practices. Ultimately, the follower's sincere commitment to rectifying their transgressions, fostering intellectual growth, and promoting unity and knowledge will be key to their journey of atonement.
 
-### Apatur
+## Apatur
 #### The Black Legion
 The followers of Apatur, the god of struggle, dominion, knowledge, darkness, and order, have distinct ways of operating, acting, and recruiting new members. Here is an overview of their characteristics and practices:
 Emphasis on Conflict and Advancement: The followers of Apatur perceive war and conflict as catalysts for progress and evolution. They believe that through struggle and domination, humanity can achieve higher orders of knowledge and understanding. They actively seek out opportunities for conflict and engage in battles with the intention of propelling society forward.
@@ -583,8 +591,10 @@ Recruitment through Displays of Strength: The followers of Apatur seek to recrui
 Promoting Order and Conflict, not Anarchy: While Apatur's followers thrive on conflict and domination, they do not seek to undermine existing states or plunge societies into chaos. Instead, they aim to pit states against each other, instigating controlled conflicts that foster growth and progress. Their ultimate goal is to create an ordered world where conflict is channeled towards advancement rather than anarchy.
 Scholarly Pursuits and Knowledge Acquisition: Alongside their focus on warfare, Apatur's followers also value knowledge and intellectual pursuits. They understand that true dominance comes from understanding the complexities of the world and harnessing that knowledge for strategic advantage. They actively seek out opportunities to acquire new knowledge, whether through scholarly studies, exploration, or uncovering ancient secrets.
 Rituals and Ceremonies: Followers of Apatur engage in rituals and ceremonies that reflect their dedication to the principles of struggle, dominion, and order. These rituals often involve invocations to Apatur, prayers for victory, and symbolic acts representing the darkness and challenges faced in their path. Such ceremonies serve as a means of strengthening their bond with the god and reinforcing their commitment to the cause.
-Overall, the followers of Apatur operate as a disciplined and strategic force, driven by a belief in the power of conflict and dominance to shape the world. They actively recruit individuals who possess strength, skill, and a thirst for advancement, while also valuing intellectual pursuits and the acquisition of knowledge. Their actions are calculated, seeking to promote order and controlled conflict rather than chaos and destruction.
-##### Ranks of The Legion
+Overall, the followers of Apatur operate as a disciplined and strategic force, driven by a belief in the power of conflict and dominance to shape the world. They actively recruit individuals who possess strength, skill, and a thirst for advancement, while also valuing intellectual pursuits and the 
+acquisition of knowledge. Their actions are calculated, seeking to promote order and controlled conflict rather than chaos and destruction.
+
+#### Ranks of The Legion
 High Warmaster: The High Warmaster is the highest-ranking authority within the church of Apatur. They are responsible for interpreting and upholding the tenets of Apatur, guiding the faithful in their worship, and overseeing the operations of the church. The High Warmaster is a respected and skilled warrior, renowned for their strategic prowess and leadership abilities.
 Warlords: Warlords are powerful individuals who have demonstrated exceptional skill in combat and have gained significant influence among the followers of Apatur. They lead armies and factions aligned with the church, organizing military campaigns and overseeing the tactical execution of battles. Warlords are responsible for recruiting and training warriors, ensuring that the forces of Apatur remain strong and formidable.
 Shadowmasters: The Shadowmasters are the covert operatives and spies within the hierarchy of the church. They specialize in espionage, sabotage, and gathering intelligence. These individuals use their skills to manipulate political landscapes and create discord among rival factions or nations, aligning with Apatur's principle of pitting states against each other for the growth of humanity. The Shadowmasters operate in the shadows, utilizing secrecy and deception to achieve their objectives.
@@ -592,7 +602,8 @@ Oracles of Strife: The Oracles of Strife are revered individuals with the abilit
 Battle Chaplains: Battle Chaplains are the spiritual leaders of the church, responsible for conducting religious ceremonies, performing rituals, and providing moral and spiritual guidance to the warriors. They lead prayers and invocations before battles, instilling a sense of devotion and fervor among the soldiers. Battle Chaplains also play a role in comforting and consoling the wounded and fallen, ensuring that the followers of Apatur maintain their faith even in the face of adversity.
 Warriors and Mercenaries: The bulk of Apatur's followers are warriors and mercenaries who actively participate in battles and conflicts. They are trained in various forms of combat and weaponry, dedicating themselves to the service of Apatur and the pursuit of victory. Warriors and mercenaries are valued members of the church, as they embody the principles of struggle, domination, and order that Apatur represents.
 It's important to note that while Apatur's followers may engage in acts of war and espionage, their motivations are driven by a belief in the growth and progress that can arise from conflict. The church hierarchy emphasizes discipline, strategic thinking, and a commitment to the principles of Apatur. While the church may be seen as controversial and divisive by others, it operates within the bounds of order and seeks to shape the world through the strategic advancement of human society.
-##### Sins and Penances
+
+#### Sins and Penances
 While the followers of Apatur embrace war, dominion, and order, there are still transgressions that can be committed within the context of their beliefs and principles. Here is a list of transgressions that a follower of Apatur could make:
 Betrayal of Comrades: One of the fundamental tenets of Apatur's followers is unity and strength. Betraying or abandoning fellow followers during battles or crucial missions would be seen as a grave transgression. Loyalty to one's comrades and the collective cause is highly valued.
 Failure to Seek Advancement: Followers of Apatur are expected to continuously strive for personal and collective advancement. Failing to seek opportunities for growth, progress, or strategic dominance can be viewed as a transgression against the god's teachings.
@@ -612,7 +623,8 @@ Engage in Acts of Subjugation: A follower seeking atonement can actively partici
 Embrace the Darkness: Atonement may involve embracing the darkness associated with Apatur's domain. This could include accepting and understanding the harsh realities of war, acknowledging the moral ambiguity that comes with the pursuit of dominance, and using the darkness as a source of strength and motivation while staying mindful of its potential pitfalls.
 Reflect and Learn: A follower seeking atonement should engage in introspection and self-reflection. They can assess the causes and consequences of their transgressions, understand the motivations behind their actions, and learn from their mistakes. This reflective process can lead to personal growth and a renewed dedication to the principles of Apatur.
 It's worth noting that the specific methods of atonement may vary depending on the interpretations of Apatur's teachings within different sects or communities. The severity and nature of the transgressions may also influence the steps required for redemption. Ultimately, the follower's genuine remorse, sincere efforts towards change, and active alignment with the core principles of Apatur would be central to the process of atonement.
-### Larantas
+
+## Larantas
 
 **Creeds**
 Embrace the ever-changing cycles of life, for they bring forth new beginnings.
@@ -634,7 +646,7 @@ Larantas is the revered name of the ancient Tree God worshiped by the dwellers o
 Word of Larantas has spread far beyond the jungles, captivating the hearts of people in distant lands. Followers of Larantas feel a calling to embark on a sacred journey to seek the presence of the revered Tree God. They offer prayers and receive blessings, feeling the life force of Larantas flowing through them.
 The guardians of the jungle, known as the Leaf Wardens, are entrusted with protecting the sacred groves and ensuring the flourishing of Larantas. They possess the ability to commune with nature, channeling its power to ward off threats and maintain the delicate harmony within the jungle.
 
-#### The Worldmind
+### The Worldmind
 
 The followers of Larantas operate, act, and recruit new members in ways that align with the principles and beliefs associated with the worship of the Tree God. Here's a description of how they typically engage in these activities:
 Deep Connection with Nature: Followers of Larantas prioritize developing a deep connection with nature. They spend time in the natural world, observing and appreciating its beauty, and recognizing the inherent balance and harmony that exists within it. They actively seek to understand and align themselves with the cycles of life, growth, and renewal.
@@ -646,7 +658,7 @@ Recruitment through Inspiration: The recruitment of new members into the faith o
 Personal Journeys and Seeking: Larantas' followers encourage personal journeys of self-discovery and seeking. They recognize that each individual's path to connecting with nature and embracing the faith is unique. Aspiring followers are encouraged to spend time in nature, engage in introspection, and seek out moments of insight and inspiration. The personal transformation and growth that come from these experiences often lead individuals to choose to become followers of Larantas.
 Overall, the followers of Larantas operate with a deep reverence for nature, a commitment to stewardship, and a desire to live in harmony with the cycles of life. Their actions, rituals, and communal living reflect these values, and their recruitment efforts are rooted in inspiration and the sharing of wisdom and experiences.
 
-##### Ranks of The Green
+#### Ranks of The Green
 
 The Church Hierarchy of Larantas is shaped by the unique aspects and beliefs associated with the worship of the Tree God. Here is a proposed hierarchy that aligns with the provided guidelines:
 Elder Grove: The Elder Grove represents the highest authority within the Church of Larantas. It consists of a small group of spiritually enlightened individuals who have consumed the Nectar of Larantas and achieved a deep connection with the divine essence of the Tree God. They are regarded as the most revered and wise followers, possessing profound insight and knowledge. The members of the Elder Grove serve as the spiritual leaders and advisors of the faith, guiding the direction of the church and making important decisions.
@@ -656,7 +668,7 @@ Gatherers: Gatherers are the explorers and seekers of the faith. They embark on 
 Followers: The general body of followers comprises individuals who have embraced the faith of Larantas and align their lives with its principles. They participate in rituals, observe holy days, and engage in acts of stewardship toward the natural world. While some followers may reside in jungle communities where the worship of Larantas is deeply ingrained, others may be scattered in various locations, including cities where their faith is viewed as unconventional. Followers find solace and connection in their shared beliefs and the hivemind experience granted by drinking the Nectar of Larantas, allowing them to perceive the presence of fellow followers in proximity.
 It is worth noting that the hierarchy presented here is flexible and adaptable, allowing for variations based on specific cultural practices and regional traditions. The emphasis on spiritual connection, stewardship, and the interdependence of followers with nature remains central to the faith of Larantas.
 
-##### Sins and Penances
+#### Sins and Penances
 
 Transgressions
 While the followers of Larantas strive to live in harmony with nature and uphold the principles of their faith, there are transgressions that a follower could make against the Tree God. These transgressions go against the core tenets and values associated with Larantas' worship. Here is a list of transgressions that a follower could commit:
@@ -680,7 +692,7 @@ Self-Transformation: Atonement often involves personal growth and transformation
 Service to the Community: Engaging in acts of service and contributing positively to the community can be a meaningful way to atone for transgressions. By selflessly giving back to nature and the people around them, followers demonstrate their commitment to Larantas' teachings and work towards restoring the balance and harmony within their community.
 Ultimately, the process of atonement for a follower of Larantas involves sincere remorse, active efforts towards restitution, and a genuine commitment to living in accordance with the principles of the Tree God. It is through these actions and practices that followers seek forgiveness, reconciliation, and a renewed connection with Larantas and the natural world.
 
-### The Penitent Choir
+## The Penitent Choir
 
 **Creeds**
 
@@ -704,7 +716,7 @@ The formation of the The Penitent Choir was met with internal struggles and disa
 Despite their internal divisions, The Penitent Choir as a whole stands as a beacon of goodness and compassion. The faithful devote themselves to serving the marginalized, tending to the needs of the impoverished and defending the rights of the vulnerable. They are driven by a deep sense of responsibility to mend the brokenness brought upon by the The Black Day and to create a more just and harmonious world.
 While the The Penitent Choir rejects extreme forms of self-inflicted suffering, certain sects have adopted penitential rituals, such as acts of self-discipline and contemplation, as a means of personal reflection and growth. These practices serve as reminders of the past sins and the ongoing journey towards redemption.
 
-#### The Lamenters
+### The Lamenters
 
 The followers of The Penitent Choir operate, act, and recruit new members in the following ways:
 Operation and Practices: The followers of The Penitent Choir are driven by their commitment to redemption, unity, compassion, justice, and salvation. They actively engage in acts of charity, service, and advocacy to bring about positive change in the world. Their daily lives are centered around the principles of the faith, seeking to live in accordance with the teachings of The Penitent Choir.
@@ -715,7 +727,7 @@ Recruitment: The followers of The Penitent Choir seek to expand their community 
 Personal Transformation: The followers of The Penitent Choir emphasize personal transformation and growth as a means of deepening their connection to the faith. They encourage self-reflection, introspection, and acknowledgment of past mistakes or transgressions. Through acts of penance, self-discipline, and contemplation, followers seek to atone for their past sins and strive for a brighter future. This personal transformation serves as a testament to the power of redemption and serves as an example to others.
 Overall, the followers of The Penitent Choir operate with a strong sense of purpose, actively living out their faith through compassionate actions, justice advocacy, and spiritual practices. They aim to create a community united by shared values and to extend their message of redemption and salvation to those who are in need of healing and hope.
 
-##### Ranks of the Choir
+#### Ranks of the Choir
 
 The church hierarchy for The Penitent Choir could be structured in the following way, taking into account the given guidelines:
 Grand Redeemer: The highest position within the church hierarchy, held by a revered individual who embodies the core principles of redemption, unity, compassion, justice, and salvation. The Grand Redeemer serves as the spiritual leader and the ultimate authority in matters of doctrine, guidance, and interpretation of the faith.
@@ -727,7 +739,7 @@ Ordained Ministers: Ordained Ministers are individuals who have undergone rigoro
 Faithful Followers: The body of The Penitent Choir consists of dedicated and faithful followers who actively participate in the church's activities, rituals, and charitable endeavors. They are encouraged to engage in acts of selfless service, altruism, and compassionate outreach to embody the teachings of their faith. The faithful engage in daily singing sessions, attend gatherings and sermons, and contribute to the betterment of society through their individual and collective efforts.
 This hierarchical structure of The Penitent Choir reflects the balance between spiritual leadership, guidance, community organization, and the pursuit of altruistic acts as a means of bringing about redemption and renewal. It allows for the fulfillment of the faith's core tenets while maintaining a harmonious relationship between the followers, their leaders, and the divine purpose they strive to fulfill.
 
-##### Sins and Penances
+#### Sins and Penances
 
 Transgressions
 While The Penitent Choir promotes a path of redemption and compassion, there are certain transgressions that a follower could make against the god and the principles of the faith. These transgressions include:
@@ -769,46 +781,68 @@ The Murk best operates like your favorite show or movie.  One person will take t
 **Actor**: Narrates and acts on their character.  Is compelling, and feeds on other Actors and the Director.  Enables others to shine, and prepares for their moments with excitement.
 
 
-> ### Designer Notes
->
-> Adventure Frames have been designed especially for Breathless games. Since no plot survives an encounter with the players, Adventure Frames focus on goals, scene descriptors, and complications. This leaves a lot of space for the GM to change the story on the fly, and just glue things back together when necessary.
-
-## Company Creation
-### Company Concepts
-### 
-
-## Character Creation
-### Overview
-### Character Concept and Details
-### Starting Traits
-### Selecting Your Archtype
-### Equipment
-### Faith and Esoteria
-### Final Details
-
-## Attribution
-
-This game uses mechanics based off the Murkborne Dice system, designed by Nicholas Bragg of 13th Side Games.
+# Units of Time in Game
+## Moment
+## Scene
+## Episode
+## Season
 
 
-### Question Oracle
+# 3DX System
+## Rolling Dice
 
-If you have a question about the world, use the _Question Oracle_ to get your answer.
-Roll 2d6, sum the two numbers, and interpret the results.
+The system aims to provide mechanics that can address most inquiries, while ensuring that the system serves the purpose of storytelling rather than overpowering it. Therefore, many of our mechanics are intentionally designed to be straightforward, following a set of essential principles that foster enjoyable and seamless gameplay.  Here are some guidelines that all play can be expected to follow. 
 
-- On a **2-3**, the answer is **no, and…**
-- On a **4-6**, the answer is **no**.
-- On a **7**, the answer is **yes, but…**
-- On a **8-10**, the answer is **yes**.
-- On a **11-12**, the answer is **yes, and…**
+**Roll for Consequences, not Results**
 
-### Risk Oracle
+We assume that individuals are reasonably proficient in carrying out everyday tasks in normal circumstances. If you're a skilled marksman, it's expected that you can shoot a gun accurately at a firing range for leisure. Professional drivers don't need to roll dice to remember which pedal is the brake and which is the gas. In fact, in a typical life, there are rarely challenges to one's basic skills.
 
-If your Nomad wants to attempt something dangerous, use the _Risk Oracle_ to assess how risky it is before doing it.
-Roll 2d6, sum the two numbers, and interpret the results.
+However, the characters in the Murk don't lead ordinary lives. While their skills are significant, what truly matters is the outcome of their failures. The Game Master (GM) should only request a dice roll if there are consequences tied to a potential failure. These consequences can range from minor setbacks to game-changing developments in the story. The ultimate goal is to advance a captivating narrative, and no gaming table wants to get caught up in skill checks that bear no impact on the story or its characters.
 
-- On a **2-4**, the situation is **not risky at all**. You simply do it.
-- On a **5-9**, the situation is **risky**. Make a _Check_ to see how it goes.
-- On a **10-12**, the situation is **perilous**. Make a _Check_ to see how it goes.
+**Let it Ride**
+
+In order to maintain a smooth and engaging gameplay experience, we avoid getting stuck in a cycle of repetitive skill checks. We don't want sessions to become weighed down by a series of sneak checks for every guard encountered, or multiple driving checks for each turn while evading adversaries. That's where the "Let it Ride" rule comes into play. According to this rule, there should be no need for repeated skill checks unless the situation undergoes a significant change. This means that, for a single scene, most skills will only be rolled once outside of combat, ensuring a more fluid and immersive storytelling experience.
+
+**Embrace the Rule of Cool**
+
+In The Murk, we value the concept of "cool" moments that can push the boundaries of the rules in a fun and exciting way. While the characters in the game may not possess immense power, allowing players to occasionally stretch the rules to create memorable and enjoyable experiences often leads to the most thrilling parts of a session. If something is fun and cool, we encourage you to let it play out, embracing the spirit of adventure and imagination that makes The Murk truly special.
+
+## Murk Points
+## Making Attribute Rolls
+## Other Rolls
+
+# Conjuring Esoteria
+# Calling on Faith
+
+# Combat
+## Determining Initiative
+
+Initiative in a conflict Scene is established by each participant in a scene making a roll to determine their Initiative Score. The turn order is then determined by the individual with the highest number, granting them the first opportunity to act. As the Moment concludes, Initiative is recalculated by rolling again and adding it to the previous Initiative, thereby setting the turn order for the next Moment.
+
+### Outpacing
+
+Outpacing happens when one Actor has an Initiative that exceeds another Actor's by five or more. In this situation, the Actor with the higher Initiative gains an advantage, receiving an additional +2 on checks against the opposing Actor for every 5 point increment they are above.
+
+## Determining Distances
+## Resisting and Dealing Damage
+### The Damage Tracks
+### Suffering
+### Death and Retirement
+### Recovery
+
+
+# Company Creation
+## Company Concepts
+## Company Archtypes
+## Company Details
+
+# Character Creation
+## Overview
+## Character Concept and Details
+## Starting Traits
+## Selecting Your Archtype
+## Equipment
+## Faith and Esoteria
+## Final Details
 
 
