@@ -377,11 +377,19 @@ Equipment Tiers categorize the quality and effectiveness of various items in Tel
 
 ## Weapons
 
+
 |Weapon		| Description		| Range 	| Damage	| Cost 		|
 |-----------|-------------------|-----------|-----------|-----------|
-Rifle Long-range firearms with rifled barrels, capable of accurate and powerful shots.		| Far 	| 8+	| 6 per Tier 		|
+| Rifle | Long-range firearms with rifled barrels, capable of accurate and powerful shots.		| Far 	| 8+	| 6 per Tier 		|
+| Pistol | Handheld firearms designed for one-handed use, offering a balance between mobility and firepower.		| Near 	| 7+	| 5 per Tier 		|
+| 1 Handed Melee | Versatile melee weapons with various blade types, used for slashing and thrusting attacks.		| Close 	| 6+	| 4 per Tier 		|
+| 2 Handed Melee | Large, two-handed swords or Axes with long, double-edged blades, favored by heavy infantry for powerful slashing attacks.		| Close 	| 8+	| 5 per Tier 		|
+| Crossbow | Powerful ranged weapons that use a mechanism to shoot bolts or quarrels, offering high accuracy and penetrating power.		| Far 	| 8+	| 6 per Tier 		|
+| Bow | Traditional archery weapons known for their long range and high projectile velocity.		| Far 	| 7+	| 5 per Tier 		|
 
-- **Name** *Rifle*, **Description** *Long-range firearms with rifled barrels, capable of accurate and powerful shots.*, **Range** *- Far*,**Damage** *8+*, **Cost** *6 per Tier*
+
+
+
 
 ## Armor
 ## Gear
