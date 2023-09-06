@@ -378,8 +378,10 @@ Equipment Tiers categorize the quality and effectiveness of various items in Tel
 ## Weapons
 
 |Weapon		| Description		| Range 	| Damage	| Cost 		|
-|Rifle		| Long-range firearms with rifled barrels, capable of accurate and powerful shots.		| Far 	| 8+	| 6 per Tier 		|
-|Rifle		| Long-range firearms with rifled barrels, capable of accurate and powerful shots.		| Far 	| 8+	| 6 per Tier 		|
+|-----------|-------------------|-----------|-----------|-----------|
+Rifle Long-range firearms with rifled barrels, capable of accurate and powerful shots.		| Far 	| 8+	| 6 per Tier 		|
+
+- **Name** *Rifle*, **Description** *Long-range firearms with rifled barrels, capable of accurate and powerful shots.*, **Range** *- Far*,**Damage** *8+*, **Cost** *6 per Tier*
 
 ## Armor
 ## Gear
