@@ -377,6 +377,7 @@ Equipment Tiers categorize the quality and effectiveness of various items in Tel
 
 ## Weapons
 
+All weapon stats can be reskinned and stylized as both the Actor or Director see fit.  Overall the intent is to provide freedom of expression while maintaining some semblance of realism for weaponry.
 
 |Weapon		| Description		| Range 	| Damage	| Cost 		|
 |-----------|-------------------|-----------|-----------|-----------|
@@ -388,12 +389,20 @@ Equipment Tiers categorize the quality and effectiveness of various items in Tel
 | Bow | Traditional archery weapons known for their long range and high projectile velocity.		| Far 	| 7+	| 5 per Tier 		|
 
 
+## Armor, Gear, and Prosthetics
+
+Much like Weapons, all equipment can be reskinned to fit the need of any Actor or Director. 
+
+|Equipment 	| Example		| Effect		| Cost		|
+|-----------|---------------|---------------|-----------|
+|Armor		| Knight's Plate, Chainmail, Reinforced Trenchcoats, Ballistic Vests, Helmets | +1 Soak Armor for Damage Track per Tier | 9 per Tier |
+|Focus		| Amulet, wand, crystal | Equipment to empower the casting of Esoteria | 8 per Tier |
+|Holy Symbol		| Symbol made of wood, gold, or bronze | Equipment to empower Prayers | 8 per Tier |
+|Skill Gear		| Grappling Hook, Pitons, First Aid Kit, Lockpicks | Equipment to improve a specific action | 4 per Tier |
+|Prosthetic		| Peg Leg, Arcane Eye, Robot Hand, Breathing Apparatus | Equipment to repair or replace limbs, eyes, or other body parts, can aid or penalize certain checks | 7 per Tier |
 
 
 
-## Armor
-## Gear
-## Prosthetics
 
 # Archetypes
 ## Ranks and Progression
