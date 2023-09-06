@@ -82,6 +82,8 @@ These dice are totalled along with any flat bonuses given, and then compared to 
 
 If the roll's **Total** meets or **Exceeds** the **Difficulty Rating**, that roll is deemed a success and the intent is accomplished.
 
+If a roll fails to meet the Difficulty rating and the Attribute die rolls a 1, this is called a **Botch**
+
 A number of things can add or subtract from rolls, namely **Equipment**, **Suffering**, and **Potential**.
 
 
@@ -331,18 +333,60 @@ The three Injury Dice Types are as follows:
 
 Success in these rolls signifies that no lasting effects occur. However, failure to meet the track number results in a rank of Suffering. The total ranks of Suffering incurred reduce the effectiveness of all core attributes accordingly.
 
-## Suffering
-## Death and Retirement
+## Suffering and Breaking Down
+
+Suffering is the aggregated stress and damage that a Character has taken to their spirtual, moral, and physical self.  
+
+Suffering Manifests itself in a set of Ranks.  When a new Rank of Suffering is applied from damage, strain, or exhaustion a **Break Down** roll is made.
+
+**Breakdown Roll** is the new total of Suffering Ranks Rolled as D6s.  If this total exceeds 20 this character dies or retires from play at the end of the scene.  
+
 ## Recovery
 
+The more weary of this world a character's body and mind are the more difficult it can be to pull them from the brink.  
+
+Recovery can occur when the Character spends an entire scene seeking medical, spiritual, or mental care.  
+
+*The intent is to take this character out of action and focus on their healing or internal dialogues*
+
+At the end of the Scene, the Character or those aiding them may make a Attribute Rolloff vs the Character's Breakdown Roll total.
+
+**Recovery does not count toward Breakdown rolls for the purposes of retirement or death*
+
+Alternatively, the Director can freely recover 1 or more Suffering at the end of an Episode.
+
+
 # Equipment
+
+
 ## Quality Tiers
+
+Equipment Tiers categorize the quality and effectiveness of various items in Tellus. Whether it's a worn-out blade or an exquisitely enchanted weapon, the quality of equipment can greatly impact its performance. There are six tiers of equipment, each with its own mechanical benefits:
+
+- Tier 1 - Terrible: Low-quality tools that adds -1 penalty to rolls and can break on a botch.
+
+- Tier 2 - Standard: Average equipment that grants no penalty or bonus to checks.
+
+- Tier 3 - Finely Crafted: Handcrafted items by skilled artisans, providing +1 to any check used.
+
+- Tier 4 - Masterwork: Exceptionally crafted non-magical items that add +2 to any check.
+
+- Tier 5 - Enchanted: Magical items that allow one reroll of 1s on Attribute Dice per scene and also function as Masterwork tools.
+
+- Tier 6 - Artifact: Extraordinary items that provide +3 dice on use and allow one full reroll per scene.
+
 ## Weapons
+
+|Weapon		| Description		| Range 	| Damage	| Cost 		|
+|Rifle		| Long-range firearms with rifled barrels, capable of accurate and powerful shots.		| Far 	| 8+	| 6 per Tier 		|
+|Rifle		| Long-range firearms with rifled barrels, capable of accurate and powerful shots.		| Far 	| 8+	| 6 per Tier 		|
+
 ## Armor
 ## Gear
 ## Prosthetics
 
 # Archetypes
+## Ranks and Progression
 ## Soldier
 ## Acolyte
 ## Initiate
@@ -356,7 +400,17 @@ Success in these rolls signifies that no lasting effects occur. However, failure
 ## Starting Traits
 ## Selecting Your Archetype
 ## Equipment
+
+Determining Starting Equipment
+To determine your starting equipment, calculate the sum of your rolled Wealth skill and your lowest Core Attribute. This combined value will be your Wealth Points, which you can allocate towards acquiring items listed below. If you don't possess a Wealth skill, your Wealth Points will be equivalent to your lowest Core Attribute. Note you cannot purchase anything higher than a tier 3 item at character creation.
+Example
+To properly calculate Janevar's starting Wealth Points, we need to roll a number of six-sided dice equal to her Wealth skill and add the total to her lowest Core Attribute.
+Let's assume Janevar's Wealth skill is 4 and her lowest Core Attribute is Body, which has a value of 3.
+We roll 4d6 and obtain the following results: 3, 5, 2, 4. The sum of these dice rolls is 14.
+Next, we add the total of the dice rolls (14) to Janevar's lowest Core Attribute (3). Thus, Janevar's starting Wealth Points would be 17. She can now allocate these points to acquire items during character creation.
+
 ## Final Details
+
 
 
 
