@@ -404,20 +404,52 @@ Much like Weapons, all equipment can be reskinned to fit the need of any Actor o
 
 
 
-# Archetypes
+# Character Details
+
+Archtypes are intended to provide some framework to a Character's skillset and play style.  They are a loose collection of Attributes and Talents that intend to paint *part but not all* of a Character's picture.  
+
 ## Ranks and Progression
-## Soldier
-## Acolyte
-## Initiate
-## Dillentante
-## Scum
+
+Much like Archetypes, every character has an associated **Rank**.  Ranks are a rough determination of capability in relation to others.  At the beginning, all Characters have a rank of 1.  
+
+Ranks determine a number of things such as
+
+- Basic Injury Dice Pools
+- New Talent Costs
+- Attribute Maximums
+
+Below is a list of the Ranks and their details.
+
+|Rank 	| XP Req	| Injury Dice Pool | Talent Costs | Attribute Maximum |
+|-------|----------|------------------|--------------|-------------------|
+|1 - Green | 0	| 3 | 20 | D10 |
+|2 - Freelancer | 100	| 4 | 30 | D10 |
+|3 - Journeyman | 250	| 4 | 40 | D12 |
+|4 - Veteran | 450	| 5 | 50 | D12 |
+|5 - Legendary | 700	| 5 | 50 | D20 |
+
+## Archetypes
+
+|Archetype	| Description	| Body	| Mind	| Spirit	| Initiative	| Faith		| Esoteria	| Wealth	|
+|-----------|---------------|-------|-------|-----------|---------------|-----------|-----------|-----------|
+|Soldier		| Trained in combat for a number of years, the Grunt excels at physical combat. | D10 | D4 | D6 | D6 | 0 | 0 | D6 |
+|Acolyte		| A devout follower of a God, the Acolyte hears and sees all as divine work. | D4 | D6 | D8 | D4 | D6 | 0 | D4 |
+|Esoterist		| The Esoterist has begun mastering the laws of creation and thus are a force unto themselves. | D4 | D6 | D6 | D4 | 0 | D8 | D4 |
+|Ruffian		| Ruffians, by their nature, are experts in surviving and getting things done.  Nor formal training, just raw street learned skill. | D6 | D6 | D6 | D10 | 0 | 0 | D4 |
+
+### Soldier
+### Acolyte
+### Esoterist
+### Ruffian
+## Talent List
+## Trait List
 
 
 # Character Creation
 ## Overview
 ## Character Concept and Details
-## Starting Traits
-## Selecting Your Archetype
+## Selecting Traits
+## Selecting Your Archetype and Talents
 ## Equipment
 
 Determining Starting Equipment
