@@ -12,7 +12,7 @@ You will find all Breathless related resources like the game's official SRD whic
 
 ![The Murk SRD](https://gyazo.com/fc802122e934a8c058f228e83492187b)
 
-This is the The Murk SRD. A free and open licensed version of The Murk that contains all the rules, information and design guidelines for you to make your own game in The Murk.
+ This is the The Murk SRD. A free and open licensed version of The Murk that contains all the rules, information and design guidelines for you to make your own game in The Murk.
 
 
 # The Game | The Murk SRD
