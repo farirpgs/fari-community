@@ -639,30 +639,27 @@ Traits function as the "extra" pieces of a character, often rounding out their p
 	- Exploitation: You have been subjected to exploitation and abuse, whether it be in the form of forced labor, human trafficking, or other forms of mistreatment. These experiences have left you with feelings of vulnerability, mistrust, and a determination to fight against injustice.
 
 
+# Character Creation Checklist
 
-
-
-
-
-
-
-
-# Character Creation
-## Overview
-## Character Concept and Details
-## Selecting Traits
-## Selecting Your Archetype and Talents
-## Equipment
-
-Determining Starting Equipment
-To determine your starting equipment, calculate the sum of your rolled Wealth skill and your lowest Core Attribute. This combined value will be your Wealth Points, which you can allocate towards acquiring items listed below. If you don't possess a Wealth skill, your Wealth Points will be equivalent to your lowest Core Attribute. Note you cannot purchase anything higher than a tier 3 item at character creation.
-Example
-To properly calculate Janevar's starting Wealth Points, we need to roll a number of six-sided dice equal to her Wealth skill and add the total to her lowest Core Attribute.
-Let's assume Janevar's Wealth skill is 4 and her lowest Core Attribute is Body, which has a value of 3.
-We roll 4d6 and obtain the following results: 3, 5, 2, 4. The sum of these dice rolls is 14.
-Next, we add the total of the dice rolls (14) to Janevar's lowest Core Attribute (3). Thus, Janevar's starting Wealth Points would be 17. She can now allocate these points to acquire items during character creation.
-
-## Final Details
+- Build a Concept
+	- We reccomend these questions be answered but so long as you have an idea
+		- What do people notice about you first?
+		- What item do you always have on hand?
+		- Where do you want to go?
+		- Where would you never go again?
+		- Does anyone miss you?
+		- Is anyone looking for you?
+- Choose a Homeland
+	- Here refer to our list of homelands
+- Select 4 Traits
+- Select an Archetype and Starting Talent
+- Assign Equipment
+	- 1 Tier 3 item
+	- 2 Tier 2 items
+	- 3 Tier 1 items
+- Final Details
+	- Determine how your Character behaves and acts within their company.
+- Do the intro RP with your fellow Actors or Director!
 
 
 
