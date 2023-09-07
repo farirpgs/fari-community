@@ -3,9 +3,11 @@
 import {
   ArrowBackIcon,
   ArrowForwardIcon,
+  CloseIcon,
   DownloadIcon,
   EditIcon,
   ExternalLinkIcon,
+  HamburgerIcon,
   SearchIcon,
 } from "@chakra-ui/icons";
 import { Link } from "@chakra-ui/next-js";
@@ -17,11 +19,13 @@ import {
   BreadcrumbLink,
   Button,
   ButtonGroup,
+  Collapse,
   Container,
   Divider,
   Flex,
   Heading,
   Icon,
+  IconButton,
   Input,
   InputGroup,
   InputLeftElement,
@@ -35,6 +39,7 @@ import {
   TagRightIcon,
   Text,
   useColorModeValue,
+  useDisclosure,
   Wrap,
   WrapItem,
 } from "@chakra-ui/react";
@@ -53,6 +58,7 @@ export function Project(props: {
   project: IProject;
   doc: IDoc;
 }) {
+  const { isOpen, onToggle } = useDisclosure();
   const scrollTo = getClientSideValue(() => {
     const searchParams = new URLSearchParams(location.search);
     const scrollTo = searchParams.get("scrollTo") || "";
@@ -63,6 +69,9 @@ export function Project(props: {
   const [search, setSearch] = useState("");
   const cardBackground = useColorModeValue("gray.50", "gray.600");
   const brand = useColorModeValue("brand.500", "brand.200");
+  const mobileToolbarBackground = useColorModeValue("white", "gray.800");
+  const mobileMenuBackground = useColorModeValue("gray.50", "gray.800");
+
   const creatorLink = `/creators/${props.creator.creatorSlug}`;
   const projectLink = `/creators/${props.creator.creatorSlug}/projects/${props.project.projectSlug}`;
   const editPageLink = `https://github.com/fariapp/fari-community/edit/main/public/catalog/creators/${props.creator.creatorSlug}/${props.project.projectSlug}/index.md#:~:text=${props.doc.currentPage.title}`;
@@ -128,7 +137,9 @@ export function Project(props: {
   }, []);
 
   return (
-    <Container maxWidth="container.xl" pt={["4", "4", "4", "32"]}>
+    <Container maxWidth="container.xl" pt={["4", "4", "4", "16"]}>
+      {renderMobileMenu()}
+
       <Box display={["block", "block", "block", "none"]}>
         <Box mb="2">
           <Stack spacing={4}>
@@ -236,6 +247,7 @@ export function Project(props: {
               </Stack>
 
               {renderSidebar()}
+              <Box pb="32" />
             </Stack>
           </Box>
 
@@ -265,7 +277,6 @@ export function Project(props: {
                       borderTop: "1px solid",
                       borderColor: "gray.200",
                       marginTop: "3rem  !important",
-                      marginBottom: "1rem  !important",
                       paddingTop: "1.5rem",
                     },
                     "& h3": {
@@ -325,6 +336,82 @@ export function Project(props: {
       </Box>
     </Container>
   );
+
+  function renderMobileMenu() {
+    return (
+      <>
+        <Box
+          sx={{
+            display: ["block", "block", "block", "none"],
+            position: "fixed",
+            bottom: "0",
+            left: "0",
+            right: "0",
+            zIndex: 1,
+            boxShadow: "dark-lg",
+          }}
+        >
+          {isOpen && (
+            <Box
+              sx={{
+                position: "fixed",
+                top: "0",
+                left: "0",
+                right: "0",
+                bottom: "0",
+                zIndex: "0",
+                background: "rgba(0,0,0,0.5)",
+              }}
+              onClick={onToggle}
+            />
+          )}
+          <Collapse animateOpacity in={isOpen}>
+            <Stack
+              spacing={2}
+              sx={{
+                padding: 6,
+                position: "relative",
+                zIndex: "1",
+                maxHeight: "80vh",
+                overflowY: "auto",
+                background: mobileToolbarBackground,
+              }}
+            >
+              <Heading size="md">Menu</Heading>
+              <Divider />
+              {renderSidebar()}
+            </Stack>
+          </Collapse>
+          <Stack
+            direction="row"
+            align="center"
+            justify="space-between"
+            px="4"
+            py="2"
+            sx={{
+              boxShadow: "dark-lg",
+              position: "relative",
+              background: mobileToolbarBackground,
+              zIndex: "1",
+            }}
+          >
+            <IconButton
+              variant="ghost"
+              aria-label="Toggle Navigation"
+              icon={
+                isOpen ? (
+                  <CloseIcon w={3} h={3} />
+                ) : (
+                  <HamburgerIcon w={5} h={5} />
+                )
+              }
+              onClick={onToggle}
+            />
+          </Stack>
+        </Box>
+      </>
+    );
+  }
 
   function renderBottomNavigation() {
     const hasPreviousPage = props.doc.previousPage !== null;
@@ -393,7 +480,7 @@ export function Project(props: {
     const hasCategories = Object.keys(props.doc.sidebar.categories).length > 0;
     const hasRootPages = props.doc.sidebar.root.length > 0;
     return (
-      <Stack spacing="4" pb="32">
+      <Stack spacing="4">
         {Object.entries(props.doc.sidebar.categories).map(
           ([id, categories]) => {
             return (
