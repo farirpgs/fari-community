@@ -12,10 +12,9 @@ As for the code of the website, it is licensed under the AGPL-3.0 license, where
 
 # Getting Started
 
-Install Node `^18` (to match engine property in `package.json`)
-
-1. Then `npm install`
-2. and run `npm run dev` to start the site
+1. Install bun at bun.sh
+1. Then `bun install`
+1. and run `bun run dev` to start the site
 
 ## Contributing
 
