@@ -190,11 +190,12 @@ At the end of each Interval, a number of things happen:
     - Anything with MP then receives penalties for shielding their bodies against the air.
     - Equivalent heavy clothing provides the same penalties.
 
-|--------------|---|
-| Underground  | 1 |
-| Indoors      | 2 |
-| Outdoors     | 3 |
-| Storm        | 4 |
+| Place        |MP Regenerated|
+|:------------:|:------------:|
+| Underground  | 1            |
+| Indoors      | 2            |
+| Outdoors     | 3            |
+| Storm        | 4            |
 
 # Modules & Downloads
 
