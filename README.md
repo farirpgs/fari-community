@@ -12,9 +12,9 @@ As for the code of the website, it is licensed under the AGPL-3.0 license, where
 
 # Getting Started
 
-1. Install bun at bun.sh
-1. Then `bun install`
-1. and run `bun run dev` to start the site
+1. Install bun at [bun.sh](bun.sh)
+1. Then run `bun install`
+1. Finally run `bun dev` to start the site
 
 ## Contributing
 
