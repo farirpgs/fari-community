@@ -199,6 +199,8 @@ At the end of each Interval, a number of things happen:
 
 # Modules & Downloads
 
+Each online project has a 'download' link at the top, or you can download the source files and compile the books yourself.
+
 - [Core Rules](https://gitlab.com/bindrpg/core)
 - [Oneshot introduction](https://gitlab.com/bindrpg/oneshot)
 - [Full Campaign](https://gitlab.com/bindrpg/mim)
