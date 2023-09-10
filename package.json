@@ -49,7 +49,7 @@
     "*.{js,css,md,ts,tsx,json}": "prettier --write"
   },
   "devDependencies": {
-    "@types/lodash": "^4.14.194",
+    "@types/lodash": "^4.14.198",
     "@types/remarkable": "^2.0.3",
     "autoprefixer": "^10.4.14",
     "postcss": "^8.4.23"
