@@ -6,7 +6,7 @@ export const loader = {
     const fs = await import("fs/promises");
     const files = await fs.readdir(
       path.join(process.cwd(), "public", "catalog", "creators"),
-      { withFileTypes: true }
+      { withFileTypes: true },
     );
     const folders = files.filter((f) => f.isDirectory());
 
@@ -19,11 +19,14 @@ export const loader = {
       const creatorDataLoader: ILoaderFunction<ICreatorData> = await import(
         `./creators/${creatorFolder.name}/index.ts`
       );
+
       data = creatorDataLoader?.default();
+
       data.description =
         data.description ||
         `Find ton of free and open licensed content by ${data?.name} on Fari Community`;
     } catch (error) {}
+
     const name: string = data?.name || startCase(creatorSlug);
     const projects = await this.getCreatorProjects(creatorSlug);
     return {
@@ -40,13 +43,13 @@ export const loader = {
 
     const files = await fs.readdir(
       path.join(process.cwd(), "public", "catalog", "creators"),
-      { withFileTypes: true }
+      { withFileTypes: true },
     );
     const folders = files.filter((f) => f.isDirectory());
     const result = await Promise.all(
       folders.map(async (folder) => {
         return this.getCreatorData(folder.name);
-      })
+      }),
     );
     return result;
   },
@@ -55,26 +58,26 @@ export const loader = {
     const fs = await import("fs/promises");
     const files = await fs.readdir(
       path.join(process.cwd(), "public", "catalog", "creators", creatorSlug),
-      { withFileTypes: true }
+      { withFileTypes: true },
     );
     const folders = files.filter((f) => f.isDirectory());
     const result = await Promise.all(
       folders.map(async (folder) => {
         return this.getProjectData(creatorSlug, folder.name);
-      })
+      }),
     );
     return result;
   },
   async getProjectData(
     creatorSlug: string,
-    projectSlug: string
+    projectSlug: string,
   ): Promise<IProject> {
     const [slug, language] = projectSlug.split(".");
     const fs = await import("fs/promises");
     // load image
     let image: string | undefined = await this.getProjectImage(
       creatorSlug,
-      projectSlug
+      projectSlug,
     );
     // load project
     let data: IProjectData | undefined = undefined;
@@ -92,9 +95,9 @@ export const loader = {
         "catalog",
         "creators",
         creatorSlug,
-        slug
+        slug,
       ),
-      { withFileTypes: true }
+      { withFileTypes: true },
     );
     const otherLanguages = files
       .filter((f) => f.name.endsWith(".md") && f.name !== "index.md")
@@ -125,8 +128,8 @@ export const loader = {
           "creators",
           creatorSlug,
           slug,
-          "image.png"
-        )
+          "image.png",
+        ),
       );
       if (!!pngFile) {
         image = `/catalog/creators/${creatorSlug}/${slug}/image.png`;
@@ -141,8 +144,8 @@ export const loader = {
           "creators",
           creatorSlug,
           slug,
-          "image.jpg"
-        )
+          "image.jpg",
+        ),
       );
       if (!!jpgFile) {
         image = `/catalog/creators/${creatorSlug}/${slug}/image.jpg`;
@@ -161,7 +164,7 @@ export const loader = {
       "creators",
       creatorSlug,
       slug,
-      language ? `${language}.md` : "index.md"
+      language ? `${language}.md` : "index.md",
     );
 
     const fileBuffer = await fs.readFile(directory);

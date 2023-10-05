@@ -53,7 +53,7 @@ import { FaHashtag } from "react-icons/fa";
 import { IoMdDocument } from "react-icons/io";
 import { per } from "../../../../../(domains)/style/per";
 
-export function Project(props: {
+export function ProjectPage(props: {
   creator: ICreator;
   project: IProject;
   doc: IDoc;
@@ -101,7 +101,7 @@ export function Project(props: {
   useEffect(() => {
     const article = document.querySelector("article");
     const headings = article?.querySelectorAll(
-      "h1,h2,h3,h4,h5,h6"
+      "h1,h2,h3,h4,h5,h6",
     ) as unknown as Array<HTMLElement>;
 
     headings?.forEach((heading) => {
@@ -298,7 +298,7 @@ export function Project(props: {
                   <h1>
                     {
                       props.doc.pages.find(
-                        (p) => p.id === props.doc.currentPage.id
+                        (p) => p.id === props.doc.currentPage.id,
                       )?.title
                     }
                   </h1>
@@ -516,7 +516,7 @@ export function Project(props: {
                 )}
               </Box>
             );
-          }
+          },
         )}
         <Box>
           {hasCategories && hasRootPages && (

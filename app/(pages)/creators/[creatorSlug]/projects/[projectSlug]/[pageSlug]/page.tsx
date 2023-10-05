@@ -1,18 +1,18 @@
 import { DocParser } from "app/(domains)/documents/DocParser";
 import { MarkdownParser } from "app/(domains)/markdown/MarkdownParser";
 import { loader } from "public/catalog/loader";
-import { Project } from "../page-component";
+import { ProjectPage } from "../pure";
 
 export async function generateMetadata(props: Parameters<typeof Page>[0]) {
   const creator = await loader.getCreatorData(props.params.creatorSlug);
   const project = await loader.getProjectData(
     props.params.creatorSlug,
-    props.params.projectSlug
+    props.params.projectSlug,
   );
 
   const fileContents = await loader.getProjectMarkdown(
     props.params.creatorSlug,
-    props.params.projectSlug
+    props.params.projectSlug,
   );
 
   const doc = new DocParser({
@@ -23,7 +23,7 @@ export async function generateMetadata(props: Parameters<typeof Page>[0]) {
   const title = `${doc.currentPage.title} - ${project.data.name} - ${creator.data?.name} - Fari Community`;
 
   const currentPageTextContent = MarkdownParser.toPlainText(
-    doc.currentPage.content
+    doc.currentPage.content,
   );
   const description = currentPageTextContent.substring(0, 160) + "...";
 
@@ -58,12 +58,12 @@ export default async function Page(props: {
   const creator = await loader.getCreatorData(props.params.creatorSlug);
   const project = await loader.getProjectData(
     props.params.creatorSlug,
-    props.params.projectSlug
+    props.params.projectSlug,
   );
 
   const fileContents = await loader.getProjectMarkdown(
     props.params.creatorSlug,
-    props.params.projectSlug
+    props.params.projectSlug,
   );
 
   const doc = new DocParser({
@@ -77,7 +77,7 @@ export default async function Page(props: {
 
   return (
     <>
-      <Project creator={creator} project={project} doc={doc} />
+      <ProjectPage creator={creator} project={project} doc={doc} />
     </>
   );
 }
@@ -106,7 +106,7 @@ export async function generateStaticParams() {
       // handle default language
       const fileContents = await loader.getProjectMarkdown(
         creator.creatorSlug,
-        projectSlug
+        projectSlug,
       );
 
       const doc = new DocParser({

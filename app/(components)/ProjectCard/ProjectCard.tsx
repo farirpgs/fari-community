@@ -10,6 +10,7 @@ import {
   Image,
   Stack,
   Text,
+  useColorModeValue,
 } from "@chakra-ui/react";
 import { ICreator, IProject } from "public/catalog/loader";
 
@@ -18,6 +19,7 @@ export function ProjectCard(props: {
   project: IProject;
   condensed?: boolean;
 }) {
+  const borderColor = useColorModeValue("gray.200", "gray.800");
   return (
     <>
       <Card
@@ -67,7 +69,7 @@ export function ProjectCard(props: {
                     objectFit="cover"
                     objectPosition="center"
                     borderBottom="1px"
-                    borderColor="gray.200"
+                    borderColor={borderColor}
                     position="relative"
                     margin="0px auto"
                     display="block"

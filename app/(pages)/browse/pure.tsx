@@ -14,7 +14,7 @@ import { CreatorsProjectSorter } from "app/(domains)/creators/CreatorsProjectsSo
 import { ICreator } from "public/catalog/loader";
 import { useState } from "react";
 
-export default function Browse(props: { allCreators: Array<ICreator> }) {
+export default function BrowsePage(props: { allCreators: Array<ICreator> }) {
   const searchDefaultValue = getClientSideValue(() => {
     const searchParams = new URLSearchParams(location.search);
     return searchParams.get("search") || "";
