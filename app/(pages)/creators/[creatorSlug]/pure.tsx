@@ -16,7 +16,7 @@ import { ProjectCard } from "app/(components)/ProjectCard/ProjectCard";
 import startCase from "lodash/startCase";
 import { ICreator, IProject } from "public/catalog/loader";
 
-export function Creator(props: {
+export function CreatorPage(props: {
   creator: ICreator;
   projects: Array<IProject>;
 }) {
@@ -58,7 +58,7 @@ export function Creator(props: {
                     </TagCloseButton>
                   </Tag>
                 );
-              }
+              },
             )}
           </Stack>
         </Box>
