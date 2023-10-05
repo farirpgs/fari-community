@@ -8,7 +8,14 @@ export const CreatorsProjectSorter = {
       });
     });
 
-    const fariRPGsProjects = ["charge", "dash", "breathless", "firelights"];
+    const fariRPGsProjects = [
+      "breathless",
+      "firelights",
+      "charge rpg",
+      "dash",
+
+      "hopes & dreams",
+    ];
     const fariRecommendedProjects = [
       "blades",
       "lumen",
@@ -35,7 +42,7 @@ export const CreatorsProjectSorter = {
     const currentDateOfTheMonth = new Date().getDate();
     const shuffledFariRecommendedProjects = shuffleWithSeed(
       fariRecommendedProjects,
-      currentDateOfTheMonth
+      currentDateOfTheMonth,
     );
     const featuredProjects = [
       ...fariRPGsProjects,
