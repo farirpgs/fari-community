@@ -24,7 +24,7 @@
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
     "@nikolovlazar/chakra-ui-prose": "^1.2.1",
-    "@types/node": "^20.8.2",
+    "@types/node": "^20.10.0",
     "@types/react": "^18.2.25",
     "@types/react-dom": "^18.2.10",
     "eslint": "^8.50.0",
