@@ -287,6 +287,9 @@ export function ProjectPage(props: {
                       fontSize: "1.125rem",
                       lineHeight: "1.75rem",
                     },
+                    "& a": {
+                      textDecoration: "underline",
+                    },
 
                     [`& [id='${scrollTo}']`]: {
                       borderBottom: `4px solid`,
@@ -431,8 +434,8 @@ export function ProjectPage(props: {
             props.doc.previousPage && props.doc.nextPage
               ? "space-between"
               : props.doc.previousPage
-              ? "flex-start"
-              : "flex-end"
+                ? "flex-start"
+                : "flex-end"
           }
         >
           {props.doc.previousPage && (
