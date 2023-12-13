@@ -19,7 +19,7 @@ jobs:
       - name: Use Bun
         uses: oven-sh/setup-bun@v1
         with:
-          bun-version: latest
+          bun-version: 1.0.15
       # Install
       - name: Install
         run: bun install
@@ -47,7 +47,7 @@ jobs:
       - name: Use Bun
         uses: oven-sh/setup-bun@v1
         with:
-          bun-version: latest
+          bun-version: 1.0.15
       # Install
       - name: Install
         run: bun install
@@ -74,7 +74,7 @@ jobs:
       - name: Use Bun
         uses: oven-sh/setup-bun@v1
         with:
-          bun-version: latest
+          bun-version: 1.0.15
       # Install
       - name: Install
         run: bun install
