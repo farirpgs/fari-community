@@ -600,9 +600,9 @@ Mythos and Eldritch Artifacts is a Gasp designed by Dylan Greene of Silver Lante
 
 Mythos begins with a d4 rating for all characters. The more you interact with eldritch beings, artifacts, and rituals, the higher its die value goes— capping out at d10. This represents your knowledge and awareness of the Great Old Ones. Unlike other die rolls, you want to roll low. Your Mythos resets when you catch your breath.
 
-1-2,success
-3-4, success with a cost
-5+, failure
+- 1-2,success
+- 3-4, success with a cost
+- 5+, failure
 
 ### Using Eldritch Artifacts and Rituals:
 
