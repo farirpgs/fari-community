@@ -70,13 +70,14 @@ When a character catches their breath, the GM looks at the scene and introduces 
 
 ## Loot Checks
 
-When the fiction allows it, you can make a loot check to scavenge for tools, weapons, med kits, etc. Be careful of what is lurking in the shadow.
-When you do a loot check, roll a d20.
+When the fiction allows it, you can make a loot check to scavenge for tools, weapons, med kits, etc. You start with a d12 loot die, which steps down after each usage. When you loot, roll your current loot die and interpret the result. You may continue to use the loot die when it is a d4, at your own risk. To reset your loot die to its initial rating, you need to catch your breath.
 
-- On a 1, something bad happens.
-- On a 15-16, you find a d6 item.
-- On a 17-18, you find a d8 item.
-- On a 19-20, you find a d10 item —or— a med kit.
+- On a 1-2, trouble is here...
+- On a 3-4, there is trouble ahead...
+- On a 5-6, add a d6 item.
+- On a 7-8, add a d8 item.
+- On a 9-10, add a d10 item or a med kit.
+- On a 11-12, add a d12 item or a med kit.
 
 ## Backpack
 
