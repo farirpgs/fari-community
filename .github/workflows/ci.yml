@@ -11,6 +11,9 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    environment:
+      name: Preview
+      url: https://${{github.run_id}}--fari-community.netlify.app
     steps:
       # Checkout
       - name: Checkout
@@ -26,64 +29,11 @@ jobs:
       # Build
       - name: Build
         run: bun run build
-      # Upload Artifacts
-      - name: Upload Artifacts
-        uses: actions/upload-artifact@v1
-        if: always()
-        with:
-          name: out
-          path: out
-  deploy-preview:
-    needs: [build]
-    runs-on: ubuntu-latest
-    if: github.ref != 'refs/heads/main' && !github.event.pull_request.head.repo.fork
-    environment:
-      name: Preview
-      url: https://${{github.run_id}}--fari-community.netlify.app
-    steps:
-      # Setup
-      - uses: actions/checkout@v2
-      # Use Bun
-      - name: Use Bun
-        uses: oven-sh/setup-bun@v1
-        with:
-          bun-version: 1.0.15
-      # Install
-      - name: Install
-        run: bun install
-      # Download Artifacts
-      - name: Download Artifacts
-        uses: actions/download-artifact@master
-        with:
-          name: out
-          path: out
       # Deploy Preview
       - name: Deploy Preview
+        if: github.ref != 'refs/heads/main' && !github.event.pull_request.head.repo.fork
         run: bun run deploy:preview -- --auth ${{secrets.NETLIFY_AUTH_TOKEN}} --alias $GITHUB_RUN_ID
-  deploy-production:
-    needs: [build]
-    runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/main' && !github.event.pull_request.head.repo.fork
-    environment:
-      name: Production
-      url: https://fari.community
-    steps:
-      # Setup
-      - uses: actions/checkout@v2
-      # Use Bun
-      - name: Use Bun
-        uses: oven-sh/setup-bun@v1
-        with:
-          bun-version: 1.0.15
-      # Install
-      - name: Install
-        run: bun install
-      # Download Artifacts
-      - name: Download Artifacts
-        uses: actions/download-artifact@master
-        with:
-          name: out
-          path: out
       # Deploy Production
       - name: Deploy Production
+        if: github.ref == 'refs/heads/main' && !github.event.pull_request.head.repo.fork
         run: bun run deploy:prod -- --auth ${{secrets.NETLIFY_AUTH_TOKEN}}
