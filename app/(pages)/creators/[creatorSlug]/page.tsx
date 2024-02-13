@@ -1,10 +1,10 @@
 import { ResolvingMetadata } from "next/dist/lib/metadata/types/metadata-interface";
 import { loader } from "public/catalog/loader";
-import { Creator } from "./page-component";
+import { CreatorPage } from "./pure";
 
 export async function generateMetadata(
   props: Parameters<typeof Page>[0],
-  parent: ResolvingMetadata
+  parent: ResolvingMetadata,
 ) {
   const creator = await loader.getCreatorData(props.params.creatorSlug);
 
@@ -38,7 +38,7 @@ export default async function Page(props: {
 
   return (
     <>
-      <Creator creator={creator} projects={projects} />
+      <CreatorPage creator={creator} projects={projects} />
     </>
   );
 }

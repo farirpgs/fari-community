@@ -70,13 +70,14 @@ When a character catches their breath, the GM looks at the scene and introduces 
 
 ## Loot Checks
 
-When the fiction allows it, you can make a loot check to scavenge for tools, weapons, med kits, etc. Be careful of what is lurking in the shadow.
-When you do a loot check, roll a d20.
+When the fiction allows it, you can make a loot check to scavenge for tools, weapons, med kits, etc. You start with a d12 loot die, which steps down after each usage. When you loot, roll your current loot die and interpret the result. You may continue to use the loot die when it is a d4, at your own risk. To reset your loot die to its initial rating, you need to catch your breath.
 
-- On a 1, something bad happens.
-- On a 15-16, you find a d6 item.
-- On a 17-18, you find a d8 item.
-- On a 19-20, you find a d10 item —or— a med kit.
+- On a 1-2, trouble is here...
+- On a 3-4, there is trouble ahead...
+- On a 5-6, add a d6 item.
+- On a 7-8, add a d8 item.
+- On a 9-10, add a d10 item or a med kit.
+- On a 11-12, add a d12 item or a med kit.
 
 ## Backpack
 
@@ -587,3 +588,31 @@ When you transform, you are filled with power and confidence. All of your skills
 ## Attribution
 
 This game uses mechanics based off the Transformation Gasp, designed by Nick Potter of Sustain a Spell.
+
+# Mythos and Eldritch Artifacts | Gasps (Extras)
+
+Mythos and Eldritch Artifacts is a Gasp designed by Dylan Greene of Silver Lantern Games used in Unseen that models eldritch influence and how it interacts with eldrtich artifacts and weapons.
+
+<a href="https://americanspaceprince.itch.io/unseen-ashcan">Unseen: Into the Unknown by americanspaceprince</a>
+
+## Rule
+
+### Mythos
+
+Mythos begins with a d4 rating for all characters. The more you interact with eldritch beings, artifacts, and rituals, the higher its die value goes— capping out at d10. This represents your knowledge and awareness of the Great Old Ones. Unlike other die rolls, you want to roll low. Your Mythos resets when you catch your breath.
+
+- 1-2,success
+- 3-4, success with a cost
+- 5+, failure
+
+### Using Eldritch Artifacts and Rituals:
+
+Using an eldritch artifact or ritual will always give you the maximum die value (a d6 is always 6, d8 is always 8, d10 is always 10). But it costs a point of stress. It will also increase your Mythos skill rating. Eldritch power emanates from the object, you must make a successful Mythos roll if you want to discard it. If you succeed at a cost, the artifact will return at a later point or the ritual will have unintended consequences.
+
+> ### Designer Notes
+>
+> I wanted to bring Cthulhu Mythos rules to Breathless. It was designed to interact with Breathless’s base “catch your breath” mechanic and I wanted to avoid adding a separate “sanity” attribute. Additionally, making the eldritch artifacts and rituals powerful adds a risk/reward tradeoff as opposed to giving the player no reason to interact with artifacts and rituals.
+
+## Attribution
+
+This game uses mechanics based off the Mythos and Eldritch Artifacts Gasp, designed by Dylan Greene of Silver Lantern Games.

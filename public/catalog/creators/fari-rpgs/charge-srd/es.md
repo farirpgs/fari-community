@@ -555,7 +555,7 @@ Aquí hay un par de consejos y recomendaciones que debes leer antes de comenzar 
 >
 > Los extras son mecánicas adicionales que hackeas en tus juegos para adaptarlos a un género o estilo específico.
 >
-> Puedes consultar la lista completa de extras [aquí](/en/srds/fari-rpgs/charge-rpg/what-are-extras), pero este SRD contiene un par de extras que puedes usar así.
+> Puedes consultar la lista completa de extras [aquí](/creators/fari-rpgs/projects/charge/what-are-extras), pero este SRD contiene un par de extras que puedes usar así.
 
 # Extras del Mundo | Extras
 

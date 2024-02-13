@@ -26,7 +26,7 @@ export function Navbar() {
   const pathname = usePathname();
   return (
     <>
-      {renderBanner()}
+      {false && renderBanner()}
       {renderNav()}
     </>
   );

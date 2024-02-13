@@ -1,10 +1,10 @@
 import { ResolvingMetadata } from "next/dist/lib/metadata/types/metadata-interface";
 import { loader } from "public/catalog/loader";
-import Browse from "./page-component";
+import BrowsePage from "./pure";
 
 export async function generateMetadata(
   props: Parameters<typeof Page>[0],
-  parent: ResolvingMetadata
+  parent: ResolvingMetadata,
 ) {
   return {
     title: `Browse - Fari Community`,
@@ -23,5 +23,5 @@ export async function generateMetadata(
 export default async function Page(props: {}) {
   const allCreators = await loader.getAllCreators();
 
-  return <Browse allCreators={allCreators} />;
+  return <BrowsePage allCreators={allCreators} />;
 }

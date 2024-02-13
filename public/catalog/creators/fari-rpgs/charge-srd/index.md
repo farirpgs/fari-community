@@ -546,7 +546,7 @@ Here are a couple of tips and tricks you should read before you start playing th
 >
 > Extras are additional mechanics that you hack into your games to tailor it to a specific genre or style.
 >
-> You can see the full list of extras [here](/en/srds/fari-rpgs/charge-rpg/what-are-extras) but this SRD contains a couple of pre-condensed extras that you can use as is.
+> You can see the full list of extras [here](/creators/fari-rpgs/projects/charge/what-are-extras) but this SRD contains a couple of pre-condensed extras that you can use as is.
 
 # World Extra | Extras
 

@@ -14,13 +14,13 @@ It is also open licensed. Which means you can use it for free. You can also make
 
 ## Dash
 
-To get started as quickly as possible with Charge, checkout it's condensed version: **Dash**, available for free on [itch.io](https://fari-rpgs.itch.io/dash) and on [Fari Games](/en/srds/fari-games/dash).
+To get started as quickly as possible with Charge, checkout it's condensed version: **Dash**, available for free on [itch.io](https://fari-rpgs.itch.io/dash) and on [Fari Community](/creators/fari-rpgs/projects/dash).
 
 <iframe frameborder="0" src="https://itch.io/embed/1444306" width="100%" max-width="552" height="167"><a href="https://fari-rpgs.itch.io/dash">Dash - A Charge Condensed Game by Fari RPGs (René-Pier Deshaies)</a></iframe>
 
 ## Charge SRD
 
-For more details on how to design games using Charge, checkout the Charge SRD also available on [itch.io](https://fari-rpgs.itch.io/charge-srd), and on [Fari Games](/en/srds/fari-rpgs/charge-srd).
+For more details on how to design games using Charge, checkout the Charge SRD also available on [itch.io](https://fari-rpgs.itch.io/charge-srd), and on [Fari Community](/creators/fari-rpgs/projects/charge-srd).
 
 <iframe frameborder="0" src="https://itch.io/embed/1243992" width="100%" max-width="552" height="167"><a href="https://fari-rpgs.itch.io/charge-srd">Charge SRD by Fari RPGs (René-Pier Deshaies)</a></iframe>
 
@@ -42,7 +42,7 @@ What we mean by that is that you can:
 - Provide new Extras
 - Help improve the quality and reachability of the game by proofreading or translating it etc.
 
-If you contribute to this project in any way, your name will be added in the [credits](/en/srds/fari-rpgs/charge-rpg/credits) of the game. If you designed a specific extra for the game, your name will also be credited there.
+If you contribute to this project in any way, your name will be added in the [credits](/creators/fari-rpgs/projects/charge/credits) of the game. If you designed a specific extra for the game, your name will also be credited there.
 
 While Charge accepts donations, those donations will be re-invested in the game directly by commissioning the creation of official art, paying for the editing, etc.
 
@@ -52,12 +52,12 @@ Now, let's build something incredible, together.
 
 ## Useful Links
 
-- [Licencing Information](/en/srds/fari-rpgs/charge-rpg/licencing)
+- [Licencing Information](/creators/fari-rpgs/projects/charge/licencing)
 - [Charge Itch Page](https://fari-rpgs.itch.io/charge-rpg)
-- [Charge SRD](/en/srds/fari-rpgs/charge-srd)
+- [Charge SRD](/creators/fari-rpgs/projects/charge-srd)
 - [Fari's Discord server](https://farirpgs.com/discord)
 - [Charge Community Forums](https://fari-rpgs.itch.io/charge-rpg/community)
-- [Charge Cheatsheet](/en/srds/fari-rpgs/charge-rpg/in-a-nutshell)
+- [Charge Cheatsheet](/creators/fari-rpgs/projects/charge/in-a-nutshell)
 
 ## Thanks
 
@@ -1706,7 +1706,7 @@ You might feel comfortable enough to talk to a group of friends and look into st
 
 Perhaps you liked what you read, but you want to homebrew it to fit a certain style. If so, you can re-read chapter about [hacking the game](what-to-hack) to have some guideline about what you can hack and how. You can also re-read the section about [extras](what-are-extras) which contains community made hacks that you can use in your game! You can also submit your own extras on [Charge's Itch Community](https://itch.io/category/1543442/new-topic) to get feedback from the community.
 
-If what you've read has inspired you to make your own **Powered by Charge** game, then check-out the [Charge System Reference Document](/en/srds/fari-rpgs/charge-srd) as a good starting point.
+If what you've read has inspired you to make your own **Powered by Charge** game, then check-out the [Charge System Reference Document](/creators/fari-rpgs/projects/charge-srd) as a good starting point.
 
 To talk with people who have played or hacked the game before, join [Fari's Discord Server](https://fari.app/discord) for great discussions about anything Charge related!
 
@@ -1722,7 +1722,7 @@ Thank you, and go power your storytelling!
 
 | Name                           | Role                             | Discord                    | Twitter                                    | Itch                                    |
 | ------------------------------ | -------------------------------- | -------------------------- | ------------------------------------------ | --------------------------------------- |
-| **René-Pier Deshaies-Gélinas** | original author, core maintainer | RPDeshaies#4116            | [Link](https://twitter.com/RPDeshaies)     | [Link](https://fari-rpgs.itch.io/)      |
+| **René-Pier Deshaies-Gélinas** | original author, core maintainer | rpdeshaies            | [Link](https://twitter.com/RPDeshaies)     | [Link](https://fari-rpgs.itch.io/)      |
 | **Alexandre L. Lescarbeau**    | sounding board                   |                            |                                            |                                         |
 | **Valdy**                      | extra contributor                | 5-142857#7577              |                                            |                                         |
 | **Nugat**                      | extra contributor                |                            |                                            |                                         |
@@ -2496,14 +2496,14 @@ Just be sure the effect that you're giving magic fits the cost, so that your pla
 
 When creating a magic item, or when using magic that may be used multiple times in the same cast, you should likely define limits to the spell :
 
-- Either use the [Attachment extra](https://fari.games/en/srds/fari-rpgs/charge-rpg/attachment-extra) for a protective item.
+- Either use the [Attachment extra](https://fari.games/creators/fari-rpgs/projects/charge/attachment-extra) for a protective item.
 - Use a "magic charge" clock that depletes with use (may or may not be replenished by the caster) that can be tracked on the character sheet, using **projects**.
 - For both of the aforementioned items, you may use [Keita Creation's repairs and restoration rules](https://keitacreates.itch.io/repairs-and-restorations)
 - Make the spell much harder to cast and more dangerous on further uses in the same scene.
 - Make further uses of the effect have a cost (see above).
 - For an item, allow the character wearing the item to roll for the spell in lieu of the caster (give them narrative permission to do something).
-- You may treat the item as an [Asset](https://fari.games/en/srds/fari-rpgs/charge-rpg/asset-extra) for spells with delayed effect
-- You may also treat them as an [Asset](https://fari.games/en/srds/fari-rpgs/charge-rpg/asset-extra) for spells multiple uses using a clock, either with fixed effect, or with different effects depending on the number of segments ticked (see below)
+- You may treat the item as an [Asset](https://fari.games/creators/fari-rpgs/projects/charge/asset-extra) for spells with delayed effect
+- You may also treat them as an [Asset](https://fari.games/creators/fari-rpgs/projects/charge/asset-extra) for spells multiple uses using a clock, either with fixed effect, or with different effects depending on the number of segments ticked (see below)
 
 ### The effect of magic
 
@@ -2761,7 +2761,7 @@ Time to discover how to read the result:
 
 ## Dial: Changing the Clock
 
-It's totally possible to change the default clock, to accelarate how often players obtain milestones. A good idea before doing so is to reread the [clock chapter](https://fari.games/en/srds/fari-rpgs/charge-rpg/clocks).
+It's totally possible to change the default clock, to accelarate how often players obtain milestones. A good idea before doing so is to reread the [clock chapter](https://fari.games/creators/fari-rpgs/projects/charge/clocks).
 
 Also, if you want to character progression harder, try a new clock: **the 12 segment clock**!
 
@@ -2835,7 +2835,7 @@ In a pinch, the ticks on the progress clock can also be used as a substitute for
 >
 > Starting positions for these key details can help further drive a story for the group of players to build on. A crew looking for their first big score might not have a lot of assets or allies, but they probably aren’t big enough to be on anyone’s radar as an adversary either. A resistance group against a repressive regime might start in a horrible position against authority, but have a larger list of allies to lean on.
 
-Both **supporting details** and **key concepts** are **details** as described in Charge's [Character Creation rules](https://fari.games/en/srds/fari-rpgs/charge-rpg/creating-your-character#details). **Supporting details** should be specific people, places or things, such as specific **world forces**, while **key concepts** are more wide-reaching.
+Both **supporting details** and **key concepts** are **details** as described in Charge's [Character Creation rules](https://fari.games/creators/fari-rpgs/projects/charge/creating-your-character#details). **Supporting details** should be specific people, places or things, such as specific **world forces**, while **key concepts** are more wide-reaching.
 
 Like with character creation, **details** on the **party sheet** are facts about the party that can be used for story telling. They also offer narrative liberties, potentially giving players permission to take certain actions. While the GM will have the final say, the entire party should have a chance to help develop and decide on these details at character creation. Much like character details, there will also have the chance to change these over time through play.
 

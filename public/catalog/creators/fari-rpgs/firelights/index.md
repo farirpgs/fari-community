@@ -81,7 +81,7 @@ When making an **Action**, go through the following:
 - Roll and sum your two **Action Dice**.
 - Add any modifiers to your roll to get your **Score**.
 
-Then, interpret the result as follows, then discard the cards.
+Interpret the result as follows, then discard the cards.
 
 - If your score is higher than both cards, there’s **Light**.
 - If your score is higher than one card, there’s **Shade**.
