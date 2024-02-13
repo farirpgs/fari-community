@@ -68,15 +68,16 @@ Il GM può demandare la decisione al caso testando la fortuna. Per farlo, scegli
 Per ripristinare tutte le abilità al loro valore originale puoi chiedere di "riprendere fiato". Si tratta di una breve pausa nella tensione. Può essere fatta in qualsiasi momento, anche durante il combattimento.
 Quando un personaggio riprende fiato il GM valuta la scena e introduce una nuova complicazione per il gruppo.
 
-## Razzia di Oggetti
+## Prova di Bottino
 
-Quando la fiction lo consente, puoi fare una razzia di oggetti per cercare attrezzi, armi, kit medici, ecc. Fai attenzione a cosa si nasconde nell'ombra.
-Quando fai una razzia di oggetti, tira un d20.
+Quando la fiction lo consente, puoi effettuare una prova di bottino per cercare attrezzi, armi, kit medici, ecc. Inizi con un dado del bottino d12, che diminuisce di valore dopo ogni utilizzo. Quando cerchi il bottino, tira il tuo dado del bottino attuale e interpreta il risultato. Puoi continuare a usare il dado del bottino quando è un d4, a tuo rischio e pericolo. Per reimpostare il tuo dado del bottino al suo valore iniziale, devi riprendere fiato.
 
-- Con un risultato di 1, succede qualcosa di brutto.
-- Con un risultato da 15 a 16, trovi un oggetto d6.
-- Con un risultato da 17 a 18, trovi un oggetto d8.
-- Con un risultato da 19 a 20, trovi un oggetto d10 —oppure— un kit medico.
+- Con un 1-2, i guai sono qui...
+- Con un 3-4, ci sono guai in arrivo...
+- Con un 5-6, aggiungi un oggetto d6.
+- Con un 7-8, aggiungi un oggetto d8.
+- Con un 9-10, aggiungi un oggetto d10 o un kit medico.
+- Con un 11-12, aggiungi un oggetto d12 o un kit medico.
 
 ## Zaino
 
@@ -153,26 +154,26 @@ Per farlo, copia il testo qui sotto nel tuo gioco e dovresti essere a posto.
 
 > Questa opera è basata su Breathless, prodotto di Fari RPGs (https://farirpgs.com/), sviluppato e creato da René-Pier Deshaies-Gélinas e concesso in licenza per il nostro uso in base alla licenza Creative Commons Attribution 4.0 (https://creativecommons.org/licenses/by/4.0/)
 
-# Cosa sono i Sospiri | Sospiri (Extra)
+# Cosa sono i Respiri | Respiri (Extra)
 
-I Sospiri sono meccaniche e regole aggiuntive che puoi aggiungere ai tuoi giochi di Breathless per simulare determinati tipi di gameplay o personalizzare il gioco per temi specifici.
+I Respiri sono meccaniche e regole aggiuntive che puoi aggiungere ai tuoi giochi di Breathless per simulare determinati tipi di gameplay o personalizzare il gioco per temi specifici.
 
-I Sospiri presenti qui sono stati sviluppati da numerosi membri della Community di Fari. Troverai informazioni sui rispettivi autori e collegamenti ai loro giochi, quindi sostieni quei fantastici creatori!
+I Respiri presenti qui sono stati sviluppati da numerosi membri della Community di Fari. Troverai informazioni sui rispettivi autori e collegamenti ai loro giochi, quindi sostieni quei fantastici creatori!
 
 ## Licenza
 
-Tutti i Sospiri elencati qui sono stati rilasciati con licenza aperta, e tutti gli autori che hanno presentato queste meccaniche aggiuntive lo hanno fatto sapendo che la licenza originale di Breathless CC-BY copre i diritti legali del loro lavoro. Ciò significa che i creatori che utilizzano un Sospiro non sono legalmente obbligati a includere una licenza aggiuntiva nel loro gioco, a parte il testo di attribuzione originale di Breathless.
+Tutti i Respiri elencati qui sono stati rilasciati con licenza aperta, e tutti gli autori che hanno presentato queste meccaniche aggiuntive lo hanno fatto sapendo che la licenza originale di Breathless CC-BY copre i diritti legali del loro lavoro. Ciò significa che i creatori che utilizzano un Respiro non sono legalmente obbligati a includere una licenza aggiuntiva nel loro gioco, a parte il testo di attribuzione originale di Breathless.
 
-Detto questo, ogni Sospiro include una breve descrizione della licenza che si **consiglia vivamente ai designer di includere nel loro gioco** per dare la giusta attribuzione ai creatori originali del Sospiro.
+Detto questo, ogni Respiro include una breve descrizione della licenza che si **consiglia vivamente ai designer di includere nel loro gioco** per dare la giusta attribuzione ai creatori originali del Respiro.
 
-## Pubblicare un Sospiro
+## Pubblicare un Respiro
 
-Vuoi pubblicare il tuo Sospiro nella comunità? Ecco il formato che devi utilizzare, quindi [contattaci](https://farirpgs.com/contact) per inviare il tuo Sospiro e lo aggiungeremo all'elenco!
+Vuoi pubblicare il tuo Respiro nella comunità? Ecco il formato che devi utilizzare, quindi [contattaci](https://farirpgs.com/contact) per inviare il tuo Respiro e lo aggiungeremo all'elenco!
 
 ```md
 \# {Titolo}
 
-{titolo} è un Sospiro progettato da {autore} di {studio di progettazione} utilizzato in {gioco} che {descrizione}.
+{titolo} è un Respiro progettato da {autore} di {studio di progettazione} utilizzato in {gioco} che {descrizione}.
 
 {widget itch.io}
 
@@ -186,12 +187,12 @@ Vuoi pubblicare il tuo Sospiro nella comunità? Ecco il formato che devi utilizz
 
 ## Attribuzione
 
-Questo gioco utilizza meccaniche basate sul Sospiro {nome}, progettato da {autore} di {studio di progettazione}.
+Questo gioco utilizza meccaniche basate sul Respiro {nome}, progettato da {autore} di {studio di progettazione}.
 ```
 
-# Cornice di Avvventura | Sospiri (Extra)
+# Cornice di Avvventura | Respiri (Extra)
 
-La Cornice di Avventura è un Sospiro progettato da René-Pier Deshaies-Gélinas di Fari RPGs utilizzato in [Renegades](https://fari-rpgs.itch.io/renegades), che consente facilmente la Lavorazione di moduli di avventura per i giochi di Breathless.
+La Cornice di Avventura è un Respiro progettato da René-Pier Deshaies-Gélinas di Fari RPGs utilizzato in [Renegades](https://fari-rpgs.itch.io/renegades), che consente facilmente la Lavorazione di moduli di avventura per i giochi di Breathless.
 
 <iframe frameborder="0" width="100%" src="https://itch.io/embed/1558885?linkback=true&amp;bg_color=ffffff&amp;fg_color=222222&amp;link_color=fa5c5c&amp;border_color=c9c9c9" width="552" height="167"><a href="https://fari-rpgs.itch.io/renegades">Renegades di Fari RPGs</a></iframe>
 
@@ -221,11 +222,11 @@ _{Breve descrizione dell'evento.}_
 
 ## Attribuzione
 
-Questo gioco utilizza meccaniche basate sul Sospiro Cornice di Avventura, progettato da René-Pier Deshaies-Gélinas di Fari RPGs.
+Questo gioco utilizza meccaniche basate sul Respiro Cornice di Avventura, progettato da René-Pier Deshaies-Gélinas di Fari RPGs.
 
-# Artigianato | Sospiri (Extra)
+# Artigianato | Respiri (Extra)
 
-L'artigianato è un Sospiro progettato da Liv Merryman di Liv's Game Corner, utilizzato in _The Last of Us_ per simulare la ricerca nel mondo post-apocalittico (utilizzando le prove di bottino di Breathless) e la produzione di equipaggiamenti che appaiono nei videogiochi. Questo Sospiro è generalizzato per adattarsi al contesto che desideri per il tuo sistema.
+L'artigianato è un Respiro progettato da Liv Merryman di Liv's Game Corner, utilizzato in _The Last of Us_ per simulare la ricerca nel mondo post-apocalittico (utilizzando le prove di bottino di Breathless) e la produzione di equipaggiamenti che appaiono nei videogiochi. Questo Respiro è generalizzato per adattarsi al contesto che desideri per il tuo sistema.
 
 <iframe src="https://itch.io/embed/1556993" width="100%" height="167" frameborder="0"><a href="https://livsgamecorner.itch.io/the-last-of-us%22%3EThe Last of Us di livsgamecorner</a></iframe>
 
@@ -260,11 +261,11 @@ Oltre agli oggetti elencati, puoi decidere altre cose che puoi creare con ciò c
 
 ## Attribuzione
 
-Questo gioco utilizza meccaniche basate sul Sospiro della Lavorazione, progettato da Liv Merryman di Liv's Game Corner.
+Questo gioco utilizza meccaniche basate sul Respiro della Lavorazione, progettato da Liv Merryman di Liv's Game Corner.
 
-# Dichiarare una Verità | Sospiri (Extra)
+# Dichiarare una Verità | Respiri (Extra)
 
-Dichiarare una Verità è un Sospiro progettato da René-Pier Deshaies-Gélinas di Fari RPGs utilizzato in [Renegades](https://fari-rpgs.itch.io/renegades) che consente ai giocatori di avere un maggiore controllo sulla narrazione, ma come molte cose in Breathless, potrebbe avere un costo.
+Dichiarare una Verità è un Respiro progettato da René-Pier Deshaies-Gélinas di Fari RPGs utilizzato in [Renegades](https://fari-rpgs.itch.io/renegades) che consente ai giocatori di avere un maggiore controllo sulla narrazione, ma come molte cose in Breathless, potrebbe avere un costo.
 
 <iframe frameborder="0" src="https://itch.io/embed/1558885?linkback=true&amp;bg_color=ffffff&amp;fg_color=222222&amp;link_color=fa5c5c&amp;border_color=c9c9c9" width="100%" height="167"><a href="https://fari-rpgs.itch.io/renegades">Renegades di Fari RPGs</a></iframe>
 
@@ -278,9 +279,9 @@ Il GM ha l'ultima parola in questo caso, quindi lavora con lui per assicurarti c
 >
 > Questa semplice meccanica dà ai giocatori un grande controllo sulla storia e li incoraggerà a tirare i dadi meno spesso, poiché dichiarare una verità è più facile che utilizzare un'abilità. Per evitare che i giocatori diventino troppo dipendenti da questa meccanica, possono utilizzarla solo una volta per ogni "prendere fiato". Nel tuo gioco, potresti voler fare affidamento su un'altra valuta di gioco o richiedere ai giocatori di trovarsi in determinate situazioni prima di poter dichiarare una nuova verità. Il GM può sempre decidere di introdurre problemi più grandi nella scena se ritiene che la nuova verità sia troppo rilevante, quindi solitamente le cose si bilanciano in modo adeguato.
 
-# Flashback | Sospiri (Extra)
+# Flashback | Respiri (Extra)
 
-Flashback è un Sospiro progettato da Patrick Dubuc di Big Bite Games utilizzato in Crank It Up! che consente al giocatore di narrare una situazione che si è verificata nel passato e che ha il potenziale di cambiare la scena attuale.
+Flashback è un Respiro progettato da Patrick Dubuc di Big Bite Games utilizzato in Crank It Up! che consente al giocatore di narrare una situazione che si è verificata nel passato e che ha il potenziale di cambiare la scena attuale.
 
 (Crank It Up! non è ancora stato pubblicato!)
 
@@ -296,17 +297,17 @@ Per determinare in che misura il Flashback del giocatore è accurato, il GM tira
 
 > ### Note di design
 >
-> Questa semplice meccanica ha uno scopo simile a Dichiarare una Verità, ma con un esito più casuale. Concede ai giocatori una prova limitato sulla storia che si svela. Consentire l'uso di un Flashback solo una volta per giocatore/per sessione di gioco è un modo per evitare che i giocatori si affidino esclusivamente al fatto che "possono cambiare la storia". Se, come Game Master, ritieni che una sola volta per sessione di gioco sia troppo restrittivo, puoi scegliere di aumentare il numero di utilizzi consentiti del Sospiro per sessione di gioco O consentirne la ricarica quando si "prende fiato".
+> Questa semplice meccanica ha uno scopo simile a Dichiarare una Verità, ma con un esito più casuale. Concede ai giocatori una prova limitato sulla storia che si svela. Consentire l'uso di un Flashback solo una volta per giocatore/per sessione di gioco è un modo per evitare che i giocatori si affidino esclusivamente al fatto che "possono cambiare la storia". Se, come Game Master, ritieni che una sola volta per sessione di gioco sia troppo restrittivo, puoi scegliere di aumentare il numero di utilizzi consentiti del Respiro per sessione di gioco O consentirne la ricarica quando si "prende fiato".
 >
 > Esempio: Durante un playtest mio figlio ha utilizzato il suo cellulare per contattare un potente alleato. Senza volerlo guidare troppo, ho deciso che l'alleato non avrebbe risposto al telefono. Ha usato il suo Flashback per ricordare che l'alleato aveva anche un cercapersone per le emergenze e che rispondeva sempre ai messaggi sul suo cercapersone, non importa cosa... Alla fine, è riuscito a contattare il suo alleato e chiedere un favore.
 
 ## Attribuzione
 
-Questo gioco utilizza meccaniche basate sul Sospiro Flashback, progettato da Patrick Dubuc di Big Bite Games.
+Questo gioco utilizza meccaniche basate sul Respiro Flashback, progettato da Patrick Dubuc di Big Bite Games.
 
-# Prove di Investigazione | Sospiri (Extra)
+# Prove di Investigazione | Respiri (Extra)
 
-Prove di Investigazione è un Sospiro progettato da David Haslem ([therabidbanana](https://therabidbanana.itch.io/)) per consentire ai giochi con un focus investigativo di presentare ai giocatori opportunità per raccogliere indizi e poi effettuare un tiro per determinare se la loro teoria è plausibile. È utilizzato in Task Force JADE.
+Prove di Investigazione è un Respiro progettato da David Haslem ([therabidbanana](https://therabidbanana.itch.io/)) per consentire ai giochi con un focus investigativo di presentare ai giocatori opportunità per raccogliere indizi e poi effettuare un tiro per determinare se la loro teoria è plausibile. È utilizzato in Task Force JADE.
 
 <iframe frameborder="0" src="https://itch.io/embed/1563019" width="100%" height="167"><a href="https://therabidbanana.itch.io/task-force-jade">Task Force JADE di therabidbanana</a></iframe>
 
@@ -334,11 +335,11 @@ Quando i giocatori sono pronti per formulare una teoria basata sugli indizi racc
 
 ## Attribuzione
 
-Questo gioco utilizza meccaniche basate sul Sospiro Prova Investigativa, progettato da David Haslem.
+Questo gioco utilizza meccaniche basate sul Respiro Prova Investigativa, progettato da David Haslem.
 
-# Armadietto | Sospiri (Extra)
+# Armadietto | Respiri (Extra)
 
-L'Armadietto è un Sospiro progettato da Ryan Lucas di https://theyoungking45.itch.io/%7D utilizzato in Ore, che fornisce una forma di progressione enfatizzando i tiri per il saccheggio.
+L'Armadietto è un Respiro progettato da Ryan Lucas di https://theyoungking45.itch.io/%7D utilizzato in Ore, che fornisce una forma di progressione enfatizzando i tiri per il saccheggio.
 
 <iframe frameborder="0" src="https://itch.io/embed/1556594?linkback=true&amp;border_width=2&amp;bg_color=000000&amp;fg_color=a8f1f5&amp;link_color=fb922b&amp;border_color=1f181b" width="100%" height="169"><a href="https://theyoungking45.itch.io/ore%22%3EOre di Ryan</a></iframe>
 
@@ -356,11 +357,11 @@ L'Armadietto consente ai personaggi di riportare l'equipaggiamento recuperato do
 
 ## Attribuzione
 
-Questo gioco utilizza meccaniche basate sul Sospiro Armadietto, progettato da Ryan Lucas.
+Questo gioco utilizza meccaniche basate sul Respiro Armadietto, progettato da Ryan Lucas.
 
-# Nomadic Engine | Sospiri (Extra)
+# Nomadic Engine | Respiri (Extra)
 
-Il Nomadic Engine è un Sospiro progettato da René-Pier Deshaies-Gélinas di Fari RPGs utilizzato in Nomadic, che aggiunge facilmente capacità di gioco solitario ai giochi di Breathless.
+Il Nomadic Engine è un Respiro progettato da René-Pier Deshaies-Gélinas di Fari RPGs utilizzato in Nomadic, che aggiunge facilmente capacità di gioco solitario ai giochi di Breathless.
 
 <iframe frameborder="0" src="https://itch.io/embed/1522413?bg_color=001a2d&amp;fg_color=ffffff&amp;link_color=58C9E9&amp;border_color=333333" width="100%" height="167"><a href="https://fari-rpgs.itch.io/nomadic">Nomadic - Esplora, Documenta, Sopravvivi di Fari RPGs (René-Pier)</a></iframe>
 
@@ -498,9 +499,9 @@ Se tutte le tue tracce delle risorse sono piene, devi fare una scelta. Abbandone
 >
 > Nomadic è un gioco che chiede ai giocatori di tenere traccia del tempo mentre giocano. Cosa rappresenta il tempo nel tuo gioco? Come viene misurato? Come influisce sulla storia? Come può essere usato per creare tensione o avanti la trama?
 
-# Punti del Sopravvissuto | Sospiri (Extra)
+# Punti del Sopravvissuto | Respiri (Extra)
 
-I Punti del Sopravvissuto sono un Sospiro progettato da Andrew Boyd di Pandion Games che consente ai personaggi di adattarsi meglio e potenzialmente sopravvivere più a lungo in ambienti difficili.
+I Punti del Sopravvissuto sono un Respiro progettato da Andrew Boyd di Pandion Games che consente ai personaggi di adattarsi meglio e potenzialmente sopravvivere più a lungo in ambienti difficili.
 
 <iframe src="https://itch.io/embed/1518935" width="100%" height="167" frameborder="0"><a href="https://pandiongames.itch.io/substratum">SUBSTRATUM by Pandion Games</a></iframe>
 
@@ -530,11 +531,11 @@ I Punti del Sopravvissuto possono essere spesi in due modi: Prima della Sessione
 
 ## Attribuzione
 
-Questo gioco utilizza meccaniche basate sul Sospiro Punti del Sopravvissuto, progettata da Andrew Boyd di Pandion Games.
+Questo gioco utilizza meccaniche basate sul Respiro Punti del Sopravvissuto, progettata da Andrew Boyd di Pandion Games.
 
-# Talenti | Sospiri (Extra)
+# Talenti | Respiri (Extra)
 
-Talenti è un Sospiro progettato da Groov di Groov Games utilizzata in Critterforce 5 che enfatizza meccaniche e progressi unici dei personaggi. Questo Sospiro rende i personaggi solo un po' più forti, conferendo loro piccoli effetti passivi o una capacità più grande utilizzabile una volta a sessione.
+Talenti è un Respiro progettato da Groov di Groov Games utilizzata in Critterforce 5 che enfatizza meccaniche e progressi unici dei personaggi. Questo Respiro rende i personaggi solo un po' più forti, conferendo loro piccoli effetti passivi o una capacità più grande utilizzabile una volta a sessione.
 
 <iframe src="https://itch.io/embed/1535524" width="100%" height="167" frameborder="0"><a href="https://groovasaur.itch.io/critterforce-5">Critterforce 5 di Groov</a></iframe>
 
@@ -568,15 +569,15 @@ _"Posso evitare le conseguenze di un tiro quando sto aiutando qualcun altro."_
 
 > ### Note di design
 >
-> I Talenti, le Maestrie, gli Sviluppi o come decidete di chiamarli varieranno molto da gioco a gioco e ci saranno sempre giocatori che vorranno inventarne di propri. Nel vostro gioco, includetene 5 o 10 in modo che i giocatori comprendano i limiti di questo Sospiro nel vostro gioco.
+> I Talenti, le Maestrie, gli Sviluppi o come decidete di chiamarli varieranno molto da gioco a gioco e ci saranno sempre giocatori che vorranno inventarne di propri. Nel vostro gioco, includetene 5 o 10 in modo che i giocatori comprendano i limiti di questo Respiro nel vostro gioco.
 
 ## Attribuzione
 
-Questo gioco utilizza meccaniche basate sul Sospiro dei Talenti, progettata da Groov di Groov Games.
+Questo gioco utilizza meccaniche basate sul Respiro dei Talenti, progettata da Groov di Groov Games.
 
-# Trasformazione | Sospiri (Extra)
+# Trasformazione | Respiri (Extra)
 
-Trasformazione è un Sospiro progettata da Nick Potter di Sustain a Spell utilizzata in _Let's Be Magical!_ che modella trasformazioni potenzianti per ragazze magiche, super sentai o altri tipi di personaggi simili.
+Trasformazione è un Respiro progettata da Nick Potter di Sustain a Spell utilizzata in _Let's Be Magical!_ che modella trasformazioni potenzianti per ragazze magiche, super sentai o altri tipi di personaggi simili.
 
 <iframe frameborder="0" src="https://itch.io/embed/1571203?linkback=true&amp;bg_color=FFC1E5&amp;border_color=eafdff" width="100%" height="167"><a href="https://sustain-a-spell.itch.io/lets-be-magical">Let's Be Magical! di Sustain a Spell</a></iframe>
 
@@ -594,4 +595,32 @@ Quando ti trasformi, sei pieno di potere e fiducia. Tutte le tue abilità aument
 
 ## Attribuzione
 
-Questo gioco utilizza meccaniche basate sul Sospiro Trasformazione, progettata da Nick Potter di Sustain a Spell.
+Questo gioco utilizza meccaniche basate sul Respiro Trasformazione, progettata da Nick Potter di Sustain a Spell.
+
+# Mito e Manufatti Arcani | Respiro (Extra)
+
+Mito e Manufatti Arcani è un Respiro progettato da Dylan Greene di Silver Lantern Games, utilizzato in Unseen che modella l'influenza eldritch e come interagisce con artefatti e armi eldritch.
+
+[Unseen: Into the Unknown di americanspaceprince](https://americanspaceprince.itch.io/unseen-ashcan)
+
+## Regola
+
+### Mito
+
+Il Mito inizia con un valore di d4 per tutti i personaggi. Più interagisci con esseri, artefatti e rituali arcani, più il valore del dado aumenta, raggiungendo un massimo di d10. Questo rappresenta la tua conoscenza e consapevolezza dei Grandi Antichi. A differenza di altri tiri di dado, qui vuoi ottenere un risultato basso. Il tuo Mito si azzera quando riprendi fiato.
+
+- 1-2, successo
+- 3-4, successo con un costo
+- 5+, fallimento
+
+### Utilizzo di Manufatti e Rituali Arcani:
+
+Usare un manufatto o un rituale arcano ti darà sempre il valore massimo del dado (un d6 vale sempre 6, d8 vale sempre 8, d10 vale sempre 10). Ma costa un punto di stress. Inoltre, aumenterà il tuo valore di abilità nel Mito. L'energia arcana emana dall'oggetto, devi effettuare un tiro di Mito riuscito se vuoi scartarlo. Se riesci con un costo, il manufatto tornerà in un momento successivo o il rituale avrà conseguenze impreviste.
+
+> ### Note di design
+>
+> Volevo portare le regole dei Miti di Cthulhu in Breathless. È stato progettato per interagire con il meccanismo di base di "riprendere fiato" di Breathless e volevo evitare di aggiungere un attributo separato per la "sanità mentale". Inoltre, rendere gli artefatti e i rituali arcani potenti aggiunge un compromesso rischio/ricompensa rispetto al non dare al giocatore nessun motivo per interagire con artefatti e rituali.
+
+## Attribuzione
+
+Questo gioco utilizza meccanismi basati sul Respiro Mito e Manufatti Arcani, progettato da Dylan Greene di Silver Lantern Games.
