@@ -34,7 +34,7 @@ Questo lavoro si basa su Blades in the Dark (disponibile su [http://www.bladesin
 
 Una delle parti fondamentali che rende questo gioco unico è che **appartiene alla comunità**.
 
-Il gioco è gratuito, rilasciato con una licenza di gioco aperta e accoglie i contributi.
+Il gioco è gratuito, rilasciato con una licenza di gioco aperta e accoglie contributi.
 
 Alcuni sistemi incoraggiano i game designer a sviluppare i propri giochi utilizzando le loro regole. Charge, d'altra parte, incoraggia i game designer ad aiutare a farlo crescere.
 
@@ -63,7 +63,7 @@ Ora, costruiamo insieme qualcosa di incredibile.
 
 ## Ringraziamenti
 
-Desidero ringraziare velocemente i miei amici che mi hanno aiutato a rendere questa idea una realtà fin dall'inizio.
+Desidero dare un veloce ringraziamento ai miei amici che fin dall'inizio mi hanno aiutato a far diventare questa idea una realtà.
 
 <ul class="people">
  <li>Alexandre L. Lescarbeau</li>
@@ -80,53 +80,53 @@ Desidero ringraziare velocemente i miei amici che mi hanno aiutato a rendere que
 
 ![Immagine di KELLEPICS da pixabay.com](https://pixabay.com/illustrations/fantasy-sun-sea-dragon-flying-4033001/)
 
-Ci sono migliaia di ottimi giochi di ruolo da tavolo là fuori. Alcuni sono generici, come Charge, mentre altri sono realizzati con un contesto molto specifico in mente. In quest'ultimo caso, le meccaniche sono spesso create per rafforzare il contesto.
+Ci sono migliaia di ottimi giochi di ruolo da tavolo là fuori. Alcuni sono generici, come Charge, mentre altri sono realizzati con un contesto molto specifico in mente. In quest'ultimo caso, le meccaniche sono spesso create per rafforzare l'ambientazione.
 
-Charge è generico, il che significa che puoi scegliere il mondo e l'ambientazione in cui desideri giocare. Puoi giocare in un contesto di fantascienza in cui nuovi pianeti vengono ancora scoperti e terraformati ogni anno, o sulla Terra durante la Rivoluzione Industriale Britannica. Spetta a te decidere.
+Charge è generico, il che significa che puoi scegliere il mondo e l'ambientazione che preferisci giocare. Puoi giocare in un'ambientazione di fantascienza in cui nuovi pianeti vengono ancora scoperti e terraformati ogni anno, o sulla Terra durante la Rivoluzione Industriale Britannica. Spetta a te decidere.
 
 Poiché le ambientazioni possono differire notevolmente, le meccaniche di gioco di Charge sono state sviluppate con obiettivi molto specifici per aiutarti a creare la storia che desideri raccontare.
 
-## L'idea dietro Charge
+## L'Idea dietro a Charge
 
-Ecco alcune caratteristiche che rendono Charge speciale rispetto ad altri giochi che potresti aver giocato in passato.
+Ecco alcune cose che rendono Charge speciale rispetto ad altri giochi che potresti aver giocato prima.
 
 > **È facile creare personaggi per qualsiasi ambientazione.**
 >
 > ——
 >
-> I personaggi sono facili da definire e allo stesso tempo unici nel loro modo. Charge ti offre un buon quadro per creare personaggi per le ambientazioni che desideri.
+> I personaggi sono facili da definire e rimangono a modo loro unici. Charge ti offre un solido framework per creare personaggi per le ambientazioni che desideri.
 >
-> Charge fa questo facendo risplendere i personaggi usando **dettagli dei personaggi** per definire chi sono e come sono collegati al mondo. Hanno **azioni** per mettere in risalto ciò in cui sono bravi e **talenti** per farli evolvere in modi interessanti.
+> Charge ci riesce facendo brillare i personaggi attraverso i **dettagli dei personaggi** definendo chi sono e come sono collegati al mondo. Hanno delle **azioni** per evidenziare ciò in cui sono bravi, e dei **talenti** per farli evolvere in modi interessanti.
 
-> **Offre semplici regolazioni e extra per avventure "più oscure" o "più grandi della vita".**
+> **Offre tarature e extra facili da impostare per avere avventure da "cupe" a "sopra le righe".**
 >
 > ——
 >
-> Da un'avventura di sopravvivenza post-apocalittica in cui ogni proiettile conta, a un grande space opera in cui gli eroi vincono sempre, le meccaniche possono essere facilmente regolate per riflettere il tipo di storia che vuoi raccontare.
+> Da un'avventura di sopravvivenza post-apocalittica dove ogni proiettile conta, a una grande space opera dove gli eroi trionfano sempre, le meccaniche sono facilmente regolabili per riflettere il tipo di storia che vuoi raccontare.
 >
-> Puoi regolare l'impostazione principale di difficoltà del gioco o utilizzare uno dei numerosi **extra** disponibili per giocare nel modo che desideri.
+> Regola l'impostazione principale della difficoltà del gioco o usa uno dei tanti **extra** forniti per giocare nel modo che preferisci.
 
 > **È sia una cintura degli attrezzi che una cassetta degli attrezzi.**
 >
 > ——
 >
-> Charge è una cassetta degli attrezzi perché ha un insieme di meccaniche per risolvere problemi narrativi in modi diversi. È anche una cintura degli attrezzi perché ti offre un modo predefinito di giocare che è facile da imparare e usare.
+> Charge è una cassetta degli attrezzi, perché ha un insieme di meccaniche per risolvere problemi narrativi in molti modi diversi. È anche una cintura degli attrezzi, poiché ti dà un modo predefinito di giocare che è facile da imparare e usare.
 >
-> Puoi giocarci così com'è, o modificarlo come desideri.
+> Giocalo così com'è o modificalo come desideri.
 
 Ti piacerà questo gioco se:
 
 - ti piacciono i sistemi focalizzati sulla narrazione
 - ti piace poter giocare in qualsiasi ambientazione
-- pensi in generale che il fallimento sia più interessante del successo
-- ti piace quando il tuo personaggio inizia competente e gradualmente diventa più flessibile
-- ti piace giocare a giochi come Fate o Forged in the Dark
+- generalmente pensi che il fallimento sia più interessante del successo
+- ti piace quando il tuo personaggio inizia competente e diventa gradualmente più flessibile
+- ti piace giocare a giochi Fate o Forged in the Dark
 
-Charge porta anche nuove idee interessanti sul tavolo, come un framework di progressione flessibile e meccaniche per far sì che i giocatori desiderino interagire con il mondo invece di rimanere fermi in attesa del momento migliore per agire.
+Charge porta anche nuove idee interessanti al tavolo come un framework di progressione flessibile e meccaniche per far desiderare ai giocatori di interagire con il mondo invece di rimanere fermi in attesa del momento migliore per agire.
 
-Speriamo che ti diverti con questo, perché ci siamo divertiti molto a scriverlo e giocarlo.
+Speriamo che vi divertiate con questo gioco perché noi ci siamo sicuramente divertiti a scriverlo e a giocarlo.
 
-Ora, vediamo di cosa hai bisogno per giocare a Charge.
+Ora passiamo a ciò di cui hai bisogno per giocare a Charge.
 
 # Cosa ti serve per giocare | Potenzia la tua narrazione
 
@@ -143,50 +143,49 @@ Charge è un gioco di ruolo generico da tavolo. Ciò significa che tu e i tuoi a
 
 ## Game Master e Giocatori
 
-Una persona nel gruppo deve fare da **Game Master**, o **GM**. Il GM è responsabile del mondo e dei personaggi che vi vivono (quelli che non sono direttamente interpretati dagli altri giocatori al tavolo). Chiamiamo questi personaggi "personaggi non giocanti", o *PGN*.
+Una persona nel gruppo deve fare da **Game Master**, o **GM**. Il GM è responsabile del mondo e dei personaggi che vi vivono (quelli che non sono direttamente interpretati dagli altri giocatori al tavolo). Chiamiamo questi personaggi "personaggi non giocanti", o *PNG*.
 
 Il resto del gruppo sono i **Giocatori**. I giocatori creano un personaggio che vive storie coinvolgenti in questo mondo. Chiamiamo questi personaggi giocanti, o *PG*.
 
 Sebbene il GM sia di solito la persona principale responsabile del modo in cui il mondo cambia nel tempo, tutti al tavolo sono responsabili della storia.
 
-Questo non è un tipo di gioco "GM contro Giocatori" o "Il GM è un dio". Se giocare a questo gioco fosse come fare un film, il **GM sarebbe il regista** e tutti i **giocatori sarebbero gli sceneggiatori**.
+Questo non è un tipo di gioco "GM contro Giocatori" o "Il GM è un dio". Se questo gioco fosse come un film il **GM sarebbe il regista** e tutti i **giocatori sarebbero gli sceneggiatori**.
 
 Tutti al tavolo contribuiscono a rendere la storia interessante e coinvolgente.
 
 ## Struttura del gioco
 
-Tutto all'interno di Charge è collaborativo.
+In Charge tutto è collaborazione.
 
-Si sceglie insieme un'ambientazione, si creano i personaggi insieme e si fa evolvere quel mondo insieme.
+Insieme si sceglie un'ambientazione, si creano i personaggi e si fa evolvere quel mondo.
 
 Ogni sessione è composta da **scene**, come in un film. Ogni scena si svolge con un susseguirsi di interazioni tra il GM e i giocatori. Il GM descrive come è la scena, i giocatori dicono al GM cosa fanno, e il GM fa reagire il mondo a quelle azioni in base ai risultati di determinati tiri di dado.
 
-Ogni volta che tu e i tuoi amici vi incontrate per giocare a Charge, avete una **sessione** che può durare da 1 a 4 ore, o anche di più. La durata di ogni sessione dipende da molti fattori.
+Ogni volta che tu e i tuoi amici vi incontrate per giocare a Charge terrete una **sessione** che può durare da 1 a 4 ore o anche di più. La durata di ogni sessione dipende da molti fattori.
 
-Ogni gruppo può giocare in modo molto diverso. Alcuni potrebbero prendersi il loro tempo, mentre altri potrebbero affrontare le cose direttamente, ma dipende anche dalla disponibilità di tutti.
+Ogni gruppo può giocare in modo molto diverso. Alcuni potrebbero prendersi il loro tempo mentre altri potrebbero affrontare le cose direttamente, ma dipende anche dalla disponibilità di tutti.
 
-Durante le sessioni, la tensione aumenta durante le scene e i giocatori incontrano situazioni narrative sconosciute. Per decidere cosa succede in quei momenti, il gruppo tira i dadi perché vogliono essere sulle spine. Vogliono essere sorpresi da ciò che accadrà nella storia.
+Durante le sessioni, la tensione aumenta durante le scene e i giocatori incontrano situazioni narrative sconosciute. Per decidere cosa succede in quei momenti il gruppo tira i dadi perché vogliono stare sulle spine. Vogliono essere sorpresi da ciò che accadrà nella storia.
 
-Prima di vedere come creare i personaggi dei giocatori, dobbiamo parlare di creare un ambiente sicuro per tutti al tavolo.
+Prima di vedere come creare i personaggi giocanti dobbiamo vedere come creare un ambiente al tavolo sicuro per tutti.
 
 # Sicurezza al tavolo | Potenzia la tua narrazione
 
 ## Strumenti di sicurezza
 
-Se in qualsiasi momento durante il processo di creazione del gioco o durante lo svolgimento di una scena, qualcosa non va bene per qualcuno al tavolo, il gioco deve essere messo in pausa e le cose devono essere allineate e discusse in modo che **tutti siano sulla stessa pagina**.
+Se in qualsiasi momento durante il processo di creazione del gioco o durante lo svolgimento di una scena qualcosa non va bene per qualcuno al tavolo il gioco deve essere messo in pausa e le cose devono essere allineate e discusse in modo che **tutti siano sulla stessa pagina**.
 
 Un modo in cui il GM può contribuire a rendere il tavolo più sicuro per tutti è utilizzare strumenti di sicurezza come la [**X-Card**](https://docs.google.com/document/d/1SB0jsx34bWHZWbnNIVVuMjhDkrdFGo1_hSC2BWPlI3A/edit) di John Stavropoulos o il [**Script Change RPG Toolbox**](https://briebeau.itch.io/script-change) di Beau.
 
-Questo è estremamente importante e non deve essere preso alla leggera. Tutti al tavolo dovrebbero sentirsi al sicuro e a proprio agio.
+È estremamente importante farlo e non deve essere preso alla leggera. Tutti al tavolo dovrebbero sentirsi al sicuro e a proprio agio.
 
-Se non ti senti al sicuro al tavolo, è del tutto normale abbandonare il gioco e trovare un altro gruppo di persone con cui giocare. Non sentirti in colpa e, cosa ancora più importante, rispetta te stesso.
+Se non ti senti al sicuro al tavolo è del tutto normale abbandonare il gioco e trovare un altro gruppo di persone con cui giocare. Non sentirti in colpa e, cosa ancora più importante, rispetta te stesso.
 
 ## Etichetta nel gioco di ruolo
 
 Ricordati di essere empatico verso gli orari e le responsabilità delle persone. Alcune persone hanno figli, animali domestici, lavori e altre cose che rendono molto difficile pianificare le sessioni. Arriva in orario e sfrutta il tempo di gioco che puoi ottenere.
 
-Poi, aspetta pazientemente fino alla prossima sessione. E mentre aspetti, ricorda e lodati per i momenti fantastici che sono accaduti nell'ultima sessione.
-
+Poi aspetta pazientemente fino alla prossima sessione. E mentre aspetti ricorda e lodati per i momenti fantastici che sono accaduti nell'ultima sessione.
 
 # Creazione del tuo personaggio | Creazione del personaggio
 
@@ -200,69 +199,70 @@ Puoi trovare ciascuno di questi termini nella scheda del personaggio, ma vediamo
 
 ## Dettagli
 
-I personaggi sono definiti da tratti descrittivi chiamati **dettagli**. Ogni personaggio di solito ne ha tra 2 e 5 per evidenziare chi sono e cosa è importante di loro. Questi dettagli non sono solo informazioni che danno colore al personaggio, ma dovrebbero essere gli aspetti del personaggio a cui prestiamo attenzione nella storia. Vengono anche utilizzati come guida per conoscere le diverse libertà narrative che un personaggio ha nella finzione.
+I personaggi sono definiti da tratti descrittivi chiamati **dettagli**. Ogni personaggio di solito ne ha tra 2 e 5 per evidenziare chi sono e cosa è importante di loro. Questi dettagli non sono solo informazioni che danno colore al personaggio ma dovrebbero essere gli aspetti del personaggio a cui prestiamo attenzione nella storia. Vengono anche utilizzati come guida per conoscere le diverse libertà narrative che un personaggio ha nella fiction.
 
 ![Dettagli](./images/details_ita.png)
 
 ### Concetto
 
-Il **concetto** del tuo personaggio è come la versione dell'ascensore di chi è.
+Il **concetto** del tuo personaggio è come la versione ridotta al minimo di chi sono, una presentazione veloce.
 
-Sulla scheda del personaggio, scrivi una breve frase che li riassume rapidamente.
+Sulla tua scheda del personaggio scrivi una breve frase che lo riassuma rapidamente.
 
-Un buon concetto potrebbe includere cose come:
+Un buon concetto potrebbe includere elementi come:
 
 - la sua professione o ruolo all'interno del gruppo
-- da dove viene
-- un tratto di personalità
-- un talento unico che possiedono, ecc.
+- la sua origine
+- un tratto della personalità
+- un talento unico che possiede### Aspetto
 
 ### Aspetto
 
-Successivamente c'è l'**aspetto** del tuo personaggio.
+Il passo successivo riguarda l'**aspetto** del tuo personaggio.
 
-Usa questa sezione per descrivere come appare il tuo personaggio. Puoi parlare della sua forma, delle dimensioni, di come si veste, ecc.
+Usa questa sezione per descrivere come appare il tuo personaggio. Puoi parlare della sua forma, dimensione, di cosa indossa, ecc.
 
-Questo aiuterà tutti al tavolo quando devono immaginare il tuo personaggio mentre interagiscono con esso.
+Questo aiuterà tutti al tavolo quando hanno bisogno di immaginare il tuo personaggio mentre interagiscono con lui.
 
 ### Legami
 
-Poiché il tuo personaggio è uno dei protagonisti della storia, deve essere collegato alle diverse forze presenti nel mondo. Non è nato ieri (o forse sì?), quindi probabilmente ha fatto amicizia o si è inimicato diverse persone o organizzazioni.
+Dato che il tuo personaggio è uno dei protagonisti della storia, deve essere collegato alle diverse forze presenti nel mondo. Non è nato ieri (o forse sì?), quindi probabilmente ha stretto amicizie o inimicizie con diverse persone o organizzazioni.
 
-Per stabilire questi legami, definiamo **legami**.
+Per stabilire questi collegamenti, definiamo i **legami**.
 
-Un legame collega il tuo personaggio al personaggio di un altro giocatore, a un'organizzazione o ad altre [forze del mondo](creating-a-compelling-campaign).
+Un legame collega il tuo personaggio a quello di un altro giocatore, a un'organizzazione, o ad altre [forze del mondo](making-a-compelling-campaign).
 
-Quando scrivi un legame per il tuo personaggio, cerca di rispondere **a chi è collegato il mio personaggio** e anche **come è collegato a loro**.
+Quando scrivi un legame per il tuo personaggio, cerca di rispondere a **chi è collegato il mio personaggio** e anche **come è collegati**.
 
-Questo aiuterà anche a stabilire un po' di storia generale per il tuo personaggio, senza dover scrivere 10 pagine di appunti che potrebbero rimanere inutilizzate.
+Questo aiuterà anche a stabilire un po' della storia generale del tuo personaggio, senza che tu debba scrivere 10 pagine di appunti che potrebbero finire per non essere utilizzati.
 
-> \#### Scelta dei dettagli durante il gioco
+> \#### Scegliere i Dettagli Durante il Gioco
 >
-> Non è necessario sviluppare completamente il tuo personaggio prima di iniziare a giocare.
+> Non hai bisogno di delineare completamente il tuo personaggio prima di iniziare a giocare.
 >
-> Scegliere semplicemente il tuo **concetto** è più che sufficiente per cominciare.
+> Semplicemente scegliere il tuo **concetto** è più che sufficiente per iniziare.
 >
-> Dopo la prima o le prime due sessioni, avrai una migliore idea di chi è il tuo personaggio, quindi trovare quei dettagli successivamente va benissimo.
+> Dopo la prima sessione o due, avrai un'idea migliore di chi è il tuo personaggio, quindi trovare quei dettagli più avanti va totalmente bene.
 >
-> Ma se hai bisogno di aiuto per sviluppare i tuoi personaggi, puoi sempre usare gratuitamente [Fari Story Builder](https://fari.app/story-builder) per far scorrere l'ispirazione!
-> ![](https://gyazo.com/5b5e8bf5924e020ea2bc0926103a20f2.gif)
+> Ma se vuoi un aiuto nel dettagliare i tuoi personaggi, puoi sempre utilizzare il [Fari Story Builder](https://fari.app/story-builder) gratuito per far fluire l'ispirazione!
+> ![](https://gyazo.com/5b5e8bf5924e020ea2bc0926103a20f2.gif), ecc.
 
 ## Azioni
 
-Se un personaggio giocatore desidera fare qualcosa di impegnativo o che potrebbe fallire, effettua un **tiro d'azione**.
+Se un personaggio giocante vuole fare qualcosa di impegnativo o che potenzialmente potrebbe fallire, effettua un **tiro di azione**.
 
-Il fallimento è possibile se c'è qualche tipo di ostacolo da superare, come qualcosa che si frappone o qualcuno che cerca di fermarti.
+Il fallimento è possibile se c'è qualche tipo di ostacolo da superare, come qualcosa che ti blocca la strada o qualcuno che cerca di fermarti.
 
-Detto questo, non ogni interazione con il mondo richiede un tiro. Se ciò che il personaggio fa è qualcosa che ci aspettiamo che riesca semplicemente a fare, allora non tiri nulla. Lo fa semplicemente.
+Detto ciò, non ogni interazione con il mondo richiede un tiro. Se il personaggio fa qualcosa che ci aspettiamo riesca semplicemente a compiere, allora non si tira nulla. Lo fa e basta.
 
-In Charge, ci sono **12 azioni** che i personaggi possono compiere.
+In Charge, ci sono **12 azioni** che i personaggi possono fare.
 
-Quando crei un personaggio, devi **distribuire 7 punti azione** tra queste 12 azioni. All'inizio di una campagna, un'unica azione non può avere più di 2 punti azione.
+Quando crei un personaggio, devi **distribuire 7 punti azione** tra queste 12 azioni. All'inizio di una campagna, una singola azione non può avere più di 2 punti azione.
 
-Questi punti rappresentano quanto il tuo personaggio sia bravo a fare le cose. Man mano che il gioco procede, guadagnerai punti aggiuntivi che renderanno il tuo personaggio più flessibile. Vedi [**Meccaniche&nbsp;»&nbsp;Progressione**](mechanics#progression).
+Questi punti rappresentano quanto il tuo personaggio è bravo a fare le cose. Man mano che il gioco progredisce, otterrai punti aggiuntivi che renderanno il tuo personaggio più flessibile. Vedi [**Meccaniche&nbsp;»&nbsp;Avanzamento**](meccaniche#avanzamento).
 
-Le 12 azioni sono raggruppate in 3 categorie chiamate **Attributi**. Ci sono **Fisico**, **Acume** e **Determinazione**. Ora vediamo le 12 diverse azioni.
+Le 12 azioni sono raggruppate in 3 categorie chiamate **Attributi**. Ci sono **Fisico**, **Intuito** e **Determinazione**.
+Per ora diamo un'occhiata ai 12 diversi tipi di azioni.
 
 ### Le 12 Azioni
 
@@ -270,57 +270,57 @@ Le 12 azioni sono raggruppate in 3 categorie chiamate **Attributi**. Ci sono **F
 
 #### Fisico
 
-Quando usi **Muscoli**, usi la tua forza per muoverti, superare o distruggere l'ostacolo di fronte a te.
+Quando usi **Muscoli** usi la tua forza per muoverti, superare o distruggere l'ostacolo di fronte a te.
 
-> Potresti sollevare, colpire, afferrare, tagliare e squarciare. Potresti lottare con un animale selvaggio. Potresti far esplodere una porta. Potresti cercare di combattere in un duello formale (ma **Finezza** potrebbe essere migliore).
+> Potresti sollevare, colpire, afferrare, tagliare e squarciare. Potresti lottare con un animale selvaggio. Potresti far esplodere una porta. Potresti cercare di combattere in un duello formale (ma **Finezza** potrebbe essere meglio).
 
-Quando usi **Finezza**, impieghi manipolazione agile o sottile distrazione.
+Quando usi **Finezza** impieghi la manipolazione agile o una sottile distrazione.
 
-> Potresti rubare qualcosa dalla tasca di qualcuno. Potresti hackerare un sistema di sicurezza. Potresti guidare i comandi di una nave. Potresti cercare di aprire una serratura (ma **Armeggiare** potrebbe essere migliore).
+> Potresti rubare qualcosa dalla tasca di qualcuno. Potresti hackerare un sistema di sicurezza. Potresti guidare i comandi di una nave. Potresti cercare di aprire una serratura (ma **Armeggiare** potrebbe essere meglio).
 
-Quando usi **Muoversi**, ti sposti rapidamente in una nuova posizione o ti metti al sicuro.
+Quando usi **Muoversi** ti sposti rapidamente in una nuova posizione o ti metti al sicuro.
 
-> Potresti arrampicarti, nuotare, correre o saltare. Potresti sfuggire alla guardia. Potresti saltare sopra una buca con le punte. Potresti cercare di seminare qualcuno alle calcagna (ma **Furtività** potrebbe essere migliore).
+> Potresti arrampicarti, nuotare, correre o saltare. Potresti sfuggire alla guardia. Potresti saltare sopra una buca con le punte. Potresti cercare di seminare qualcuno alle calcagna (ma **Furtività** potrebbe essere meglio).
 
-Quando usi **Furtività**, attraversi abilmente e silenziosamente.
+Quando usi **Furtività** ti muovi abilmente e silenziosamente.
 
-> Potresti passare di nascosto davanti a una guardia o nasconderti nell'ombra. Potresti cercare di pugnalare alle spalle un soldato in piena battaglia (ma **Muscoli** potrebbe essere migliore).
+> Potresti passare di nascosto davanti a una guardia o nasconderti nell'ombra. Potresti cercare di pugnalare alle spalle un soldato in piena battaglia (ma **Muscoli** potrebbe essere meglio).
 
 #### Acume
 
-Quando usi **Sparare**, segui attentamente e spari a un bersaglio.
+Quando usi **Sparare** segui attentamente e spari a un bersaglio.
 
-> Potresti sparare a un nemico a lunga distanza. Potresti lanciare una palla di fuoco per incendiare il campo di battaglia. Potresti puntare i cannoni laser della nave. Potresti cercare di gettare abilmente una freccette in un gioco da bar (ma **Finezza** potrebbe essere migliore).
+> Potresti sparare a un nemico a lunga distanza. Potresti lanciare una palla di fuoco per incendiare il campo di battaglia. Potresti puntare i cannoni laser della nave. Potresti cercare di gettare abilmente una freccette in un gioco da bar (ma **Finezza** potrebbe essere meglio).
 
-Quando usi **Armeggiare**, capisci, crei o ripari meccanismi o organismi complessi.
+Quando usi **Armeggiare** capisci, crei o ripari meccanismi o organismi complessi.
 
-> Potresti creare un nuovo dispositivo o modificare un oggetto esistente. Potresti curare una frattura. Potresti cercare di usare la tua competenza tecnica per controllare un veicolo (ma **Finezza** potrebbe essere migliore).
+> Potresti creare un nuovo dispositivo o modificare un oggetto esistente. Potresti curare una frattura. Potresti cercare di usare la tua competenza tecnica per controllare un veicolo (ma **Finezza** potrebbe essere melio).
 
-Quando usi **Studiare**, osservi attentamente i dettagli e interpreti le prove.
+Quando usi **Studiare** osservi attentamente i dettagli e interpreti le prove.
 
-> Potresti raccogliere informazioni da documenti, giornali e libri. Potresti analizzare attentamente una persona per individuare bugie o veri sentimenti. Potresti cercare di esaminare gli eventi per comprendere una situazione urgente (ma **Notare** potrebbe essere migliore).
+> Potresti raccogliere informazioni da documenti, giornali e libri. Potresti analizzare attentamente una persona per individuare bugie o veri sentimenti. Potresti cercare di esaminare gli eventi per comprendere una situazione urgente (ma **Notare** potrebbe essere meglio).
 
-Quando usi **Notare**, osservi la situazione e prevedi gli esiti.
+Quando usi **Notare** osservi la situazione e prevedi gli esiti.
 
-> Potresti cogliere dettagli importanti sul momento. Potresti anticipare il pericolo prima che accada. Potresti cercare di capire cosa sta rendendo qualcuno malato (ma **Studiare** potrebbe essere migliore).
+> Potresti cogliere dettagli importanti sul momento. Potresti anticipare il pericolo prima che accada. Potresti cercare di capire cosa sta rendendo qualcuno malato (ma **Studiare** potrebbe essere meglio).
 
 #### Determinazione
 
-Quando usi **Legare**, rassicuri e socializzi con amici e contatti.
+Quando usi **Legare** rassicuri e socializzi con amici e contatti.
 
-> Potresti ottenere risorse, informazioni, persone o luoghi. Potresti fare una buona impressione o conquistare qualcuno con il tuo fascino, stile o empatia. Potresti cercare di manipolare i tuoi amici con la pressione sociale (ma **Influenzare** potrebbe essere migliore).
+> Potresti ottenere risorse, informazioni, persone o luoghi. Potresti fare una buona impressione o conquistare qualcuno con il tuo fascino, stile o empatia. Potresti cercare di manipolare i tuoi amici con la pressione sociale (ma **Influenzare** potrebbe essere meglio).
 
-Quando usi **Comandare**, ottieni un'obbedienza rapida con abilità e rispetto.
+Quando usi **Comandare** ottieni un'obbedienza rapida con abilità e rispetto.
 
-> Potresti intimidire o minacciare per ottenere ciò che desideri. Potresti chiedere a una piccola milizia di prepararsi. Potresti ordinare ai tuoi non morti di sacrificarsi per te. Potresti chiedere al tuo famiglio di cercare qualcosa in una stanza (ma **Legare** potrebbe essere migliore).
+> Potresti intimidire o minacciare per ottenere ciò che desideri. Potresti chiedere a una piccola milizia di prepararsi. Potresti ordinare ai tuoi non morti di sacrificarsi per te. Potresti chiedere al tuo famiglio di cercare qualcosa in una stanza (ma **Legare** potrebbe essere meglio).
 
-Quando usi **Concentrarsi**, ti concentri per portare a termine un compito che richiede una grande forza mentale.
+Quando usi **Concentrarsi** ti concentri per portare a termine un compito che richiede una grande forza mentale.
 
-> Potresti meditare per entrare nel mondo degli spiriti. Potresti concentrarti per vincere una partita a scacchi. Potresti entrare in trance per completare un rituale importante. Potresti cercare di prestare attenzione più approfondita ai tuoi dintorni oltre a ciò che è visibile (ma **Notare** potrebbe essere migliore).
+> Potresti meditare per entrare nel mondo degli spiriti. Potresti concentrarti per vincere una partita a scacchi. Potresti entrare in trance per completare un rituale importante. Potresti cercare di prestare attenzione più approfondita ai tuoi dintorni oltre a ciò che è visibile (ma **Notare** potrebbe essere meglio).
 
-Quando usi **Influenzare**, persuadi con astuzia, fascino o argomenti.
+Quando usi **Influenzare** persuadi con astuzia, fascino o argomenti.
 
-> Potresti mentire in modo convincente. Potresti persuadere qualcuno a fare ciò che desideri. Potresti sostenere un caso convincente che non lascia spazio a una chiara confutazione. Potresti cercare di ingannare le persone per ottenere affetto o obbedienza (ma **Legare** o **Comandare** potrebbero essere migliori).
+> Potresti mentire in modo convincente. Potresti persuadere qualcuno a fare ciò che desideri. Potresti sostenere un caso convincente che non lascia spazio a una chiara confutazione. Potresti cercare di ingannare le persone per ottenere affetto o obbedienza (ma **Legare** o **Comandare** potrebbero essere meglio).
 
 ### Quale Azione Scegliere per un Tiro
 
