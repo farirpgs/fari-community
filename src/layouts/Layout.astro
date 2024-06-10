@@ -4,6 +4,7 @@ interface Props {
 }
 
 import "./index.css";
+
 const { title } = Astro.props;
 ---
 
@@ -19,25 +20,30 @@ const { title } = Astro.props;
   </head>
   <body>
     <main class="container mx-auto space-y-4 my-16">
+      <header>
+        <h1>
+          <a href="/">Fari Community</a>
+        </h1>
+      </header>
       <slot />
+      <footer></footer>
     </main>
-  </body>
+  </body><style is:global>
+    :root {
+    }
+    html {
+      font-family: system-ui, sans-serif;
+    }
+    code {
+      font-family:
+        Menlo,
+        Monaco,
+        Lucida Console,
+        Liberation Mono,
+        DejaVu Sans Mono,
+        Bitstream Vera Sans Mono,
+        Courier New,
+        monospace;
+    }
+  </style>
 </html>
-<style is:global>
-  :root {
-  }
-  html {
-    font-family: system-ui, sans-serif;
-  }
-  code {
-    font-family:
-      Menlo,
-      Monaco,
-      Lucida Console,
-      Liberation Mono,
-      DejaVu Sans Mono,
-      Bitstream Vera Sans Mono,
-      Courier New,
-      monospace;
-  }
-</style>

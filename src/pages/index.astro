@@ -8,10 +8,11 @@ const allCreators = await loader.getAllCreators();
 // const top12Creators = creatorsAndProjects.slice(0, 12);
 ---
 
-<Layout title="Welcome to Astro.">
+<Layout title="Fari Community Project">
   <section class="prose lg:prose-xl">
-    <h1>Fari Community Project</h1>
-
+    <h1>Creators</h1>
+  </section>
+  <section>
     <ul>
       {
         allCreators.map((creator) => (

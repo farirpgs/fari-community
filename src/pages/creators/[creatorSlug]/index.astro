@@ -8,9 +8,9 @@ type Params = {
 };
 
 const params: Params = Astro.params as Params;
-
 const creator = await loader.getCreatorData(params.creatorSlug);
 const projects = await loader.getCreatorProjects(params.creatorSlug);
+
 export const getStaticPaths = (async () => {
   const paths: GetStaticPathsResult = [];
 
@@ -26,8 +26,13 @@ export const getStaticPaths = (async () => {
 
 <Layout title="Welcome to Astro.">
   <section class="prose xl:prose-xl">
-    <h1>{creator.data?.name}</h1>
-
+    <h1>
+      Projects by <a href={`/creators/${creator.creatorSlug}`}>
+        {creator.data?.name}
+      </a>
+    </h1>
+  </section>
+  <section>
     <ul>
       {
         projects?.map((project) => (

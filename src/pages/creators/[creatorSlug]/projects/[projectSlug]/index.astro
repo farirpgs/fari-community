@@ -5,19 +5,17 @@ import { DocParser } from "src/domains/documents/DocParser";
 import Layout from "src/layouts/Layout.astro";
 
 type Params = { creatorSlug: string; projectSlug: string };
-const params: Params = Astro.params as Params;
 
+const params: Params = Astro.params as Params;
 const creator = await loader.getCreatorData(params.creatorSlug);
 const project = await loader.getProjectData(
   params.creatorSlug,
   params.projectSlug
 );
-
 const fileContents = await loader.getProjectMarkdown(
   params.creatorSlug,
   params.projectSlug
 );
-
 const doc = new DocParser({
   markdown: fileContents,
 }).getDoc();
@@ -54,9 +52,18 @@ export const getStaticPaths = (async () => {
 
 <Layout title="Welcome to Astro.">
   <section class="prose xl:prose-xl max-w-none">
-    <h1>{project.data?.name}</h1>
-    <h2>{creator.data?.name}</h2>
-
+    <h1>
+      <a
+        href={`/creators/${creator.creatorSlug}/projects/${project.projectSlug}`}
+      >
+        {project.data?.name}
+      </a>
+    </h1>
+    <h2>
+      by <a href={`/creators/${creator.creatorSlug}`}>{creator.data?.name}</a>
+    </h2>
+  </section>
+  <section>
     <div class="grid grid-cols-2 gap-4">
       <div class="">
         <ul>
@@ -73,7 +80,7 @@ export const getStaticPaths = (async () => {
           }
         </ul>
       </div>
-      <div class="">
+      <div class="prose xl:prose-xl">
         <div set:html={doc.html} />
       </div>
     </div>
