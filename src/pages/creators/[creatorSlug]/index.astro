@@ -1,0 +1,45 @@
+---
+import type { GetStaticPaths, GetStaticPathsResult } from "astro";
+import { loader } from "src/catalog/loader";
+import Layout from "src/layouts/Layout.astro";
+
+type Params = {
+  creatorSlug: string;
+};
+
+const params: Params = Astro.params as Params;
+
+const creator = await loader.getCreatorData(params.creatorSlug);
+const projects = await loader.getCreatorProjects(params.creatorSlug);
+export const getStaticPaths = (async () => {
+  const paths: GetStaticPathsResult = [];
+
+  const creators = await loader.getAllCreators();
+
+  for (const c of creators) {
+    paths.push({ params: { creatorSlug: c.creatorSlug } });
+  }
+
+  return paths;
+}) satisfies GetStaticPaths;
+---
+
+<Layout title="Welcome to Astro.">
+  <section class="prose xl:prose-xl">
+    <h1>{creator.data?.name}</h1>
+
+    <ul>
+      {
+        projects?.map((project) => (
+          <li>
+            <a
+              href={`/creators/${creator.creatorSlug}/projects/${project.projectSlug}`}
+            >
+              {project.data.name}
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </section>
+</Layout>

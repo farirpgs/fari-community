@@ -152,7 +152,7 @@ export const loader = {
     const fs = await import("fs/promises");
     const directory = path.join(
       process.cwd(),
-      "public",
+      "src",
       "catalog",
       "creators",
       creatorSlug,

@@ -21,6 +21,7 @@
     "@astrojs/check": "^0.7.0",
     "@astrojs/react": "^3.5.0",
     "@astrojs/tailwind": "^5.1.0",
+    "@tailwindcss/typography": "^0.5.13",
     "astro": "^4.10.1",
     "lodash": "^4.17.21",
     "netlify-cli": "^17.26.1",

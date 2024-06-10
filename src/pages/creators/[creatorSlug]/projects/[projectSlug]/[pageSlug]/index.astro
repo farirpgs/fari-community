@@ -1,0 +1,96 @@
+---
+import type { GetStaticPaths, GetStaticPathsResult } from "astro";
+import { loader } from "src/catalog/loader";
+import { DocParser } from "src/domains/documents/DocParser";
+import Layout from "src/layouts/Layout.astro";
+
+type Params = { creatorSlug: string; projectSlug: string; pageSlug: string };
+const params: Params = Astro.params as Params;
+
+const creator = await loader.getCreatorData(params.creatorSlug);
+const project = await loader.getProjectData(
+  params.creatorSlug,
+  params.projectSlug
+);
+
+const fileContents = await loader.getProjectMarkdown(
+  params.creatorSlug,
+  params.projectSlug
+);
+
+const doc = new DocParser({
+  currentChapterId: params.pageSlug,
+  markdown: fileContents,
+}).getDoc();
+
+export const getStaticPaths = (async () => {
+  const paths: GetStaticPathsResult = [];
+
+  const creators = await loader.getAllCreators();
+
+  for (const creator of creators) {
+    const projects = await loader.getCreatorProjects(creator.creatorSlug);
+    const projectSlugs: Array<string> = [];
+
+    for (const project of projects) {
+      projectSlugs.push(project.projectSlug);
+      for (const language of project.languages) {
+        projectSlugs.push(`${project.projectSlug}.${language}`);
+      }
+    }
+
+    for (const projectSlug of projectSlugs) {
+      // handle default language
+      const fileContents = await loader.getProjectMarkdown(
+        creator.creatorSlug,
+        projectSlug
+      );
+
+      const doc = new DocParser({
+        currentChapterId: undefined,
+        markdown: fileContents,
+      }).getDoc();
+
+      doc.pages.forEach((page) => {
+        paths.push({
+          params: {
+            creatorSlug: creator.creatorSlug,
+            projectSlug: projectSlug,
+            pageSlug: page.id,
+          },
+        });
+      });
+    }
+  }
+
+  return paths;
+}) satisfies GetStaticPaths;
+---
+
+<Layout title="Welcome to Astro.">
+  <section class="prose xl:prose-xl max-w-none">
+    <h1>{project.data?.name}</h1>
+    <h2>{creator.data?.name}</h2>
+
+    <div class="grid grid-cols-2 gap-4">
+      <div class="">
+        <ul>
+          {
+            doc.pages.map((page) => (
+              <li>
+                <a
+                  href={`/creators/${creator.creatorSlug}/projects/${project.projectSlug}/${page.id}`}
+                >
+                  {page.title}
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+      </div>
+      <div class="">
+        <div set:html={doc.html} />
+      </div>
+    </div>
+  </section>
+</Layout>

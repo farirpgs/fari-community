@@ -1,14 +1,27 @@
 ---
-import { CreatorsProjectSorter } from "src/domains/creators/CreatorsProjectsSorter";
 import { loader } from "../catalog/loader";
 import Layout from "../layouts/Layout.astro";
 
 const allCreators = await loader.getAllCreators();
-const creatorsAndProjects = CreatorsProjectSorter.sort(allCreators);
+// const creatorsAndProjects = CreatorsProjectSorter.sort(allCreators);
 
-const top12Creators = creatorsAndProjects.slice(0, 12);
+// const top12Creators = creatorsAndProjects.slice(0, 12);
 ---
 
 <Layout title="Welcome to Astro.">
-  <main></main>
+  <section class="prose lg:prose-xl">
+    <h1>Fari Community Project</h1>
+
+    <ul>
+      {
+        allCreators.map((creator) => (
+          <li>
+            <a href={`/creators/${creator.creatorSlug}`}>
+              {creator.data?.name}
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </section>
 </Layout>
