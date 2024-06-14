@@ -2,7 +2,7 @@
 
 ![](https://gyazo.com/46a3de1a6a786af5668775a3de5a5053.png)
 
-LUMEN è un sistema di regole leggere per creare e giocare ai giochi di ruolo, focalizzato sul raccontare storie di personaggi potenti. LUMEN è stato sviluppato inizialmente per i giochi LIGHT e NOVA, ed è stato poi convertito in questa SRD (System Reference Document) neutrale rispetto al genere, così che tu possa usarlo per creare i tuoi giochi con lo stesso sistema.
+LUMEN è un sistema di regole leggere per creare e giocare ai giochi di ruolo, focalizzato sul raccontare storie di personaggi potenti. LUMEN è stato sviluppato inizialmente per i giochi LIGHT e NOVA, ed è stato poi convertito in questo SRD (System Reference Document) neutrale rispetto al genere, così che tu possa usarlo per creare i tuoi giochi con lo stesso sistema.
 
 Al suo cuore, LUMEN è progettato per raccontare storie power fantasy. I personaggi interpretati hanno accesso a incredibili **poteri** e li usano senza sosta per perseguire i loro obiettivi. L'ispirazione viene da generi di videogiochi come looter shooter (Destiny), hero shooter (Overwatch) e dungeon crawler (Diablo).
 
@@ -14,19 +14,19 @@ La cosa più importante è che LUMEN è veloce da progettare e facilmente modifi
 
 ## Cos'è questo?
 
-Questo è il SRD e la guida di design di LUMEN. Come SRD, è neutrale rispetto al genere e ti fornisce le regole di base per un gioco LUMEN. Offre anche consigli e suggerimenti su come creare giochi tuoi usando LUMEN, o come creare contenuti per giochi LUMEN esistenti.
+Questo è l'SRD e la guida di design di LUMEN. Come SRD, è neutrale rispetto al genere e ti fornisce le regole di base per un gioco LUMEN. Offre anche consigli e suggerimenti su come creare giochi tuoi usando LUMEN, o come creare contenuti per giochi LUMEN esistenti.
 
-Infine, offre una panoramica su alcune delle mie decisioni di design. Questo significa che non sarà scritto come un SRD diretto. La mia voce sarà presente in ogni linea. Stiamo avendo una conversazione su LUMEN mentre leggiamo, e non vedo l'ora di sentire cosa hai da dire.
+Infine, offre una panoramica su alcune delle mie decisioni di design. Questo significa che non sarà scritto come un SRD dritto al punto. La mia voce sarà presente in ogni riga. Stai avendo una conversazione con me su LUMEN mentre leggi e non vedo l'ora di sentire cosa hai da dire.
 
 ## Di chi hai bisogno?
 
-I giochi LUMEN utilizzano la tradizionale suddivisione in un Game Master (GM) e un certo numero di giocatori. Nella mia esperienza, 3 è sempre stato il numero ideale, ma la tua esperienza può variare. Il ruolo del GM al tavolo richiede alcune abilità di improvvisazione, poiché i giochi che progettiamo con LUMEN non richiedono molta preparazione, e il combattimento è più reattivo che proattivo da parte loro.
+I giochi LUMEN utilizzano la tradizionale suddivisione in un Game Master (GM) e un certo numero di giocatori. Nella mia esperienza, 3 è sempre stato il numero ideale, ma la tua esperienza può variare. Il ruolo del GM al tavolo richiede alcune abilità di improvvisazione, poiché i giochi che progettiamo con LUMEN non richiedono molta preparazione e il combattimento è più reattivo che proattivo da parte loro.
 
 I giocatori devono solo essere pronti a sentirsi potenti. Lo faremo con le loro Classi (pagina XXX).
 
 ## E i dadi?
 
-I giochi LUMEN sono progettati per utilizzare solo dadi d6. Questo mantiene le cose semplici, e la maggior parte delle persone può prendere un d6 da una vecchia scatola di giochi da tavolo in caso di necessità. Usare set poliedrici complicherebbe il gioco, limiterebbe chi può accedervi, e andrebbe contro la **meccanica di base**.
+I giochi LUMEN sono progettati per utilizzare solo dadi d6. Questo mantiene le cose semplici e la maggior parte delle persone può prendere un d6 da una vecchia scatola di giochi da tavolo in caso di necessità. Usare set poliedrici complicherebbe il gioco, limiterebbe chi può accedervi e andrebbe contro la **meccanica di base**.
 
 # Meccanica di base
 
@@ -34,7 +34,7 @@ LUMEN utilizza **pool di dadi d6**, con intervalli di successo come meccanica di
 
 Quando un personaggio agisce e c'è un rischio associato all'azione, lancia i dadi. Lancia un pool di d6 pari all'Attributo che meglio descrive come stanno agendo, e tiene il risultato più alto.
 
-> Su un:
+> Con un:
 >
 > ♢ **1-2**: L'azione fallisce e c'è una conseguenza
 >
@@ -42,11 +42,11 @@ Quando un personaggio agisce e c'è un rischio associato all'azione, lancia i da
 >
 > ♢ **5-6**: L'azione ha successo senza problemi
 
-Questo è tutto, così funziona il 90% del gioco. Lasciami mostrarti un esempio.
+Questo è tutto, così funziona il 90% del gioco. Lascia che ti mostri un esempio.
 
 > #### Kate sta giocando come Amp,
 >
-> e vuole saltare rapidamente attraverso una passerella senza farsi notare, sincronizzandosi quando le guardie hanno le spalle voltate. Si decide che l'azione usa Flow. Ha un 3 in Flow, quindi lancia 3d6, tenendo il risultato più alto.
+> e vuole saltare rapidamente attraverso una passerella senza farsi notare, sincronizzandosi con il momento in cui le guardie hanno le spalle voltate. Si decide che l'azione usa Flusso. Ha un 3 in Flusso, quindi lancia 3d6, tenendo il risultato più alto.
 >
 > ![](https://gyazo.com/23b96ee7b7926d52c4d8797c576fa818.png)
 >
@@ -58,7 +58,7 @@ Sebbene un pool di dadi d6 non sia rivoluzionario in alcun modo, l'importante è
 
 I giochi LUMEN non hanno elenchi di abilità. I personaggi sono altamente qualificati e capaci di tutto. Potrebbero essere guardiani immortali che difendono la galassia, supereroi con poteri incredibili, o veterani esploratori di dungeon che si avventurano di nuovo nelle profondità oscure. Presumiamo che possano fare praticamente qualsiasi cosa.
 
-Se possono fare qualsiasi cosa, come decidiamo cosa lanciare? Non importa cosa stanno facendo, ma _come_ lo stanno facendo. Ogni personaggio ha **3 Attributi**, e il loro punteggio in questi Attributi descrive come preferiscono fare le cose.
+Se possono fare qualsiasi cosa, come decidiamo cosa lanciare? Non importa cosa stanno facendo, ma _come_ lo stanno facendo. Ogni personaggio ha **3 Attributi** e il loro punteggio in questi Attributi descrive come preferiscono fare le cose.
 
 > ♢ Un attributo rappresenta azioni **potenti**. Imprese di forza, azioni ampie, situazioni emotive. Quando le cose sono intense e grandi, questo è l'attributo giusto.
 >
@@ -68,7 +68,7 @@ Se possono fare qualsiasi cosa, come decidiamo cosa lanciare? Non importa cosa s
 
 Questi attributi dovrebbero essere nominati in modo tale da riflettere i temi del tuo gioco.
 
-- **In LIGHT**, gli attributi sono nominati dopo gli elementi della Luce che i Beacons maneggiano. Pyre potente, Volt fulmineo, e il paziente vuoto del Nether.
+- **In LIGHT**, gli attributi sono nominati dopo gli elementi della Luce che i Fari maneggiano. Fuoco potente, Volt fulmineo, e il paziente vuoto dell'Oltretomba.
 - **In NOVA**, gli attributi rappresentano gli approcci usati dagli exos. Forza, Flusso, Concentrazione.
 
 Perché solo 3 Attributi? Primo, per mantenere le cose veloci. Questo è un **potere fantastico**, ricorda, e i personaggi possono fare qualsiasi cosa. Gli elenchi di abilità sono...noiosi...per un gioco su questi temi.
@@ -97,11 +97,11 @@ Guarda questi esempi di come Forza, Flusso e Concentrazione sono usati in NOVA.
 
 Usando i 3 Attributi, i giocatori penseranno non a cosa sono capaci di fare, ma a **come** vogliono affrontare il problema. Fidati di me, mantiene le cose in movimento e tutti si abituano molto rapidamente.
 
-Oh, e se non riesci a decidere quale Attributo si adatta a un tiro, forse quell'azione non ha bisogno di un tiro? Controlli di Percezione per esempio. Li odio. Forse, forse potresti usare il tuo Attributo metodico per questo, ma ne hai davvero bisogno? Questi personaggi sono forti, e fare controlli di Percezione non è forte.
+Oh, e se non riesci a decidere quale Attributo si adatta a un tiro, forse quell'azione non ha bisogno di un tiro? Prove di Percezione per esempio. Come li odio. Forse, forse potresti usare il tuo Attributo metodico per questo, ma ne hai davvero bisogno? Questi personaggi sono forti e fare prove di Percezione non è forte.
 
 # Classi
 
-La sostanza dei giochi LUMEN sono le classi da cui i giocatori scelgono. Le classi sono veloci da costruire, e ancora più veloci da capire per i giocatori. Ricorda, hanno solo 3 Attributi. Avremo bisogno di qualche altra cosa per completare il personaggio, ma siamo già a buon punto.
+La sostanza dei giochi LUMEN sono le classi da cui i giocatori scelgono. Le classi sono veloci da costruire e ancora più veloci da capire per i giocatori. Ricorda, hanno solo 3 Attributi. Avremo bisogno di qualche altra cosa per completare il personaggio, ma siamo già a buon punto.
 
 Prima di parlare di come creare una classe, parliamo di ispirazione. I giochi LUMEN sono largamente ispirati dai videogiochi, specialmente quelli con roster di personaggi unici con piccoli set di poteri.
 
