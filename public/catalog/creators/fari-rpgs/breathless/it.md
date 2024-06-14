@@ -35,11 +35,11 @@ Per scaricare i loghi di **"This Game Is Breathless"**, [clicca qui](https://far
 
 # Il Gioco | Breathless SRD
 
-## Prima di Cominciare
+## Prima di iniziare
 
 Avviso di Contenuto: [...]
 
-Prima di cominciare, stabilite dei limiti che non devono essere superati. Mettete in pausa o riavvolgete il gioco se durante una sessione si verificano situazioni spiacevoli. Assicuratevi sempre che tutti siano a proprio agio con la direzione della storia.
+Prima di iniziare, stabilite dei limiti che non devono essere superati. Mettete in pausa o riavvolgete il gioco se durante una sessione si verificano situazioni spiacevoli. Assicuratevi sempre che tutti siano a proprio agio con la direzione della storia.
 
 ## Come giocare
 
@@ -55,24 +55,24 @@ Quando c'è una sfida da superare, effettua una prova per vedere come si risolve
 
 Il GM anticipa il rischio della tua azione, quindi scegli un'abilità e tira il dado corrispondente al suo valore. Se un alleato ti aiuta, effettua anche lui una prova, ma condivide gli stessi rischi. Considera il dado più alto e interpreta i risultati.
 
-- Con un risultato da 1 a 2, fallisci e qualcosa va storto.
-- Con un risultato da 3 a 4, hai successo ma a un costo.
-- Con un risultato da 5 in su, hai successo. Più alto è il risultato, migliore è l'effetto.
+- Da 1 a 2, fallisci e qualcosa va storto.
+- Da 3 a 4, hai successo ma a un costo.
+- Da 5 in su, hai successo. Più alto è il risultato, migliore è l'effetto.
 
 Sopravvivere è difficile. Chiunque abbia tirato i dadi riduce di una taglia il valore dell'abilità utilizzata: d12 » d10 » d8 » d6 » d4. Le abilità non possono scendere al di sotto di un d4.
 
 Il GM può demandare la decisione al caso testando la fortuna. Per farlo, scegli un dado semplicemente in base alle probabilità che accada qualcosa, tiralo e interpreta i risultati.
 
-## Riprendere Fiato
+## Riprendi fiato
 
 Per ripristinare tutte le abilità al loro valore originale puoi chiedere di "riprendere fiato". Si tratta di una breve pausa nella tensione. Può essere fatta in qualsiasi momento, anche durante il combattimento.
 Quando un personaggio riprende fiato il GM valuta la scena e introduce una nuova complicazione per il gruppo.
 
-## Prova di Bottino
+## Prove di bottino
 
 Quando la fiction lo consente, puoi effettuare una prova di bottino per cercare attrezzi, armi, kit medici, ecc. Inizi con un dado del bottino d12, che diminuisce di valore dopo ogni utilizzo. Quando cerchi il bottino, tira il tuo dado del bottino attuale e interpreta il risultato. Puoi continuare a usare il dado del bottino quando è un d4, a tuo rischio e pericolo. Per reimpostare il tuo dado del bottino al suo valore iniziale, devi riprendere fiato.
 
-- Con un 1-2, i guai sono qui...
+- Con un 1-2, sono guai...
 - Con un 3-4, ci sono guai in arrivo...
 - Con un 5-6, aggiungi un oggetto d6.
 - Con un 7-8, aggiungi un oggetto d8.
@@ -97,18 +97,18 @@ Quando sei vulnerabile, fallire un'azione pericolosa potrebbe significare essere
 
 Puoi utilizzare un kit medico per eliminare 2 punti di stress, o restare in un luogo sicuro per un po' per eliminare 1 punto di stress.
 
-## Il Tuo Personaggio
+## Il tuo personaggio
 
 Sulla scheda del tuo personaggio, annota il nome e i pronomi del tuo personaggio.
 Di default, le abilità hanno un valore di d4. Assegna un d10, un d8 e un d6 a tre abilità che ritieni il tuo personaggio sia bravo.
 I personaggi hanno un totale di 6 abilità:
 
-- Sfonda: distruggere, muovere, forzare.
-- Scatta: correre, saltare, scalare.
-- Nasconditi: celarsi, sgattaiolare, appostarsi.
-- Spara: seguire, lanciare, sparare.
-- Pensa: percepire, analizzare, riparare.
-- Influisci: affascinare, manipolare, intimidire.
+- **Sfonda:** distruggere, muovere, forzare.
+- **Scatta:** correre, saltare, scalare.
+- **Striscia:** celarsi, sgattaiolare, appostarsi.
+- **Spara:** seguire, lanciare, sparare.
+- **Pensa:** percepire, analizzare, riparare.
+- **Ammalia:** affascinare, manipolare, intimidire.
 
 Pensa a un oggetto che hai ottenuto prima di partire per la tua avventura e aggiungilo al tuo zaino come oggetto di taglia d10.
 
@@ -120,27 +120,27 @@ Ecco alcune linee guida che puoi seguire quando crei il tuo gioco Breathless.
 
 Spiega brevemente l'ambientazione e su cosa si concentrerà principalmente la storia. Affronta le sfide con cui i PG si troveranno di fronte. Discuti del loro scopo e del motivo per cui fanno parte dello stesso gruppo.
 
-## "Prendere fiato"
+## Il tuo “Riprendere fiato”
 
 La meccanica principale ruota attorno ai personaggi senza fiato che superano gli ostacoli. Ciò non significa che il tuo gioco debba ruotare interamente attorno alla sopravvivenza. Rifletti su quando o come i personaggi dovrebbero "prendere fiato". Possono farlo sempre, hanno bisogno di riposare o essere in un luogo specifico? Pensa a quale sia il "costo" per i personaggi nel prendere fiato, poiché ogni meccanica dovrebbe far progredire la storia.
 
-## Bottino
+## Il tuo bottino
 
-I prove del bottino offrono ai giocatori un modo per cercare di ottenere risorse che faciliteranno la loro vita e ridurranno il tasso di affaticamento. Tieni presente che ciò non è privo di rischi al 100%. Il tuo gioco potrebbe utilizzare questo meccanismo per gestire gli oggetti, ma potresti anche simulare altri tipi di bonus utilizzando questa meccanica.
+Le prove di bottino offrono ai giocatori un modo per cercare di ottenere risorse che faciliteranno la loro vita e ridurranno il tasso di affaticamento. Tieni presente che ciò non è privo di rischi al 100%. Il tuo gioco potrebbe utilizzare questo meccanismo per gestire gli oggetti, ma potresti anche simulare altri tipi di bonus utilizzando questa meccanica.
 
-## Abilità e Classi
+## Le tue abilità e classi
 
 Per rendere questo gioco personale, personalizza l'elenco delle abilità in base all'estetica dell'ambientazione. Un altro modo per farlo è fornire classi/archetipi tra cui i giocatori possono scegliere, dove ogni classe potrebbe avere abilità o oggetti preassegnati.
 
-## Prodezze
+## Le tue prodezze
 
 La meccanica delle prodezze predefinita è uno strumento che i giocatori possono usare per apparire "eccezionali" una volta ogni "prendere fiato". Utilizzala per simulare personaggi che utilizzano poteri speciali o compiono azioni estremamente fortunate.
 
-## Stress
+## Il tuo stress
 
 Lo stress è il meccanismo predefinito per gestire la salute nel gioco. Se desideri che i personaggi si sentano più forti o più deboli, regola la dimensione della traccia dello stress, cosa accade quando un PG la riempie e come possono recuperare. Sii generoso o severo a tua discrezione.
 
-## Tabelle di tiro
+## Le tue tabelle
 
 Valuta l'aggiunta di tabelle di tiro per le cose che ritieni importanti nel tuo gioco. Poiché il formato di questo gioco è breve, le tabelle di tiro aiutano in due modi. Innanzitutto, aiutano a mettere maggiore enfasi su ciò che è significativo nel tuo mondo. In secondo luogo, facilitano le sessioni quando i giocatori sono in dubbio su quale direzione prendere nella storia. Inoltre, fanno tutto ciò in modo molto efficiente in termini di parole. Potresti includere tabelle per oggetti, luoghi, alleati, nemici, complicazioni, missioni, ecc.
 
@@ -148,11 +148,11 @@ Valuta l'aggiunta di tabelle di tiro per le cose che ritieni importanti nel tuo 
 
 Il Breathless SRD è rilasciato con licenza Creative Commons Attribution CC-BY 4.0.
 
-Ciò significa che sei libero di utilizzare i contenuti di questo SRD per il tuo gioco, a condizione che venga dato il dovuto credito.
+Ciò significa che sei libero di utilizzare i contenuti di questo SRD per il tuo gioco, a condizione che venga dato la dovuta attribuzione.
 
 Per farlo, copia il testo qui sotto nel tuo gioco e dovresti essere a posto.
 
-> Questa opera è basata su Breathless, prodotto di Fari RPGs (https://farirpgs.com/), sviluppato e creato da René-Pier Deshaies-Gélinas e concesso in licenza per il nostro uso in base alla licenza Creative Commons Attribution 4.0 (https://creativecommons.org/licenses/by/4.0/)
+> Quest'opera è basata su Breathless, prodotto di Fari RPGs (https://farirpgs.com/), sviluppato e scritto da René-Pier Deshaies-Gélinas, e concesso in licenza d'uso Creative Commons Attribuzione 4.0 (https://creativecommons.org/licenses/by/4.0/).
 
 # Cosa sono i Respiri | Respiri (Extra)
 
