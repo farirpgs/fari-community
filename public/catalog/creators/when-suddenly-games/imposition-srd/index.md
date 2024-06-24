@@ -1,5 +1,7 @@
 # IMPOSITION SRD
 
+> Imposition SRD v1.0, When Suddenly! Games [CC BY-SA 4.0](#license-and-attribution)
+
 ## WHAT IS THE IMPOSITION SRD?
 
 The Imposition Dice System is about simple mechanics that support narrative focused Tabletop Tope Roleplaying Games. Every dice roll, whether a success or failure, should be impactful and drive the narrative forward in fun and interesting ways.
@@ -24,7 +26,7 @@ Finally each player will need a character sheet and something to write with.
 
 With this system you will experience more consequences and failures than full on success. Do not be afraid of this. Instead, lean into it. You will find that this is where the story takes place. Use every set back as a chance to develop your character, the ties you have between the party, and the story that’s being told. And it makes the successes all the more sweet when everything seems the bleakest.
 
-## LICENSE & ATTRIBUTION
+## LICENSE AND ATTRIBUTION
 
 The Imposition Dice System SRD uses the Creative Commons License, BY-SA 4.0. 
 
