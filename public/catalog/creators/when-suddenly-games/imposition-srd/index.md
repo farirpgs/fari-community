@@ -293,7 +293,7 @@ There is also no initiative in the base system. Where your typical RPG breaks ou
 
 There should be no meaningful separation between when the players are roleplaying, where characters are talking with NPCs or perhaps investigating a mystery, and when things turn physically confrontational. 
 
-That isn't to say even these less combative scenes can't lead to harm ([see Health & Damage](#health-amp-damage)). Certainly, there are all types of harm, both physical and mental, that can happen in any situation.
+That isn't to say even these less combative scenes can't lead to harm ([see Health And Damage](#health-and-damage)). Certainly, there are all types of harm, both physical and mental, that can happen in any situation.
 
 ### WHAT IS A SCENE
 
@@ -315,7 +315,7 @@ A part of failure and success with consequences is that the NPCs act or react "o
 
 This method of controlling NPCs helps in violent confrontations to solve the issue of the characters ganging up on one main antagonist to overwhelm them without any danger to themselves.
 
-### HEALTH &amp; DAMAGE
+### HEALTH AND DAMAGE
 
 For health we take inspiration from Blades in the Dark. The character has six health boxes. Three Minor wounds, two Medium, and one Major. Whenever they take some form of physical harm the player will write the specific type of harm they received in a box that the Game Master asks for. For instance the character could have received a laceration on their forearm after a bad roll on a climb check. Depending on on the ID of the climb check, the Game Master could give them a level or levels of harm ranging from Minor to Major. The player would then write lacerated forearm in the box(s). This is necessary for any future actions that may require that arm. Say the character is hanging from a ledge. Maybe normally there would be no issue at all, but with the injured arm it now has become an interesting question. Can the player maintain their grip with the injured arm? Or if the entire party is climbing across a perilous rope bridge, the check for that player may be higher than the others.
 
@@ -335,7 +335,7 @@ Enemy damage would work much the same way as health. An opponent would deal an a
 All NPCs are broken down to their Level Die, Threat Die, and then any special abilities and lore information they may have. Don’t feel the need to do this for every potential NPC the characters may encounter. Only for those that pose a significant threat. For everyone else you only need to know their Level Die. Knowing this die level is all you’ll need for when a character attempts any action that may have fun or interesting consequences. 
 
 ### LEVEL DIE
-Knowing an NPC’s Level Die tells you everything you need to know about them. How much damage they’ll inflict in a violent confrontation ([see both Severity of Outcome](#severity-of-outcome) and [Health & Damage](#health-amp-damage)), how many hits they can take before being taken out, how hard they are to persuade, or even what it may take to keep them from doing something to you!
+Knowing an NPC’s Level Die tells you everything you need to know about them. How much damage they’ll inflict in a violent confrontation ([see both Severity of Outcome](#severity-of-outcome) and [Health AND Damage](#health-and-damage)), how many hits they can take before being taken out, how hard they are to persuade, or even what it may take to keep them from doing something to you!
 
 Hits can mean many different things in a scene. For instance, an opponent with a d6 Level Die will fall after taking 6 hits, which narratively speaking may mean physical hits, persuading them, stopping their villainous activities, etc. You may raise or lower this number depending on how weak or tough you want the NPC to be.
 
