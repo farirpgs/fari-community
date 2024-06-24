@@ -54,7 +54,7 @@ To determine how successful a task is, the player rolls all three dice and compa
 
 If only one of their two dice meets are beats the value of the ID then they've encountered a Success with Consequences. While they may have achieved their goal, it comes at a cost. The cost should never override the success. 
 
-Finally, if the value on the ID is greater than both the Level and Path dice, then the character has failed at their task. The consequences for which can be minor setbacks to downright fatal ([see Severity of Outcome](#severity-of-outcome).
+Finally, if the value on the ID is greater than both the Level and Path dice, then the character has failed at their task. The consequences for which can be minor setbacks to downright fatal ([see Severity of Outcome](#severity-of-outcome)).
 
 Characters are not without their tricks, however. While the GM has the power to set the Imposition Die, the players have access to Aptitude ([see Paths](#paths)) which allows them the ability to lower the starting Imposition Die.
 
@@ -78,7 +78,7 @@ This is the second die a player will roll to overcome the Imposition Die. This d
 
 The entire system revolves around the Imposition Die. Set by the GM, this die represents how difficult a task or obstacle is prior to character involvement. It can range from a d4 (an easy task) up to a d12 (a challenging task). Is the character attempting to climb a rocky wall with climbing gear? Sounds like an easy task of a d4. Is it smooth? Perhaps a d6 is more appropriate. Is it a sheer surface with covered in oil? Definitely a d12.
 
-NPC opponents also fall under this rating by using their Level Die ([see Enemy Design](#enemy-design).
+NPC opponents also fall under this rating by using their Level Die ([see Enemy Design](#enemy-design)).
 
 The GM will always state the level of Imposition to the player so that they may make informed decisions. Having this information promotes making interesting and clever choices. Trying to intimidate a surly guard may be a d8 Imposition. But perhaps some honeyed words or the right bribe may mean a d6 or d4! Players are not committed to an action until the dice are rolled.
 
@@ -293,7 +293,7 @@ There is also no initiative in the base system. Where your typical RPG breaks ou
 
 There should be no meaningful separation between when the players are roleplaying, where characters are talking with NPCs or perhaps investigating a mystery, and when things turn physically confrontational. 
 
-That isn't to say even these less combative scenes can't lead to harm ([see Health & Damage](#health-&-damage)). Certainly, there are all types of harm, both physical and mental, that can happen in any situation.
+That isn't to say even these less combative scenes can't lead to harm ([see Health & Damage](#health-damage)). Certainly, there are all types of harm, both physical and mental, that can happen in any situation.
 
 ### WHAT IS A SCENE
 
@@ -335,7 +335,7 @@ Enemy damage would work much the same way as health. An opponent would deal an a
 All NPCs are broken down to their Level Die, Threat Die, and then any special abilities and lore information they may have. Don’t feel the need to do this for every potential NPC the characters may encounter. Only for those that pose a significant threat. For everyone else you only need to know their Level Die. Knowing this die level is all you’ll need for when a character attempts any action that may have fun or interesting consequences. 
 
 ### LEVEL DIE
-Knowing an NPC’s Level Die tells you everything you need to know about them. How much damage they’ll inflict in a violent confrontation ([see both Severity of Outcome](#severity-of-outcome) and [Health & Damage](#health-&-damage)), how many hits they can take before being taken out, how hard they are to persuade, or even what it may take to keep them from doing something to you!
+Knowing an NPC’s Level Die tells you everything you need to know about them. How much damage they’ll inflict in a violent confrontation ([see both Severity of Outcome](#severity-of-outcome) and [Health & Damage](#health-damage)), how many hits they can take before being taken out, how hard they are to persuade, or even what it may take to keep them from doing something to you!
 
 Hits can mean many different things in a scene. For instance, an opponent with a d6 Level Die will fall after taking 6 hits, which narratively speaking may mean physical hits, persuading them, stopping their villainous activities, etc. You may raise or lower this number depending on how weak or tough you want the NPC to be.
 
