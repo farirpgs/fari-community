@@ -54,9 +54,9 @@ To determine how successful a task is, the player rolls all three dice and compa
 
 If only one of their two dice meets are beats the value of the ID then they've encountered a Success with Consequences. While they may have achieved their goal, it comes at a cost. The cost should never override the success. 
 
-Finally, if the value on the ID is greater than both the Level and Path dice, then the character has failed at their task. The consequences for which can be minor setbacks to downright fatal (see Severity of Outcome).
+Finally, if the value on the ID is greater than both the Level and Path dice, then the character has failed at their task. The consequences for which can be minor setbacks to downright fatal ([see Severity of Outcome](#severity-of-outcome).
 
-Characters are not without their tricks, however. While the GM has the power to set the Imposition Die, the players have access to Aptitude (see Paths) which allows them the ability to lower the starting Imposition Die.
+Characters are not without their tricks, however. While the GM has the power to set the Imposition Die, the players have access to Aptitude ([see Paths](#paths)) which allows them the ability to lower the starting Imposition Die.
 
 ## THE THREE DICE
 
@@ -68,21 +68,21 @@ For The Crypt Has Opened this die started at a d6, as the players were able to l
 
 #### Dueling
 
-An optional use for the Level Die is a mechanic for dueling characters. Much like an NPC has a Threat Die (see Enemy Design) a player can lower their Level Die, to a minimum of a d4, to raise the Imposition Die of their opponent. Meaning that if a character has a d12 Level Die, they have the ability to impose up to 4 levels of Imposition.
+An optional use for the Level Die is a mechanic for dueling characters. Much like an NPC has a Threat Die ([see Enemy Design](#enemy-design)) a player can lower their Level Die, to a minimum of a d4, to raise the Imposition Die of their opponent. Meaning that if a character has a d12 Level Die, they have the ability to impose up to 4 levels of Imposition.
 
 ### PATH DIE
 
-This is the second die a player will roll to overcome the Imposition Die. This die will change the most from task to task. It is determined by whatever Path (See Paths) a player is using to overcome an obstacle. A character has many Paths to choose from, some more suited to achieving their goal than others. Each Path has a die associated with it that can range from a d4 to a d12.
+This is the second die a player will roll to overcome the Imposition Die. This die will change the most from task to task. It is determined by whatever Path ([see Paths](#paths)) a player is using to overcome an obstacle. A character has many Paths to choose from, some more suited to achieving their goal than others. Each Path has a die associated with it that can range from a d4 to a d12.
 
 ### IMPOSITION DIE
 
 The entire system revolves around the Imposition Die. Set by the GM, this die represents how difficult a task or obstacle is prior to character involvement. It can range from a d4 (an easy task) up to a d12 (a challenging task). Is the character attempting to climb a rocky wall with climbing gear? Sounds like an easy task of a d4. Is it smooth? Perhaps a d6 is more appropriate. Is it a sheer surface with covered in oil? Definitely a d12.
 
-NPC opponents also fall under this rating by using their Level Die (see Opponents).
+NPC opponents also fall under this rating by using their Level Die ([see Enemy Design](#enemy-design).
 
 The GM will always state the level of Imposition to the player so that they may make informed decisions. Having this information promotes making interesting and clever choices. Trying to intimidate a surly guard may be a d8 Imposition. But perhaps some honeyed words or the right bribe may mean a d6 or d4! Players are not committed to an action until the dice are rolled.
 
-Characters are never stuck with the stated level of Imposition. Using their Aptitude (see Paths) they have the chance to lower the Imposition.
+Characters are never stuck with the stated level of Imposition. Using their Aptitude ([see Paths](#paths)) they have the chance to lower the Imposition.
 
 #### Constant Imposition
 
@@ -93,7 +93,7 @@ Some situations may call for a difficult situation to remain difficult, no matte
 
 Irresistible Imposition need not always be all or none. A GM may levee any number of levels, effectively reducing how much Aptitude a character may apply to a roll. 
 
-All is not lost, however, as a player may always spend Stress (see Stress) to reduce Imposition.
+All is not lost, however, as a player may always spend Stress ([see Stress](#stress)) to reduce Imposition.
 
 ## PATHS
 
@@ -132,7 +132,7 @@ Every character is comprised of a Level Die and a list of Paths with a Die Level
 
 ### STARTING LEVEL
 
-A d6 level makes for a character that may be starting in their career but isn’t completely incompetent. There is still room to grow and even leaves the option for the dueling mechanic (See Dueling).
+A d6 level makes for a character that may be starting in their career but isn’t completely incompetent. There is still room to grow and even leaves the option for the dueling mechanic ([see Dueling](#dueling)).
 
 ### Starting Path Die
 Each Path starts with a rating of d4. Through character creation they should end up with a spread that may be a d6 in one Path and a d8 in another, or a d6 in three Paths. The former makes for a more focused character while the later more spread out.
@@ -148,7 +148,7 @@ How these points are given to the player is entirely dependent upon your charact
 
 Classes, Playbooks, or Freeform point buy is all dependent upon the themes and style of the game. Each has their pros and cons. 
 
-Classes help make distinct characters quickly and help you design how they’ll fit within the makeup of an entire party. With classes you would assign starting Path Die and Aptitudes for the player, as well as upgrades as they level. This helps those with analysis paralysis, but has the problem of every character of a class feeling the same. This method would require some changes to the base Advancement system (see Advancement).
+Classes help make distinct characters quickly and help you design how they’ll fit within the makeup of an entire party. With classes you would assign starting Path Die and Aptitudes for the player, as well as upgrades as they level. This helps those with analysis paralysis, but has the problem of every character of a class feeling the same. This method would require some changes to the base Advancement system ([see Advancement](#advancement)).
 
 Playbooks are similar to classes but you can be a little looser with them. You can let a playbook set a character’s starting stats but as the character advances let the player make choices as to where those level die increases and aptitude points go. This opens up a character to changing along with the story as it unfolds and reacting to the world. However some players may feel directionless with this method and fear that they may be making the wrong choice and thus an ineffectual character.
 
@@ -249,7 +249,7 @@ Like Constant Imposition, you may find it makes sense to apply only a few levels
 
 It can stack with Constant Imposition.
 
-The best way to overcome Irresistible Imposition is for the player to spend Stress (see Stress).
+The best way to overcome Irresistible Imposition is for the player to spend Stress ([see Stress](#stress)).
 
 #### All the same?
 It may feel as if Constant and Irresistible Imposition are effectively the same thing. While they are similar there is a distinct difference between the two. Generally speaking, when a character is under Constant Imposition it is a force or entity that they can work to overcome to remove the encumbrance. Where as Irresistible Imposition will remain regardless of who is attempting the task or how many times it is tried. It represents an immutable truth that must be dealt with.
@@ -293,7 +293,7 @@ There is also no initiative in the base system. Where your typical RPG breaks ou
 
 There should be no meaningful separation between when the players are roleplaying, where characters are talking with NPCs or perhaps investigating a mystery, and when things turn physically confrontational. 
 
-That isn't to say even these less combative scenes can't lead to harm (see Damage). Certainly, there are all types of harm, both physical and mental, that can happen in any situation.
+That isn't to say even these less combative scenes can't lead to harm ([see Health & Damage](#health-&-damage)). Certainly, there are all types of harm, both physical and mental, that can happen in any situation.
 
 ### WHAT IS A SCENE
 
@@ -335,7 +335,7 @@ Enemy damage would work much the same way as health. An opponent would deal an a
 All NPCs are broken down to their Level Die, Threat Die, and then any special abilities and lore information they may have. Don’t feel the need to do this for every potential NPC the characters may encounter. Only for those that pose a significant threat. For everyone else you only need to know their Level Die. Knowing this die level is all you’ll need for when a character attempts any action that may have fun or interesting consequences. 
 
 ### LEVEL DIE
-Knowing an NPC’s Level Die tells you everything you need to know about them. How much damage they’ll inflict in a violent confrontation (see both Severity of Outcome and Health & Damage), how many hits they can take before being taken out, how hard they are to persuade, or even what it may take to keep them from doing something to you!
+Knowing an NPC’s Level Die tells you everything you need to know about them. How much damage they’ll inflict in a violent confrontation ([see both Severity of Outcome](#severity-of-outcome) and [Health & Damage](#health-&-damage)), how many hits they can take before being taken out, how hard they are to persuade, or even what it may take to keep them from doing something to you!
 
 Hits can mean many different things in a scene. For instance, an opponent with a d6 Level Die will fall after taking 6 hits, which narratively speaking may mean physical hits, persuading them, stopping their villainous activities, etc. You may raise or lower this number depending on how weak or tough you want the NPC to be.
 
