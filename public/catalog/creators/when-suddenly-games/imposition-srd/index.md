@@ -34,9 +34,13 @@ ___
 
 The licensor cannot revoke these freedoms as long as you follow the license terms.
 
-**Attribution** — You must give appropriate credit by adding this text to your game:    
+**Attribution** — You must give appropriate credit by adding this text to your game:  
 
->*This game has been told around the campfire, and is made using the Imposition Dice System created by Jeffrey N Baker of When Suddenly! Games. This game is not affiliated with When Suddenly! Games.*    
+<br>
+
+>*This game has been told around the campfire, and is made using the Imposition Dice System created by Jeffrey N Baker of When Suddenly! Games. This game is not affiliated with When Suddenly! Games.*
+
+<br>
 
 You must also provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.   
 
@@ -284,8 +288,6 @@ Some games include an Advantage and Disadvantage system. For this type of mechan
 It has been my experience that Disadvantage isn’t necessary. a d12 ID is often enough to be a challenge on its own.
 
 ## NARRATIVE CONFRONTATION
-
-### INTRODUCTION
 
 At its base the Imposition Dice System does not use the term combat. While scenes can turn violent, it is preferential to use the term confrontation. This is helpful in breaking the mindset that all confrontation must be solved with violence. While some characters may result to that, others may have abilities geared toward a non-violent resolution within the same scene and should feel encouraged to pursue those options. 
 
