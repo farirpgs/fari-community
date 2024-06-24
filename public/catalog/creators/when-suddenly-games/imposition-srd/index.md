@@ -2,7 +2,7 @@
 
 > Imposition SRD v1.0, When Suddenly! Games [CC BY-SA 4.0](#license-and-attribution)
 
-<div style="display: block; margin-left: auto; margin-right: auto; width: 40%;"><img src="https://whensuddenly.games/wp-content/uploads/2024/06/image.png"></div>
+<div style="display: block; margin-left: auto; margin-right: auto; width: 40%;"><img src="https://whensuddenly.games/wp-content/uploads/2024/06/fr-banner.png"></div>
 
 ## WHAT IS THE IMPOSITION SRD?
 
