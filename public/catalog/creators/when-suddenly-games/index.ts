@@ -8,5 +8,7 @@ export default function getData(): ICreatorData {
       tiktok: "https://tiktok.com/whensuddenlygames",
       facebook: "https://facebook.com/whensuddenlygames",
     },
+    description:
+      "Indy game dev located in the Southern US who focuses on narrative driven TTRPGs.",
   };
 }
