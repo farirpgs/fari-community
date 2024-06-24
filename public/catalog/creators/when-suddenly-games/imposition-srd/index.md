@@ -12,7 +12,7 @@ This is the SRD or System Reference Document. Inside you will find information o
 
 ## GAME SETUP
 
-The game is assumes that there will be one Game Master (GM) and three to five players. The Imposition Dice System relies heavily on improvisational and cooperative storytelling between GM and players. Preparation on the GM side should only take a few minutes as their role is to present situations (see Running the Game) be reactionary to the player’s choices.
+The game is assumes that there will be one Game Master (GM) and three to five players. The Imposition Dice System relies heavily on improvisational and cooperative storytelling between GM and players. Preparation on the GM side should only take a few minutes as their role is to present situations ([see Running the Game](#running-the-game)) be reactionary to the player’s choices.
 
 Each player should have at minimum one d4, d6, d8, d10, and a d12. Though having three of each would help alleviate the problem of needing to roll a single die multiple times.
 
