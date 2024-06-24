@@ -28,7 +28,7 @@ With this system you will experience more consequences and failures than full on
 
 ## LICENSE AND ATTRIBUTION
 
-The Imposition Dice System SRD uses the Creative Commons License, BY-SA 4.0. 
+The Imposition Dice System SRD uses the [Creative Commons License, BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en). 
 
 You are free to:   
 **Share** — copy and redistribute the material in any medium or format for any purpose, even commercially.   
