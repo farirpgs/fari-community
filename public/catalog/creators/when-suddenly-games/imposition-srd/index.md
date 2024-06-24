@@ -6,6 +6,8 @@ The Imposition Dice System is about simple mechanics that support narrative focu
 
 There is no assumed game type that the dice system is trying to capture. Instead, this is handled through character options. Originally developed for The Crypt Has Opened, the combination of Spell Paths, Traditions, and Tropes supported a game of horror and mystery. By altering the character options you can develop a game focused on combat, social engagements & mystery, or a slice of life.
 
+After reading this document you should have all of the tools necessary to make your own game driven by the Imposition Dice System. I also hope you will have a firm understanding of the underpinning mechanics such that you will feel empowered to alter them so that they best fit your game's theme.
+
 ## WHAT IS THIS?
 
 This is the SRD or System Reference Document. Inside you will find information on the underlying game mechanics and philosophy of the Imposition Dice System. By using this document you should feel confident on how best to develop your own game using the Imposition Dice System.
@@ -132,7 +134,18 @@ Stress can also be spent to re-roll any roll. If the player had spent stress pre
 
 ## CORE STATS
 
-Every character is comprised of a Level Die and a list of Paths with a Die Level to roll against the ID. As established in the Paths section, what these are will depend on the type of game you’re making. Next we’ll talk about how to start a new character and assign stats.
+Every character is comprised of: 
+
+* Name, Age, Pronouns
+* Level Die - Ranging from a d4 to d12. Effectively the player's Level. The name may be changed to fit your theme. For the Crypt Has Opened this is the player's Spell Die, their overall skill with magic.
+* Path Die - Before rolling the player chooses a Path to roll with the Level Die. As established in the Paths section, what these are will depend on the type of game you’re making.
+* Aspects - These are specialized areas of a Path. Where the Path establishes the die being rolled, the Aspect grants...
+* Aptitude - Dots, pips, or points in an Aspect that the player uses to lower the Imposition Die before rolling.
+
+Optionally:
+
+* Skills - Basic, everyday skills any character can have that help compliment but do not mimic Paths.
+* Special Abilities - To add more variety or specialization to a character you can add bespoke special abilities that are one use powers that reset each day.
 
 ### STARTING LEVEL
 
