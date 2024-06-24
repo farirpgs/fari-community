@@ -49,6 +49,13 @@ You must also provide a link to the license, and indicate if changes were made. 
 **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.   
 **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
+#  WHO ARE WE? 
+
+When Suddenly! Games focuses on developing narrative based TTRPGs and creating a supportive and safe space for all. It is our goal to bring everyone together and foster a safe space for telling collectively shared stories. Just like the days of camping with friends, sitting around a warm fire, and telling great stories together. We hope you'll join us by the campfire!
+
+[When Suddenly! Games Website](https://www.whensuddenly.games)
+
+Download our flagship game ["The Crpt Has Opened"](https://whensuddenly.games/wp-content/uploads/2024/05/the-crypt-has-opened-4.0-hyperlinked.pdf) for free! Learn how a game using the Imposition Dice System can be altered and tweaked to fit your idea. Character sheets and Refeence Sheet on our website.
 
 # CORE MECHANICS
 
