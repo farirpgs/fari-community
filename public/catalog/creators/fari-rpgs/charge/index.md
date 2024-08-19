@@ -404,7 +404,7 @@ Now we will go over all the mechanics used in the game that exist to resolve unk
 > - Character **details** to highlight who they are. (Concept, Appearance, and Ties)
 > - 7 Action dots distributed across the 12 actions to explain what they are good at.
 > - Momentum charges to boost your actions and help your teammates.
-> - A **stress clock** and **condition** to represent the state physical and mental state of a character.
+> - A **stress clock** and **condition** to represent the physical and mental state of a character.
 > - A **talent line** to make the character feel more powerful.
 > - **Projects and complications** clocks to track session-spanning efforts or dangers.
 
