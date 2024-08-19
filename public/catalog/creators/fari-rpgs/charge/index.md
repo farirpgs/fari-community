@@ -660,7 +660,7 @@ This is a good consequence to choose to show escalating action. A situation migh
 
 This consequence represent injuries or trauma inflicted on a character.
 
-When your condition worsens, you take a certain amount of **stress** that you track on your character's **stress clock**. You also need to update your **condition ** to represent the new state your character is in.
+When your condition worsens, you take a certain amount of **stress** that you track on your character's **stress clock**. You also need to update your **condition** to represent the new state your character is in.
 
 Your character's new condition will affect their narrative permissions, and how they can interact with the world.
 
@@ -1722,7 +1722,7 @@ Thank you, and go power your storytelling!
 
 | Name                           | Role                             | Discord                    | Twitter                                    | Itch                                    |
 | ------------------------------ | -------------------------------- | -------------------------- | ------------------------------------------ | --------------------------------------- |
-| **René-Pier Deshaies-Gélinas** | original author, core maintainer | rpdeshaies            | [Link](https://twitter.com/RPDeshaies)     | [Link](https://fari-rpgs.itch.io/)      |
+| **René-Pier Deshaies-Gélinas** | original author, core maintainer | rpdeshaies                 | [Link](https://twitter.com/RPDeshaies)     | [Link](https://fari-rpgs.itch.io/)      |
 | **Alexandre L. Lescarbeau**    | sounding board                   |                            |                                            |                                         |
 | **Valdy**                      | extra contributor                | 5-142857#7577              |                                            |                                         |
 | **Nugat**                      | extra contributor                |                            |                                            |                                         |
@@ -3242,15 +3242,10 @@ Here are a few of the examples we already talked about in greater detail along w
 > \### Recap
 >
 > - Name your **Resource**. Avoid making too many.
->
 > - Determine if it's _shared_ or _personal_. Can it be _taken_ or _given_?
->
 > - Ask yourself how your players get it. Does it require a roll? Can they get enough that they won't feel the need to hoard it?
->
 > - Figure out what it's used for. Does it replace an existing mechanic?
->
 > - When can your players get it back? Can they retain it? Or will it expire?
->
 > - Don't be afraid to add any special qualifiers.
 
 # Economy Extra | Extras
