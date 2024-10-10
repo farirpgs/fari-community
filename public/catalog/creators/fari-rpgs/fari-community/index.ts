@@ -5,7 +5,7 @@ export default function getData(): IProjectData {
     name: "Fari Community",
     description: "Get started in using the Fari Community website.",
     links: {
-      GitHub: "https://github.com/fariapp/fari-community",
+      GitHub: "https://github.com/farirpgs/fari-community",
       Discord: "https://farirpgs.com/discord",
     },
   };
