@@ -165,7 +165,7 @@ export function Navbar() {
                 </Box>
                 <Button
                   as={Link}
-                  href="https://github.com/fariapp/fari-community"
+                  href="https://github.com/farirpgs/fari-community"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

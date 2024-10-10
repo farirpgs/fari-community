@@ -540,22 +540,24 @@ Otherwise, take a look at the other options for translating Fari programmaticall
 
 ## Adding a new language to Fari
 
-To add a new language to Fari, you can download the [English translation file](https://github.com/fariapp/fari/blob/master/locales/en.json) and update the values of each key.
+To add a new language to Fari, you can download the [English translation file](https://github.com/farirpgs/fari-app/blob/master/public/locales/en/translation.json) and update the values of each key.
 
-Once the file is translated, [open a feature request](https://github.com/fariapp/fari/issues/new/choose) and upload the new file in the issue.
+Once the file is translated, [open a feature request](https://github.com/farirpgs/fari-app/issues/new/choose) and upload the new file in the issue.
 
 A developer will then integrate the file into the application.
 
 ## Updating a translation value
 
-It's possible that something in the app was badly translated, in that case, you can find the proper [language file](https://github.com/fariapp/fari/tree/master/locales/en.json) and open an issue to say which key needs to be updated and what should be the new value.
+It's possible that something in the app was badly translated, in that case, you can find the proper [language file](https://github.com/farirpgs/fari-app/blob/master/public/locales/en/translation.json) and open an issue to say which key needs to be updated and what should be the new value.
 
 Also, try to include the reason why the original value was not good.
 
 ## About Page
 
 The About page is not translated using the translations keys like the rest of the pages, it instead uses one markdown file per language which is saved in [this folder](https://github.com/fariapp/fari/tree/master/lib/routes/About/page).
+<!-- The link above is out of date -->
 
 If you want to translate the app, you should also provide a translated version of the About page in markdown format.
 
 To do so, you can [download the English About page](https://raw.githubusercontent.com/fariapp/fari/master/lib/routes/About/page/About.en.md) and translate its content in the language of your choice.
+<!-- The link above is out of date -->

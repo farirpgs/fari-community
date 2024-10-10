@@ -67,7 +67,7 @@ export function CreatorPage(props: {
           leftIcon={<EditIcon />}
           size="md"
           as="a"
-          href={`https://github.com/fariapp/fari-community/edit/main/public/catalog/creators/${props.creator.creatorSlug}/index.ts`}
+          href={`https://github.com/farirpgs/fari-community/edit/main/public/catalog/creators/${props.creator.creatorSlug}/index.ts`}
           target="_blank"
           rel="noopener noreferrer"
         >
