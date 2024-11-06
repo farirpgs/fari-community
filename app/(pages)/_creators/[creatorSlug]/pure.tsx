@@ -38,10 +38,10 @@ export function CreatorPage(props: {
                 const colorScheme = lowerCaseLabel.includes("twitter")
                   ? "twitter"
                   : lowerCaseLabel.includes("facebook")
-                  ? "facebook"
-                  : lowerCaseLabel.includes("itch")
-                  ? "red"
-                  : undefined;
+                    ? "facebook"
+                    : lowerCaseLabel.includes("itch")
+                      ? "red"
+                      : undefined;
                 return (
                   <Tag
                     key={label}
