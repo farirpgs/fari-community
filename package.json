@@ -1,17 +1,19 @@
 {
   "name": "fari-community",
   "version": "1.0.0",
-  "description": "",
+  "engines": {
+    "node": ">=20.0.0"
+  },
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "preview": "bun build && bun deploy:preview",
-    "beta": "bun build && bun deploy:preview -- --alias beta",
-    "alpha": "bun build && bun deploy:preview -- --alias alpha",
-    "prod": "bun build && bun deploy:preview -- --prod",
+    "preview": "bun run build && bun deploy:preview",
+    "beta": "bun run build && bun deploy:preview -- --alias beta",
+    "alpha": "bun run build && bun deploy:preview -- --alias alpha",
+    "prod": "bun run build && bun deploy:preview -- --prod",
     "deploy:preview": "netlify deploy --site b106e8c1-1ca6-4da3-84d7-d06d7fe1ec68",
     "deploy:prod": "netlify deploy --site b106e8c1-1ca6-4da3-84d7-d06d7fe1ec68 --prod",
     "prepare": "husky install"
@@ -52,5 +54,6 @@
     "@types/remarkable": "^2.0.4",
     "autoprefixer": "^10.4.16",
     "postcss": "^8.4.31"
-  }
+  },
+  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
 }
